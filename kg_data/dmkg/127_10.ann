@@ -1,0 +1,956 @@
+T1	Disease 8681 8687	1 型糖尿病
+T2	Test 4749 4753	空腹血糖
+T3	Test 6340 6344	空腹血糖
+T4	Disease 213 218	AIIAD
+T5	Disease 277 282	AIIAD
+T6	Disease 340 345	AIIAD
+T7	Symptom 383 385	乏力
+T8	Symptom 386 390	体重下降
+T9	Disease 434 440	更年期综合征
+T10	Disease 441 445	甲状腺炎
+T11	Disease 446 451	胃肠道疾病
+T12	Drug 503 508	糖皮质激素
+T13	Symptom 523 525	乏力
+T14	Symptom 526 528	消瘦
+T15	Symptom 555 560	性功能减退
+T16	Symptom 561 564;565 566	月经紊 乱
+T17	Test 568 571	性激素
+T18	Test 615 616;617 623	血 浆 ACTH
+T19	Test 624 627	皮质醇
+T20	Test 643 649	促甲状腺激素
+T21	Anatomy 633 635	垂体
+T22	Test 656 660	生长激素
+T23	Test 678 685	甲状腺自身抗体
+T24	Drug 706 711	糖皮质激素
+T25	Test 758 762	ACTH
+T26	Disease 772 777	AIIAD
+T27	Symptom 800 804	低钠血症
+T28	Symptom 805 807	乏力
+T29	Symptom 808 812	体重下降
+T30	Disease 31 48	成人特发性孤立性 ACTH 缺乏症
+T31	Anatomy 3751 3753	垂体
+T32	Drug 3791 3796	糖皮质激素
+T33	Operation 3798 3809	ACTH 垂体瘤剔除术
+T34	Disease 3923 3926;3927 3934	单纯性 ACTH 缺乏
+T35	Disease 3990 3995	AIIAD
+T36	Disease 7933 7935;7936 7946	继发 性肾上腺皮质功能减退
+T37	Symptom 4050 4052	乏力
+T38	Symptom 4053 4055	头晕
+T39	Symptom 4056 4058	纳差
+T40	Symptom 4059 4061	消瘦
+T41	Duration 4062 4065	1 年
+T42	Symptom 4102 4106	食欲不振
+T43	Symptom 4107 4109	恶心
+T44	Symptom 4112 4114	头晕
+T45	Test 4124 4126	血压
+T46	Symptom 4192 4197	性功能减退
+T47	Symptom 4198 4199;4200 4206	头 发及眉毛脱落
+T48	Test 4214 4216	胃镜
+T49	Test 4217 4221	血红蛋白
+T50	Test 4222 4224	血糖
+T51	Test 4267 4270	TSH
+T52	Disease 4332 4335;4336 4339	桥本甲 状腺炎
+T53	Symptom 4425 4429	不嗜咸食
+T54	Symptom 4430 4434	夜尿增多
+T55	Frequency 4435 4445	4 ~ 5 次 /夜
+T56	Symptom 4478 4483;4484 4485	短暂意识丧 失
+T57	Disease 4491 4494	脑震荡
+T58	Test 4533 4535	血压
+T59	Test 4570 4572	脉搏
+T60	Test_Value 4573 4583	45 次 / min
+T61	Test_Value 4594 4607	19. 9 kg / m2
+T62	Symptom 577 581	低钠血症
+T63	Symptom 4616 4619;4620 4624	头发及 眉毛稀疏
+T64	Symptom 4608 4615	皮肤无色素沉着
+T65	Symptom 4625 4633	阴毛、腋毛无脱落
+T66	Symptom 4635 4642	甲状腺I度肿大
+T67	Symptom 4650 4653	心音弱
+T68	Test 4654 4656	心率
+T69	Test_Value 4657 4667	45 次 / min
+T70	Test 4707 4711	肝肾功能
+T71	Test 4715 4717	血钠
+T72	Test_Value 4718 4730	131 mmol / L
+T73	Test 4732 4734	血钾
+T74	Test_Value 4735 4739;4740 4748	4. 3 mmol / L
+T75	Test_Value 4754 4767	4. 7 mmol / L
+T76	Test_Value 4894 4910	<31. 25 nmol / L
+T77	Test 4948 4951	UFC
+T78	Test 4998 5018	胰岛素(0. 1 U / kg)耐量试验
+T79	Test 5045 5049	ACTH
+T80	Test_Value 5050 5063	8. 2 pmol / L
+T81	Test 5064 5068	血皮质醇
+T82	Test_Value 5068 5084	<31. 25 nmol / L
+T83	Test 5111 5115	ACTH
+T84	Test_Value 5116 5129	7. 3 pmol / L
+T85	Test 5130 5133;5134 5135	血皮质 醇
+T86	Test_Value 5135 5151	<31. 25 nmol / L
+T87	Test 5153 5162	ACTH 兴奋试验
+T88	Test 5187 5190	UFC
+T89	Test_Value 5190 5208	<31. 3 nmol / 24 h
+T90	Test_Value 5220 5238	135. 7 nmol / 24 h
+T91	Test_Value 5245 5263	348. 5 nmol / 24 h
+T92	Test 5273 5276	TSH
+T93	Test 5293 5296	FT4
+T94	Test_Value 5297 5311	25. 3 pmol / L
+T95	Test 5313 5316	FSH
+T96	Test_Value 5317 5321;5322 5328	8. 4 IU / L
+T97	Test 5329 5331	LH
+T98	Test_Value 5332 5344	10. 7 IU / L
+T99	Test 5345 5347	睾酮
+T100	Test_Value 5348 5362	22. 2 nmol / L
+T101	Test_Value 5436 5441;5442 5449	47. 8 mIU / L
+T102	Test 5497 5500	心电图
+T103	Test 5508 5509;5510 5518	肾 上腺 CT 扫描
+T104	Test_Value 5518 5521	无异常
+T105	Test_Value 5529 5533	空泡蝶鞍
+T106	Disease 5540 5545	AIIAD
+T107	Disease 5546 5558	继发性肾上腺皮质功能减退
+T108	Drug 5562 5564;5565 5566	强的 松
+T109	Amount 5567 5575	5 mg / d
+T110	Symptom 5583 5585	乏力
+T111	Symptom 5586 5588	头晕
+T112	Symptom 5624 5626	头昏
+T113	Symptom 5627 5629	乏力
+T114	Duration 5630 5633	4 年
+T115	Symptom 5660 5662	头昏
+T116	Symptom 5663 5665	乏力
+T117	Symptom 5666 5668	倦怠
+T118	Symptom 5669 5673;5674 5676	自觉周身 疼痛
+T119	Symptom 5677 5687	坐位、站立时头昏明显
+T120	Test 5688 5690	血压
+T121	Test_Value 5691 5708;5709 5713	80 ~ 90 / 50 ~ 60 mmHg
+T122	Symptom 5714 5719	劳累后心悸
+T123	Symptom 5720 5722	气短
+T124	Symptom 5723 5725	多汗
+T125	Symptom 5727 5731	食欲减低
+T126	Symptom 5732 5734	腹胀
+T127	Symptom 5735 5736;5737 5738	便 秘
+T128	Symptom 5760 5762	疼痛
+T129	Symptom 5764 5766	麻木
+T130	Symptom 5776 5780	月经紊乱
+T131	Frequency 5782 5788	数月 1 次
+T132	Disease 5801 5807	更年期综合征
+T133	Symptom 5838 5840	多尿
+T134	Symptom 5848 5852	视野缺损
+T135	Symptom 5853 5855	复视
+T136	Disease 5867 5870;5871 5874	慢性支 气管炎
+T137	Duration 5875 5880	20 余年
+T138	Drug 5882 5887	糖皮质激素
+T139	Test 5909 5911	血压
+T140	Test_Value 5912 5925	108 / 62 mmHg
+T141	Test 5926 5929	BMI
+T142	Test_Value 5930 5940	25 kg / m2
+T143	Test 6065 6068	UFC
+T144	Test_Value 6068 6086	<25. 7 nmol / 24 h
+T145	Test_Value 6101 6116	<25. 7 nmol / L
+T146	Test_Value 6125 6140	<25. 7 nmol / L
+T147	Test_Value 6151 6166	<25. 7 nmol / L
+T148	Test_Value 6183 6188;6189 6197	<2. 2 pmol / L
+T149	Test_Value 6206 6220	<2. 2 pmol / L
+T150	Test_Value 6230 6242;6243 6244	<2. 2 pmol / L
+T151	Test 6246 6249	TSH
+T152	Test 6250 6253	FT3
+T153	Test 6254 6257	FT4
+T154	Test 6258 6261	FSH
+T155	Test 6262 6264	LH
+T156	Test 6265 6268	雌二醇
+T157	Test 6272 6274	GH
+T158	Test 6314 6319	甲状旁腺素
+T159	Test_Value 6319 6321	正常
+T160	Test 6323 6326	血生化
+T161	Test 6326 6330	肝肾功能
+T162	Test_Value 6330 6332	正常
+T163	Test 6333 6337	血电解质
+T164	Test_Value 6337 6339	正常
+T165	Test_Value 6345 6351;6352 6365	3. 7 ~ 5. 3 mmol / L
+T166	Test 6367 6371	血气分析
+T167	Test_Value 6371 6373	正常
+T168	Test 6375 6380	TPOAb
+T169	Test 6383 6387	TGAb
+T170	Test_Value 6388 6390	正常
+T171	Test_Value 6403 6411	2 mm / h
+T172	Test 6412 6418	血清蛋白电泳
+T173	Test_Value 6418 6420	正常
+T174	Test_Value 6431 6437	未见明显异常
+T175	Test_Value 6445 6450;6451 6452	未见明显异 常
+T176	Test 6454 6456	胸片
+T177	Test_Value 6456 6460	未见异常
+T178	Disease 6466 6471	AIIAD
+T179	Amount 6479 6486	5mg / d
+T180	Symptom 6487 6489	头昏
+T181	Symptom 6490 6492	乏力
+T182	Symptom 6500 6504	下肢无力
+T183	Symptom 6505 6507	疼痛
+T184	Symptom 6527 6529	恶心
+T185	Symptom 6530 6532	纳差
+T186	Symptom 6533 6535	乏力
+T187	Duration 6536 6540	7 个月
+T188	Symptom 6575 6577	恶心
+T189	Symptom 6578 6579;6580 6581	纳 差
+T190	Symptom 6582 6584	乏力
+T191	Symptom 6587 6589	发热
+T192	Symptom 6590 6592	腹痛
+T193	Symptom 6593 6595	呕吐
+T194	Symptom 6597 6599	多饮
+T195	Symptom 6600 6602	多尿
+T196	Symptom 6604 6606	盗汗
+T197	Symptom 5740 5742	恶心
+T198	Symptom 5743 5745	呕吐
+T199	Symptom 5746 5748	腹泻
+T200	Symptom 5842 5844;5845 5847	视力 下降
+T201	Symptom 4119 4123	视野缺损
+T202	Symptom 6608 6610	咳嗽
+T203	Symptom 6611 6613	咯血
+T204	Test 6620 6622	胃镜
+T205	Disease 6624 6629	浅表性胃炎
+T206	Test 6648 6650	血钠
+T207	Test_Value 6651 6663	110 mmol / L
+T208	Test 6676 6678	血钠
+T209	Test_Value 6681 6693	128 mmol / L
+T210	Symptom 6710 6712	腹胀
+T211	Symptom 6713 6715	呃逆
+T212	Symptom 6740 6742	腹泻
+T213	Symptom 6744 6750	黄色稀水样便
+T214	Frequency 6751 6753;6754 6761	每日 6 ~ 7 次
+T215	Symptom 6764 6766	发热
+T216	Symptom 6767 6769	腹痛
+T217	Test 6791 6795	血皮质醇
+T218	Test_Value 6795 6799	低于正常
+T219	Drug 6811 6816	氢化可的松
+T220	Method 6806 6809;6810 6811	静脉使 用
+T221	Amount 6817 6827	100 mg / d
+T222	Duration 6831 6834	3 d
+T223	Method 6828 6830	静滴
+T224	Drug 6838 6841	强的松
+T225	Amount 6842 6844;6845 6851	15 mg / d
+T226	Method 6852 6854	口服
+T227	Symptom 6907 6910	斑丘疹
+T228	Drug 6918 6921	强的松
+T229	Duration 6922 6925	5 d
+T230	Symptom 6926 6929;6930 6931	精神萎 糜
+T231	Symptom 6932 6935	食欲差
+T232	Disease 6963 6968	过敏性鼻炎
+T233	Disease 6977 6983	腔隙性脑梗死
+T234	Test 7002 7004	体温
+T235	Test 7012 7014	脉搏
+T236	Test_Value 7015 7017;7018 7025	66 次 / min
+T237	Test 7026 7028	血压
+T238	Test_Value 7029 7042	120 / 70 mmHg
+T239	Test 7044 7046	体重
+T240	Test_Value 7047 7052	49 kg
+T241	Test 7054 7057	BMI
+T242	Test_Value 7058 7063;7064 7071	18. 2 kg / m2
+T243	Symptom 7077 7081	慢性病容
+T244	Symptom 7122 7129	甲状腺I度肿大
+T245	Test_Value 7213 7228	<25. 7 nmol / L
+T246	Test_Value 7260 7261;7262 7275	< 2. 2 pmol / L
+T247	Test 7276 7279	UFC
+T248	Test_Value 7280 7297	26. 8 nmol / 24 h
+T249	Test 7305 7308	TT4
+T250	Test 7299 7304	甲状腺功能
+T251	Test 7325 7328	TT3
+T252	Test_Value 7329 7343	1. 36 nmol / L
+T253	Test 7344 7347	FT3
+T254	Test 7363 7366	FT4
+T255	Test 7383 7386	TSH
+T256	Test_Value 7387 7399	2. 45 mU / L
+T257	Test 7400 7404	TGAb
+T258	Test 7421 7426	TPOAb
+T259	Test_Value 7427 7441	444. 7 IU / ml
+T260	Test 7442 7445	性激素
+T261	Test 7446 7448	睾酮
+T262	Test 7464 7466;7467 7468	雌二 醇
+T263	Test_Value 7469 7484	102. 28 pg / ml
+T264	Test 7485 7487	LH
+T265	Test_Value 7488 7500	10. 3 IU / L
+T266	Test 7501 7504	催乳素
+T267	Test 7520 7523	FSH
+T268	Test 7538 7540	孕酮
+T269	Test_Value 7541 7555	1. 67 nmol / L
+T270	Test 7557 7560	血常规
+T271	Test 7561 7564	白细胞
+T272	Test 7579 7583	淋巴细胞
+T273	Test_Value 7584 7590	66. 5%
+T274	Test 7592 7596	血红蛋白
+T275	Test_Value 7597 7606	120 g / L
+T276	Test 7610 7614	肝肾功能
+T277	Test_Value 7614 7616	正常
+T278	Test 7617 7619	血钾
+T279	Test_Value 7620 7633	3. 2 mmol / L
+T280	Test 7634 7635	钠
+T281	Test_Value 7636 7648	144 mmol / L
+T282	Test 7649 7650	氯
+T283	Test 7668 7671	ESR
+T284	Test 7672 7676	结核三项
+T285	Test_Value 7677 7679	正常
+T286	Test 7681 7685	腹部超声
+T287	Disease 7748 7753	AIIAD
+T288	Drug 7756 7759	强的松
+T289	Amount 7760 7771	7. 5 mg / d
+T290	Method 7772 7774	口服
+T291	Symptom 7778 7780	恶心
+T292	Symptom 7781 7783	纳差
+T293	Symptom 7784 7786	乏力
+T294	Test 7806 7808	血压
+T295	Test_Value 7812 7825	110 / 70 mmHg
+T296	Test 7826 7830	血电解质
+T297	Symptom 7847 7849	瘙痒
+T298	Disease 7854 7858	慢性鼻炎
+T299	Anatomy 7947 7949	垂体
+T300	Anatomy 7974 7976	垂体
+T301	Drug 7986 7987;7988 7992	糖 皮质激素
+T302	Operation 7997 8006	ACTH 瘤剔除术
+T303	Disease 8028 8039;8040 8042	继发性肾上腺皮质功能减 退症
+T304	Disease 8064 8074	先 天 性 IIAD
+T305	Disease 8077 8082	AIIAD
+T306	Disease 8087 8091	IIAD
+T307	Disease 8169 8182;8183 8184	孤立性垂体 ACTH 缺乏 症
+T308	Disease 8185 8195	继发性肾上腺皮质减退
+T309	Disease 8246 8248;8249 8263	继发 性单纯性垂体 ACTH 缺乏
+T310	Disease 8274 8278	IIAD
+T311	Disease 8374 8378	IIAD
+T312	Disease 8408 8412	IIAD
+T313	Anatomy 8428 8432	TPIT
+T314	Disease 8502 8506	IIAD
+T315	Disease 8602 8606	IIAD
+T316	Disease 8608 8611;8612 8617	淋巴细 胞性垂体炎
+T317	Disease 8692 8701;8702 8704	特发性血小板减少性 紫癜
+T318	Disease 8709 8711	普秃
+T319	Disease 8727 8731	克罗恩病
+T320	Disease 8736 8737;8738 8748	局 灶性阶段性肾小球硬化
+T321	Disease 8753 8762	迟发性性腺功能减退
+T322	Disease 8772 8782	自身免疫性甲状腺疾病
+T323	Disease 8784 8791;8792 8795	原发性甲状腺功 能减退
+T324	Disease 8799 8802	桥本病
+T325	Disease 8808 8816	Graves 病
+T326	Disease 8821 8827;8828 8829	无痛性甲状腺 炎
+T327	Drug 8842 8847	糖皮质激素
+T328	Test 8884 8888	TGAb
+T329	Test 8891 8896	TPOAb
+T330	Test_Value 8897 8899	阳性
+T331	Disease 8907 8912	过敏性皮炎
+T332	Disease 8913 8914;8915 8919	过 敏性鼻炎
+T333	Drug 8923 8926	强的松
+T334	Disease 8946 8957	孤立性 ACTH 缺乏
+T335	Disease 8977 8991	孤立性垂体 ACTH 缺乏症
+T336	Disease 9037 9041	头颅外伤
+T337	Disease 9057 9071	孤立性垂体 ACTH 缺乏症
+T338	Disease 9099 9110;9111 9112	继发性肾上腺皮质功能减 退
+T339	Disease 9402 9407	AIIAD
+T340	Disease 9426 9431	AIIAD
+T341	Symptom 9445 9447	乏力
+T342	Symptom 9448 9450	恶心
+T343	Symptom 9452 9456	体重下降
+T344	Disease 9480 9492	原发性肾上腺皮质功能减退
+T345	Disease 9562 9568	更年期综合征
+T346	Disease 9569 9573	甲状腺炎
+T347	Disease 9574 9579	浅表性胃炎
+T348	Drug 9672 9677	糖皮质激素
+T349	Symptom 9703 9705	乏力
+T350	Symptom 9706 9708	消瘦
+T351	Disease 9772 9784	原发性肾上腺皮质功能减退
+T352	Symptom 9760 9767	皮肤无色素沉着
+T353	Symptom 9797 9802	性功能减退
+T354	Symptom 9808 9812	月经紊乱
+T355	Symptom 9860 9864	低钠血症
+T356	Level 9865 9867	轻度
+T357	Symptom 9867 9869;9870 9871	低血 糖
+T358	Symptom 9904 9908	低钠血症
+T359	Test 9912 9917	血淋巴细胞
+T360	Test 9918 9924	嗜酸性粒细胞
+T361	Test 9933 9940	血浆 ACTH
+T362	Test 9941 9944	皮质醇
+T363	Test 9961 9967	促甲状腺激素
+T364	Test 9968 9972	促性激素
+T365	Test 9973 9977	生长激素
+T366	Disease 9989 9994	甲状腺疾病
+T367	Test 9995 9999	自身抗体
+T368	Test_Value 9999 10001	阳性
+T369	Disease 10007 10020	特发性继发性肾上腺功能减退
+T370	Test 10021 10028	甲状腺自身抗体
+T371	Test_Value 10034 10036	阳性
+T372	Disease 10044 10049	AIIAD
+T373	Test_Value 10061 10062;10063 10064	增 高
+T374	Disease 10076 10086	全身性自身免疫性疾病
+T375	Disease 10100 10105	AIIAD
+T376	Drug 10115 10120	糖皮质激素
+T377	Operation 10191 10195	鞍区手术
+T378	Treatment 10199 10201	放疗
+T379	Disease 10204 10209	AIIAD
+T380	Symptom 10236 10240	低钠血症
+T381	Symptom 10241 10243	乏力
+T382	Symptom 10244 10248	体重下降
+T383	Disease 10296 10304;10305 10306	肾上腺皮质功能减 退
+T384	Test_Value 10366 10378	低于 3 μg / dl
+T385	Disease 10382 10389;10390 10392	肾上腺皮质功能 减退
+T386	Test_Value 10393 10406	高于 18 μg / dl
+T387	Test 10447 10450	ITT
+T388	Test 10452 10460	胰升糖素刺激试验
+T389	Disease 10519 10526	继发性功能减退
+T390	Disease 10574 10583	继发性皮质功能减退
+T391	Disease 10585 10589	垂体卒中
+T392	Operation 10590 10600	垂体 ACTH 瘤术
+T393	Test 10603 10612	ACTH 刺激试验
+T394	Test_Value 10616 10619	假阴性
+T395	Disease 10625 10630;10631 10638	继发性肾上 腺皮质功能减退
+T396	Anatomy 10648 10650	垂体
+T397	Test 10672 10676	GnRH
+T398	Test 10679 10682;10683 10685	TRH 试验
+T399	Disease 10736 10741	AIIAD
+T400	Drug 10761 10766	糖皮质激素
+T401	Disease 10795 10806	继发性肾上腺功能减退症
+T402	Disease 10828 10832;10833 10839	原发性甲 状腺功能减退
+T403	Drug 10841 10846	甲状腺激素
+T404	Drug 10853 10856;10857 10859	糖皮质 激素
+T405	Disease 10868 10880	原发性肾上腺皮质功能减退
+T406	Drug 10888 10893	盐皮质激素
+T407	Drug 10928 10930;10931 10934	糖皮 质激素
+T408	Disease 10955 10967	继发性肾上腺皮质功能减退
+T409	Drug 10975 10980	氢化可的松
+T410	Drug 11014 11018;11019 11020	醋酸可的 松
+T411	Method 11057 11059	口服
+T412	Method 11051 11053	口服
+T413	Amount 11078 11086	5 mg / d
+T414	Disease 11104 11109	肾上腺危象
+T415	Disease 11126 11133	阿狄森氏病危象
+T416	Drug 11139 11143;11144 11145	糖皮质激 素
+T417	Drug 11179 11183	ACTH
+T418	Disease 11231 11236	AIIAb
+T419	Symptom 11321 11325	低钠血症
+T420	Symptom 11326 11328	乏力
+T421	Symptom 11329 11332;11333 11334	体重下 降
+T422	Test 650 654	促性激素
+T423	Disease 672 677	甲状腺疾病
+T424	Disease 3838 3850	继发性肾上腺皮质功能减退
+T425	Disease 3854 3865	单纯性 ACTH 缺乏
+T426	Disease 4471 4475	头颅外伤
+T427	Symptom 5964 5967;5968 5970	视野无 缺损
+T428	Test 5989 5991	心率
+T429	Test_Value 5992 5994;5995 6002	72 次 / min
+T430	Test 7141 7143	心率
+T431	Test_Value 7144 7154	66 次 / min
+T432	Test 5093 5095	血糖
+T433	Disease 115 132	成人特发性孤立性 ACTH 缺乏症
+T434	Disease 175 180	AIIAD
+T435	Test_Value 685 687	阳性
+T436	Anatomy 755 757	垂体
+T437	Disease 3674 3679	AIIAD
+T438	Disease 3613 3630	成人特发性孤立性 ACTH 缺乏症
+T439	Test_Value 4127 4139	85 / 50 mmHg
+T440	Symptom 4163 4168;4169 4170	四肢肌肉疼 痛
+T441	Test 4286 4296	甲状腺过氧化物酶抗体
+T442	Test 4297 4302	TPOAb
+T443	Test 4304 4308;4309 4313	甲状腺球 蛋白抗体
+T444	Test 4314 4318	TGAb
+T445	Test_Value 4319 4322	滴度高
+T446	Test_Value 4536 4548	80 / 45 mmHg
+T447	Symptom 4683 4689	四肢肌力吁级
+T448	Test_Value 4952 4970	<31. 3 nmol / 24 h
+T449	Test 5027 5029	血糖
+T450	Test_Value 5030 5034;5035 5043	1. 4 mmol / L
+T451	Test_Value 5096 5109	2. 4 mmol / L
+T452	Drug 5163 5167	ACTH
+T453	Amount 5168 5172	25 U
+T454	Method 5173 5175	静滴
+T455	Duration 5176 5179	3 d
+T456	Test 5363 5369	基础生长激素
+T457	Test 5371 5373	GH
+T458	Method 5560 5562	口服
+T459	Symptom 6028 6036	双下肢肌张力下降
+T460	Test_Value 6269 6271	正常
+T461	Test 6392 6398	红细胞沉降率
+T462	Test 6399 6402	ESR
+T463	Symptom 6948 6950	怕冷
+T464	Symptom 6951 6956;6957 6958	阴腋毛无脱 落
+T465	Symptom 7082 7091	全身皮肤黏膜无黄染
+T466	Symptom 7092 7093;7094 7103	双 下肢散在红色斑丘疹
+T467	Symptom 7104 7109	无眼睑水肿
+T468	Symptom 7110 7115	口唇无发绀
+T469	Test_Value 7449 7463	24. 5 nmol / L
+T470	Test_Value 7830 7832	正常
+T471	Symptom 7833 7836;7837 7842	双下肢 红色斑丘疹
+T472	Test_Value 7729 7740	脑内多发缺血灶及软化灶
+T473	Disease 7872 7889	特发性孤立性垂体 ACTH 缺乏症
+T474	Disease 7892 7896	IIAD
+T475	Test 7952 7956	ACTH
+T476	Disease 8658 8662	IIAD
+T477	Test 9350 9356	垂体前叶激素
+T478	Anatomy 9327 9329	垂体
+T479	Anatomy 9167 9174	ACTH 细胞
+T480	Test 9853 9856	血生化
+T481	Test_Value 9927 9929	增高
+T482	Anatomy 9950 9952	垂体
+T483	Anatomy 10326 10328	垂体
+T484	Disease 10313 10320	继发性功能减退
+T485	Test 10902 10905	皮质醇
+T486	Disease 696 703	自身免疫性疾病
+T487	Disease 861 878	成人特发性孤立性 ACTH 缺乏症
+T488	Test_Value 4271 4276;4277 4285	14. 5 μIU / ml
+T489	Test 4695 4698	血常规
+T490	Test_Value 4785 4798	3. 9 pmol / L
+T491	Test 4826 4832	8 : 00
+T492	Test_Value 4835 4844	4. 9 pmol
+T493	Test 4886 4892	8 : 00
+T494	Test_Value 5277 5291	14. 5 μIU / ml
+T495	Test_Value 5374 5385	1. 1 μg / L
+T496	Test_Value 5400 5409	22 μg / L
+T497	Test_Value 5477 5491	38. 2 μIU / ml
+T498	Symptom 5597 5601	食欲增强
+T499	Test 6117 6123	8 : 00
+T500	Test 6142 6149	16 : 00
+T501	Test 6198 6206	8 : 00 为
+T502	Test 6221 6228	16 : 00
+T503	Test_Value 6278 6285	1. 6 μg
+T504	Test_Value 6302 6313	6. 2 μg / L
+T505	Drug 6665 6666;6667 6668	高 钠
+T506	Level 6720 6722	无效
+T507	Level 6859 6863	明显减轻
+T508	Test_Value 7005 7011	36. 4℃
+T509	Test 7197 7203	8 : 00
+T510	Test 7204 7211	16 : 00
+T511	Test 7244 7250	8 : 00
+T512	Test 7251 7258	16 : 00
+T513	Test_Value 7505 7518	33. 19 μg / L
+T514	Test_Value 7565 7578	7. 31×109 / L
+T515	Level 7788 7792	明显缓解
+T516	Level 7800 7803;7804 7805	明显好 转
+T517	Level 7842 7846	基本消退
+T518	Level 7849 7853	明显减轻
+T519	Level 7860 7861;7862 7863	减 轻
+T520	Level 8401 8406	成人发病型
+T521	Test 8639 8646	垂体蛋白的抗体
+T522	Level 8932 8934	缓解
+T523	Disease 9113 9120	自身免疫性疾病
+T524	Reason 9217 9219	创伤
+T525	Test 9814 9819	性激素检查
+T526	Test_Value 9821 9823	正常
+T527	Test_Value 9944 9948	明显降低
+T528	Treatment 10196 10198	浸润
+T529	Test 367 369	年龄
+T530	Test_Value 370 379	52 ~ 68 岁
+T531	Test 490 492	年龄
+T532	Test_Value 495 501	40 岁以上
+T533	Test_Value 662 664	正常
+T534	Test_Value 609 611	增高
+T535	Test_Value 629 631	降低
+T536	Level 627 629	明显
+T537	Test_Value 571 573	正常
+T538	Test 4911 4917	8 : 00
+T539	Level 4347 4350	无缓解
+T540	Level 5591 5594;5595 5596	明显好 转
+T541	Level 5814 5817	无改善
+T542	Level 6495 6499	明显改善
+T543	Level 6637 6640	无缓解
+T544	Disease 8667 8672;8673 8675	自身免疫性 疾病
+T545	Test 9628 9632	发病年龄
+T546	Test_Value 9636 9642	40 岁以上
+T547	Test_Value 9656 9665	53 ~ 68 岁
+T548	Level 9726 9730	没有缓解
+T549	Reason 9835 9839	全身状态
+T550	Reason 9840 9842	精神
+T551	Reason 9843 9844;9845 9846	情 绪
+T552	Test_Value 9980 9982	正常
+T553	Frequency 11042 11051	分 2 ~ 3 次
+T554	Test_Value 732 736	未见异常
+T555	Duration 4172 4176	5 个月
+T556	Test_Value 4225 4227	正常
+T557	Symptom 4446 4450	大便正常
+T558	Symptom 4451 4454;4455 4456	睡眠尚 可
+T559	Duration 4512 4516	15 年
+T560	Symptom 4643 4645;4646 4648	质地 中等
+T561	Test_Value 4711 4713	正常
+T562	Test 4768 4775	血浆 ACTH
+T563	Test_Value 4849 4870	5. 1 ~ 18. 9 pmol / L
+T564	Test_Value 4803 4821	0 ~ 10. 2 pmol / L
+T565	Test_Value 4922 4937;4938 4946	185. 0 ~ 594. 8 nmol / L
+T566	Test_Value 4972 4993;4994 4995	55. 2 ~ 345 nmol / 24 h
+T567	Duration 5019 5025	30 min
+T568	Duration 5086 5092	45 min
+T569	Symptom 6003 6005	律齐
+T570	Duration 6293 6299	30 min
+T571	Level 6585 6587	不伴
+T572	Level 6596 6597	无
+T573	Level 6603 6604	无
+T574	Level 6762 6764	不伴
+T575	Symptom 6936 6940	睡眠一般
+T576	Symptom 6941 6945	小便正常
+T577	Level 6947 6948	无
+T578	Symptom 7072 7076	发育正常
+T579	Symptom 7116 7118;7119 7121	伸舌 居中
+T580	Symptom 7155 7157	律齐
+T581	Symptom 7158 7169	各瓣膜听诊区未闻及杂音
+T582	Symptom 7173 7174;7175 7177	无 压痛
+T583	Symptom 7178 7183	阴毛无脱落
+T584	Test_Value 7711 7714;7715 7716	未见异 常
+T585	Test_Value 7957 7961	分泌减低
+T586	Duration 9537 9541	4 个月
+T587	Duration 9543 9546	4 年
+T588	Level 10029 10032	60%
+T589	Level 10041 10043	一半
+T590	Test_Value 10153 10157	未见异常
+T591	Test_Value 10536 10538	降低
+T592	Test_Value 10557 10561	延迟反应
+T593	Test 10708 10711	TRH
+T594	Test 10786 10792	垂体前叶激素
+T595	Anatomy 3908 3910	垂体
+T596	Symptom 7130 7132	质软
+T597	Duration 399 403	7 个月
+T598	Duration 405 408	4 年
+T599	Test 596 601	血淋巴细胞
+T600	Test 602 608	嗜酸性粒细胞
+T601	Test 725 731	垂体 MRI
+T602	Disease 3724 3736	继发性肾上腺皮质功能减退
+T603	Test 3740 3744	ACTH
+T604	Anatomy 3813 3815	垂体
+T605	Disease 3816 3825	ACTH 功能减退
+T606	Symptom 3875 3879;3880 3885	特发性生 长激素缺乏
+T607	Symptom 3886 3902	特发性低促性腺激素性性腺功能减退
+T608	Symptom 4096 4100	全身乏力
+T609	Symptom 4177 4181	体重下降
+T610	Test 4228 4231	FT3
+T611	Test_Value 4232 4245	5. 1 pmol / L
+T612	Test 4247 4250	FT4
+T613	Test_Value 4251 4265	21. 3 pmol / L
+T614	Test 4372 4383	8 : 00 血皮质醇
+T615	Test 4385 4396	24 h 尿游离皮质醇
+T616	Test 4398 4401	UFC
+T617	Anatomy 4495 4500	第十二胸椎
+T618	Disease 4500 4505	压缩性骨折
+T619	Test 4585 4589	体重指数
+T620	Test 4590 4593	BMI
+T621	Anatomy 4668 4669	肺
+T622	Anatomy 4670 4671	腹
+T623	Test 4872 4883	血皮质醇 0 : 00
+T624	Test 5386 5396	胰岛素低血糖兴奋试验
+T625	Test 5397 5399	GH
+T626	Test 5411 5429	促性腺素释放激素(GnRH)兴奋试验
+T627	Test 5430 5435	LH 峰值
+T628	Test 5450 5468	促甲状腺素释放激素(TRH)兴奋试验
+T629	Test 5469 5474;5475 5476	TSH 峰 值
+T630	Test_Value 5501 5507	窦性心动过缓
+T631	Anatomy 5522 5524	垂体
+T632	Test 5524 5528	核磁共振
+T633	Symptom 5602 5608	体重未再下降
+T634	Symptom 5754 5759	双下肢无力
+T635	Symptom 5824 5833	躯体肤色无明显变化
+T636	Symptom 5834 5837	无多饮
+T637	Symptom 5856 5863	体重无明显变化
+T638	Test 6087 6089;6090 6099	血皮 质醇 0 : 00
+T639	Test 6167 6174	血浆 ACTH
+T640	Test 6422 6423;6424 6431	肝 胆胰脾双肾超声
+T641	Test 6438 6444	垂体 MRI
+T642	Drug 6474 6478	强的松片
+T643	Symptom 6509 6513	麻木消失
+T644	Symptom 4116 4118	头痛
+T645	Level 6699 6700	无
+T646	Level 6700 6702	明显
+T647	Symptom 6883 6893	体重下降 12 kg
+T648	Test 7185 7196	血皮质醇 0 : 00
+T649	Test 7229 7243	血浆 ACTH 0 : 00
+T650	Test_Value 7309 7324	170. 5 nmol / L
+T651	Test_Value 7348 7362	4. 15 pmol / L
+T652	Test_Value 7367 7382	23. 62 pmol / L
+T653	Test_Value 7405 7419	197. 8 IU / ml
+T654	Test_Value 7524 7537	29. 84 IU / L
+T655	Test_Value 7651 7666	104. 6 mmol / L
+T656	Test_Value 7686 7687;7688 7691	胆 囊结石
+T657	Test_Value 7692 7696	左肾囊肿
+T658	Test 7704 7710	肾上腺 CT
+T659	Test 7717 7723	垂体 MRI
+T660	Disease 8009 8013;8014 8021	单纯垂体 ACTH 缺乏
+T661	Anatomy 8455 8462;8463 8473	垂体阿黑皮素原 (POMC)表达细胞
+T662	Anatomy 8520 8527	TPIT 基因
+T663	Disease 8543 8553	成人晚发型 IIAD
+T664	Disease 8582 8591	成人晚发 IIAD
+T665	Disease 8716 8722	溃疡性结肠炎
+T666	Level 8852 8854	部分
+T667	Level 8856 8858	全部
+T668	Reason 8958 8962	空泡蝶鞍
+T669	Reason 8963 8966;8967 8968	头颅外 伤
+T670	Disease 9045 9049	空泡蝶鞍
+T671	Disease 9081 9085	空泡蝶鞍
+T672	Anatomy 9131 9133	垂体
+T673	Test 9134 9137	MRI
+T674	Level 9146 9149	部分性
+T675	Level 9150 9153	完全性
+T676	Symptom 9153 9157	空泡蝶鞍
+T677	Disease 9191 9195	空泡蝶鞍
+T678	Disease 9202 9206	头颅外伤
+T679	Anatomy 9223 9225	垂体
+T680	Anatomy 9225 9241	促肾上腺皮质激素释放激素合成细胞
+T681	Anatomy 9275 9277	垂体
+T682	Anatomy 9277 9292;9293 9294	促肾上腺皮质激素释放激素合成细 胞
+T683	Disease 9300 9304	空泡蝶鞍
+T684	Reason 9316 9317;9318 9321	空 泡蝶鞍
+T685	Reason 9322 9326	头颅外伤
+T686	Disease 9337 9344;9345 9347	ACTH 分泌 缺陷
+T687	Symptom 9458 9461	低血糖
+T688	Disease 9603 9604;9605 9619	特 发性孤立性 ACTH 缺乏症
+T689	Test 9872 9874	血钾
+T690	Test_Value 9874 9881	正常或正常高值
+T691	Symptom 9882 9886	高钾血症
+T692	Test 10052 10061	血浆 TSH 水平
+T693	Anatomy 10145 10146;10147 10148	垂 体
+T694	Test 10149 10152	MRI
+T695	Anatomy 10177 10179	垂体
+T696	Test 10180 10184	ACTH
+T697	Anatomy 10273 10279;10280 10281	垂体-肾上腺 轴
+T698	Test 10341 10347	清晨血皮质醇
+T699	Test_Value 10412 10429;10430 10437	介于 5 μg / dl 和 18 μg / dl
+T700	Test 10470 10476	血 ACTH
+T701	Test 10483 10492	ACTH 刺激试验
+T702	Disease 10502 10514	继发性肾上腺皮质功能减退
+T703	Test 10529 10533	ACTH
+T704	Anatomy 10539 10542	肾上腺
+T705	Test 10542 10545	皮质醇
+T706	Test 10548 10552	ACTH
+T707	Test 10663 10670	垂体影像学检查
+T708	Anatomy 10690 10692	垂体
+T709	Test 10693 10697	ACTH
+T710	Test 10718 10723	甲状腺功能
+T711	Disease 10746 10759	继发性肾上腺皮质功能减退症
+T712	Amount 10991 10996	20 mg
+T713	Amount 10997 11010	0. 30 mg / kg
+T714	Amount 11021 11026	25 mg
+T715	Amount 11027 11040	0. 35 mg / kg
+T716	Drug 11063 11071	中长效糖皮质激素
+T717	Drug 11071 11074	强的松
+T718	Symptom 541 548	皮肤无色素沉着
+T719	Test_Value 738 742	空泡蝶鞍
+T720	Test_Value 4406 4410	低于正常
+T721	Level 4404 4406	明显
+T722	Symptom 5947 5956	全身皮肤无色素沉着
+T723	Symptom 5972 5980	甲状腺未触及肿大
+T724	Symptom 5982 5988	双肺呼吸音清
+T725	Symptom 6009 6017	肝、脾肋下未触及
+T726	Symptom 6018 6025;6026 6027	脊柱、四肢无畸 形
+T727	Symptom 6043 6049	生理反射存在
+T728	Symptom 6050 6051;6052 6057	病 理征未引出
+T729	Symptom 7133 7140	双肺呼吸音清晰
+T730	Symptom 7170 7172	腹软
+T731	Symptom 586 592	高钾血症少见
+T732	Test 3764 3771	垂体影像学检查
+T733	Test_Value 4182 4187	10 kg
+T734	Symptom 4675 4678;4679 4682	双下肢 无水肿
+T735	Symptom 5957 5963	双眼视力正常
+T736	Symptom 6006 6008	腹软
+T737	Symptom 6037 6041	肌力4级
+T738	Symptom 6894 6902;6903 6906	双下肢间断出现皮 肤瘙痒
+T739	Test_Value 7697 7702	前列腺稍大
+T740	Test_Value 10159 10163	空泡蝶鞍
+R1	Amount_Drug Arg1:T179 Arg2:T642
+R2	Test_Disease Arg1:T521 Arg2:T316
+R3	Test_Disease Arg1:T698 Arg2:T385
+R4	Drug_Disease Arg1:T400 Arg2:T711
+R5	Symptom_Disease Arg1:T8 Arg2:T6
+R6	Symptom_Disease Arg1:T7 Arg2:T6
+R7	Symptom_Disease Arg1:T27 Arg2:T26
+R8	Symptom_Disease Arg1:T28 Arg2:T26
+R9	Symptom_Disease Arg1:T29 Arg2:T26
+R10	Anatomy_Disease Arg1:T604 Arg2:T424
+R11	Drug_Disease Arg1:T32 Arg2:T605
+R12	Anatomy_Disease Arg1:T617 Arg2:T618
+R13	Symptom_Disease Arg1:T56 Arg2:T57
+R14	Amount_Drug Arg1:T453 Arg2:T452
+R15	Method_Drug Arg1:T454 Arg2:T452
+R16	Duration_Drug Arg1:T455 Arg2:T452
+R17	Anatomy_Disease Arg1:T631 Arg2:T106
+R18	Test_Disease Arg1:T632 Arg2:T106
+R19	Test_Disease Arg1:T103 Arg2:T106
+R20	Method_Drug Arg1:T458 Arg2:T108
+R21	Amount_Drug Arg1:T109 Arg2:T108
+R22	Drug_Disease Arg1:T108 Arg2:T107
+R23	Symptom_Disease Arg1:T110 Arg2:T107
+R24	Symptom_Disease Arg1:T111 Arg2:T107
+R25	Symptom_Disease Arg1:T130 Arg2:T132
+R26	Test_Disease Arg1:T176 Arg2:T178
+R27	Symptom_Disease Arg1:T180 Arg2:T178
+R28	Symptom_Disease Arg1:T181 Arg2:T178
+R29	Symptom_Disease Arg1:T182 Arg2:T178
+R30	Symptom_Disease Arg1:T183 Arg2:T178
+R31	Test_Disease Arg1:T204 Arg2:T205
+R32	Symptom_Disease Arg1:T203 Arg2:T205
+R33	Symptom_Disease Arg1:T202 Arg2:T205
+R34	Symptom_Disease Arg1:T196 Arg2:T205
+R35	Symptom_Disease Arg1:T195 Arg2:T205
+R36	Symptom_Disease Arg1:T194 Arg2:T205
+R37	Symptom_Disease Arg1:T193 Arg2:T205
+R38	Symptom_Disease Arg1:T192 Arg2:T205
+R39	Symptom_Disease Arg1:T191 Arg2:T205
+R40	Symptom_Disease Arg1:T190 Arg2:T205
+R41	Symptom_Disease Arg1:T189 Arg2:T205
+R42	Symptom_Disease Arg1:T188 Arg2:T205
+R43	Test_Disease Arg1:T206 Arg2:T205
+R44	Method_Drug Arg1:T220 Arg2:T219
+R45	Amount_Drug Arg1:T221 Arg2:T219
+R46	Method_Drug Arg1:T223 Arg2:T219
+R47	Duration_Drug Arg1:T222 Arg2:T224
+R48	Amount_Drug Arg1:T225 Arg2:T224
+R49	Method_Drug Arg1:T226 Arg2:T224
+R50	Drug_Disease Arg1:T288 Arg2:T287
+R51	Amount_Drug Arg1:T289 Arg2:T288
+R52	Method_Drug Arg1:T290 Arg2:T288
+R53	Anatomy_Disease Arg1:T299 Arg2:T36
+R54	Test_Disease Arg1:T475 Arg2:T36
+R55	Anatomy_Disease Arg1:T300 Arg2:T36
+R56	Drug_Disease Arg1:T327 Arg2:T326
+R57	Test_Disease Arg1:T329 Arg2:T331
+R58	Test_Disease Arg1:T328 Arg2:T331
+R59	Drug_Disease Arg1:T333 Arg2:T332
+R60	Anatomy_Disease Arg1:T672 Arg2:T338
+R61	Test_Disease Arg1:T673 Arg2:T338
+R62	Symptom_Disease Arg1:T676 Arg2:T338
+R63	Anatomy_Disease Arg1:T479 Arg2:T678
+R64	Anatomy_Disease Arg1:T679 Arg2:T678
+R65	Anatomy_Disease Arg1:T680 Arg2:T678
+R66	Test_Disease Arg1:T477 Arg2:T686
+R67	Symptom_Disease Arg1:T341 Arg2:T340
+R68	Symptom_Disease Arg1:T342 Arg2:T340
+R69	Symptom_Disease Arg1:T343 Arg2:T340
+R70	Symptom_Disease Arg1:T352 Arg2:T688
+R71	Test_Disease Arg1:T370 Arg2:T369
+R72	Test_Disease Arg1:T367 Arg2:T366
+R73	Test_Disease Arg1:T692 Arg2:T372
+R74	Drug_Disease Arg1:T376 Arg2:T375
+R75	Anatomy_Disease Arg1:T693 Arg2:T375
+R76	Test_Disease Arg1:T694 Arg2:T375
+R77	Anatomy_Disease Arg1:T695 Arg2:T379
+R78	Test_Disease Arg1:T696 Arg2:T379
+R79	Treatment_Disease Arg1:T378 Arg2:T379
+R80	Anatomy_Disease Arg1:T697 Arg2:T383
+R81	Anatomy_Disease Arg1:T483 Arg2:T484
+R82	Test_Disease Arg1:T387 Arg2:T385
+R83	Test_Disease Arg1:T388 Arg2:T385
+R84	Test_Disease Arg1:T701 Arg2:T702
+R85	Test_Disease Arg1:T393 Arg2:T391
+R86	Anatomy_Disease Arg1:T396 Arg2:T395
+R87	Test_Disease Arg1:T594 Arg2:T401
+R88	Drug_Disease Arg1:T403 Arg2:T402
+R89	Drug_Disease Arg1:T404 Arg2:T402
+R90	Drug_Disease Arg1:T407 Arg2:T408
+R91	Drug_Disease Arg1:T409 Arg2:T408
+R92	Amount_Drug Arg1:T712 Arg2:T409
+R93	Amount_Drug Arg1:T713 Arg2:T409
+R94	Amount_Drug Arg1:T714 Arg2:T410
+R95	Amount_Drug Arg1:T715 Arg2:T410
+R96	Method_Drug Arg1:T412 Arg2:T410
+R97	Method_Drug Arg1:T411 Arg2:T717
+R98	Amount_Drug Arg1:T413 Arg2:T717
+R99	Test_Disease Arg1:T23 Arg2:T423
+R100	Anatomy_Disease Arg1:T31 Arg2:T602
+R101	Symptom_Disease Arg1:T297 Arg2:T287
+R102	Symptom_Disease Arg1:T471 Arg2:T287
+R103	Test_Disease Arg1:T529 Arg2:T6
+R104	Test_Disease Arg1:T531 Arg2:T6
+R105	Drug_Disease Arg1:T12 Arg2:T6
+R106	Symptom_Disease Arg1:T13 Arg2:T6
+R107	Symptom_Disease Arg1:T14 Arg2:T6
+R108	Drug_Disease Arg1:T24 Arg2:T486
+R109	Test_Disease Arg1:T603 Arg2:T602
+R110	Test_Disease Arg1:T732 Arg2:T602
+R111	Anatomy_Disease Arg1:T604 Arg2:T605
+R112	Test_Disease Arg1:T102 Arg2:T106
+R113	Test_Disease Arg1:T629 Arg2:T106
+R114	Test_Disease Arg1:T628 Arg2:T106
+R115	Test_Disease Arg1:T626 Arg2:T106
+R116	Symptom_Disease Arg1:T498 Arg2:T107
+R117	Symptom_Disease Arg1:T633 Arg2:T107
+R118	Test_Disease Arg1:T641 Arg2:T178
+R119	Test_Disease Arg1:T640 Arg2:T178
+R120	Test_Disease Arg1:T172 Arg2:T178
+R121	Test_Disease Arg1:T462 Arg2:T178
+R122	Test_Disease Arg1:T461 Arg2:T178
+R123	Drug_Disease Arg1:T642 Arg2:T178
+R124	Symptom_Disease Arg1:T643 Arg2:T178
+R125	Duration_Drug Arg1:T229 Arg2:T228
+R126	Test_Disease Arg1:T659 Arg2:T287
+R127	Test_Disease Arg1:T658 Arg2:T287
+R128	Test_Disease Arg1:T286 Arg2:T287
+R129	Test_Disease Arg1:T284 Arg2:T287
+R130	Test_Disease Arg1:T283 Arg2:T287
+R131	Symptom_Disease Arg1:T291 Arg2:T287
+R132	Symptom_Disease Arg1:T292 Arg2:T287
+R133	Symptom_Disease Arg1:T293 Arg2:T287
+R134	Test_Disease Arg1:T294 Arg2:T287
+R135	Test_Disease Arg1:T296 Arg2:T287
+R136	Drug_Disease Arg1:T301 Arg2:T36
+R137	Anatomy_Disease Arg1:T313 Arg2:T312
+R138	Anatomy_Disease Arg1:T661 Arg2:T312
+R139	Anatomy_Disease Arg1:T662 Arg2:T314
+R140	Symptom_Disease Arg1:T687 Arg2:T340
+R141	Test_Disease Arg1:T545 Arg2:T688
+R142	Drug_Disease Arg1:T348 Arg2:T688
+R143	Symptom_Disease Arg1:T349 Arg2:T688
+R144	Symptom_Disease Arg1:T350 Arg2:T688
+R145	Symptom_Disease Arg1:T380 Arg2:T379
+R146	Symptom_Disease Arg1:T381 Arg2:T379
+R147	Symptom_Disease Arg1:T382 Arg2:T379
+R148	Test_Disease Arg1:T700 Arg2:T702
+R149	Test_Disease Arg1:T703 Arg2:T389
+R150	Test_Disease Arg1:T705 Arg2:T389
+R151	Test_Disease Arg1:T706 Arg2:T389
+R152	Test_Disease Arg1:T393 Arg2:T390
+R153	Test_Disease Arg1:T707 Arg2:T395
+R154	Drug_Disease Arg1:T400 Arg2:T399
+R155	Drug_Disease Arg1:T406 Arg2:T405
+R156	Test_Disease Arg1:T485 Arg2:T405
+R157	Frequency_Drug Arg1:T553 Arg2:T410
+R158	Symptom_Disease Arg1:T419 Arg2:T418
+R159	Symptom_Disease Arg1:T420 Arg2:T418
+R160	Symptom_Disease Arg1:T421 Arg2:T418
+R161	Test_Disease Arg1:T443 Arg2:T52
+R162	Test_Disease Arg1:T444 Arg2:T52
+R163	Test_Disease Arg1:T442 Arg2:T52
+R164	Test_Disease Arg1:T441 Arg2:T52
+R165	Test_Disease Arg1:T615 Arg2:T52
+R166	Test_Disease Arg1:T616 Arg2:T52
+R167	Symptom_Disease Arg1:T558 Arg2:T426
+R168	Symptom_Disease Arg1:T557 Arg2:T426
+R169	Symptom_Disease Arg1:T54 Arg2:T426
+R170	Symptom_Disease Arg1:T53 Arg2:T426
+R171	Duration_Drug Arg1:T568 Arg2:T452
+R172	Drug_Disease Arg1:T138 Arg2:T136
+R173	Duration_Drug Arg1:T137 Arg2:T138
+R174	Symptom_Disease Arg1:T135 Arg2:T136
+R175	Symptom_Disease Arg1:T134 Arg2:T136
+R176	Symptom_Disease Arg1:T200 Arg2:T136
+R177	Symptom_Disease Arg1:T133 Arg2:T136
+R178	Symptom_Disease Arg1:T464 Arg2:T232
+R179	Symptom_Disease Arg1:T464 Arg2:T232
+R180	Symptom_Disease Arg1:T463 Arg2:T232
+R181	Test_Disease Arg1:T710 Arg2:T399
+R182	Test_Disease Arg1:T593 Arg2:T399
+R183	Test_Disease Arg1:T594 Arg2:T399
+R184	Drug_Disease Arg1:T406 Arg2:T402
+R185	Method_Drug Arg1:T411 Arg2:T410
+R186	Drug_Disease Arg1:T717 Arg2:T414
+R187	Drug_Disease Arg1:T716 Arg2:T414
+R188	Drug_Disease Arg1:T416 Arg2:T415
+R189	Drug_Disease Arg1:T417 Arg2:T418
+R190	Symptom_Disease Arg1:T297 Arg2:T298
+R191	Symptom_Disease Arg1:T471 Arg2:T298
+R192	Anatomy_Disease Arg1:T595 Arg2:T34
+R193	Symptom_Disease Arg1:T606 Arg2:T34
+R194	Symptom_Disease Arg1:T607 Arg2:T34
+R195	Anatomy_Disease Arg1:T299 Arg2:T473
+R196	Anatomy_Disease Arg1:T299 Arg2:T474
+R197	Test_Disease Arg1:T475 Arg2:T473
+R198	Test_Disease Arg1:T475 Arg2:T474
+R199	Drug_Disease Arg1:T301 Arg2:T660
+R200	Anatomy_Disease Arg1:T661 Arg2:T314
+R201	Anatomy_Disease Arg1:T313 Arg2:T314
+R202	Test_Disease Arg1:T521 Arg2:T315
+R203	Anatomy_Disease Arg1:T672 Arg2:T523
+R204	Test_Disease Arg1:T673 Arg2:T523
+R205	Symptom_Disease Arg1:T676 Arg2:T523
+R206	Anatomy_Disease Arg1:T479 Arg2:T338
+R207	Anatomy_Disease Arg1:T479 Arg2:T523
+R208	Anatomy_Disease Arg1:T679 Arg2:T677
+R209	Anatomy_Disease Arg1:T680 Arg2:T677
+R210	Anatomy_Disease Arg1:T681 Arg2:T683
+R211	Anatomy_Disease Arg1:T682 Arg2:T683
+R212	Anatomy_Disease Arg1:T478 Arg2:T686
+R213	Symptom_Disease Arg1:T353 Arg2:T688
+R214	Symptom_Disease Arg1:T354 Arg2:T688
+R215	Treatment_Disease Arg1:T528 Arg2:T379
+R216	Anatomy_Disease Arg1:T704 Arg2:T389

@@ -1,0 +1,631 @@
+T1	Disease 5269 5275	2 型糖尿病
+T2	Test 2149 2154	LDL-C
+T3	Test 4700 4705	LDL-C
+T4	Test 1630 1632	TG
+T5	Test 1647 1649	TG
+T6	Test 1709 1711	TG
+T7	Test 1787 1789	TG
+T8	Test 1840 1842	TG
+T9	Test 1883 1885	TG
+T10	Test 1943 1945	TG
+T11	Test 2437 2439	TG
+T12	Test 2481 2483	TG
+T13	Test 2502 2504	TG
+T14	Test 2815 2817	TG
+T15	Test 2932 2934	TG
+T16	Test 2951 2953	TG
+T17	Test 3093 3095	TG
+T18	Test 3124 3126	TG
+T19	Test 3159 3161	TG
+T20	Test 3634 3636	TG
+T21	Test 3816 3818	TG
+T22	Test 4320 4322	TG
+T23	Test 4352 4354	TG
+T24	Test 4441 4443	TG
+T25	Test 4454 4456	TG
+T26	Test 4473 4475	TG
+T27	Test 4490 4492	TG
+T28	Test 4706 4708	TG
+T29	Test 4845 4847	TG
+T30	Test 5020 5022	TG
+T31	Test 5065 5067	TG
+T32	Test 5501 5503	TG
+T33	Test 6092 6094	TG
+T34	Anatomy 3 14	微粒体甘油三酯转运蛋白
+T35	Disease 15 24	非酒精性脂肪性肝病
+T36	Anatomy 111 112;113 115	肝 细胞
+T37	Anatomy 116 121	肠上皮细胞
+T38	Test 131 135	甘油三酯
+T39	Test 139 146	极低密度脂蛋白
+T40	Anatomy 169 172	MTP
+T41	Disease 174 183	非酒精性脂肪性肝病
+T42	Anatomy 202 213	微粒体甘油三酯转运蛋白
+T43	Disease 215 224	非酒精性脂肪性肝病
+T44	Disease 1067 1073	单纯性脂肪肝
+T45	Disease 1125 1128	肝硬化
+T46	Disease 1129 1132;1133 1135	肝细胞 肝癌
+T47	Disease 1187 1192	NAFLD
+T48	Test 1311 1315	VLDL
+T49	Anatomy 1338 1341	MTP
+T50	Disease 1343 1346	脂肪肝
+T51	Test 1625 1629	甘油三酯
+T52	Test 1634 1637	胆固醇
+T53	Test 1638 1640	磷脂
+T54	Anatomy 1768 1771	肝细胞
+T55	Anatomy 1772 1777	肠上皮细胞
+T56	Test 1801 1805	乳糜微粒
+T57	Anatomy 1816 1821	肠上皮细胞
+T58	Test 1844 1847	胆固醇
+T59	Anatomy 1687 1691	ApoB
+T60	Test 1862 1864;1865 1867	乳糜 微粒
+T61	Test 1916 1919	胆固醇
+T62	Anatomy 1924 1925;1926 1927	肝 脏
+T63	Anatomy 1929 1932	肝细胞
+T64	Anatomy 1934 1937	MTP
+T65	Anatomy 1948 1956	ApoB-100
+T66	Test 1992 1996	VLDL
+T67	Test 2005 2009	VLDL
+T68	Drug 2062 2069	MTP 抑制剂
+T69	Disease 2076 2085	家族性高胆固醇血症
+T70	Drug 2099 2106	MTP 抑制剂
+T71	Drug 2107 2117	BMS-201038
+T72	Anatomy 2179 2182	肝细胞
+T73	Level 2165 2169	中等程度
+T74	Anatomy 2212 2215	MTP
+T75	Anatomy 2241 2244	MTP
+T76	Reason 2374 2379	胰岛素抵抗
+T77	Disease 2384 2389	代谢综合征
+T78	Anatomy 2390 2392	肝脏
+T79	Anatomy 2400 2404	脂肪组织
+T80	Anatomy 2416 2417	肝
+T81	Test 2431 2434	FFA
+T82	Test 2409 2412	FFA
+T83	Test 2446 2449	FFA
+T84	Anatomy 2487 2490	肝细胞
+T85	Anatomy 2497 2500	肝细胞
+T86	Anatomy 2523 2525	肝脏
+T87	Test 2531 2534	脂肪酸
+T88	Test 2539 2542	脂肪酸
+T89	Test 2556 2560	VLDL
+T90	Anatomy 2574 2575	肝
+T91	Anatomy 2595 2597	肝脏
+T92	Disease 2603 2607	NASH
+T93	Anatomy 2615 2617	肝脏
+T94	Test 2619 2623	VLDL
+T95	Anatomy 2652 2654	肝脏
+T96	Anatomy 2692 2694	肝脏
+T97	Test 2695 2699	VLDL
+T98	Anatomy 2715 2717	肝脏
+T99	Test 2718 2722	VLDL
+T100	Anatomy 2947 2949	肝脏
+T101	Anatomy 2928 2930	肝脏
+T102	Anatomy 3012 3015	肝细胞
+T103	Anatomy 3062 3064	肝脏
+T104	Anatomy 3087 3089	肝脏
+T105	Disease 3140 3143	脂肪肝
+T106	Anatomy 3156 3158	肝脏
+T107	Anatomy 3182 3184	肝脏
+T108	Disease 3208 3213	NAFLD
+T109	Anatomy 3215 3217	肝脏
+T110	Test 3220 3224	VLDL
+T111	Disease 3264 3269	NAFLD
+T112	Anatomy 3271 3273	肝脏
+T113	Disease 3313 3318	NAFLD
+T114	Test_Value 3385 3390	>2. 5
+T115	Disease 3393 3398	NAFLD
+T116	Level 3403 3404;3405 3406	严 重
+T117	Anatomy 3430 3432	肝脏
+T118	Anatomy 3433 3436	MTP
+T119	Anatomy 3418 3421	肝细胞
+T120	Anatomy 3461 3463	肝脏
+T121	Anatomy 3503 3506	MTP
+T122	Disease 3529 3533	NASH
+T123	Disease 3570 3574	NASH
+T124	Disease 3597 3601	NASH
+T125	Test 3619 3623	VLDL
+T126	Disease 3643 3647	NASH
+T127	Anatomy 3667 3670	MTP
+T128	Disease 3681 3685	NASH
+T129	Anatomy 3725 3728	MTP
+T130	Anatomy 3754 3757	肝细胞
+T131	Anatomy 3768 3775	ApoB100
+T132	Test 3801 3805	VLDL
+T133	Anatomy 3812 3815	肝细胞
+T134	Disease 3845 3850	NAFLD
+T135	Anatomy 3852 3854	肝脏
+T136	Anatomy 3862 3865	MTP
+T137	Disease 3898 3902	NASH
+T138	Anatomy 3924 3927	MTP
+T139	Disease 3931 3936	NAFLD
+T140	Anatomy 3940 3943	MTP
+T141	Disease 3946 3951	NAFLD
+T142	Anatomy 3966 3969	MTP
+T143	Disease 3973 3978	NAFLD
+T144	Anatomy 4000 4003	MTP
+T145	Anatomy 4027 4030	MTP
+T146	Anatomy 4062 4065	MTP
+T147	Test 4127 4130	雌激素
+T148	Test 4216 4221;4222 4223	肝脏脂肪含 量
+T149	Test 4240 4243	雌激素
+T150	Anatomy 4253 4256	MTP
+T151	Test 4278 4282	VLDL
+T152	Anatomy 4304 4307	MTP
+T153	Anatomy 4309 4310;4311 4312	肝 脏
+T154	Anatomy 4313 4315	肠道
+T155	Drug 4405 4407;4408 4418	小肠 MTP 特异性抑制剂
+T156	Drug 4393 4400	JTT-130
+T157	Anatomy 4451 4453	肝脏
+T158	Test 4477 4480	胆固醇
+T159	Anatomy 4487 4489	肝脏
+T160	Drug 4647 4651	奥利司他
+T161	Drug 4680 4688	SLX-4090
+T162	Drug 4641 4647	脂肪酶抑制剂
+T163	Test 4710 4712	体重
+T164	Anatomy 4792 4795	MTP
+T165	Anatomy 4797 4800;4801 4810	二酯酰 甘油酰基转移酶 2
+T166	Anatomy 4835 4838	MTP
+T167	Anatomy 4842 4844	肝脏
+T168	Anatomy 4860 4863	MTP
+T169	Disease 4869 4874	NAFLD
+T170	Anatomy 4914 4917	MTP
+T171	Test 4928 4932	VLDL
+T172	Disease 5006 5009	脂肪肝
+T173	Disease 5077 5081	NASH
+T174	Disease 5134 5138	NASH
+T175	Disease 5195 5199	NASH
+T176	Test 5236 5238	血糖
+T177	Anatomy 5246 5249	MTP
+T178	Disease 5282 5286	NASH
+T179	Test 5299 5304	谷丙转氨酶
+T180	Disease 5329 5333	NASH
+T181	Disease 5335 5338	糖尿病
+T182	Disease 5363 5367	NASH
+T183	Test 5452 5456	脂肪因子
+T184	Disease 5466 5470	NASH
+T185	Test 5507 5510	FFA
+T186	Disease 5523 5527	NASH
+T187	Disease 5591 5595	NASH
+T188	Test 5585 5587	血脂
+T189	Disease 5581 5584	糖尿病
+T190	Disease 5405 5408	糖尿病
+T191	Disease 5410 5414	NASH
+T192	Disease 5402 5404	肥胖
+T193	Disease 5679 5683	NASH
+T194	Disease 5684 5687;5688 5691	单纯性 脂肪肝
+T195	Disease 5767 5772	NAFLD
+T196	Anatomy 5925 5928	MTP
+T197	Disease 5969 5974	NAFLD
+T198	Disease 5991 5996	NAFLD
+T199	Drug 6021 6024	小檗碱
+T200	Test 6072 6078	肝脏脂肪含量
+T201	Drug 6080 6083	小檗碱
+T202	Test 6095 6098	LDL
+T203	Test 6099 6102	胆固醇
+T204	Drug 6134 6135;6136 6138	小 檗碱
+T205	Test 6153 6159	肝脏脂肪含量
+T206	Test 6162 6164	体重
+T207	Drug 6195 6198	小檗碱
+T208	Disease 6200 6205	NAFLD
+T209	Drug 6221 6224	小檗碱
+T210	Disease 6251 6256	NAFLD
+T211	Anatomy 6271 6274	MTP
+T212	Disease 6287 6292	NAFLD
+T213	Anatomy 6339 6342	MTP
+T214	Disease 6353 6358	NAFLD
+T215	Anatomy 5864 5867	MTP
+T216	Disease 1008 1017	非酒精性脂肪性肝病
+T217	Test 2139 2148	低密度脂蛋白胆固醇
+T218	Disease 1055 1060	NAFLD
+T219	Disease 1144 1149	NAFLD
+T220	Disease 2265 2270	NAFLD
+T221	Disease 2292 2297	NAFLD
+T222	Disease 2319 2324	NAFLD
+T223	Disease 2341 2346	NAFLD
+T224	Disease 2364 2369	NAFLD
+T225	Disease 2862 2867	NAFLD
+T226	Disease 2978 2983	NAFLD
+T227	Disease 3043 3048	NAFLD
+T228	Disease 3079 3084	NAFLD
+T229	Disease 3173 3178	NAFLD
+T230	Test 5565 5569	脂肪因子
+T231	Anatomy 499 502	MTP
+T232	Anatomy 767 770	MTP
+T233	Anatomy 1362 1365	MTP
+T234	Anatomy 1379 1382	MTP
+T235	Anatomy 1390 1393	MTP
+T236	Anatomy 1484 1487	MTP
+T237	Anatomy 1666 1669	MTP
+T238	Anatomy 1676 1679	MTP
+T239	Anatomy 1695 1698	MTP
+T240	Anatomy 1761 1764	MTP
+T241	Anatomy 1826 1829	MTP
+T242	Anatomy 1980 1983	MTP
+T243	Anatomy 2286 2289	MTP
+T244	Anatomy 2313 2316	MTP
+T245	Anatomy 2335 2338	MTP
+T246	Anatomy 2609 2612	MTP
+T247	Anatomy 2710 2713	MTP
+T248	Anatomy 2894 2897	MTP
+T249	Anatomy 2971 2974	MTP
+T250	Anatomy 3033 3036	MTP
+T251	Anatomy 4881 4884	MTP
+T252	Anatomy 45 56	微粒体甘油三酯转运蛋白
+T253	Anatomy 99 102	MTP
+T254	Disease 1116 1120	NASH
+T255	Disease 1074 1083	非酒精性脂肪性肝炎
+T256	Disease 1172 1177	病毒性肝炎
+T257	Test 1267 1271	VLDL
+T258	Test 1229 1236	极低密度脂蛋白
+T259	Test 1963 1967	VLDL
+T260	Anatomy 1985 1988	肝细胞
+T261	Test 2020 2026	低密度脂蛋白
+T262	Test 2053 2056	LDL
+T263	Duration 2129 2132	4 周
+T264	Anatomy 2422 2424;2425 2426	肝细 胞
+T265	Anatomy 2451 2454	肝细胞
+T266	Test 2464 2468	VLDL
+T267	Test 2547 2549;2550 2551	脂肪 酸
+T268	Disease 3023 3026	脂肪肝
+T269	Anatomy 3121 3122	肝
+T270	Anatomy 3330 3334	ApoB
+T271	Anatomy 3324 3327	MTP
+T272	Anatomy 3278 3281	MTP
+T273	Anatomy 3284 3288	ApoB
+T274	Anatomy 3631 3633	肝脏
+T275	Test 3653 3658	葡萄糖耐量
+T276	Anatomy 4110 4112	卵巢
+T277	Anatomy 4515 4524	肝脏特异性羧酸酯酶
+T278	Drug 4567 4574	JTT-130
+T279	Test 4616 4619	酪酪肽
+T280	Test 4612 4614	肠肽
+T281	Anatomy 5062 5063	肝
+T282	Test 5184 5187;5188 5192	肝小叶 脂肪面积
+T283	Disease 5807 5812	脂代谢异常
+T284	Disease 5822 5827	NAFLD
+T285	Disease 5830 5834	NASH
+T286	Disease 5875 5880	NAFLD
+T287	Disease 5883 5887	NASH
+T288	Disease 6144 6149	NAFLD
+T289	Anatomy 6236 6238	肠道
+T290	Anatomy 123 129	脂质转运蛋白
+T291	Amount 2170 2178	10% ~40%
+T292	Test_Value 2700 2703;2704 2705	分泌增 加
+T293	Drug 2763 2767	四氯化碳
+T294	Test_Value 3164 3170	超过 10%
+T295	Amount 3412 3416	>30%
+T296	Test 4173 4180	mRNA 水平
+T297	Test_Value 4143 4145	增加
+T298	Test_Value 4157 4159	减少
+T299	Test_Value 4132 4134	降低
+T300	Test_Value 4180 4182	降低
+T301	Anatomy 5038 5041;5042 5045	G 等 位基因
+T302	Anatomy 5143 5149	G 等位基因
+T303	Anatomy 5151 5164	纯合子 G / G 基因型
+T304	Level 5344 5347	严重的
+T305	Test 5447 5451	饮食习惯
+T306	Test 5457 5459;5460 5462	氧化 应激
+T307	Anatomy 5531 5540	G / G 基因型
+T308	Anatomy 5661 5677	MTP-493G / T 多态性
+T309	Anatomy 5604 5618	MTP-493 纯合子 GG
+T310	Anatomy 5621 5628	GT / TT
+T311	Anatomy 5743 5757	外显子区-128 I / T
+T312	Anatomy 5780 5794	启动子区-493 G / T
+T313	Test_Value 6109 6111	降低
+T314	Test_Value 2155 2157	降低
+T315	Test 2231 2234	脂蛋白
+T316	Anatomy 2569 2573	中性脂肪
+T317	Test_Value 2923 2925	下降
+T318	Anatomy 3016 3018	脂肪
+T319	Test 3096 3099	脂蛋白
+T320	Test 3469 3471	脂质
+T321	Test_Value 3591 3593	减少
+T322	Anatomy 4577 4578;4579 4580	脂 肪
+T323	Disease 4758 4763	代谢性疾病
+T324	Anatomy 4779 4784	小 RNA
+T325	Level 5633 5635	严重
+T326	Disease 6207 6213	糖脂代谢异常
+T327	Anatomy 2870 2872	肝脏
+T328	Anatomy 3321 3323	肝脏
+T329	Test_Value 5304 5306	升高
+T330	Anatomy 5471 5473	肝脏
+T331	Test_Value 5587 5589	正常
+T332	Test 5930 5932	脂质
+T333	Anatomy 4436 4437;4438 4439	肠 道
+T334	Anatomy 1290 1301	微粒体甘油三酯转运蛋白
+T335	Anatomy 1303 1306	MTP
+T336	Anatomy 1288 1290	肝脏
+T337	Test 1795 1799	VLDL
+T338	Anatomy 1849 1856	ApoB-48
+T339	Test 1890 1895	游离脂肪酸
+T340	Test 1897 1900	FFA
+T341	SideEff 2192 2196	肝酶升高
+T342	Anatomy 2678 2681	MTP
+T343	Anatomy 2675 2677	肝脏
+T344	Anatomy 2749 2757	MTP 蛋白酶体
+T345	Anatomy 2788 2794	MTP 基因
+T346	Anatomy 2874 2880	MTP 基因
+T347	Anatomy 2907 2915	MTP mRNA
+T348	Anatomy 2998 3004	MTP 基因
+T349	Disease 3144 3145;3146 3150	胰 岛素抵抗
+T350	Test 3186 3190	VLDL
+T351	Test 3191 3193	TG
+T352	Test 3377 3384	HOMA-IR
+T353	Test 3361 3366;3367 3376	稳态模型评 估的胰岛素抵抗指数
+T354	Anatomy 3451 3457	MTP 基因
+T355	Reason 3475 3480	胰岛素抵抗
+T356	Reason 3481 3486	肝脂肪变性
+T357	Anatomy 3513 3519	肝脏良性脂肪
+T358	Disease 3560 3565	胰岛素抵抗
+T359	Anatomy 3586 3589	MTP
+T360	Anatomy 3583 3585	肝脏
+T361	Anatomy 3611 3614	MTP
+T362	Anatomy 3607 3610	肝细胞
+T363	Anatomy 3713 3715	肝脏
+T364	Anatomy 3716 3720	ApoB
+T365	Anatomy 3783 3791	MTP mRNA
+T366	Test 4146 4153	VLDL-TG
+T367	Test 4160 4171	肝脏 MTP 蛋白含量
+T368	Anatomy 4136 4138	肝脏
+T369	Drug 4185 4188	雌激素
+T370	Anatomy 4225 4228	MTP
+T371	Anatomy 4264 4270	MTP 基因
+T372	Anatomy 4338 4341	MTP
+T373	Anatomy 4335 4337	小肠
+T374	Symptom 4363 4369	肝脏脂肪变性
+T375	Drug 4375 4388	小肠 MTP 特异性抑制剂
+T376	SideEff 4717 4721	肝酶升高
+T377	SideEff 4722 4728	肝脏脂肪增加
+T378	Anatomy 4745 4752	肠细胞 MTP
+T379	Anatomy 4671 4674	MTP
+T380	Anatomy 4665 4670	肠上皮细胞
+T381	Test 4819 4822	胆固醇
+T382	Anatomy 4954 4962	MTP 启动子区
+T383	Anatomy 5047 5053	MTP 基因
+T384	Symptom 5347 5352	胰岛素抵抗
+T385	Test 5441 5446	胰岛素抵抗
+T386	Test 5491 5500	肝脏组织学严重程度
+T387	Test 5511 5518	氧化型 LDL
+T388	Symptom 5570 5575	胰岛素抵抗
+T389	Anatomy 5724 5742	MTP 启动子区-164 T / C
+T390	Reason 5891 5896	胰岛素抵抗
+T391	Anatomy 6037 6040	MTP
+T392	Anatomy 6034 6036	肝脏
+T393	Anatomy 6056 6062	MTP 基因
+T394	Test 6104 6108	肝酶水平
+T395	Anatomy 6242 6245	MTP
+T396	Anatomy 6239 6241	肝脏
+T397	Anatomy 4620 4628	胰升糖素样肽 1
+T398	Disease 4289 4293	血脂异常
+T399	Anatomy 1181 1183	肝脏
+T400	Anatomy 1736 1744	ApoB 脂蛋白
+T401	Reason 2773 2779	肝脏脂肪变性
+T402	Reason 2805 2812	肝细胞脂肪变性
+T403	Symptom 3406 3411	肝脂肪变性
+T404	SideEff 2184 2190	肝脏脂肪变性
+T405	Symptom 2248 2254	肝脏脂肪变性
+T406	Symptom 2257 2262	肝细胞损害
+T407	Reason 5030 5035	肝脏脂肪变
+T408	Disease 5637 5645	β 细胞功能障碍
+R1	Test_Disease Arg1:T188 Arg2:T187
+R2	Anatomy_Disease Arg1:T308 Arg2:T193
+R3	Anatomy_Disease Arg1:T308 Arg2:T194
+R4	Anatomy_Disease Arg1:T309 Arg2:T187
+R5	Anatomy_Disease Arg1:T310 Arg2:T187
+R6	Anatomy_Disease Arg1:T389 Arg2:T195
+R7	Anatomy_Disease Arg1:T311 Arg2:T195
+R8	Anatomy_Disease Arg1:T34 Arg2:T35
+R9	Anatomy_Disease Arg1:T40 Arg2:T41
+R10	Anatomy_Disease Arg1:T399 Arg2:T256
+R11	Anatomy_Disease Arg1:T49 Arg2:T50
+R12	Test_Disease Arg1:T48 Arg2:T50
+R13	Anatomy_Disease Arg1:T335 Arg2:T50
+R14	Anatomy_Disease Arg1:T334 Arg2:T50
+R15	Anatomy_Disease Arg1:T336 Arg2:T50
+R16	Drug_Disease Arg1:T68 Arg2:T69
+R17	Test_Disease Arg1:T261 Arg2:T69
+R18	Test_Disease Arg1:T262 Arg2:T69
+R19	Duration_Drug Arg1:T263 Arg2:T71
+R20	Drug_Disease Arg1:T70 Arg2:T69
+R21	Drug_Disease Arg1:T71 Arg2:T69
+R22	Anatomy_Disease Arg1:T75 Arg2:T220
+R23	Anatomy_Disease Arg1:T243 Arg2:T221
+R24	Anatomy_Disease Arg1:T244 Arg2:T222
+R25	Anatomy_Disease Arg1:T245 Arg2:T223
+R26	Anatomy_Disease Arg1:T78 Arg2:T77
+R27	Anatomy_Disease Arg1:T91 Arg2:T92
+R28	Anatomy_Disease Arg1:T90 Arg2:T92
+R29	Anatomy_Disease Arg1:T246 Arg2:T92
+R30	Anatomy_Disease Arg1:T93 Arg2:T92
+R31	Test_Disease Arg1:T94 Arg2:T92
+R32	Anatomy_Disease Arg1:T327 Arg2:T225
+R33	Anatomy_Disease Arg1:T248 Arg2:T225
+R34	Anatomy_Disease Arg1:T249 Arg2:T226
+R35	Anatomy_Disease Arg1:T100 Arg2:T226
+R36	Test_Disease Arg1:T16 Arg2:T226
+R37	Anatomy_Disease Arg1:T102 Arg2:T268
+R38	Anatomy_Disease Arg1:T250 Arg2:T227
+R39	Anatomy_Disease Arg1:T103 Arg2:T228
+R40	Anatomy_Disease Arg1:T104 Arg2:T228
+R41	Test_Disease Arg1:T17 Arg2:T228
+R42	Anatomy_Disease Arg1:T269 Arg2:T105
+R43	Test_Disease Arg1:T18 Arg2:T105
+R44	Anatomy_Disease Arg1:T106 Arg2:T105
+R45	Test_Disease Arg1:T19 Arg2:T229
+R46	Anatomy_Disease Arg1:T107 Arg2:T108
+R47	Test_Disease Arg1:T350 Arg2:T108
+R48	Test_Disease Arg1:T351 Arg2:T108
+R49	Anatomy_Disease Arg1:T109 Arg2:T108
+R50	Test_Disease Arg1:T110 Arg2:T108
+R51	Anatomy_Disease Arg1:T112 Arg2:T111
+R52	Anatomy_Disease Arg1:T272 Arg2:T111
+R53	Anatomy_Disease Arg1:T273 Arg2:T111
+R54	Anatomy_Disease Arg1:T328 Arg2:T113
+R55	Anatomy_Disease Arg1:T271 Arg2:T113
+R56	Anatomy_Disease Arg1:T270 Arg2:T113
+R57	Test_Disease Arg1:T353 Arg2:T115
+R58	Test_Disease Arg1:T352 Arg2:T115
+R59	Anatomy_Disease Arg1:T119 Arg2:T115
+R60	Anatomy_Disease Arg1:T117 Arg2:T115
+R61	Anatomy_Disease Arg1:T118 Arg2:T115
+R62	Anatomy_Disease Arg1:T121 Arg2:T122
+R63	Anatomy_Disease Arg1:T360 Arg2:T124
+R64	Anatomy_Disease Arg1:T359 Arg2:T124
+R65	Anatomy_Disease Arg1:T362 Arg2:T124
+R66	Anatomy_Disease Arg1:T361 Arg2:T124
+R67	Test_Disease Arg1:T125 Arg2:T124
+R68	Anatomy_Disease Arg1:T274 Arg2:T124
+R69	Test_Disease Arg1:T20 Arg2:T124
+R70	Test_Disease Arg1:T275 Arg2:T126
+R71	Anatomy_Disease Arg1:T127 Arg2:T128
+R72	Anatomy_Disease Arg1:T135 Arg2:T134
+R73	Anatomy_Disease Arg1:T136 Arg2:T134
+R74	Anatomy_Disease Arg1:T138 Arg2:T139
+R75	Anatomy_Disease Arg1:T140 Arg2:T141
+R76	Anatomy_Disease Arg1:T142 Arg2:T143
+R77	Anatomy_Disease Arg1:T168 Arg2:T169
+R78	Anatomy_Disease Arg1:T167 Arg2:T169
+R79	Test_Disease Arg1:T29 Arg2:T169
+R80	Anatomy_Disease Arg1:T166 Arg2:T169
+R81	Anatomy_Disease Arg1:T251 Arg2:T169
+R82	Anatomy_Disease Arg1:T170 Arg2:T169
+R83	Test_Disease Arg1:T30 Arg2:T172
+R84	Anatomy_Disease Arg1:T281 Arg2:T173
+R85	Test_Disease Arg1:T31 Arg2:T173
+R86	Test_Disease Arg1:T282 Arg2:T175
+R87	Test_Disease Arg1:T176 Arg2:T1
+R88	Anatomy_Disease Arg1:T177 Arg2:T1
+R89	Test_Disease Arg1:T179 Arg2:T178
+R90	Test_Disease Arg1:T183 Arg2:T184
+R91	Anatomy_Disease Arg1:T330 Arg2:T184
+R92	Test_Disease Arg1:T32 Arg2:T186
+R93	Test_Disease Arg1:T185 Arg2:T186
+R94	Test_Disease Arg1:T387 Arg2:T186
+R95	Test_Disease Arg1:T230 Arg2:T186
+R96	Anatomy_Disease Arg1:T215 Arg2:T286
+R97	Anatomy_Disease Arg1:T196 Arg2:T197
+R98	Test_Disease Arg1:T332 Arg2:T197
+R99	Drug_Disease Arg1:T204 Arg2:T288
+R100	Test_Disease Arg1:T205 Arg2:T288
+R101	Test_Disease Arg1:T206 Arg2:T288
+R102	Drug_Disease Arg1:T207 Arg2:T208
+R103	Drug_Disease Arg1:T209 Arg2:T208
+R104	Anatomy_Disease Arg1:T395 Arg2:T210
+R105	Anatomy_Disease Arg1:T396 Arg2:T210
+R106	Anatomy_Disease Arg1:T211 Arg2:T212
+R107	Anatomy_Disease Arg1:T213 Arg2:T214
+R108	SideEff-Drug Arg1:T376 Arg2:T161
+R109	SideEff-Drug Arg1:T377 Arg2:T161
+R110	Anatomy_Disease Arg1:T289 Arg2:T210
+R111	Test_Disease Arg1:T258 Arg2:T47
+R112	Test_Disease Arg1:T257 Arg2:T47
+R113	Test_Disease Arg1:T67 Arg2:T69
+R114	Test_Disease Arg1:T66 Arg2:T69
+R115	Anatomy_Disease Arg1:T260 Arg2:T69
+R116	Anatomy_Disease Arg1:T242 Arg2:T69
+R117	Test_Disease Arg1:T217 Arg2:T69
+R118	Test_Disease Arg1:T2 Arg2:T69
+R119	SideEff-Drug Arg1:T404 Arg2:T71
+R120	SideEff-Drug Arg1:T341 Arg2:T71
+R121	Symptom_Disease Arg1:T406 Arg2:T220
+R122	Symptom_Disease Arg1:T405 Arg2:T220
+R123	Test_Disease Arg1:T315 Arg2:T220
+R124	Anatomy_Disease Arg1:T74 Arg2:T220
+R125	Anatomy_Disease Arg1:T316 Arg2:T92
+R126	Test_Disease Arg1:T89 Arg2:T92
+R127	Test_Disease Arg1:T267 Arg2:T92
+R128	Test_Disease Arg1:T88 Arg2:T92
+R129	Test_Disease Arg1:T87 Arg2:T92
+R130	Anatomy_Disease Arg1:T86 Arg2:T92
+R131	Test_Disease Arg1:T13 Arg2:T92
+R132	Anatomy_Disease Arg1:T85 Arg2:T92
+R133	Anatomy_Disease Arg1:T84 Arg2:T92
+R134	Test_Disease Arg1:T12 Arg2:T92
+R135	Anatomy_Disease Arg1:T95 Arg2:T92
+R136	Anatomy_Disease Arg1:T346 Arg2:T225
+R137	Anatomy_Disease Arg1:T347 Arg2:T225
+R138	Anatomy_Disease Arg1:T101 Arg2:T225
+R139	Test_Disease Arg1:T15 Arg2:T225
+R140	Anatomy_Disease Arg1:T348 Arg2:T268
+R141	Test_Disease Arg1:T319 Arg2:T228
+R142	Symptom_Disease Arg1:T403 Arg2:T115
+R143	Anatomy_Disease Arg1:T354 Arg2:T115
+R144	Anatomy_Disease Arg1:T120 Arg2:T115
+R145	Test_Disease Arg1:T320 Arg2:T115
+R146	Anatomy_Disease Arg1:T357 Arg2:T122
+R147	Test_Disease Arg1:T151 Arg2:T398
+R148	Anatomy_Disease Arg1:T378 Arg2:T323
+R149	Anatomy_Disease Arg1:T302 Arg2:T174
+R150	Anatomy_Disease Arg1:T303 Arg2:T174
+R151	Test_Disease Arg1:T306 Arg2:T184
+R152	Test_Disease Arg1:T305 Arg2:T184
+R153	Test_Disease Arg1:T385 Arg2:T184
+R154	Test_Disease Arg1:T386 Arg2:T186
+R155	Anatomy_Disease Arg1:T307 Arg2:T186
+R156	Symptom_Disease Arg1:T388 Arg2:T186
+R157	Anatomy_Disease Arg1:T215 Arg2:T287
+R158	Anatomy_Disease Arg1:T312 Arg2:T283
+R159	Drug_Disease Arg1:T207 Arg2:T326
+R160	Drug_Disease Arg1:T209 Arg2:T326
+R161	Anatomy_Disease Arg1:T233 Arg2:T50
+R162	Anatomy_Disease Arg1:T250 Arg2:T268
+R163	Anatomy_Disease Arg1:T103 Arg2:T227
+R164	Anatomy_Disease Arg1:T127 Arg2:T126
+R165	Test_Disease Arg1:T188 Arg2:T189
+R166	Anatomy_Disease Arg1:T215 Arg2:T285
+R167	Anatomy_Disease Arg1:T252 Arg2:T41
+R168	Anatomy_Disease Arg1:T253 Arg2:T41
+R169	Anatomy_Disease Arg1:T36 Arg2:T41
+R170	Anatomy_Disease Arg1:T37 Arg2:T41
+R171	Anatomy_Disease Arg1:T290 Arg2:T41
+R172	Test_Disease Arg1:T38 Arg2:T41
+R173	Test_Disease Arg1:T39 Arg2:T41
+R174	SideEff-Drug Arg1:T404 Arg2:T70
+R175	SideEff-Drug Arg1:T341 Arg2:T70
+R176	Duration_Drug Arg1:T263 Arg2:T70
+R177	Anatomy_Disease Arg1:T78 Arg2:T224
+R178	Anatomy_Disease Arg1:T347 Arg2:T226
+R179	Anatomy_Disease Arg1:T101 Arg2:T226
+R180	Test_Disease Arg1:T15 Arg2:T226
+R181	Anatomy_Disease Arg1:T318 Arg2:T268
+R182	Anatomy_Disease Arg1:T269 Arg2:T349
+R183	Test_Disease Arg1:T18 Arg2:T349
+R184	Anatomy_Disease Arg1:T106 Arg2:T229
+R185	Anatomy_Disease Arg1:T107 Arg2:T229
+R186	Test_Disease Arg1:T350 Arg2:T229
+R187	Test_Disease Arg1:T351 Arg2:T229
+R188	Test_Disease Arg1:T275 Arg2:T128
+R189	Anatomy_Disease Arg1:T135 Arg2:T137
+R190	Anatomy_Disease Arg1:T136 Arg2:T137
+R191	Anatomy_Disease Arg1:T371 Arg2:T398
+R192	Anatomy_Disease Arg1:T150 Arg2:T398
+R193	Anatomy_Disease Arg1:T379 Arg2:T323
+R194	Anatomy_Disease Arg1:T380 Arg2:T323
+R195	Drug_Disease Arg1:T161 Arg2:T323
+R196	Test_Disease Arg1:T3 Arg2:T323
+R197	Test_Disease Arg1:T28 Arg2:T323
+R198	Test_Disease Arg1:T163 Arg2:T323
+R199	Test_Disease Arg1:T171 Arg2:T169
+R200	Anatomy_Disease Arg1:T382 Arg2:T172
+R201	Anatomy_Disease Arg1:T301 Arg2:T173
+R202	Anatomy_Disease Arg1:T383 Arg2:T173
+R203	Symptom_Disease Arg1:T384 Arg2:T180
+R204	Symptom_Disease Arg1:T384 Arg2:T181
+R205	Symptom_Disease Arg1:T384 Arg2:T182
+R206	Test_Disease Arg1:T385 Arg2:T192
+R207	Test_Disease Arg1:T385 Arg2:T190
+R208	Test_Disease Arg1:T385 Arg2:T191
+R209	Test_Disease Arg1:T305 Arg2:T192
+R210	Test_Disease Arg1:T305 Arg2:T190
+R211	Test_Disease Arg1:T305 Arg2:T191
+R212	Test_Disease Arg1:T183 Arg2:T192
+R213	Test_Disease Arg1:T183 Arg2:T190
+R214	Test_Disease Arg1:T183 Arg2:T191
+R215	Test_Disease Arg1:T306 Arg2:T192
+R216	Test_Disease Arg1:T306 Arg2:T190
+R217	Test_Disease Arg1:T306 Arg2:T191
+R218	Anatomy_Disease Arg1:T309 Arg2:T408
+R219	Anatomy_Disease Arg1:T310 Arg2:T408
+R220	Anatomy_Disease Arg1:T312 Arg2:T284
+R221	Anatomy_Disease Arg1:T312 Arg2:T285
+R222	Test_Disease Arg1:T332 Arg2:T198
+R223	Anatomy_Disease Arg1:T196 Arg2:T198

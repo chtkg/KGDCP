@@ -1,0 +1,236 @@
+T1	Test 2042 2047	空腹胰岛素
+T2	Drug 1613 1617;1618 1621	生长抑素 类似物
+T3	Drug 4107 4114	生长抑素类似物
+T4	Drug 4235 4242	生长抑素类似物
+T5	Drug 4123 4127	舒尼替尼
+T6	Disease 68 77	胰腺神经内分泌肿瘤
+T7	Disease 78 84	P-NETs
+T8	Disease 86 99	多发性内分泌腺瘤病 1 型
+T9	Disease 100 104	MEN1
+T10	Disease 32 36	MEN1
+T11	Disease 37 46	胰腺神经内分泌肿瘤
+T12	Disease 107 109	死亡
+T13	Disease 119 125	P-NETs
+T14	Disease 139 143	MEN1
+T15	Disease 165 169	MEN1
+T16	Disease 173 179	P-NETs
+T17	Disease 207 213	P-NETs
+T18	Disease 1173 1178	肢端肥大症
+T19	Disease 1236 1246	Wermer 综合征
+T20	Disease 1256 1269	多发性内分泌腺瘤病 1 型
+T21	Disease 1270 1274	MEN1
+T22	Disease 1294 1298	MEN1
+T23	Disease 1326 1330	MEN1
+T24	Disease 1346 1350	MEN1
+T25	Disease 1354 1358	MEN1
+T26	Anatomy 1393 1395;1396 1398	甲状 旁腺
+T27	Anatomy 1399 1401	胰岛
+T28	Anatomy 1402 1404	垂体
+T29	Anatomy 1420 1422;1423 1425	甲状 旁腺
+T30	Disease 1438 1443	胰岛细胞瘤
+T31	Disease 1446 1447;1448 1456	胰 腺神经内分泌肿瘤
+T32	Disease 1457 1463	P-NETs
+T33	Disease 1466 1470	MEN1
+T34	Disease 1491 1497	P-NETs
+T35	Disease 1513 1519	P-NETs
+T36	Disease 1524 1528	胰岛素瘤
+T37	Disease 1529 1533	胃泌素瘤
+T38	Disease 1534 1538;1539 1540	胰升糖素 瘤
+T39	Disease 1574 1578	MEN1
+T40	Disease 1583 1587	胃泌素瘤
+T41	Disease 1590 1592;1593 1596	消化 道溃疡
+T42	Disease 1597 1599	出血
+T43	Drug 1605 1612	氢离子泵抑制剂
+T44	Disease 1674 1678	MEN1
+T45	Disease 1731 1735	MEN1
+T46	Disease 1764 1770	P-NETs
+T47	Disease 1796 1802	P-NETs
+T48	Disease 1818 1824	P-NETs
+T49	Disease 1838 1842	MEN1
+T50	Disease 1893 1897	MEN1
+T51	Disease 1898 1904	P-NETs
+T52	Disease 1955 1959	MEN1
+T53	Disease 1977 1981	MEN1
+T54	Disease 1986 1990	MEN1
+T55	Test 2048 2051	胃泌素
+T56	Disease 2054 2058	胰岛素瘤
+T57	Disease 2059 2060;2061 2064	胃 泌素瘤
+T58	Test 2101 2105	胰升糖素
+T59	Test 2106 2112	嗜铬颗粒 A
+T60	Test 2114 2115;2116 2119	胰 腺多肽
+T61	Test 2143 2145	PP
+T62	Disease 2203 2207	MEN1
+T63	Disease 2208 2214	P-NETs
+T64	Test 2237 2242	胰腺 CT
+T65	Test 2243 2246	MRI
+T66	Test 2248 2252	超声内镜
+T67	Test 2265 2269	超声内镜
+T68	Anatomy 2307 2309	胰腺
+T69	Test 2396 2399	MRI
+T70	Test 2400 2402	CT
+T71	Test 2374 2377	MRI
+T72	Test 2384 2386	CT
+T73	Test 2378 2383	奥曲肽扫描
+T74	Test 2403 2408	奥曲肽扫描
+T75	Test 2453 2459	PET-CT
+T76	Test 2477 2479	CT
+T77	Test 2482 2488	PET-CT
+T78	Test 2511 2517	胰腺 MRI
+T79	Disease 2536 2542	P-NETs
+T80	Test 2557 2563;2564 2571	胰腺灌注 / 动脉增强 CT
+T81	Disease 2605 2609	MEN1
+T82	Disease 2610 2616	P-NETs
+T83	Test 2692 2698	PET-CT
+T84	Disease 2759 2763	MEN1
+T85	Disease 2775 2779	MEN1
+T86	Disease 2780 2782;2783 2787	P- NETs
+T87	Disease 2860 2864	MEN1
+T88	Disease 2865 2871	P-NETs
+T89	Disease 2890 2894	MEN1
+T90	Disease 2895 2901	P-NETs
+T91	Disease 2915 2919	MEN1
+T92	Anatomy 2923 2928	Jun-D
+T93	Anatomy 2930 2935	CHES1
+T94	Disease 2946 2950	MEN1
+T95	Disease 2951 2957	P-NETs
+T96	Disease 2982 2986	MEN1
+T97	Disease 2987 2993	P-NETs
+T98	Disease 2994 2996	死亡
+T99	Disease 3038 3044	P-NETs
+T100	Disease 3066 3072	P-NETs
+T101	Disease 3165 3169	MEN1
+T102	Disease 3170 3176	P-NETs
+T103	Disease 3184 3188	MEN1
+T104	Disease 3262 3266	MEN1
+T105	Disease 3267 3273	P-NETs
+T106	Anatomy 3376 3378	胰腺
+T107	Disease 3385 3388	糖尿病
+T108	Disease 3389 3392;3393 3394	消化不 良
+T109	Disease 3438 3442	胃泌素瘤
+T110	Disease 3470 3474	胃泌素瘤
+T111	Anatomy 3479 3483	十二指肠
+T112	Anatomy 3484 3486	胰腺
+T113	Disease 3545 3548	糖尿病
+T114	Disease 3550 3554	消化不良
+T115	Operation 3532 3541	全胰十二指肠切除术
+T116	Operation 3583 3591	胰十二指肠切除术
+T117	Operation 3611 3615	PPTD
+T118	Operation 3592 3594	PD
+T119	Operation 3596 3601;3602 3610	保留胰腺的 全十二指肠切除术
+T120	Test 3631 3634	胃泌素
+T121	Drug 3638 3645	氢离子泵抑制剂
+T122	Disease 3651 3655;3656 3657	胃肠道穿 孔
+T123	Disease 3658 3660	出血
+T124	Disease 3723 3731	非转移性胃泌素瘤
+T125	Disease 3929 3933	MEN1
+T126	Disease 3981 3985	MEN1
+T127	Disease 3986 3992	P-NETs
+T128	Disease 4021 4025	MEN1
+T129	Disease 4026 4032	P-NETs
+T130	Disease 4040 4044	MEN1
+T131	Disease 4048 4054	P-NETs
+T132	Operation 4091 4097	肝动脉栓塞术
+T133	Drug 4128 4132	依维莫司
+T134	Disease 4148 4154	P-NETs
+T135	Disease 4143 4147	MEN1
+T136	Disease 4204 4208	MEN1
+T137	Disease 4209 4215	P-NETs
+T138	Disease 4289 4295	P-NETs
+T139	Disease 4303 4307	MEN1
+T140	Disease 4320 4326	P-NETs
+T141	Disease 4358 4362	MEN1
+T142	Disease 4369 4371	死亡
+T143	Disease 4449 4459	无功能 P-NETs
+T144	Disease 4488 4492	MEN1
+T145	Disease 245 254	胰腺神经内分泌肿瘤
+T146	Disease 256 265	多发性内分泌腺瘤病
+T147	Disease 1377 1382	肿瘤综合征
+T148	Disease 1784 1786	死亡
+T149	Disease 2652 2654	肿瘤
+T150	Disease 2658 2660	肿瘤
+T151	Duration 4222 4232	12 ~ 75 个月
+T152	Level 4248 4252	客观缓解
+T153	Level 4259 4263	疾病稳定
+T154	Level 4270 4274	疾病进展
+T155	Level 204 206	晚期
+T156	Disease 1473 1475	死亡
+T157	Disease 1679 1681	死亡
+T158	Test 2546 2548	CT
+T159	Level 4045 4047	晚期
+T160	Level 4017 4020	晚 期
+T161	Anatomy 1414 1416	腺体
+T162	Anatomy 1431 1436	内分泌腺体
+T163	Disease 1184 1190	甲状旁腺增大
+T164	Disease 1683 1692	恶性 P-NETs
+T165	Test 2629 2646	上腹部薄层 CT 多期动态增强扫描
+T166	Disease 3119 3123	MEN1
+T167	Disease 3124 3125;3126 3129	胰 岛素瘤
+T168	Disease 3443 3444;3445 3454	无 功能 P-NETs
+T169	Disease 3701 3705	MEN1
+T170	Disease 3706 3710	胃泌素瘤
+T171	Disease 3744 3750	P-NETs
+T172	Operation 4078 4085	肿瘤细胞缩减术
+T173	Operation 4086 4090	射频消融
+T174	Level 4468 4470	晚期
+T175	Disease 4471 4477	P-NETs
+R1	Anatomy_Disease Arg1:T29 Arg2:T30
+R2	Drug_Disease Arg1:T43 Arg2:T42
+R3	Drug_Disease Arg1:T2 Arg2:T42
+R4	Test_Disease Arg1:T55 Arg2:T56
+R5	Test_Disease Arg1:T1 Arg2:T56
+R6	Test_Disease Arg1:T64 Arg2:T63
+R7	Test_Disease Arg1:T65 Arg2:T63
+R8	Test_Disease Arg1:T66 Arg2:T63
+R9	Test_Disease Arg1:T158 Arg2:T79
+R10	Test_Disease Arg1:T80 Arg2:T79
+R11	Test_Disease Arg1:T165 Arg2:T82
+R12	Test_Disease Arg1:T83 Arg2:T84
+R13	Anatomy_Disease Arg1:T92 Arg2:T91
+R14	Anatomy_Disease Arg1:T93 Arg2:T94
+R15	Anatomy_Disease Arg1:T106 Arg2:T107
+R16	Anatomy_Disease Arg1:T111 Arg2:T110
+R17	Anatomy_Disease Arg1:T112 Arg2:T110
+R18	Test_Disease Arg1:T120 Arg2:T122
+R19	Drug_Disease Arg1:T121 Arg2:T122
+R20	Drug_Disease Arg1:T3 Arg2:T134
+R21	Drug_Disease Arg1:T133 Arg2:T134
+R22	Drug_Disease Arg1:T5 Arg2:T134
+R23	Anatomy_Disease Arg1:T162 Arg2:T30
+R24	Anatomy_Disease Arg1:T26 Arg2:T147
+R25	Anatomy_Disease Arg1:T27 Arg2:T147
+R26	Anatomy_Disease Arg1:T28 Arg2:T147
+R27	Anatomy_Disease Arg1:T161 Arg2:T147
+R28	Test_Disease Arg1:T55 Arg2:T57
+R29	Test_Disease Arg1:T1 Arg2:T57
+R30	Test_Disease Arg1:T67 Arg2:T63
+R31	Anatomy_Disease Arg1:T68 Arg2:T63
+R32	Test_Disease Arg1:T71 Arg2:T63
+R33	Test_Disease Arg1:T73 Arg2:T63
+R34	Test_Disease Arg1:T72 Arg2:T63
+R35	Test_Disease Arg1:T69 Arg2:T63
+R36	Test_Disease Arg1:T70 Arg2:T63
+R37	Test_Disease Arg1:T74 Arg2:T63
+R38	Drug_Disease Arg1:T4 Arg2:T137
+R39	Drug_Disease Arg1:T43 Arg2:T41
+R40	Drug_Disease Arg1:T2 Arg2:T41
+R41	Test_Disease Arg1:T64 Arg2:T62
+R42	Test_Disease Arg1:T65 Arg2:T62
+R43	Test_Disease Arg1:T66 Arg2:T62
+R44	Test_Disease Arg1:T67 Arg2:T62
+R45	Test_Disease Arg1:T165 Arg2:T81
+R46	Test_Disease Arg1:T165 Arg2:T149
+R47	Test_Disease Arg1:T165 Arg2:T150
+R48	Test_Disease Arg1:T83 Arg2:T85
+R49	Test_Disease Arg1:T83 Arg2:T86
+R50	Anatomy_Disease Arg1:T92 Arg2:T95
+R51	Anatomy_Disease Arg1:T93 Arg2:T95
+R52	Anatomy_Disease Arg1:T106 Arg2:T108
+R53	Drug_Disease Arg1:T121 Arg2:T123
+R54	Drug_Disease Arg1:T3 Arg2:T131
+R55	Drug_Disease Arg1:T3 Arg2:T130
+R56	Drug_Disease Arg1:T5 Arg2:T131
+R57	Drug_Disease Arg1:T5 Arg2:T130
+R58	Drug_Disease Arg1:T133 Arg2:T131
+R59	Drug_Disease Arg1:T133 Arg2:T130
+R60	Drug_Disease Arg1:T4 Arg2:T136
+R61	Duration_Drug Arg1:T151 Arg2:T4

@@ -1,0 +1,222 @@
+T1	Disease 1948 1954	2 型糖尿病
+T2	Disease 4340 4344;4345 4347	2 型糖 尿病
+T3	Disease 1831 1835;1836 1838	动脉粥样 硬化
+T4	Disease 1867 1873	动脉粥样硬化
+T5	Anatomy 4107 4111	β 细胞
+T6	Drug 36 40	利拉鲁肽
+T7	Drug 189 193	利拉鲁肽
+T8	Drug 461 465	利拉鲁肽
+T9	Drug 520 524	利拉鲁肽
+T10	Drug 1994 1998	利拉鲁肽
+T11	Drug 2070 2074	利拉鲁肽
+T12	Drug 2211 2215	利拉鲁肽
+T13	Drug 2713 2717	利拉鲁肽
+T14	Drug 3272 3276	利拉鲁肽
+T15	Drug 3307 3311	利拉鲁肽
+T16	Drug 3461 3465	利拉鲁肽
+T17	Drug 3552 3556	利拉鲁肽
+T18	Drug 3608 3612	利拉鲁肽
+T19	Drug 3782 3786	利拉鲁肽
+T20	Drug 3997 4001	利拉鲁肽
+T21	Drug 4406 4410	利拉鲁肽
+T22	Drug 4561 4565	利拉鲁肽
+T23	Drug 4662 4666	利拉鲁肽
+T24	Drug 5099 5103	利拉鲁肽
+T25	Drug 5130 5134	利拉鲁肽
+T26	Drug 5179 5183	利拉鲁肽
+T27	Drug 5406 5410	利拉鲁肽
+T28	Drug 5454 5458	利拉鲁肽
+T29	Anatomy 4506 4509	ROS
+T30	Anatomy 4598 4601	ROS
+T31	Drug 4467 4471	艾塞那肽
+T32	Drug 4257 4266	GLP-1 类似物
+T33	Drug 4653 4662	GLP-1 类似物
+T34	Drug 5445 5454	GLP-1 类似物
+T35	Anatomy 47 54	脐静脉内皮细胞
+T36	Anatomy 123 130	脐静脉内皮细胞
+T37	Anatomy 527 534	脐静脉内皮细胞
+T38	Anatomy 2076 2083	脐静脉内皮细胞
+T39	Anatomy 2118 2125	脐静脉内皮细胞
+T40	Anatomy 4941 4948	脐静脉内皮细胞
+T41	Anatomy 5138 5145	脐静脉内皮细胞
+T42	Anatomy 949 955	HUVECs
+T43	Anatomy 2168 2174	HUVECs
+T44	Anatomy 2473 2479	HUVECs
+T45	Anatomy 2633 2639	HUVECs
+T46	Anatomy 4588 4594	HUVECs
+T47	Anatomy 4675 4681	HUVECs
+T48	Anatomy 4710 4716	HUVECs
+T49	Anatomy 4530 4534;4535 4537	血管内皮 细胞
+T50	Anatomy 5467 5468;5469 5474	血 管内皮细胞
+T51	Anatomy 4500 4503;4504 4505	活性氧 簇
+T52	Anatomy 4853 4856	Akt
+T53	Anatomy 4976 4979	Akt
+T54	Anatomy 5024 5027	Akt
+T55	Anatomy 5256 5259	Akt
+T56	Anatomy 5349 5352	Akt
+T57	Test 5461 5463	血糖
+T58	Anatomy 55 59	eNOS
+T59	Anatomy 62 67	IRS-1
+T60	Disease 1803 1806	糖尿病
+T61	Disease 1808 1810	肥胖
+T62	Disease 1818 1821	糖尿病
+T63	Disease 1840 1843	糖尿病
+T64	Reason 1859 1864;1865 1866	内皮功能障 碍
+T65	Anatomy 2019 2023	心肌细胞
+T66	Anatomy 3826 3833	肠道 L 细胞
+T67	Test 3841 3845	肠促胰素
+T68	Anatomy 3847 3848;3849 3855	胰 升糖素原基因
+T69	Test 3867 3870	胰岛素
+T70	Test 3895 3898	胰岛素
+T71	Test 3901 3904	胰岛素
+T72	Anatomy 4102 4104	胰腺
+T73	Anatomy 4115 4121	中枢神经系统
+T74	Anatomy 4122 4124	心脏
+T75	Anatomy 4125 4127	肾脏
+T76	Anatomy 4128 4129	肺
+T77	Anatomy 4180 4192	内皮祖细胞激酶功能区受体
+T78	Anatomy 4194 4197	KDR
+T79	Anatomy 4199 4212	可溶性血管内皮生长因子受体
+T80	Anatomy 4213 4218	FLT-1
+T81	Anatomy 4220 4229	eNOS mRNA
+T82	Anatomy 4271 4275	内皮细胞
+T83	Disease 4302 4310	糖尿病血管并发症
+T84	Reason 4286 4292	内皮功能损伤
+T85	Reason 4294 4301	促炎因子的刺激
+T86	Reason 4349 4357	血管内皮功能损伤
+T87	Test 4379 4383	炎症因子
+T88	Anatomy 4445 4449	eNOS
+T89	Anatomy 4482 4486	eNOS
+T90	Test 4575 4583	肿瘤坏死因子 α
+T91	Anatomy 4606 4608;4609 4621	尼克 酰胺腺嘌呤二核苷酸氧化酶
+T92	Anatomy 4622 4627	NADPH
+T93	Anatomy 4684 4688	eNOS
+T94	Anatomy 4725 4728	IRS
+T95	Anatomy 4762 4767	IRS-1
+T96	Test 4769 4772	胰岛素
+T97	Test 4784 4785;4786 4788	胰 岛素
+T98	Anatomy 4804 4811	酪氨酸蛋白激酶
+T99	Anatomy 4819 4822	IRS
+T100	Anatomy 4838 4842	PI3K
+T101	Anatomy 4845 4851	蛋白激酶 B
+T102	Anatomy 4858 4867	丝裂原活化蛋白激酶
+T103	Anatomy 4869 4873	MAPK
+T104	Anatomy 4885 4889	eNOS
+T105	Anatomy 4890 4896	Glut-4
+T106	Anatomy 4956 4961	IRS-1
+T107	Anatomy 4969 4973	PI3K
+T108	Anatomy 4995 5000	IRS-1
+T109	Anatomy 5017 5021	PI3K
+T110	Anatomy 5037 5041	eNOS
+T111	Anatomy 5056 5060	内皮细胞
+T112	Anatomy 5071 5076	IRS-1
+T113	Anatomy 5109 5114	IRS-1
+T114	Anatomy 5104 5108	内皮细胞
+T115	Anatomy 5146 5151	IRS-1
+T116	Anatomy 5154 5161	p-IRS-1
+T117	Anatomy 5198 5203	IRS-1
+T118	Anatomy 5193 5197	内皮细胞
+T119	Anatomy 5219 5223	eNOS
+T120	Anatomy 5225 5226;5227 5230	内 皮细胞
+T121	Anatomy 5241 5246	IRS-1
+T122	Anatomy 5249 5253	PI3K
+T123	Anatomy 5290 5294	eNOS
+T124	Anatomy 5300 5304	PI3K
+T125	Anatomy 5309 5315	糖原激酶 a
+T126	Anatomy 5342 5346	PI3K
+T127	Anatomy 5355 5359	MAPK
+T128	Anatomy 5366 5373	血管平滑肌细胞
+T129	Anatomy 5427 5431	eNOS
+T130	Anatomy 5497 5501	PI3K
+T131	Anatomy 5489 5494	IRS-1
+T132	Anatomy 5504 5507	Akt
+T133	Anatomy 5509 5513	eNOS
+T134	Anatomy 536 545	胰岛素受体底物 1
+T135	Anatomy 547 556	内皮型一氧化氮合酶
+T136	Anatomy 3277 3281	内皮细胞
+T137	Anatomy 3557 3561	内皮细胞
+T138	Test 3871 3874	葡萄糖
+T139	Test 3888 3891	葡萄糖
+T140	Anatomy 4370 4375;4376 4378	糖基化终末 产物
+T141	Anatomy 4429 4433	内皮细胞
+T142	Reason 4493 4497	半胱氨酸
+T143	Anatomy 5078 5082	内皮细胞
+T144	Test 5322 5325	肝糖原
+T145	Test 2270 2276	一氧化氮合酶
+T146	Test 2277 2281	eNOS
+T147	Test 2288 2296	磷酸化 eNOS
+T148	Test 2298 2304	p-eNOS
+T149	Test 2327 2336	胰岛素受体底物 1
+T150	Test 2338 2342;2343 2344	IRS- 1
+T151	Test 2363 2372	磷酸化 IRS-1
+T152	Test 2373 2380	p-IRS-1
+T153	Test 4730 4733	胰岛素
+T154	Anatomy 2003 2007	内皮细胞
+T155	Anatomy 2032 2035	心血管
+T156	Anatomy 4238 4241	心血管
+T157	Anatomy 5012 5016	内皮细胞
+T158	Anatomy 4057 4061	β 细胞
+T159	Drug 1900 1908	胰升糖素样肽 1
+T160	Drug 1934 1939	GLP-1
+T161	Anatomy 3818 3823	GLP-1
+T162	Anatomy 4044 4049	GLP-1
+T163	Anatomy 4079 4087	GLP-1 受体
+T164	Anatomy 4141 4149	GLP-1 受体
+T165	Anatomy 4155 4160	GLP-1
+T166	Anatomy 4318 4323	GLP-1
+T167	Anatomy 4359 4364	GLP-1
+T168	Anatomy 5276 5281	GLP-1
+T169	Test 262 271	胰岛素受体底物 1
+T170	Test 274 279	IRS-1
+T171	Test 293 300	p-IRS-1
+T172	Test 302 311	内皮型一氧化氮合酶
+T173	Test 314 318	eNOS
+T174	Test 321 331	磷酸化 p-eNOS
+T175	Test 333 339	p-eNOS
+T176	Test 281 290	磷酸化 IRS-1
+T177	Test 355 368	p-eNOS / eNOS
+T178	Test 476 484;485 489	p-eNOS / eNOS
+T179	Test 492 507	p-IRS-1 / IRS-1
+T180	Disease 1883 1890	糖尿病血管病变
+T181	Test 1963 1969;1970 1971	内源性肠促胰 素
+T182	Test 2802 2807	IRS-1
+T183	Test 2808 2817	磷酸化 IRS-1
+T184	Test 2818 2822	eNOS
+T185	Test 2824 2832	磷酸化 eNOS
+T186	Test 2835 2841	p-eNOS
+T187	Test 3282 3295	p-eNOS / eNOS
+T188	Test 3323 3336	p-eNOS / eNOS
+T189	Test 3394 3407	p-eNOS / eNOS
+T190	Test 3478 3491	p-eNOS / eNOS
+T191	Test 3562 3577	p-IRS-1 / IRS-1
+T192	Test 3589 3604	p-IRS-1 / IRS-1
+T193	Test 3650 3665	p-IRS-1 / IRS-1
+T194	Anatomy 4054 4056	胰岛
+T195	Anatomy 4515 4519	一氧化氮
+T196	Anatomy 4520 4522	NO
+T197	Anatomy 4827 4837	磷脂酰肌醇 3 激酶
+T198	Anatomy 4986 4988;4989 4991	内皮 细胞
+T199	Anatomy 5045 5047	NO
+T200	Disease 5061 5066	胰岛素抵抗
+T201	Reason 5082 5087	胰岛素抵抗
+R1	Drug_Disease Arg1:T160 Arg2:T1
+R2	Drug_Disease Arg1:T32 Arg2:T83
+R3	Test_Disease Arg1:T87 Arg2:T2
+R4	Anatomy_Disease Arg1:T82 Arg2:T83
+R5	Drug_Disease Arg1:T159 Arg2:T1
+R6	Test_Disease Arg1:T181 Arg2:T1
+R7	Anatomy_Disease Arg1:T166 Arg2:T2
+R8	Anatomy_Disease Arg1:T140 Arg2:T2
+R9	Anatomy_Disease Arg1:T167 Arg2:T2
+R10	Drug_Disease Arg1:T21 Arg2:T2
+R11	Anatomy_Disease Arg1:T141 Arg2:T2
+R12	Anatomy_Disease Arg1:T88 Arg2:T2
+R13	Anatomy_Disease Arg1:T111 Arg2:T200
+R14	Anatomy_Disease Arg1:T199 Arg2:T200
+R15	Anatomy_Disease Arg1:T110 Arg2:T200
+R16	Anatomy_Disease Arg1:T54 Arg2:T200
+R17	Anatomy_Disease Arg1:T109 Arg2:T200
+R18	Anatomy_Disease Arg1:T157 Arg2:T200
+R19	Anatomy_Disease Arg1:T108 Arg2:T200
+R20	Anatomy_Disease Arg1:T112 Arg2:T200
+R21	Anatomy_Disease Arg1:T143 Arg2:T200

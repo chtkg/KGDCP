@@ -1,0 +1,481 @@
+T1	Disease 1475 1481	2 型糖尿病
+T2	Disease 14 19	糖尿病肾病
+T3	Disease 90 95	糖尿病肾病
+T4	Disease 115 120	糖尿病肾病
+T5	Disease 160 165	糖尿病肾病
+T6	Disease 201 206	糖尿病肾病
+T7	Disease 1450 1455	糖尿病肾病
+T8	Disease 1544 1549	糖尿病肾病
+T9	Disease 1566 1571	糖尿病肾病
+T10	Disease 1619 1624	糖尿病肾病
+T11	Disease 1736 1741	糖尿病肾病
+T12	Disease 2312 2317	糖尿病肾病
+T13	Disease 2390 2395	糖尿病肾病
+T14	Disease 4072 4077	糖尿病肾病
+T15	Disease 4090 4095	糖尿病肾病
+T16	Disease 4238 4243	糖尿病肾病
+T17	Disease 4256 4261	糖尿病肾病
+T18	Disease 4307 4308;4309 4313	糖 尿病肾病
+T19	Disease 4750 4755	糖尿病肾病
+T20	Disease 4855 4860	糖尿病肾病
+T21	Disease 5431 5433;5434 5437	糖尿 病肾病
+T22	Disease 5543 5548	糖尿病肾病
+T23	Disease 5566 5571	糖尿病肾病
+T24	Test 2708 2711	UAE
+T25	Test 2751 2754	UAE
+T26	Test 2796 2799	UAE
+T27	Test 5250 5253	肾功能
+T28	Anatomy 66 74	细胞周期调节蛋白
+T29	Drug 150 159	血管紧张素2拮抗剂
+T30	Anatomy 1346 1347;1348 1349	肾 脏
+T31	Anatomy 1361 1363	肾脏
+T32	Disease 1377 1380;1381 1384	急性肾 脏损伤
+T33	Disease 1415 1422	肾小管间质损伤
+T34	Disease 1432 1437	肾小球疾病
+T35	Disease 1468 1471	糖尿病
+T36	Disease 1456 1458	DN
+T37	Disease 1484 1490	终末期肾衰竭
+T38	Disease 1509 1511	DN
+T39	Anatomy 1588 1590	肾脏
+T40	Drug 1599 1602	胰岛素
+T41	Disease 1603 1606	糖尿病
+T42	Anatomy 1608 1610	肾脏
+T43	Anatomy 1631 1638	肾小管上皮细胞
+T44	Anatomy 1656 1660	系膜细胞
+T45	Anatomy 1661 1666	肾小球细胞
+T46	Anatomy 1743 1759	细胞周期蛋白依赖性蛋白激酶 D1
+T47	Anatomy 1801 1816	细胞周期蛋白依赖性蛋白激酶 E
+T48	Anatomy 1953 1960	p27Kip1
+T49	Anatomy 1964 1979	细胞周期蛋白依赖性蛋白激酶 E
+T50	Anatomy 2018 2020	肾脏
+T51	Anatomy 2039 2040	肾
+T52	Anatomy 2041 2044	肾实质
+T53	Anatomy 2045 2048	肾血管
+T54	Anatomy 2068 2073	PTH1R
+T55	Test 2096 2102	肾小球滤过率
+T56	Anatomy 2105 2107;2108 2113	肾小 球系膜细胞
+T57	Anatomy 2114 2121	肾小管上皮细胞
+T58	Disease 2143 2149	急性肾脏损伤
+T59	Disease 2150 2155	梗阻性肾病
+T60	Anatomy 2158 2160	肾脏
+T61	Anatomy 2196 2198	肾脏
+T62	Anatomy 2258 2263	近端肾小管
+T63	Disease 2371 2376	肾小球疾病
+T64	Anatomy 2411 2416	PTH1R
+T65	Disease 2437 2439	DN
+T66	Disease 2473 2475	DN
+T67	Disease 2516 2518	DN
+T68	Anatomy 2529 2531;2532 2533	肾小 管
+T69	Anatomy 2557 2562	PTH1R
+T70	Test 2573 2579	尿蛋白排泄率
+T71	Disease 2633 2637;2638 2639	糖尿病肾 病
+T72	Anatomy 2663 2668	PTH1R
+T73	Test 2674 2679;2680 2681	尿白蛋白排 泄
+T74	Test 2758 2759;2760 2764	血 浆总蛋白
+T75	Anatomy 2785 2790	PTH1R
+T76	Test_Value 2755 2757	升高
+T77	Test_Value 2764 2766	降低
+T78	Anatomy 2810 2812	肾脏
+T79	Anatomy 2821 2826	PTH1R
+T80	Symptom 2835 2838	蛋白尿
+T81	Anatomy 2842 2844	肾脏
+T82	Anatomy 2853 2858	PTH1R
+T83	Disease 2885 2887	DN
+T84	Anatomy 2902 2907	PTH1R
+T85	Anatomy 2909 2911	肾脏
+T86	Symptom 2950 2953	蛋白尿
+T87	Disease 2961 2963	DN
+T88	Anatomy 3035 3038	足细胞
+T89	Anatomy 3122 3130	细胞周期调节蛋白
+T90	Anatomy 3152 3168	细胞周期蛋白依赖性蛋白激酶 D1
+T91	Anatomy 3171 3172;3173 3175	足 细胞
+T92	Anatomy 3193 3205;3206 3209	细胞周期蛋白依赖性蛋白激 酶 E
+T93	Anatomy 3258 3273	细胞周期蛋白依赖性蛋白激酶 E
+T94	Anatomy 3324 3329	PTH1R
+T95	Anatomy 3347 3354	p27Kip1
+T96	Anatomy 3367 3372	PTH1R
+T97	Anatomy 3414 3420	TGF-β1
+T98	Anatomy 3424 3431	P27Kip1
+T99	Anatomy 3521 3528	p27Kip1
+T100	Anatomy 3547 3554	p27Kip1
+T101	Anatomy 3597 3604	p27Kip1
+T102	Anatomy 3677 3684	p27Kip1
+T103	Anatomy 3808 3814	p27Kip
+T104	Anatomy 4035 4041	p27Kip
+T105	Disease 4061 4063	DN
+T106	Disease 4147 4149	DN
+T107	Anatomy 4153 4155	肾脏
+T108	Anatomy 4171 4175;4176 4177	肾小球细 胞
+T109	Anatomy 4178 4185	肾小管上皮细胞
+T110	Anatomy 4203 4207;4208 4211	肾小管上 皮细胞
+T111	Test 4248 4253	经皮肾活检
+T112	Anatomy 4263 4265	肾脏
+T113	Anatomy 4288 4295	肾小管上皮细胞
+T114	Anatomy 4327 4330	肾小球
+T115	Anatomy 4401 4407;4408 4412	细胞周期调节 蛋白 E
+T116	Anatomy 4417 4421	CDK2
+T117	Anatomy 4435 4443;4444 4445	细胞周期调节蛋白 E
+T118	Anatomy 4468 4479	细胞周期调节蛋白 D1
+T119	Anatomy 4544 4551	p27Kip1
+T120	Anatomy 4650 4654	Tβ域R
+T121	Drug 4667 4676	PTHrP 阻滞剂
+T122	Anatomy 4704 4708	Tβ域R
+T123	Anatomy 4757 4759	肾脏
+T124	Disease 4777 4779	DN
+T125	Anatomy 4788 4790	肾脏
+T126	Anatomy 4826 4828	肾脏
+T127	Disease 4944 4951	急性肾功能衰竭
+T128	Drug 5014 5023	血管紧张素2拮抗剂
+T129	Anatomy 5096 5102	AT1 受体
+T130	Anatomy 5103 5106;5107 5109	肾小球 细胞
+T131	Anatomy 5110 5115	肾小管细胞
+T132	Anatomy 5116 5123	血管平滑肌细胞
+T133	Disease 5184 5189	肾小管损伤
+T134	Disease 5190 5196	肾小管纤维化
+T135	Drug 5223 5232	血管紧张素2拮抗剂
+T136	Anatomy 5283 5285	肾脏
+T137	Drug 5315 5324	血管紧张素2拮抗剂
+T138	Anatomy 5325 5327	肾脏
+T139	Anatomy 5352 5354	肾脏
+T140	Disease 5390 5393	糖尿病
+T141	Anatomy 5395 5397	肾脏
+T142	Anatomy 5406 5411	PTH1R
+T143	Test 5480 5486	血管紧张素2
+T144	Anatomy 5513 5520	p27Kip1
+T145	Drug 5532 5534;5535 5542	血管 紧张素2拮抗剂
+T146	Anatomy 796 801	TGF-β
+T147	Anatomy 189 199	甲状旁腺激素相关蛋白
+T148	Anatomy 208 214	血管紧张素2
+T149	Test_Value 2579 2581	增加
+T150	Anatomy 2774 2776	肾脏
+T151	Anatomy 3473 3480	小干扰 RNA
+T152	Anatomy 3569 3576	小干扰 RNA
+T153	Anatomy 3579 3580;3581 3583	足 细胞
+T154	Anatomy 4457 4461	CDK2
+T155	Anatomy 1550 1552	肾脏
+T156	Reason 1577 1581	细胞肥大
+T157	Reason 1582 1584	增生
+T158	Reason 1856 1860	细胞肥大
+T159	Reason 2121 2123	增生
+T160	Drug 2444 2449	链脲佐菌素
+T161	Drug 2466 2469	STZ
+T162	Drug 2509 2512	STZ
+T163	Drug 2878 2881	STZ
+T164	Anatomy 3838 3842	系膜细胞
+T165	Test 3852 3856	生长因子
+T166	Reason 3866 3868	增生
+T167	Test 3891 3895	生长因子
+T168	Test 3964 3968;3969 3973	炎症反应 调节因子
+T169	Anatomy 4282 4284	肾脏
+T170	Reason 4811 4813	增生
+T171	Anatomy 4536 4543	CDK 抑制物
+T172	Anatomy 3 13	甲状旁腺激素相关蛋白
+T173	Anatomy 52 62	甲状旁腺激素相关蛋白
+T174	Anatomy 75 79;80 85	转化生长 因子-β1
+T175	Symptom 103 106	蛋白尿
+T176	Anatomy 108 114	血管紧张素2
+T177	Anatomy 127 128;129 138	甲 状旁腺激素相关蛋白
+T178	Test 1200 1219	甲 状 旁 腺 激 素 相 关 蛋 白
+T179	Test 1258 1263	PTHrP
+T180	Anatomy 1268 1284	甲状旁腺激素相关蛋白 1 型受体
+T181	Anatomy 1339 1344	PTH1R
+T182	Anatomy 1367 1369	肾脏
+T183	Test 1370 1375	PTHrP
+T184	Anatomy 1402 1407	PTHrP
+T185	Reason 1525 1526;1527 1529	蛋 白尿
+T186	Reason 1530 1535	肾小球硬化
+T187	Reason 1514 1520	肾脏细胞肥大
+T188	Symptom 96 102	肾脏细胞肥大
+T189	Anatomy 1639 1641;1642 1649	肾小 球脏层上皮细胞
+T190	Anatomy 1651 1654	足细胞
+T191	Reason 1678 1685	肾小球细胞肥厚
+T192	Reason 1690 1695	肾小球硬化
+T193	Reason 1697 1699	高糖
+T194	Reason 1702 1708	肾脏细胞肥厚
+T195	Reason 1851 1853	高糖
+T196	Test 1874 1881	肾素血管紧张素
+T197	Test 1888 1889;1890 1903	转 化生长因子(TGF)-β1
+T198	Anatomy 1906 1914	细胞周期调节蛋白
+T199	Anatomy 1862 1871	肾素血管紧张素系统
+T200	Anatomy 1916 1922;1923 1933	细胞周期蛋白 依赖性蛋白激酶复合物
+T201	Anatomy 1938 1945	p27Kip1
+T202	Anatomy 1981 1992;1993 1994	细胞周期调节蛋白的复合 物
+T203	Anatomy 2022 2025	PTH
+T204	Anatomy 2028 2033	PTHrP
+T205	Anatomy 2060 2065	PTHrP
+T206	Anatomy 2083 2088	PTHrP
+T207	Anatomy 2092 2093	肾
+T208	Anatomy 2161 2166	PTHrP
+T209	Anatomy 2199 2204	PTHrP
+T210	Reason 2213 2222	肾小管间质瘢痕形成
+T211	Reason 2223 2226	蛋白尿
+T212	Anatomy 2245 2247	肾脏
+T213	Anatomy 2264 2269	PTHrP
+T214	Anatomy 2291 2296	PTHrP
+T215	Anatomy 2298 2300	肾脏
+T216	Anatomy 2323 2328	PTHrP
+T217	Anatomy 2340 2345	PTHrP
+T218	Anatomy 2352 2355	肾小管
+T219	Anatomy 2403 2408	PTHrP
+T220	Anatomy 2425 2427	肾脏
+T221	Anatomy 2490 2495	PTHrP
+T222	Anatomy 2534 2537	肾小球
+T223	Anatomy 2549 2554	PTHrP
+T224	Anatomy 2602 2607	PTHrP
+T225	Anatomy 2655 2660	PTHrP
+T226	Anatomy 2719 2724	PTHrP
+T227	Anatomy 2746 2748	肾脏
+T228	Anatomy 2777 2782	PTHrP
+T229	Anatomy 2813 2818	PTHrP
+T230	Anatomy 2845 2850	PTHrP
+T231	Anatomy 2894 2899	PTHrP
+T232	Anatomy 2942 2947	PTHrP
+T233	Anatomy 2982 2987	PTHrP
+T234	Anatomy 2991 2993	肾脏
+T235	Anatomy 3019 3024	PTHrP
+T236	Anatomy 3029 3032	足细胞
+T237	Reason 3055 3057	高糖
+T238	Reason 3059 3064	足细胞肥大
+T239	Anatomy 3067 3075	PTHrP 抗体
+T240	Anatomy 3081 3089	PTHrP 抗体
+T241	Anatomy 3097 3103	TGF-β1
+T242	Anatomy 3112 3117	PTHrP
+T243	Anatomy 3135 3140	PTHrP
+T244	Anatomy 3225 3230	PTHrP
+T245	Anatomy 3246 3253	p27Kip1
+T246	Anatomy 3235 3240;3241 3245	细胞周期蛋 白抑制物
+T247	Reason 3284 3289	足细胞肥大
+T248	Reason 3333 3336	高血糖
+T249	Reason 3337 3343	血管紧张素2
+T250	Anatomy 3359 3364	PTHrP
+T251	Anatomy 3406 3411	PTHrP
+T252	Anatomy 3509 3514	PTHrP
+T253	Reason 3531 3533	高糖
+T254	Reason 3534 3542	肾素血管紧张素2
+T255	Anatomy 3587 3593	TGF-β1
+T256	Anatomy 3608 3613	PTHrP
+T257	Anatomy 3628 3633	PTHrP
+T258	Anatomy 3638 3641	足细胞
+T259	Reason 3652 3654	高糖
+T260	Reason 3655 3656;3657 3664	肾 素血管紧张素2
+T261	Anatomy 3668 3673	PTHrP
+T262	Anatomy 3690 3695	PTHrP
+T263	Anatomy 3701 3707	TGF-β1
+T264	Anatomy 3712 3715	足细胞
+T265	Anatomy 3726 3731	PTHrP
+T266	Anatomy 3745 3747	肾脏
+T267	Anatomy 3770 3775	PTHrP
+T268	Anatomy 3784 3786	肾脏
+T269	Anatomy 3798 3802;3803 3805	TGF- β1
+T270	Reason 3831 3833	高糖
+T271	Reason 3847 3849	高糖
+T272	Reason 3886 3888	高糖
+T273	Anatomy 3916 3920	系膜细胞
+T274	Anatomy 3942 3947	PTHrP
+T275	Anatomy 3954 3956	肾脏
+T276	Anatomy 3975 3983	血管内皮生长因子
+T277	Anatomy 4012 4017	PTHrP
+T278	Anatomy 4025 4032	TGF1-β1
+T279	Anatomy 4047 4049	肾脏
+T280	Anatomy 4083 4088	PTHrP
+T281	Anatomy 4105 4110	PTHrP
+T282	Reason 4116 4117;4118 4121	肾 脏肥大
+T283	Anatomy 4188 4193	PTHrP
+T284	Anatomy 4213 4218	PTHrP
+T285	Anatomy 4266 4271	PTHrP
+T286	Anatomy 4299 4304	PTHrP
+T287	Anatomy 4317 4322	PTHrP
+T288	Anatomy 4333 4338	人系膜细胞
+T289	Anatomy 4340 4343	HMC
+T290	Anatomy 4348 4352	系膜细胞
+T291	Anatomy 4362 4367	PTHrP
+T292	Anatomy 4382 4393	细胞周期调节蛋白 D1
+T293	Anatomy 4516 4521	PTHrP
+T294	Anatomy 4557 4562	PTHrP
+T295	Anatomy 4602 4606	系膜细胞
+T296	Reason 4623 4625	高糖
+T297	Anatomy 4627 4632	PTHrP
+T298	Anatomy 4637 4643	TGF-β1
+T299	Reason 4677 4679	高糖
+T300	Anatomy 4684 4693	TGF-β1 蛋白
+T301	Anatomy 4715 4720	PTHrP
+T302	Reason 4722 4724	高糖
+T303	Anatomy 4726 4729	HMC
+T304	Anatomy 4806 4808	肾脏
+T305	Anatomy 4817 4822	PTHrP
+T306	Anatomy 4846 4851	PTHrP
+T307	Anatomy 4862 4865;4866 4867	系膜细 胞
+T308	Anatomy 4879 4884	PTHrP
+T309	Anatomy 4886 4892	血管紧张素2
+T310	Anatomy 4893 4895	肾脏
+T311	Test 4904 4906	肾素
+T312	Test 4906 4911	血管紧张素
+T313	Anatomy 4914 4916	肾脏
+T314	Test 4982 4984	肾素
+T315	Test 4984 4989	血管紧张素
+T316	Anatomy 5053 5058	PTHrP
+T317	Anatomy 5062 5068	血管紧张素2
+T318	Anatomy 5071 5073	肾脏
+T319	Anatomy 5087 5093	血管紧张素2
+T320	Anatomy 5125 5130	PTHrP
+T321	Anatomy 5157 5163	血管紧张素2
+T322	Anatomy 5168 5173	PTHrP
+T323	Disease 5213 5221	肾毒性急性肾衰竭
+T324	Anatomy 5237 5242	PTHrP
+T325	Anatomy 5272 5278	血管紧张素2
+T326	Anatomy 5298 5303	PTHrP
+T327	Anatomy 5398 5403	PTHrP
+T328	Anatomy 5422 5424	肾脏
+T329	Anatomy 5442 5447	PTHrP
+T330	Reason 5452 5455	高血糖
+T331	Anatomy 5458 5463	肾小球细胞
+T332	Reason 5474 5476	高糖
+T333	Anatomy 5489 5494	PTHrP
+T334	Anatomy 5504 5510	TGF-β1
+R1	Anatomy_Disease Arg1:T28 Arg2:T3
+R2	Drug_Disease Arg1:T29 Arg2:T5
+R3	Anatomy_Disease Arg1:T31 Arg2:T32
+R4	Anatomy_Disease Arg1:T182 Arg2:T32
+R5	Test_Disease Arg1:T183 Arg2:T32
+R6	Anatomy_Disease Arg1:T30 Arg2:T32
+R7	Anatomy_Disease Arg1:T155 Arg2:T8
+R8	Drug_Disease Arg1:T40 Arg2:T41
+R9	Anatomy_Disease Arg1:T42 Arg2:T41
+R10	Anatomy_Disease Arg1:T43 Arg2:T10
+R11	Anatomy_Disease Arg1:T189 Arg2:T10
+R12	Anatomy_Disease Arg1:T190 Arg2:T10
+R13	Anatomy_Disease Arg1:T44 Arg2:T10
+R14	Anatomy_Disease Arg1:T45 Arg2:T10
+R15	Anatomy_Disease Arg1:T46 Arg2:T11
+R16	Anatomy_Disease Arg1:T60 Arg2:T59
+R17	Anatomy_Disease Arg1:T64 Arg2:T13
+R18	Drug_Disease Arg1:T160 Arg2:T66
+R19	Drug_Disease Arg1:T161 Arg2:T66
+R20	Drug_Disease Arg1:T162 Arg2:T67
+R21	Anatomy_Disease Arg1:T68 Arg2:T67
+R22	Anatomy_Disease Arg1:T69 Arg2:T67
+R23	Anatomy_Disease Arg1:T72 Arg2:T71
+R24	Test_Disease Arg1:T73 Arg2:T71
+R25	Test_Disease Arg1:T24 Arg2:T71
+R26	Drug_Disease Arg1:T163 Arg2:T83
+R27	Anatomy_Disease Arg1:T82 Arg2:T83
+R28	Anatomy_Disease Arg1:T81 Arg2:T83
+R29	Symptom_Disease Arg1:T80 Arg2:T83
+R30	Anatomy_Disease Arg1:T84 Arg2:T83
+R31	Anatomy_Disease Arg1:T85 Arg2:T83
+R32	Symptom_Disease Arg1:T86 Arg2:T87
+R33	Anatomy_Disease Arg1:T104 Arg2:T105
+R34	Anatomy_Disease Arg1:T107 Arg2:T106
+R35	Anatomy_Disease Arg1:T108 Arg2:T106
+R36	Anatomy_Disease Arg1:T109 Arg2:T106
+R37	Test_Disease Arg1:T111 Arg2:T16
+R38	Anatomy_Disease Arg1:T112 Arg2:T17
+R39	Anatomy_Disease Arg1:T169 Arg2:T17
+R40	Anatomy_Disease Arg1:T113 Arg2:T17
+R41	Anatomy_Disease Arg1:T114 Arg2:T18
+R42	Anatomy_Disease Arg1:T288 Arg2:T18
+R43	Anatomy_Disease Arg1:T289 Arg2:T18
+R44	Anatomy_Disease Arg1:T123 Arg2:T19
+R45	Anatomy_Disease Arg1:T125 Arg2:T124
+R46	Anatomy_Disease Arg1:T141 Arg2:T140
+R47	Anatomy_Disease Arg1:T142 Arg2:T140
+R48	Drug_Disease Arg1:T145 Arg2:T22
+R49	Anatomy_Disease Arg1:T39 Arg2:T9
+R50	Anatomy_Disease Arg1:T172 Arg2:T2
+R51	Anatomy_Disease Arg1:T173 Arg2:T3
+R52	Anatomy_Disease Arg1:T174 Arg2:T3
+R53	Symptom_Disease Arg1:T188 Arg2:T3
+R54	Symptom_Disease Arg1:T175 Arg2:T3
+R55	Anatomy_Disease Arg1:T176 Arg2:T4
+R56	Anatomy_Disease Arg1:T177 Arg2:T4
+R57	Anatomy_Disease Arg1:T181 Arg2:T32
+R58	Anatomy_Disease Arg1:T180 Arg2:T32
+R59	Test_Disease Arg1:T179 Arg2:T32
+R60	Test_Disease Arg1:T178 Arg2:T32
+R61	Anatomy_Disease Arg1:T184 Arg2:T33
+R62	Anatomy_Disease Arg1:T47 Arg2:T11
+R63	Anatomy_Disease Arg1:T208 Arg2:T59
+R64	Anatomy_Disease Arg1:T60 Arg2:T58
+R65	Anatomy_Disease Arg1:T208 Arg2:T58
+R66	Anatomy_Disease Arg1:T216 Arg2:T12
+R67	Anatomy_Disease Arg1:T217 Arg2:T63
+R68	Anatomy_Disease Arg1:T218 Arg2:T63
+R69	Anatomy_Disease Arg1:T219 Arg2:T13
+R70	Anatomy_Disease Arg1:T220 Arg2:T65
+R71	Anatomy_Disease Arg1:T221 Arg2:T66
+R72	Anatomy_Disease Arg1:T223 Arg2:T67
+R73	Test_Disease Arg1:T70 Arg2:T67
+R74	Anatomy_Disease Arg1:T224 Arg2:T71
+R75	Anatomy_Disease Arg1:T225 Arg2:T71
+R76	Anatomy_Disease Arg1:T226 Arg2:T71
+R77	Anatomy_Disease Arg1:T227 Arg2:T71
+R78	Test_Disease Arg1:T25 Arg2:T71
+R79	Test_Disease Arg1:T74 Arg2:T71
+R80	Anatomy_Disease Arg1:T232 Arg2:T83
+R81	Anatomy_Disease Arg1:T279 Arg2:T105
+R82	Anatomy_Disease Arg1:T278 Arg2:T105
+R83	Anatomy_Disease Arg1:T277 Arg2:T105
+R84	Anatomy_Disease Arg1:T281 Arg2:T15
+R85	Anatomy_Disease Arg1:T280 Arg2:T14
+R86	Anatomy_Disease Arg1:T283 Arg2:T106
+R87	Anatomy_Disease Arg1:T110 Arg2:T106
+R88	Anatomy_Disease Arg1:T284 Arg2:T106
+R89	Anatomy_Disease Arg1:T286 Arg2:T17
+R90	Anatomy_Disease Arg1:T290 Arg2:T18
+R91	Anatomy_Disease Arg1:T291 Arg2:T18
+R92	Anatomy_Disease Arg1:T292 Arg2:T18
+R93	Anatomy_Disease Arg1:T115 Arg2:T18
+R94	Anatomy_Disease Arg1:T116 Arg2:T18
+R95	Anatomy_Disease Arg1:T304 Arg2:T124
+R96	Anatomy_Disease Arg1:T306 Arg2:T20
+R97	Anatomy_Disease Arg1:T126 Arg2:T20
+R98	Anatomy_Disease Arg1:T305 Arg2:T20
+R99	Anatomy_Disease Arg1:T307 Arg2:T20
+R100	Test_Disease Arg1:T314 Arg2:T127
+R101	Test_Disease Arg1:T315 Arg2:T127
+R102	Drug_Disease Arg1:T128 Arg2:T127
+R103	Anatomy_Disease Arg1:T322 Arg2:T133
+R104	Anatomy_Disease Arg1:T321 Arg2:T133
+R105	Anatomy_Disease Arg1:T321 Arg2:T134
+R106	Anatomy_Disease Arg1:T322 Arg2:T134
+R107	Drug_Disease Arg1:T135 Arg2:T323
+R108	Anatomy_Disease Arg1:T324 Arg2:T323
+R109	Test_Disease Arg1:T27 Arg2:T323
+R110	Anatomy_Disease Arg1:T325 Arg2:T323
+R111	Anatomy_Disease Arg1:T136 Arg2:T323
+R112	Anatomy_Disease Arg1:T326 Arg2:T323
+R113	Drug_Disease Arg1:T137 Arg2:T323
+R114	Anatomy_Disease Arg1:T138 Arg2:T323
+R115	Anatomy_Disease Arg1:T139 Arg2:T323
+R116	Anatomy_Disease Arg1:T327 Arg2:T140
+R117	Anatomy_Disease Arg1:T328 Arg2:T140
+R118	Anatomy_Disease Arg1:T144 Arg2:T22
+R119	Anatomy_Disease Arg1:T334 Arg2:T22
+R120	Anatomy_Disease Arg1:T333 Arg2:T22
+R121	Test_Disease Arg1:T143 Arg2:T22
+R122	Anatomy_Disease Arg1:T219 Arg2:T65
+R123	Anatomy_Disease Arg1:T64 Arg2:T65
+R124	Anatomy_Disease Arg1:T222 Arg2:T67
+R125	Anatomy_Disease Arg1:T230 Arg2:T83
+R126	Anatomy_Disease Arg1:T231 Arg2:T83
+R127	Anatomy_Disease Arg1:T232 Arg2:T87
+R128	Test_Disease Arg1:T111 Arg2:T17
+R129	Anatomy_Disease Arg1:T287 Arg2:T18
+R130	Anatomy_Disease Arg1:T328 Arg2:T21
+R131	Drug_Disease Arg1:T145 Arg2:T23
+R132	Anatomy_Disease Arg1:T184 Arg2:T34
+R133	Anatomy_Disease Arg1:T184 Arg2:T7
+R134	Anatomy_Disease Arg1:T184 Arg2:T36
+R135	Anatomy_Disease Arg1:T184 Arg2:T35
+R136	Anatomy_Disease Arg1:T184 Arg2:T1
+R137	Anatomy_Disease Arg1:T184 Arg2:T37
+R138	Anatomy_Disease Arg1:T184 Arg2:T38
+R139	Anatomy_Disease Arg1:T217 Arg2:T13
+R140	Anatomy_Disease Arg1:T218 Arg2:T13
+R141	Anatomy_Disease Arg1:T150 Arg2:T83
+R142	Anatomy_Disease Arg1:T228 Arg2:T83
+R143	Anatomy_Disease Arg1:T75 Arg2:T83
+R144	Test_Disease Arg1:T26 Arg2:T83
+R145	Anatomy_Disease Arg1:T78 Arg2:T83
+R146	Anatomy_Disease Arg1:T229 Arg2:T83
+R147	Anatomy_Disease Arg1:T79 Arg2:T83

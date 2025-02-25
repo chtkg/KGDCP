@@ -1,0 +1,573 @@
+T1	Disease 212 218	2 型糖尿病
+T2	Disease 3300 3306	2 型糖尿病
+T3	Disease 880 889	糖尿病周围神经病变
+T4	Disease 2989 2998	糖尿病周围神经病变
+T5	Disease 3077 3086	糖尿病周围神经病变
+T6	Disease 3107 3116	糖尿病周围神经病变
+T7	Disease 8371 8380	糖尿病周围神经病变
+T8	Disease 8447 8456	糖尿病周围神经病变
+T9	Disease 8410 8415	代谢综合征
+T10	Disease 8428 8433	代谢综合征
+T11	Disease 8318 8321	DPN
+T12	Disease 8934 8937	DPN
+T13	Disease 8955 8958	DPN
+T14	Disease 9011 9014	DPN
+T15	Disease 9271 9274	DPN
+T16	Disease 9363 9366	DPN
+T17	Disease 9401 9404	DPN
+T18	Disease 9477 9480	DPN
+T19	Disease 9500 9503	DPN
+T20	Disease 9523 9526	DPN
+T21	Test 8780 8782	血糖
+T22	Test 9180 9182	血糖
+T23	Test 9240 9242	血糖
+T24	Test 3655 3658	肌电图
+T25	Test 4440 4443	肌电图
+T26	Disease 142 145	CTS
+T27	Test 97 100	NCV
+T28	Test 63 69	神经传导速度
+T29	Test 236 242	神经传导速度
+T30	Anatomy 273 277	正中神经
+T31	Disease 295 297;298 299	糖尿 病
+T32	Disease 310 316	神经传导异常
+T33	Disease 328 331	CTS
+T34	Disease 394 397	CTS
+T35	Disease 402 407	腕管综合征
+T36	Anatomy 441 445	正中神经
+T37	Test 445 453	感觉神经传导速度
+T38	Test 491 494	SCV
+T39	Anatomy 545 547;548 550	正中 神经
+T40	Test 550 558	运动神经传导速度
+T41	Test 592 595	MCV
+T42	Test 645 648	NCV
+T43	Anatomy 668 672	正中神经
+T44	Test 673 676	SCV
+T45	Anatomy 726 730	正中神经
+T46	Test 731 734	SCV
+T47	Test 787 790	NCV
+T48	Disease 812 813;814 816	糖 尿病
+T49	Disease 821 824	CTS
+T50	Disease 831 837	感觉神经损伤
+T51	Disease 841 847	运动神经损伤
+T52	Disease 346 352	感觉神经损伤
+T53	Disease 354 358;359 361	运动神经 损伤
+T54	Disease 2999 3002	糖尿病
+T55	Disease 3012 3017	腕管综合征
+T56	Disease 3042 3045	CTS
+T57	Disease 3048 3049;3050 3058	迟 发性正中神经麻痹
+T58	Anatomy 3064 3068	正中神经
+T59	Disease 3089 3092	CTS
+T60	Disease 3101 3104	CTS
+T61	Disease 3142 3145	CTS
+T62	Disease 3196 3199	糖尿病
+T63	Disease 3212 3215	糖尿病
+T64	Disease 3218 3221	CTS
+T65	Disease 3376 3379	糖尿病
+T66	Disease 3430 3433	糖尿病
+T67	Drug 3536 3539	痢特灵
+T68	Drug 3540 3543	雷米封
+T69	Test 3619 3625	神经传导速度
+T70	Anatomy 3841 3845	正中神经
+T71	Anatomy 3848 3851	尺神经
+T72	Anatomy 3854 3857;3858 3859	腓总神 经
+T73	Anatomy 3862 3865	胫神经
+T74	Test 3866 3874	运动神经传导速度
+T75	Test 3910 3913	MCV
+T76	Anatomy 3918 3922	正中神经
+T77	Anatomy 3925 3926;3927 3929	尺 神经
+T78	Anatomy 3932 3936	腓肠神经
+T79	Test 3937 3945	感觉神经传导速度
+T80	Test 3983 3986	SCV
+T81	Disease 3990 3993	糖尿病
+T82	Disease 3996 3999	CTS
+T83	Disease 4003 4009	运动神经损伤
+T84	Disease 4010 4016	感觉神经损伤
+T85	Test 4071 4074	NCV
+T86	Anatomy 4124 4128	正中神经
+T87	Anatomy 4129 4131;4132 4136	正中 感觉神经
+T88	Symptom 4237 4239;4240 4242	拇指 无力
+T89	Symptom 4243 4248	大鱼际萎缩
+T90	Disease 4286 4291;4292 4295	多发性周围 神经病
+T91	Disease 4296 4305	退行性颈椎神经根型
+T92	Disease 4306 4313	胸廓出口综合征
+T93	Disease 4314 4316;4317 4322	旋前 圆肌综合征
+T94	Disease 4323 4329	运动神经元病
+T95	Disease 4344 4350	正中神经损害
+T96	Anatomy 4332 4336	正中神经
+T97	Disease 4352 4355	CTS
+T98	Anatomy 4369 4373	正中神经
+T99	Anatomy 4383 4387	正中神经
+T100	Test 4389 4391;4392 4397	运动 传导潜伏期
+T101	Test 4418 4421	SCV
+T102	Test 4398 4401	DML
+T103	Test_Value 4402 4404	延长
+T104	Test_Value 4422 4424	减慢
+T105	Test 4432 4436	SNAP
+T106	Test 4425 4431	动作电位波幅
+T107	Test_Value 4437 4439	降低
+T108	Anatomy 4443 4447	拇短展肌
+T109	Disease 4557 4560	糖尿病
+T110	Disease 4573 4574;4575 4580	单 侧神经损伤
+T111	Disease 4581 4587	双侧神经损伤
+T112	Disease 4666 4673;4674 4675	单纯运动神经损 伤
+T113	Disease 4676 4684	单纯感觉神经损伤
+T114	Disease 4685 4693	运动感觉共同损伤
+T115	Disease 4815 4816;4817 4822	运 动神经损伤
+T116	Disease 4843 4848;4849 4850	感觉神经损 伤
+T117	Disease 4864 4870	感觉神经损伤
+T118	Disease 4875 4877;4878 4882	运动 神经损伤
+T119	Disease 4904 4907	糖尿病
+T120	Disease 4912 4915	CTS
+T121	Test 4920 4923	NCV
+T122	Disease 4936 4939	糖尿病
+T123	Disease 4943 4948	腕管综合征
+T124	Test 4970 4973	NCV
+T125	Disease 4991 4994	CTS
+T126	Test 5017 5020	NCV
+T127	Disease 5064 5067	糖尿病
+T128	Disease 5080 5084;5085 5087	神经传导 异常
+T129	Disease 5100 5103	CTS
+T130	Disease 5122 5125	CTS
+T131	Disease 5143 5146	CTS
+T132	Disease 5162 5165	CTS
+T133	Disease 5369 5372	糖尿病
+T134	Test 5382 5385	NCV
+T135	Test 5403 5406	NCV
+T136	Anatomy 5414 5416;5417 5419	正中 神经
+T137	Disease 7101 7104	糖尿病
+T138	Test 7114 7117	NCV
+T139	Disease 7131 7134	糖尿病
+T140	Anatomy 7173 7177	正中神经
+T141	Anatomy 7178 7181	尺神经
+T142	Anatomy 7183 7187	腓肠神经
+T143	Test 7188 7191	SCV
+T144	Anatomy 7194 7198	正中神经
+T145	Anatomy 7199 7202	尺神经
+T146	Anatomy 7203 7207	腓总神经
+T147	Anatomy 7208 7210;7211 7212	胫神 经
+T148	Test 7213 7216	MCV
+T149	Anatomy 7240 7244	正中神经
+T150	Test 7245 7248	SCV
+T151	Disease 7298 7301	CTS
+T152	Disease 7310 7318	嵌压性周围神经病
+T153	Anatomy 7332 7336	正中神经
+T154	Anatomy 7350 7354	正中神经
+T155	Anatomy 7364 7366	腕管
+T156	Anatomy 7400 7404	正中神经
+T157	Anatomy 7411 7415	腕横韧带
+T158	Anatomy 7368 7369;7370 7373	腕 横韧带
+T159	Anatomy 7374 7376	腕骨
+T160	Anatomy 7438 7442	正中神经
+T161	Disease 7475 7478	糖尿病
+T162	Anatomy 7488 7490	腕管
+T163	Disease 7502 7505	CTS
+T164	Disease 7529 7532	糖尿病
+T165	Disease 7563 7566	CTS
+T166	Disease 7595 7598	CTS
+T167	Test 7723 7729	动作电位波幅
+T168	Disease 7749 7755	感觉神经损伤
+T169	Disease 7761 7765;7766 7768	运动神经 损伤
+T170	Disease 7788 7792;7793 7795	正中神经 损伤
+T171	Disease 7797 7802	脱髓鞘病变
+T172	Disease 7804 7808	轴索损伤
+T173	Test_Value 7720 7722	延长
+T174	Test_Value 7729 7731	减低
+T175	Test_Value 7698 7700	减低
+T176	Test 7692 7698	诱发电位波幅
+T177	Test_Value 7688 7690	减慢
+T178	Disease 7817 7820	CTS
+T179	Disease 7848 7851	糖尿病
+T180	Anatomy 7870 7873	腕关节
+T181	Symptom 7887 7892;7893 7895	优势手麻木 力弱
+T182	Disease 7912 7915	CTS
+T183	Test 7969 7972	NCV
+T184	Disease 8003 8006	CTS
+T185	Anatomy 8010 8014	感觉神经
+T186	Anatomy 8020 8024	运动神经
+T187	Disease 8037 8040	糖尿病
+T188	Disease 8049 8053;8054 8056	正中神经 损伤
+T189	Disease 8082 8090	多发性周围神经病
+T190	Disease 8097 8102;8103 8104	正中神经损 伤
+T191	Disease 8110 8113	CTS
+T192	Anatomy 8133 8137	正中神经
+T193	Test 8138 8141	SCV
+T194	Test 8144 8147	MCV
+T195	Anatomy 8184 8186	手腕
+T196	Disease 8194 8197	CTS
+T197	Anatomy 8211 8215	正中神经
+T198	Test 8216 8219	SCV
+T199	Anatomy 8254 8255;8256 8257	手 腕
+T200	Anatomy 8277 8279;8280 8282	腕周 组织
+T201	Disease 8289 8292	CTS
+T202	Disease 8328 8331	CTS
+T203	Anatomy 8355 8359	正中神经
+T204	Disease 8399 8402	CTS
+T205	Disease 8419 8422	CTS
+T206	Disease 8458 8467	多发性周围神经病变
+T207	Disease 8477 8480	CTS
+T208	Disease 8487 8490	糖尿病
+T209	Disease 8494 8497	CTS
+T210	Disease 8509 8512	糖尿病
+T211	Disease 8515 8521	周围神经病变
+T212	Disease 8564 8567	糖尿病
+T213	Disease 8704 8709;8710 8711	周围神经病 变
+T214	Disease 8718 8721	糖尿病
+T215	Anatomy 8724 8728	周围神经
+T216	Disease 8760 8762;8763 8764	糖尿 病
+T217	Anatomy 8768 8770	肌腱
+T218	Anatomy 8771 8773	滑膜
+T219	Anatomy 8774 8776	韧带
+T220	Anatomy 8795 8797	腕管
+T221	Anatomy 8798 8800	肘管
+T222	Anatomy 8801 8803	踝管
+T223	Disease 8917 8920	CTS
+T224	Disease 8968 8971	糖尿病
+T225	Symptom 8976 8981	手、足麻木
+T226	Disease 9103 9106	糖尿病
+T227	Operation 9115 9122	周围神经减压术
+T228	Disease 9108 9111	糖尿病
+T229	Disease 9216 9223	神经卡压综合征
+T230	Disease 9225 9228	糖尿病
+T231	Disease 9301 9304	糖尿病
+T232	Disease 9329 9333	格林巴利
+T233	Disease 9334 9337;9338 9341	运动神 经元病
+T234	Disease 9342 9351	POEMS 综合征
+T235	Disease 9381 9384	糖尿病
+T236	Disease 9413 9418	POEMS
+T237	Disease 9439 9448	POEMS 综合征
+T238	Disease 9492 9495	糖尿病
+T239	Disease 9535 9538	糖尿病
+T240	Disease 9550 9553	糖尿病
+T241	Test 9558 9561	NCV
+T242	Disease 9576 9579	CTS
+T243	Test 9587 9590	NCV
+T244	Disease 9603 9606	CTS
+T245	Disease 9639 9642	糖尿病
+T246	Disease 9648 9654	感觉神经损伤
+T247	Test 4091 4094	肌电图
+T248	Anatomy 234 236	四肢
+T249	Disease 865 870	腕管综合征
+T250	Test 872 878	神经传导速度
+T251	Anatomy 3384 3388	右侧肢体
+T252	Anatomy 3390 3394	优势肢体
+T253	Disease 3461 3467	周围神经病变
+T254	Reason 3483 3492	遗传性及代谢性疾病
+T255	Reason 3493 3497	缺乏营养
+T256	Disease 3524 3525;3526 3531	周 围神经损伤
+T257	Disease 4588 4593	优势侧损伤
+T258	Disease 363 368	优势手损伤
+T259	Disease 7962 7965	糖尿病
+T260	Anatomy 7991 7995	感觉神经
+T261	Anatomy 8570 8574	结缔组织
+T262	Reason 8597 8602;8603 8620	蛋白质糖基 化、果糖、山梨醇的堆积以及肌醇减少
+T263	Reason 8621 8635;8636 8649	Na+ -K+ -ATP 酶 活性降低,造成血管缺血缺氧
+T264	Level 8779 8780	高
+T265	Anatomy 8817 8823	纤维结缔组织
+T266	Anatomy 8829 8833	神经组织
+T267	Disease 8847 8853	局部神经卡压
+T268	Anatomy 8865 8869	神经纤维
+T269	Disease 8871 8876	脱髓鞘病变
+T270	Anatomy 8881 8885	远端轴索
+T271	Anatomy 8889 8891	髓鞘
+T272	Reason 8908 8910	女性
+T273	Disease 9022 9028	局部神经卡压
+T274	Anatomy 9061 9065	胶原蛋白
+T275	Disease 9071 9076	神经纤维化
+T276	Test 17 23	神经传导速度
+T277	Anatomy 3069 3071	腕部
+T278	Test 3202 3207;3208 3209	神经传导速 度
+T279	Anatomy 4365 4366	腕
+T280	Disease 4564 4568	神经损伤
+T281	Disease 4648 4652	神经损伤
+T282	Anatomy 7337 7339	腕管
+T283	Disease 7544 7548;7549 7551	神经传导 异常
+T284	Disease 7664 7667;7668 7671	神经传 导异常
+T285	Anatomy 4173 4175	掌部
+T286	Anatomy 4176 4178	腕部
+T287	Anatomy 4183 4185	肘部
+T288	Anatomy 4179 4181	腕部
+T289	Anatomy 4137 4140	腕横纹
+T290	Anatomy 4209 4211	手部
+T291	Anatomy 4259 4260	腕
+T292	Anatomy 4405 4407	指域
+T293	Anatomy 4408 4409	腕
+T294	Anatomy 4413 4415	指3
+T295	Anatomy 4416 4417	腕
+T296	Anatomy 4027 4028	手
+T297	Anatomy 4031 4032	手
+T298	Anatomy 4035 4036	手
+T299	Anatomy 7457 7459	手腕
+T300	Anatomy 7942 7943	手
+T301	Disease 9671 9675	神经损伤
+T302	Anatomy 9716 9718	手部
+T303	Disease 5 8	糖尿病
+T304	Disease 10 15	腕管综合征
+T305	Disease 106 109	糖尿病
+T306	Disease 111 115;116 117	腕管综合 征
+T307	Reason 3469 3472;3473 3475	严重脊 椎病
+T308	Reason 3476 3482	严重肝肾疾病
+T309	Reason 3499 3504	结缔组织病
+T310	Reason 3505 3507	外伤
+T311	Reason 3508 3513	神经肌肉病
+T312	Anatomy 4161 4169	正中神经运动神经
+T313	Disease 4192 4195	糖尿病
+T314	Disease 4196 4199	CTS
+T315	Symptom 4221 4233	手部桡侧 3 个半指麻木
+T316	Symptom 4234 4236	疼痛
+T317	Symptom 4262 4265;4266 4274	正中神 经选择性传导异常
+T318	Disease 4529 4532	糖尿病
+T319	Disease 4534 4539	腕管综合征
+T320	Disease 4758 4761	糖尿病
+T321	Disease 4764 4767	CTS
+T322	Anatomy 4770 4774	运动神经
+T323	Disease 4775 4777;4778 4782	感觉 神经损伤
+T324	Disease 4786 4789	糖尿病
+T325	Disease 4792 4795	CTS
+T326	Disease 5042 5045	糖尿病
+T327	Disease 5048 5051	CTS
+T328	Anatomy 5230 5234	正中神经
+T329	Anatomy 5300 5304	正中神经
+T330	Test 5234 5241;5242 5248	运动神经掌-腕 神经传导速度
+T331	Test 5268 5273;5274 5278	腕-肘神经 传导速度
+T332	Test 5305 5318	运动神经掌-腕神经传导速度
+T333	Test 5340 5349	腕-肘神经传导速度
+T334	Test 5421 5424	MCV
+T335	Test 5427 5430	SCV
+T336	Disease 7652 7655	糖尿病
+T337	Disease 7658 7661	CTS
+T338	Anatomy 7706 7710	正中神经
+T339	Test 7710 7715;7716 7720	运动神经远 端潜伏期
+T340	Disease 7734 7737	糖尿病
+T341	Disease 7740 7743	CTS
+T342	Disease 7775 7778	糖尿病
+T343	Disease 7781 7784	CTS
+T344	Anatomy 7676 7680	正中神经
+T345	Test 7680 7688	感觉神经传导速度
+T346	Anatomy 7827 7830	优势手
+T347	Anatomy 7857 7860	优势手
+T348	Anatomy 7934 7938	非优势手
+T349	Anatomy 7977 7981	正中神经
+T350	Anatomy 7981 7985	运动神经
+T351	Symptom 8058 8067	腕以下神经传导异常
+T352	Reason 8592 8596	血糖升高
+T353	Reason 8650 8660;8661 8665	神经细胞轴索水肿、变 性、坏死
+T354	Reason 8666 8674	雪旺细胞髓鞘损害
+T355	Reason 8675 8686;8687 8700	神经内膜、束膜、雪旺细 胞、毛细血管等处基底膜增厚
+T356	Disease 8894 8903	Waller 变性
+T357	Reason 8911 8914	糖尿病
+T358	Symptom 8982 8984;8985 8987	活动 受限
+T359	Disease 9610 9613	糖尿病
+T360	Disease 9616 9619	CTS
+T361	Anatomy 9662 9665	优势手
+T362	Anatomy 9695 9698	优势手
+T363	Anatomy 9698 9701	腕关节
+R1	Test_Disease Arg1:T276 Arg2:T304
+R2	Test_Disease Arg1:T27 Arg2:T306
+R3	Test_Disease Arg1:T28 Arg2:T306
+R4	Test_Disease Arg1:T29 Arg2:T1
+R5	Anatomy_Disease Arg1:T30 Arg2:T1
+R6	Anatomy_Disease Arg1:T58 Arg2:T57
+R7	Anatomy_Disease Arg1:T277 Arg2:T57
+R8	Test_Disease Arg1:T278 Arg2:T62
+R9	Test_Disease Arg1:T80 Arg2:T81
+R10	Test_Disease Arg1:T79 Arg2:T81
+R11	Anatomy_Disease Arg1:T78 Arg2:T81
+R12	Anatomy_Disease Arg1:T77 Arg2:T81
+R13	Anatomy_Disease Arg1:T76 Arg2:T81
+R14	Anatomy_Disease Arg1:T290 Arg2:T314
+R15	Symptom_Disease Arg1:T315 Arg2:T314
+R16	Symptom_Disease Arg1:T316 Arg2:T314
+R17	Symptom_Disease Arg1:T88 Arg2:T314
+R18	Symptom_Disease Arg1:T89 Arg2:T314
+R19	Anatomy_Disease Arg1:T96 Arg2:T94
+R20	Anatomy_Disease Arg1:T279 Arg2:T97
+R21	Anatomy_Disease Arg1:T36 Arg2:T35
+R22	Test_Disease Arg1:T37 Arg2:T35
+R23	Test_Disease Arg1:T38 Arg2:T35
+R24	Test_Disease Arg1:T124 Arg2:T123
+R25	Test_Disease Arg1:T121 Arg2:T120
+R26	Anatomy_Disease Arg1:T322 Arg2:T323
+R27	Anatomy_Disease Arg1:T98 Arg2:T97
+R28	Anatomy_Disease Arg1:T99 Arg2:T97
+R29	Test_Disease Arg1:T100 Arg2:T97
+R30	Test_Disease Arg1:T102 Arg2:T97
+R31	Anatomy_Disease Arg1:T292 Arg2:T97
+R32	Anatomy_Disease Arg1:T293 Arg2:T97
+R33	Anatomy_Disease Arg1:T294 Arg2:T97
+R34	Anatomy_Disease Arg1:T295 Arg2:T97
+R35	Test_Disease Arg1:T126 Arg2:T125
+R36	Test_Disease Arg1:T134 Arg2:T133
+R37	Test_Disease Arg1:T135 Arg2:T133
+R38	Anatomy_Disease Arg1:T136 Arg2:T133
+R39	Test_Disease Arg1:T334 Arg2:T133
+R40	Test_Disease Arg1:T335 Arg2:T133
+R41	Test_Disease Arg1:T138 Arg2:T137
+R42	Anatomy_Disease Arg1:T140 Arg2:T139
+R43	Anatomy_Disease Arg1:T141 Arg2:T139
+R44	Anatomy_Disease Arg1:T142 Arg2:T139
+R45	Test_Disease Arg1:T143 Arg2:T139
+R46	Anatomy_Disease Arg1:T153 Arg2:T151
+R47	Anatomy_Disease Arg1:T282 Arg2:T151
+R48	Anatomy_Disease Arg1:T162 Arg2:T161
+R49	Anatomy_Disease Arg1:T344 Arg2:T284
+R50	Test_Disease Arg1:T345 Arg2:T284
+R51	Test_Disease Arg1:T176 Arg2:T284
+R52	Test_Disease Arg1:T167 Arg2:T284
+R53	Anatomy_Disease Arg1:T192 Arg2:T191
+R54	Test_Disease Arg1:T193 Arg2:T191
+R55	Test_Disease Arg1:T194 Arg2:T191
+R56	Anatomy_Disease Arg1:T197 Arg2:T196
+R57	Test_Disease Arg1:T198 Arg2:T196
+R58	Anatomy_Disease Arg1:T203 Arg2:T202
+R59	Test_Disease Arg1:T21 Arg2:T216
+R60	Anatomy_Disease Arg1:T220 Arg2:T216
+R61	Anatomy_Disease Arg1:T221 Arg2:T216
+R62	Anatomy_Disease Arg1:T222 Arg2:T216
+R63	Symptom_Disease Arg1:T225 Arg2:T224
+R64	Symptom_Disease Arg1:T358 Arg2:T224
+R65	Test_Disease Arg1:T23 Arg2:T230
+R66	Test_Disease Arg1:T241 Arg2:T240
+R67	Test_Disease Arg1:T243 Arg2:T244
+R68	Anatomy_Disease Arg1:T296 Arg2:T84
+R69	Anatomy_Disease Arg1:T297 Arg2:T84
+R70	Anatomy_Disease Arg1:T298 Arg2:T84
+R71	Test_Disease Arg1:T101 Arg2:T97
+R72	Anatomy_Disease Arg1:T299 Arg2:T161
+R73	Anatomy_Disease Arg1:T338 Arg2:T284
+R74	Anatomy_Disease Arg1:T180 Arg2:T179
+R75	Symptom_Disease Arg1:T181 Arg2:T182
+R76	Anatomy_Disease Arg1:T300 Arg2:T182
+R77	Anatomy_Disease Arg1:T185 Arg2:T184
+R78	Anatomy_Disease Arg1:T186 Arg2:T184
+R79	Anatomy_Disease Arg1:T195 Arg2:T196
+R80	Anatomy_Disease Arg1:T200 Arg2:T201
+R81	Anatomy_Disease Arg1:T215 Arg2:T214
+R82	Anatomy_Disease Arg1:T217 Arg2:T216
+R83	Anatomy_Disease Arg1:T218 Arg2:T216
+R84	Anatomy_Disease Arg1:T219 Arg2:T216
+R85	Anatomy_Disease Arg1:T302 Arg2:T301
+R86	Anatomy_Disease Arg1:T248 Arg2:T1
+R87	Anatomy_Disease Arg1:T39 Arg2:T35
+R88	Test_Disease Arg1:T40 Arg2:T35
+R89	Test_Disease Arg1:T41 Arg2:T35
+R90	Anatomy_Disease Arg1:T251 Arg2:T65
+R91	Drug_Disease Arg1:T67 Arg2:T256
+R92	Drug_Disease Arg1:T68 Arg2:T256
+R93	Test_Disease Arg1:T75 Arg2:T81
+R94	Test_Disease Arg1:T74 Arg2:T81
+R95	Anatomy_Disease Arg1:T73 Arg2:T81
+R96	Anatomy_Disease Arg1:T72 Arg2:T81
+R97	Anatomy_Disease Arg1:T71 Arg2:T81
+R98	Anatomy_Disease Arg1:T70 Arg2:T81
+R99	Anatomy_Disease Arg1:T291 Arg2:T314
+R100	Symptom_Disease Arg1:T317 Arg2:T314
+R101	Test_Disease Arg1:T106 Arg2:T97
+R102	Test_Disease Arg1:T105 Arg2:T97
+R103	Test_Disease Arg1:T25 Arg2:T97
+R104	Anatomy_Disease Arg1:T108 Arg2:T97
+R105	Anatomy_Disease Arg1:T328 Arg2:T132
+R106	Test_Disease Arg1:T330 Arg2:T132
+R107	Test_Disease Arg1:T331 Arg2:T132
+R108	Anatomy_Disease Arg1:T329 Arg2:T132
+R109	Test_Disease Arg1:T333 Arg2:T132
+R110	Test_Disease Arg1:T332 Arg2:T132
+R111	Anatomy_Disease Arg1:T144 Arg2:T139
+R112	Anatomy_Disease Arg1:T145 Arg2:T139
+R113	Anatomy_Disease Arg1:T146 Arg2:T139
+R114	Anatomy_Disease Arg1:T147 Arg2:T139
+R115	Test_Disease Arg1:T148 Arg2:T139
+R116	Anatomy_Disease Arg1:T149 Arg2:T139
+R117	Test_Disease Arg1:T150 Arg2:T139
+R118	Anatomy_Disease Arg1:T154 Arg2:T151
+R119	Anatomy_Disease Arg1:T155 Arg2:T151
+R120	Anatomy_Disease Arg1:T158 Arg2:T151
+R121	Anatomy_Disease Arg1:T159 Arg2:T151
+R122	Anatomy_Disease Arg1:T156 Arg2:T151
+R123	Anatomy_Disease Arg1:T157 Arg2:T151
+R124	Anatomy_Disease Arg1:T160 Arg2:T151
+R125	Test_Disease Arg1:T339 Arg2:T284
+R126	Anatomy_Disease Arg1:T346 Arg2:T178
+R127	Anatomy_Disease Arg1:T347 Arg2:T179
+R128	Anatomy_Disease Arg1:T348 Arg2:T182
+R129	Test_Disease Arg1:T183 Arg2:T259
+R130	Anatomy_Disease Arg1:T349 Arg2:T259
+R131	Anatomy_Disease Arg1:T350 Arg2:T259
+R132	Anatomy_Disease Arg1:T260 Arg2:T259
+R133	Symptom_Disease Arg1:T351 Arg2:T188
+R134	Anatomy_Disease Arg1:T199 Arg2:T201
+R135	Anatomy_Disease Arg1:T261 Arg2:T212
+R136	Anatomy_Disease Arg1:T265 Arg2:T216
+R137	Anatomy_Disease Arg1:T266 Arg2:T216
+R138	Anatomy_Disease Arg1:T268 Arg2:T269
+R139	Anatomy_Disease Arg1:T270 Arg2:T269
+R140	Anatomy_Disease Arg1:T271 Arg2:T356
+R141	Anatomy_Disease Arg1:T274 Arg2:T275
+R142	Test_Disease Arg1:T22 Arg2:T230
+R143	Anatomy_Disease Arg1:T362 Arg2:T301
+R144	Anatomy_Disease Arg1:T363 Arg2:T301
+R145	Anatomy_Disease Arg1:T361 Arg2:T246
+R146	Test_Disease Arg1:T27 Arg2:T305
+R147	Test_Disease Arg1:T28 Arg2:T305
+R148	Anatomy_Disease Arg1:T312 Arg2:T313
+R149	Anatomy_Disease Arg1:T285 Arg2:T313
+R150	Anatomy_Disease Arg1:T286 Arg2:T313
+R151	Anatomy_Disease Arg1:T288 Arg2:T313
+R152	Anatomy_Disease Arg1:T287 Arg2:T313
+R153	Test_Disease Arg1:T167 Arg2:T340
+R154	Anatomy_Disease Arg1:T338 Arg2:T340
+R155	Test_Disease Arg1:T276 Arg2:T303
+R156	Test_Disease Arg1:T27 Arg2:T26
+R157	Test_Disease Arg1:T28 Arg2:T26
+R158	Test_Disease Arg1:T37 Arg2:T34
+R159	Anatomy_Disease Arg1:T36 Arg2:T34
+R160	Test_Disease Arg1:T38 Arg2:T34
+R161	Anatomy_Disease Arg1:T58 Arg2:T56
+R162	Anatomy_Disease Arg1:T277 Arg2:T56
+R163	Anatomy_Disease Arg1:T58 Arg2:T55
+R164	Anatomy_Disease Arg1:T277 Arg2:T55
+R165	Test_Disease Arg1:T278 Arg2:T63
+R166	Test_Disease Arg1:T278 Arg2:T64
+R167	Anatomy_Disease Arg1:T252 Arg2:T65
+R168	Anatomy_Disease Arg1:T296 Arg2:T83
+R169	Anatomy_Disease Arg1:T297 Arg2:T83
+R170	Anatomy_Disease Arg1:T298 Arg2:T83
+R171	Anatomy_Disease Arg1:T296 Arg2:T82
+R172	Anatomy_Disease Arg1:T297 Arg2:T82
+R173	Anatomy_Disease Arg1:T298 Arg2:T82
+R174	Anatomy_Disease Arg1:T322 Arg2:T321
+R175	Anatomy_Disease Arg1:T322 Arg2:T320
+R176	Test_Disease Arg1:T121 Arg2:T119
+R177	Test_Disease Arg1:T124 Arg2:T122
+R178	Anatomy_Disease Arg1:T153 Arg2:T152
+R179	Anatomy_Disease Arg1:T282 Arg2:T152
+R180	Anatomy_Disease Arg1:T344 Arg2:T337
+R181	Test_Disease Arg1:T345 Arg2:T337
+R182	Test_Disease Arg1:T176 Arg2:T337
+R183	Anatomy_Disease Arg1:T344 Arg2:T336
+R184	Test_Disease Arg1:T345 Arg2:T336
+R185	Test_Disease Arg1:T176 Arg2:T336
+R186	Symptom_Disease Arg1:T181 Arg2:T179
+R187	Anatomy_Disease Arg1:T349 Arg2:T184
+R188	Anatomy_Disease Arg1:T350 Arg2:T184
+R189	Anatomy_Disease Arg1:T260 Arg2:T184
+R190	Symptom_Disease Arg1:T351 Arg2:T187
+R191	Anatomy_Disease Arg1:T192 Arg2:T190
+R192	Test_Disease Arg1:T193 Arg2:T190
+R193	Test_Disease Arg1:T194 Arg2:T190
+R194	Anatomy_Disease Arg1:T192 Arg2:T189
+R195	Test_Disease Arg1:T193 Arg2:T189
+R196	Test_Disease Arg1:T194 Arg2:T189
+R197	Anatomy_Disease Arg1:T199 Arg2:T11
+R198	Anatomy_Disease Arg1:T200 Arg2:T11
+R199	Anatomy_Disease Arg1:T199 Arg2:T202
+R200	Anatomy_Disease Arg1:T200 Arg2:T202
+R201	Anatomy_Disease Arg1:T203 Arg2:T7
+R202	Anatomy_Disease Arg1:T203 Arg2:T204
+R203	Anatomy_Disease Arg1:T215 Arg2:T213
+R204	Anatomy_Disease Arg1:T266 Arg2:T267
+R205	Anatomy_Disease Arg1:T274 Arg2:T273
+R206	Anatomy_Disease Arg1:T274 Arg2:T14
+R207	Test_Disease Arg1:T23 Arg2:T229
+R208	Test_Disease Arg1:T243 Arg2:T359
+R209	Test_Disease Arg1:T243 Arg2:T360
+R210	Anatomy_Disease Arg1:T361 Arg2:T245

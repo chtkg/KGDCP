@@ -1,0 +1,354 @@
+T1	Disease 3221 3227	动脉粥样硬化
+T2	Anatomy 8604 8608	脂肪细胞
+T3	Disease 3252 3255	结肠癌
+T4	Anatomy 99 107;108 110	NIT-1 胰岛 细胞
+T5	Anatomy 111 116	PPARγ
+T6	Anatomy 118 123	葡萄糖激酶
+T7	Anatomy 184 194	NIT-1 胰岛细胞
+T8	Anatomy 196 201	PPARγ
+T9	Anatomy 244 249	PPARγ
+T10	Anatomy 251 255	胰岛细胞
+T11	Anatomy 285 295	NIT-1 胰岛细胞
+T12	Anatomy 335 340	PPARγ
+T13	Anatomy 368 370	GK
+T14	Anatomy 399 404	PPARγ
+T15	Anatomy 407 409	GK
+T16	Drug 481 491	dickkopf 1
+T17	Anatomy 504 509	PPARγ
+T18	Anatomy 512 514	GK
+T19	Anatomy 83 86	Wnt
+T20	Anatomy 172 175	Wnt
+T21	Anatomy 234 237	Wnt
+T22	Anatomy 299 302	Wnt
+T23	Anatomy 535 538	Wnt
+T24	Anatomy 577 582	PPARγ
+T25	Anatomy 585 587	GK
+T26	Anatomy 615 618	Wnt
+T27	Anatomy 621 625	PI3K
+T28	Anatomy 630 635	PPARγ
+T29	Anatomy 667 670	Wnt
+T30	Anatomy 673 677	PI3K
+T31	Anatomy 694 697	Wnt
+T32	Anatomy 707 711	胰岛细胞
+T33	Anatomy 712 717	PPARγ
+T34	Anatomy 720 722	GK
+T35	Anatomy 737 741	PI3K
+T36	Anatomy 2179 2182	wnt
+T37	Anatomy 2165 2168	Wnt
+T38	Disease 2230 2233	糖尿病
+T39	Anatomy 2255 2265	NIT-1 胰岛细胞
+T40	Anatomy 2317 2325	NIT-1 细胞
+T41	Test 2336 2339	胰岛素
+T42	Anatomy 2221 2224	Wnt
+T43	Anatomy 2287 2290	Wnt
+T44	Anatomy 2800 2803	Wnt
+T45	Anatomy 2823 2827	PI3K
+T46	Anatomy 2830 2833	Akt
+T47	Anatomy 2940 2943	Wnt
+T48	Anatomy 2949 2953	胰岛细胞
+T49	Anatomy 3095 3099	PPAR
+T50	Anatomy 3127 3132	PPARα
+T51	Anatomy 3262 3265	Wnt
+T52	Anatomy 3275 3280	PPARγ
+T53	Anatomy 3397 3401	PI3K
+T54	Anatomy 3404 3407	Akt
+T55	Anatomy 3417 3422	PPARγ
+T56	Test 3470 3473	胰岛素
+T57	Anatomy 3461 3465	胰岛细胞
+T58	Anatomy 3494 3497	Wnt
+T59	Anatomy 3514 3517	Wnt
+T60	Anatomy 3520 3522	GK
+T61	Anatomy 3533 3538	PPARγ
+T62	Anatomy 3571 3572;3573 3579	胰 岛 β 细胞
+T63	Anatomy 3580 3585	IRS-2
+T64	Anatomy 3595 3599	PI3K
+T65	Anatomy 3602 3605	Akt
+T66	Anatomy 3632 3637	PPARγ
+T67	Anatomy 3644 3647	Wnt
+T68	Anatomy 3653 3657	胰岛细胞
+T69	Anatomy 3669 3672	Wnt
+T70	Anatomy 3675 3679	PI3K
+T71	Anatomy 3682 3685	Akt
+T72	Anatomy 3730 3733	Wnt
+T73	Anatomy 3742 3747	PPARγ
+T74	Anatomy 3750 3752	GK
+T75	Anatomy 6021 6024	Wnt
+T76	Anatomy 6055 6068	NIT-1 胰岛 β 细胞
+T77	Anatomy 6249 6252	Wnt
+T78	Anatomy 6265 6268	Wnt
+T79	Drug 6795 6799	DKK1
+T80	Anatomy 6895 6898	Wnt
+T81	Anatomy 6923 6936	NIT-1 胰岛 β 细胞
+T82	Anatomy 6966 6979	NIT-1 胰岛 β 细胞
+T83	Anatomy 7013 7018	PPARγ
+T84	Drug 7058 7062	DKK1
+T85	Drug 7065 7075	wortmannin
+T86	Anatomy 7081 7084	Wnt
+T87	Anatomy 7087 7091	PI3K
+T88	Anatomy 7094 7097	Akt
+T89	Anatomy 7104 7109	PPARγ
+T90	Anatomy 7192 7197	PPARγ
+T91	Drug 7234 7238	DKK1
+T92	Drug 7287 7297	wortmannin
+T93	Anatomy 7301 7305	PI3K
+T94	Anatomy 7308 7311	Akt
+T95	Anatomy 7922 7935	NIT-1 胰岛 β 细胞
+T96	Anatomy 7958 7971	NIT-1 胰岛 β 细胞
+T97	Anatomy 8006 8008	GK
+T98	Drug 8042 8046	DKK1
+T99	Drug 8049 8059	wortmannin
+T100	Anatomy 8065 8068	Wnt
+T101	Anatomy 8071 8075	PI3K
+T102	Anatomy 8078 8081	Akt
+T103	Anatomy 8089 8091	GK
+T104	Anatomy 8377 8380	Wnt
+T105	Anatomy 8387 8392	PPARγ
+T106	Anatomy 8395 8397	GK
+T107	Anatomy 8419 8429	NIT-1 胰岛细胞
+T108	Anatomy 8445 8448	Wnt
+T109	Anatomy 8476 8481	PPARγ
+T110	Anatomy 8484 8486	GK
+T111	Drug 8497 8501	DKK1
+T112	Anatomy 8505 8508	Wnt
+T113	Anatomy 8515 8520	PPARγ
+T114	Anatomy 8523 8525	GK
+T115	Anatomy 8537 8540	Wnt
+T116	Anatomy 8550 8555	PPARγ
+T117	Anatomy 8558 8560	GK
+T118	Anatomy 8569 8572	Wnt
+T119	Anatomy 8579 8584	PPARγ
+T120	Anatomy 8612 8615	Wnt
+T121	Anatomy 8692 8697	PPARγ
+T122	Anatomy 8704 8709	前脂肪细胞
+T123	Anatomy 8710 8716	成熟脂肪细胞
+T124	Anatomy 8743 8746	Wnt
+T125	Anatomy 8760 8768	C / EBPα
+T126	Anatomy 8771 8776	PPARγ
+T127	Anatomy 8800 8804	成骨细胞
+T128	Anatomy 8782 8787	间充质细胞
+T129	Anatomy 8825 8828	Wnt
+T130	Anatomy 8838 8843	PPARγ
+T131	Anatomy 8899 8902	Wnt
+T132	Anatomy 8937 8947	NIT-1 胰岛细胞
+T133	Anatomy 8952 8955	Wnt
+T134	Anatomy 8985 8990	PPARγ
+T135	Anatomy 9014 9017	Wnt
+T136	Anatomy 9024 9029	PPARγ
+T137	Anatomy 9081 9089	ERK1 / 2
+T138	Anatomy 9093 9097	PI3K
+T139	Anatomy 9100 9103	Akt
+T140	Anatomy 9113 9118	PPARγ
+T141	Anatomy 9138 9142	PI3K
+T142	Anatomy 9145 9148	Akt
+T143	Anatomy 9151 9156	PPARγ
+T144	Anatomy 10079 10084	PPARγ
+T145	Anatomy 10088 10090	GK
+T146	Anatomy 9998 10003	PPARγ
+T147	Anatomy 10008 10010	GK
+T148	Anatomy 10016 10020	PI3K
+T149	Anatomy 10039 10041	GK
+T150	Anatomy 9969 9974	PPARγ
+T151	Anatomy 9977 9979	GK
+T152	Anatomy 9987 9990	Wnt
+T153	Drug 9947 9951	DKK1
+T154	Drug 9954 9964	wortmannin
+T155	Anatomy 9913 9916	Wnt
+T156	Anatomy 9922 9924	GK
+T157	Anatomy 9929 9934	PPARγ
+T158	Anatomy 9171 9175	PI3K
+T159	Anatomy 9178 9181	Akt
+T160	Anatomy 9184 9189	PPARγ
+T161	Anatomy 9222 9226	PI3K
+T162	Anatomy 9229 9232	Akt
+T163	Drug 9240 9250	wortmannin
+T164	Anatomy 9281 9285	PI3K
+T165	Anatomy 9295 9300	PPARγ
+T166	Anatomy 9309 9314	PPARγ
+T167	Anatomy 9335 9343	NIT-1 细胞
+T168	Anatomy 9344 9349	PPARγ
+T169	Anatomy 9362 9366	PI3K
+T170	Drug 9375 9379	DKK1
+T171	Drug 9382 9392	wortmannin
+T172	Anatomy 9398 9401	Wnt
+T173	Anatomy 9404 9408	PI3K
+T174	Anatomy 9412 9417	PPARγ
+T175	Anatomy 9433 9437	PI3K
+T176	Anatomy 9457 9462	PPARγ
+T177	Anatomy 9470 9472	GK
+T178	Anatomy 9491 9492;9493 9495	肝 细胞
+T179	Anatomy 9496 9500	胰岛细胞
+T180	Anatomy 9501 9506	肠上皮细胞
+T181	Anatomy 9507 9512	神经元细胞
+T182	Anatomy 9527 9534	胰岛 β 细胞
+T183	Anatomy 9535 9537	GK
+T184	Test 9590 9593	胰岛素
+T185	Anatomy 9628 9633	PPARγ
+T186	Test 9660 9663	胰岛素
+T187	Anatomy 9671 9674;9675 9676	肝脏细 胞
+T188	Anatomy 9616 9618;9619 9623	胰岛 β 细胞
+T189	Anatomy 9684 9686	GK
+T190	Test 9697 9699	血糖
+T191	Anatomy 9710 9715	PPARγ
+T192	Anatomy 9718 9720	GK
+T193	Anatomy 9766 9771	PPARγ
+T194	Anatomy 9782 9784	GK
+T195	Anatomy 9814 9816	GK
+T196	Anatomy 9867 9870	Wnt
+T197	Anatomy 9875 9880	PPARγ
+T198	Anatomy 9889 9891	GK
+T199	Anatomy 9840 9847	胰岛 β 细胞
+T200	Test 313 316	PCR
+T201	Test 359 362	PCR
+T202	Test 1495 1498	PCR
+T203	Test 3996 3999	PCR
+T204	Test 4749 4752	PCR
+T205	Test 4949 4952	PCR
+T206	Test 4990 4993	PCR
+T207	Test 6093 6096	PCR
+T208	Test 6478 6481	PCR
+T209	Test 6516 6519	PCR
+T210	Test 6989 6992	PCR
+T211	Test 7167 7170	PCR
+T212	Test 7472 7475	PCR
+T213	Test 7505 7508	PCR
+T214	Test 7980 7983	PCR
+T215	Anatomy 5118 5124	TCF7L2
+T216	Anatomy 6486 6492	TCF7L2
+T217	Anatomy 6532 6538	TCF7L2
+T218	Anatomy 2361 2363;2364 2380	跨膜 受体卷曲蛋白(frizzled)
+T219	Anatomy 2427 2434;2435 2458	蓬 乱 蛋 白 (dishevelled,Dvl / Dsh)
+T220	Anatomy 2467 2472;2473 2512	大肠腺瘤样 息肉蛋白 ( adenomatous polyposis coli, APC)
+T221	Anatomy 2513 2516;2517 2523	轴蛋白 (Axin)
+T222	Anatomy 2524 2529	GSK3β
+T223	Anatomy 2531 2558;2559 2564	酪蛋白激酶 1α( casein kinase 1α, CK1α)
+T224	Anatomy 2580 2586;2587 2598	β-连接蛋白 (β-catenin)
+T225	Anatomy 2600 2605	GSK3β
+T226	Anatomy 2627 2636	β-catenin
+T227	Anatomy 2642 2651	β-catenin
+T228	Anatomy 3133 3138	β / δ
+T229	Anatomy 3141 3142	γ
+T230	Anatomy 6027 6036	β-catenin
+T231	Anatomy 6039 6042	TCF
+T232	Anatomy 6201 6210;6211 6213	β-catenin 蛋白
+T233	Test 6839 6853	β-catenin 游离蛋白
+T234	Drug 7833 7837	DKK1
+T235	Drug 7840 7850	wortmannin
+T236	Drug 7864 7872	PPARγ 蛋白
+T237	Drug 7877 7882	Wnt3a
+T238	Anatomy 8253 8256	Wnt
+T239	Anatomy 8451 8460	β-catenin
+T240	Anatomy 8463 8466	TCF
+T241	Test_Value 8921 8925	异常升高
+T242	Anatomy 8958 8967	β-catenin
+T243	Anatomy 8970 8973	TCF
+T244	Amount 9251 9254;9255 9263	100 nmol / L
+T245	Anatomy 9754 9763	β-catenin
+T246	Anatomy 9797 9806	β-catenin
+T247	Anatomy 495 498	Wnt
+T248	Drug 546 556	wortmannin
+T249	Anatomy 3384 3392	ERK1 / 2
+T250	Drug 3875 3883	Wnt3a 蛋白
+T251	Anatomy 4090 4095	PPARγ
+T252	Drug 4362 4370	Wnt3a 蛋白
+T253	Drug 4399 4404	Wnt3a
+T254	Drug 4460 4468	Wnt3a 蛋白
+T255	Drug 4495 4500	Wnt3a
+T256	Drug 4564 4572	Wnt3a 蛋白
+T257	Drug 4600 4605	Wnt3a
+T258	Drug 3906 3913	Wort 蛋白
+T259	Drug 4336 4341	Wnt3a
+T260	Drug 4501 4505	Wort
+T261	Drug 4527 4537	wortmannin
+T262	Drug 4611 4615	Wort
+T263	Drug 4657 4667	wortmannin
+T264	Drug 4696 4704	Wnt3a 蛋白
+T265	Anatomy 5206 5211	PPARγ
+T266	Anatomy 5300 5302	GK
+T267	Anatomy 5747 5752	PPARγ
+T268	Anatomy 7242 7245	Wnt
+T269	Anatomy 3776 3784	NIT-1 细胞
+T270	Drug 3884 3894	重组 DKK1 蛋白
+T271	Anatomy 4178 4186	NIT-1 细胞
+T272	Anatomy 4210 4218	NIT-1 细胞
+T273	Drug 4405 4409	DKK1
+T274	Drug 4606 4610	DKK1
+T275	Drug 10031 10036	Wnt3a
+T276	Anatomy 10100 10107	胰岛 β 细胞
+T277	Disease 8889 8892	结肠癌
+T278	Anatomy 203 205;206 209	葡萄 糖激酶
+T279	Anatomy 222 224	GK
+T280	Anatomy 267 275	Wnt3a 蛋白
+T281	Anatomy 385 390	Wnt3a
+T282	Anatomy 452 460	PPARγ 蛋白
+T283	Anatomy 520 525	Wnt3a
+T284	Anatomy 559 568	磷酸肌醇 3 激酶
+T285	Anatomy 569 573	PI3K
+T286	Anatomy 597 602	Wnt3a
+T287	Anatomy 643 648	Wnt3a
+T288	Anatomy 2347 2353	Wnt 蛋白
+T289	Anatomy 2271 2278;2279 2280	Wnt3a 蛋 白
+T290	Anatomy 2381 2393;2394 2413	辅助受体低密度脂蛋白受体 相关 蛋 白 ( LRP5 / 6 )
+T291	Anatomy 2859 2869	磷脂酰肌醇 3 激酶
+T292	Anatomy 2902 2906	PI3K
+T293	Anatomy 2914 2926	丝 /苏氨酸蛋白激酶 B
+T294	Anatomy 2928 2931	Akt
+T295	Anatomy 2966 2975	胰岛素受体底物-2
+T296	Anatomy 3007 3012	IRS-2
+T297	Anatomy 3014 3023	糖原合成激酶 3β
+T298	Anatomy 3053 3059	GSK-3β
+T299	Anatomy 3072 3082	PPARγ mRNA
+T300	Anatomy 3328 3338	蛋白激酶 1 / 2
+T301	Anatomy 3482 3484	GK
+T302	Drug 3554 3565	PPARγ 受体激动剂
+T303	Anatomy 3707 3720	NIT-1 胰岛 β 细胞
+T304	Anatomy 6007 6015	Wnt3a 蛋白
+T305	Anatomy 6102 6107;6108 6110	Wnt3a 蛋白
+T306	Anatomy 6117 6128	TCF7L2 mRNA
+T307	Anatomy 6182 6190	Wnt3a 蛋白
+T308	Anatomy 6237 6242;6243 6245	Wnt3a 蛋白
+T309	Anatomy 6803 6814	TCF7L2 mRNA
+T310	Anatomy 6821 6826	Wnt3a
+T311	Anatomy 6859 6864	Wnt3a
+T312	Anatomy 6912 6920	Wnt3a 蛋白
+T313	Anatomy 6937 6942	PPARγ
+T314	Anatomy 6998 7006	Wnt3a 蛋白
+T315	Anatomy 7121 7126	Wnt3a
+T316	Anatomy 7177 7185	Wnt3a 蛋白
+T317	Anatomy 7257 7262	Wnt3a
+T318	Anatomy 7321 7326	Wnt3a
+T319	Anatomy 7913 7918	Wnt3a
+T320	Anatomy 7936 7943	GK mRNA
+T321	Anatomy 7988 7993	GK 基因
+T322	Anatomy 7998 8003	Wnt3a
+T323	Anatomy 8105 8110	Wnt3a
+T324	Drug 8431 8442	重组 Wnt3a 蛋白
+T325	Anatomy 8627 8644	CCAAT 转录增强子结合蛋白 α
+T326	Anatomy 8681 8689	C / EBPα
+T327	Test 8912 8917	PPARγ
+T328	Anatomy 10066 10071	Wnt3a
+T329	Anatomy 9902 9907	Wnt3a
+T330	Anatomy 9203 9211	Wnt3a 蛋白
+T331	Anatomy 9327 9332	Wnt3a
+T332	Anatomy 9449 9454	Wnt3a
+T333	Anatomy 9539 9547	葡萄糖转运体 2
+T334	Anatomy 9641 9646	GK 基因
+T335	Anatomy 9832 9837	Wnt3a
+T336	Anatomy 9848 9855	GK mRNA
+R1	Anatomy_Disease Arg1:T42 Arg2:T38
+R2	Anatomy_Disease Arg1:T51 Arg2:T3
+R3	Anatomy_Disease Arg1:T52 Arg2:T3
+R4	Anatomy_Disease Arg1:T131 Arg2:T277
+R5	Test_Disease Arg1:T327 Arg2:T277
+R6	Anatomy_Disease Arg1:T129 Arg2:T277
+R7	Anatomy_Disease Arg1:T130 Arg2:T277
+R8	Anatomy_Disease Arg1:T132 Arg2:T277
+R9	Anatomy_Disease Arg1:T133 Arg2:T277
+R10	Anatomy_Disease Arg1:T242 Arg2:T277
+R11	Anatomy_Disease Arg1:T243 Arg2:T277
+R12	Anatomy_Disease Arg1:T134 Arg2:T277
+R13	Amount_Drug Arg1:T244 Arg2:T163
+R14	Anatomy_Disease Arg1:T37 Arg2:T38
+R15	Anatomy_Disease Arg1:T36 Arg2:T38
+R16	Anatomy_Disease Arg1:T49 Arg2:T1
+R17	Anatomy_Disease Arg1:T50 Arg2:T1
+R18	Anatomy_Disease Arg1:T228 Arg2:T1

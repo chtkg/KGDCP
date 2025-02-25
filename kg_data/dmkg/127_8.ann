@@ -1,0 +1,495 @@
+T1	Disease 2367 2373	1 型糖尿病
+T2	Disease 6871 6877	1 型糖尿病
+T3	Disease 8128 8134	1 型糖尿病
+T4	Test 3470 3474	体重指数
+T5	Test 5452 5456	体重指数
+T6	Test 5690 5694	体重指数
+T7	Test 105 109	血清瘦素
+T8	Disease 112 118	产后甲状腺炎
+T9	Test 183 187	血清瘦素
+T10	Disease 221 224	PPT
+T11	Test 312 314	瘦素
+T12	Test 346 348	瘦素
+T13	Test 436 438	瘦素
+T14	Test 440 452	LEP / BMI 比值
+T15	Test 465 467	瘦素
+T16	Test 469 481	LEP / BMI 比值
+T17	Test 483 486	TSH
+T18	Test 494 497	FT3
+T19	Test 499 502	FT4
+T20	Test 526 528	瘦素
+T21	Test 553 555	瘦素
+T22	Test 2162 2167	甲状腺功能
+T23	Disease 2206 2211;2212 2217	自身免疫性 甲状腺疾病
+T24	Test 2261 2263	瘦素
+T25	Anatomy 2287 2291	脂肪细胞
+T26	Test 2343 2345	瘦素
+T27	Disease 2374 2381	类风湿性关节炎
+T28	Disease 2382 2386;2387 2390	系统性红 斑狼疮
+T29	Test 2404 2406	瘦素
+T30	Disease 2408 2411	PPT
+T31	Test 2427 2429	瘦素
+T32	Disease 2431 2434	PPT
+T33	Disease 2458 2461	PPT
+T34	Disease 2546 2549	PPT
+T35	Disease 2595 2598	PPT
+T37	Disease 2608 2611	PPT
+T38	Test 2636 2641	甲状腺功能
+T39	Test 2672 2682	促甲状腺激素受体抗体
+T40	Test 2684 2688	TRAb
+T41	Test_Value 2689 2691	阴性
+T42	Test 2654 2655;2656 2661	促 甲状腺激素
+T43	Test 2664 2667	TSH
+T44	Test_Value 2669 2671	异常
+T45	Test 2892 2895	TSH
+T46	Test 2896 2899	FT3
+T47	Test 2901 2904	FT4
+T48	Test 2939 2943	TRAb
+T49	Test 2983 2986	TSH
+T50	Test 3015 3018	FT3
+T51	Test 3046 3049	FT4
+T52	Test 3086 3091	TPOAb
+T53	Test 3109 3113	TgAb
+T54	Test 3132 3136	TRAb
+T55	Test 3315 3318	TSH
+T56	Test 3319 3324	TPOAb
+T57	Test 3325 3329	TgAb
+T58	Test 3332 3336	TRAb
+T59	Test 3660 3663	BMI
+T60	Test 3744 3747	TSH
+T61	Test 3749 3754	甲状腺激素
+T62	Test 3776 3779	TSH
+T63	Test 3828 3831	TSH
+T64	Test 3888 3891	TSH
+T65	Test 3923 3926	TSH
+T66	Test 4002 4005	FT3
+T67	Test 4056 4059	FT4
+T68	Test 4158 4160	瘦素
+T69	Test 4204 4206	瘦素
+T70	Test 4238 4240	瘦素
+T71	Test 4263 4265	瘦素
+T72	Test 4277 4287;4288 4289	瘦素 / BMI 比 值
+T73	Test 4302 4313	瘦素 / BMI 比值
+T74	Test 6035 6037	瘦素
+T75	Test 6086 6088	瘦素
+T76	Test 6089 6100	瘦素 / BMI 比值
+T77	Test 6122 6124	瘦素
+T78	Test 6169 6172	TSH
+T79	Test 6173 6178	甲状腺激素
+T80	Test 6179 6184	TPOAb
+T81	Test 6187 6191	TgAb
+T82	Test 6193 6195	瘦素
+T83	Test 6196 6197;6198 6208	瘦 素 / BMI 比值
+T84	Test 6231 6234;6235 6237	甲状腺 功能
+T85	Test 6247 6249	瘦素
+T86	Test 6273 6279	血清 TSH
+T87	Test 6281 6283	瘦素
+T88	Test 6318 6324	血清 TSH
+T89	Test 6326 6328	瘦素
+T90	Test 6329 6330;6331 6341	瘦 素 / BMI 比值
+T91	Test 6401 6403	瘦素
+T92	Test 6404 6415	瘦素 / BMI 比值
+T93	Test 6462 6464;6465 6468	血清 FT3
+T94	Test 6469 6471	瘦素
+T95	Test 6472 6483	瘦素 / BMI 比值
+T96	Test 6529 6537	血清 TPOAb
+T97	Test 6540 6544	TgAb
+T98	Test 6549 6551	瘦素
+T99	Test 6552 6563	瘦素 / BMI 比值
+T100	Test 6664 6670;6671 6672	甲状腺自身抗 体
+T101	Test 6673 6678	TPOAb
+T102	Disease 6739 6742	PPT
+T103	Test 6751 6756	TPOAb
+T104	Anatomy 6767 6770	甲状腺
+T105	Disease 6831 6834	PPT
+T106	Disease 6907 6910	PPT
+T107	Test 6971 6976	TPOAb
+T108	Test_Value 6977 6979	阳性
+T109	Test 6986 6991	TPOAb
+T110	Test_Value 6992 6994	阴性
+T111	Test 7026 7031	甲状腺功能
+T112	Test 7032 7036	血清瘦素
+T113	Test 7046 7051	TPOAb
+T114	Test_Value 7052 7054	阳性
+T115	Disease 7081 7084	PPT
+T116	Test 7103 7108	甲状腺功能
+T117	Test 7119 7124	TPOAb
+T118	Test_Value 7125 7127	阴性
+T119	Disease 7136 7139	PPT
+T120	Test 7140 7145	TPOAb
+T121	Test_Value 7146 7148	阳性
+T122	Test 7159 7163	血清瘦素
+T123	Test 7185 7196	瘦素 / BMI 比值
+T124	Test 7206 7211	TPOAb
+T125	Test_Value 7212 7214	阴性
+T126	Test 7228 7236	瘦素 / BMI
+T127	Disease 7279 7282	PPT
+T128	Test 7295 7298	BMI
+T129	Test 7333 7337	血清瘦素
+T130	Disease 7357 7360	PPT
+T131	Test 7371 7375	血清瘦素
+T132	Test 7376 7387	瘦素 / BMI 比值
+T133	Disease 7401 7404	PPT
+T134	Test 7441 7445	血清瘦素
+T135	Disease 7454 7457	PPT
+T136	Test 7466 7468	瘦素
+T137	Disease 7474 7477	PPT
+T138	Test 7545 7548	TRH
+T139	Test 7552 7555	TSH
+T140	Test 7557 7562	甲状腺激素
+T141	Test 7585 7587	瘦素
+T142	Test 7593 7596	TSH
+T143	Test 7598 7603	甲状腺激素
+T144	Test 7614 7619	甲状腺激素
+T145	Disease 7646 7653	甲状腺功能减退
+T146	Disease 7697 7700	PPT
+T147	Test 7713 7724	瘦素 / BMI 比值
+T148	Test 7726 7729	TSH
+T149	Test 7731 7733;7734 7737	甲状 腺激素
+T150	Test 7746 7749	TSH
+T151	Test 7751 7756	甲状腺激素
+T152	Disease 7768 7771	PPT
+T153	Disease 7797 7800	PPT
+T154	Test 7784 7786	瘦素
+T155	Test 7812 7815	TSH
+T156	Test 7817 7820;7821 7823	甲状腺 激素
+T157	Disease 7835 7838	PPT
+T158	Disease 7860 7863	PPT
+T159	Test 7875 7878	TSH
+T160	Test 7891 7894	TSH
+T161	Test 7910 7911;7912 7913	瘦 素
+T162	Disease 7980 7983	PPT
+T163	Test 7990 7992	瘦素
+T164	Disease 8045 8048	PPT
+T165	Anatomy 8034 8037	Th2
+T166	Anatomy 8063 8066	Th1
+T167	Test 8085 8087	瘦素
+T168	Anatomy 8092 8095	Th1
+T169	Anatomy 8104 8107	Th1
+T170	Disease 8153 8156	PPT
+T171	Disease 8189 8192	PPT
+T172	Test 8220 8222	瘦素
+T173	Disease 8229 8232	PPT
+T174	Test 8250 8252	瘦素
+T175	Disease 8254 8257	PPT
+T176	Disease 581 586	产后甲状腺
+T177	Disease 5499 5504	产后甲状腺
+T178	Disease 5719 5720;5721 5725	产 后甲状腺
+T179	Disease 231 234	PPT
+T180	Disease 244 247	PPT
+T181	Disease 404 407	PPT
+T182	Disease 415 418	PPT
+T183	Disease 532 535	PPT
+T184	Disease 557 560	PPT
+T185	Disease 1114 1117	PPT
+T186	Disease 1140 1143	PPT
+T187	Disease 1180 1183	PPT
+T188	Disease 1444 1447	PPT
+T189	Disease 1668 1671	PPT
+T190	Disease 1688 1691	PPT
+T191	Disease 1703 1706	PPT
+T192	Disease 2229 2232	PPT
+T193	Disease 4699 4702	PPT
+T194	Disease 5059 5062	PPT
+T195	Disease 5358 5361	PPT
+T196	Disease 5495 5498	PPT
+T197	Disease 5841 5844	PPT
+T198	Disease 5850 5853	PPT
+T199	Disease 5943 5946	PPT
+T200	Disease 5963 5966	PPT
+T201	Disease 6634 6637	PPT
+T202	Disease 6703 6706	PPT
+T203	Test 1779 1782	TSH
+T204	Test 4538 4541	TSH
+T205	Test 4846 4849	TSH
+T206	Test 4913 4916	TSH
+T207	Test 5246 5249	TSH
+T208	Test 1821 1824	FT4
+T209	Test 4567 4570	FT4
+T210	Test 4875 4878	FT4
+T211	Test 4942 4945	FT4
+T212	Test 5275 5278	FT4
+T213	Test 1535 1538	BMI
+T214	Test 1644 1647	BMI
+T215	Test 1731 1734	BMI
+T216	Test 3477 3480	BMI
+T217	Test 4345 4348	BMI
+T218	Test 4428 4431	BMI
+T219	Test 4534 4537	BMI
+T220	Test 4601 4604	BMI
+T221	Test 4909 4912	BMI
+T222	Test 5242 5245	BMI
+T223	Test 5448 5451	BMI
+T224	Test 5686 5689	BMI
+T225	Test 5874 5877	BMI
+T226	Test 5919 5922	BMI
+T227	Test 1829 1832	FT3
+T228	Test 4552 4555	FT3
+T229	Test 4860 4863	FT3
+T230	Test 4927 4930	FT3
+T231	Test 5260 5263	FT3
+T232	Disease 5772 5776;5777 5778	产后甲状 腺
+T233	Duration 179 182	1 年
+T234	Duration 335 336;337 338	1 年
+T235	Duration 427 430	1 年
+T236	Duration 514 517	1 年
+T237	Test 577 579	瘦素
+T238	Disease 2353 2359;2360 2361	自身免疫性疾 病
+T239	Test 3465 3469	平均年龄
+T240	Test_Value 3486 3503	(25. 72 ± 2. 60)岁
+T241	Test_Value 3504 3528	(25. 03 ± 0. 49) kg / m2
+T242	Test_Value 3534 3552	[(26. 62 ± 3. 71)岁
+T243	Test_Value 3553 3577	(25. 06 ± 0. 42) kg / m2
+T244	Test 3595 3597	年龄
+T245	Duration 3739 3742	1 年
+T246	Duration 4154 4157	1 年
+T247	Duration 4199 4202	1 年
+T248	Duration 4234 4237	1 年
+T249	Duration 6031 6034	1 年
+T250	Duration 6080 6083	1 年
+T251	Test 6240 6244	自身抗体
+T252	Disease 6860 6864;6865 6868	自身免疫 性疾病
+T253	Disease 7173 7176	PPT
+T254	Disease 7216 7219	PPT
+T255	Test 7291 7293	年龄
+T256	Duration 7367 7370	1 年
+T257	Test_Value 7879 7880;7881 7884	明 显降低
+T258	Test_Value 7895 7899	明显升高
+T259	Disease 8111 8118	自身免疫性疾病
+T260	Level 228 230	临床
+T261	Level 240 243	亚临床
+T262	Level 401 403	临床
+T263	Level 411 414	亚临床
+T264	Test_Value 2996 3014	0. 3 ~ 4. 8 mU / L
+T265	Test_Value 3025 3036;3037 3045	2. 3 ~ 6. 3 pmol / L
+T266	Test_Value 3062 3084	10. 3 ~ 24. 5 pmol / L
+T267	Test_Value 3091 3103	> 50 IU / ml
+T268	Test_Value 3105 3107	阳性
+T269	Test_Value 3114 3126	> 40 IU / ml
+T270	Test_Value 3128 3130	阳性
+T271	Test_Value 3136 3145	>2 IU / L
+T272	Test_Value 3147 3149	阳性
+T273	Disease 3586 3591	O-PPT
+T274	Disease 3599 3604	S-PPT
+T275	Test 6003 6005	瘦素
+T276	Disease 6113 6118	O-PPT
+T277	Disease 6069 6074	S-PPT
+T278	Disease 6061 6066	O-PPT
+T279	Disease 6020 6025	S-PPT
+T280	Disease 6012 6017	O-PPT
+T281	Disease 6145 6150	S-PPT
+T282	Test 7505 7507	瘦素
+T283	Disease 7927 7932	O-PPT
+T284	Disease 7948 7953	S-PPT
+T285	Disease 2745 2750	O-PPT
+T286	Disease 2760 2765	S-PPT
+T287	Test 4268 4270	体重
+T288	Anatomy 6689 6693	T 细胞
+T289	Anatomy 7489 7492	JAK
+T290	Anatomy 7495 7499	STAT
+T291	Disease 193 199	产后甲状腺炎
+T292	Disease 200 203	PPT
+T293	Test 349 357	瘦素 /体重指数
+T294	Test 358 367	LEP / BMI
+T295	Disease 589 599	自身免疫性甲状腺疾病
+T296	Symptom 2182 2185;2186 2190	甲状腺 功能异常
+T297	Disease 2122 2128	产后甲状腺炎
+T298	Disease 2152 2155	PPT
+T299	Test 2487 2491	血清瘦素
+T300	Test 2695 2705	游离三碘甲状腺原氨酸
+T301	Test 2706 2709	FT3
+T302	Test 2715 2721	游离甲状腺素
+T303	Test 2723 2726	FT4
+T304	Disease 2738 2740;2741 2744	临床 PPT
+T305	Disease 2752 2759	亚临床 PPT
+T306	Test 2855 2861;2862 2868	血清甲状腺过 氧化物酶抗体
+T307	Test 2869 2874	TPOAb
+T308	Test 2876 2884	甲状腺球蛋白抗体
+T309	Test 2885 2889	TgAb
+T310	Test 4161 4171;4172 4173	瘦素 / BMI 比 值
+T311	Test 6038 6042;6043 6049	瘦素 / BMI 比值
+T312	Test 6125 6136	瘦素 / BMI 比值
+T313	Test 6250 6261	瘦素 / BMI 比值
+T314	Test 6284 6295	瘦素 / BMI 比值
+T315	Test 6394 6400	血清 FT4
+T316	Reason 6729 6737	TPOAb 阳性
+T317	Reason 6782 6793;6794 6796	CD4+T 细胞亚群的 减少
+T318	Reason 6797 6811	CD8+T 细胞功能相对增加
+T319	Reason 6812 6822;6823 6826	调节性 T 细胞数目 的减少
+T320	Reason 6851 6857	瘦素水平增高
+T321	Reason 6888 6891;6892 6900	产后血 清瘦素的动态变化
+T322	Test 7180 7184	血清瘦素
+T323	Test 7223 7227	血清瘦素
+T324	Anatomy 7517 7523	下丘脑室旁核
+T325	Test 7523 7533	促甲状腺激素释放激素
+T326	Test 7534 7537	TRH
+T327	Test 7623 7627	血清瘦素
+T328	Test 7654 7658	血清瘦素
+T329	Test 7708 7712	血清瘦素
+T330	Test 7842 7846	血清瘦素
+T331	Test 7936 7939;7940 7944	血清甲 状腺激素
+T332	Test 7965 7967;7968 7970	血清 瘦素
+T333	Test 8208 8212	血清瘦素
+T334	Test 4331 4336	甲状腺功能
+T36	Disease 2623 2628	甲状腺疾病
+R1	Test_Disease Arg1:T26 Arg2:T238
+R2	Test_Disease Arg1:T113 Arg2:T115
+R3	Test_Disease Arg1:T255 Arg2:T127
+R4	Test_Disease Arg1:T131 Arg2:T130
+R5	Test_Disease Arg1:T132 Arg2:T130
+R6	Test_Disease Arg1:T328 Arg2:T145
+R7	Test_Disease Arg1:T329 Arg2:T146
+R8	Test_Disease Arg1:T330 Arg2:T157
+R9	Anatomy_Disease Arg1:T169 Arg2:T259
+R10	Test_Disease Arg1:T333 Arg2:T171
+R11	Test_Disease Arg1:T174 Arg2:T175
+R12	Test_Disease Arg1:T7 Arg2:T8
+R13	Test_Disease Arg1:T9 Arg2:T291
+R14	Test_Disease Arg1:T11 Arg2:T180
+R15	Test_Disease Arg1:T12 Arg2:T181
+R16	Test_Disease Arg1:T293 Arg2:T181
+R17	Test_Disease Arg1:T294 Arg2:T181
+R18	Test_Disease Arg1:T13 Arg2:T182
+R19	Test_Disease Arg1:T14 Arg2:T182
+R20	Test_Disease Arg1:T20 Arg2:T183
+R21	Test_Disease Arg1:T21 Arg2:T184
+R22	Test_Disease Arg1:T26 Arg2:T1
+R23	Test_Disease Arg1:T29 Arg2:T30
+R24	Test_Disease Arg1:T31 Arg2:T32
+R25	Test_Disease Arg1:T59 Arg2:T274
+R26	Test_Disease Arg1:T74 Arg2:T279
+R27	Test_Disease Arg1:T311 Arg2:T279
+R28	Test_Disease Arg1:T75 Arg2:T277
+R29	Test_Disease Arg1:T76 Arg2:T277
+R30	Test_Disease Arg1:T77 Arg2:T276
+R31	Test_Disease Arg1:T312 Arg2:T276
+R32	Test_Disease Arg1:T100 Arg2:T202
+R33	Test_Disease Arg1:T101 Arg2:T202
+R34	Test_Disease Arg1:T103 Arg2:T102
+R35	Anatomy_Disease Arg1:T104 Arg2:T102
+R36	Test_Disease Arg1:T116 Arg2:T115
+R37	Test_Disease Arg1:T120 Arg2:T119
+R38	Test_Disease Arg1:T117 Arg2:T119
+R39	Test_Disease Arg1:T122 Arg2:T119
+R40	Test_Disease Arg1:T128 Arg2:T127
+R41	Test_Disease Arg1:T129 Arg2:T127
+R42	Test_Disease Arg1:T131 Arg2:T133
+R43	Test_Disease Arg1:T132 Arg2:T133
+R44	Test_Disease Arg1:T134 Arg2:T135
+R45	Test_Disease Arg1:T136 Arg2:T137
+R46	Test_Disease Arg1:T282 Arg2:T137
+R47	Anatomy_Disease Arg1:T324 Arg2:T137
+R48	Test_Disease Arg1:T147 Arg2:T146
+R49	Test_Disease Arg1:T148 Arg2:T146
+R50	Test_Disease Arg1:T149 Arg2:T146
+R51	Test_Disease Arg1:T150 Arg2:T152
+R52	Test_Disease Arg1:T151 Arg2:T152
+R53	Test_Disease Arg1:T154 Arg2:T152
+R54	Test_Disease Arg1:T155 Arg2:T153
+R55	Test_Disease Arg1:T156 Arg2:T153
+R56	Test_Disease Arg1:T159 Arg2:T158
+R57	Test_Disease Arg1:T160 Arg2:T158
+R58	Test_Disease Arg1:T161 Arg2:T158
+R59	Test_Disease Arg1:T331 Arg2:T283
+R60	Test_Disease Arg1:T163 Arg2:T162
+R61	Anatomy_Disease Arg1:T165 Arg2:T164
+R62	Anatomy_Disease Arg1:T166 Arg2:T164
+R63	Test_Disease Arg1:T172 Arg2:T173
+R64	Test_Disease Arg1:T303 Arg2:T304
+R65	Test_Disease Arg1:T302 Arg2:T304
+R66	Test_Disease Arg1:T301 Arg2:T304
+R67	Test_Disease Arg1:T300 Arg2:T304
+R68	Test_Disease Arg1:T38 Arg2:T37
+R69	Test_Disease Arg1:T42 Arg2:T37
+R70	Test_Disease Arg1:T39 Arg2:T37
+R71	Anatomy_Disease Arg1:T288 Arg2:T202
+R72	Anatomy_Disease Arg1:T289 Arg2:T137
+R73	Anatomy_Disease Arg1:T290 Arg2:T137
+R74	Test_Disease Arg1:T325 Arg2:T137
+R75	Test_Disease Arg1:T326 Arg2:T137
+R76	Test_Disease Arg1:T15 Arg2:T182
+R77	Test_Disease Arg1:T16 Arg2:T182
+R78	Test_Disease Arg1:T17 Arg2:T182
+R79	Test_Disease Arg1:T18 Arg2:T182
+R80	Test_Disease Arg1:T19 Arg2:T182
+R81	Test_Disease Arg1:T22 Arg2:T297
+R82	Symptom_Disease Arg1:T296 Arg2:T297
+R83	Test_Disease Arg1:T26 Arg2:T27
+R84	Test_Disease Arg1:T26 Arg2:T28
+R85	Test_Disease Arg1:T299 Arg2:T33
+R86	Test_Disease Arg1:T43 Arg2:T37
+R87	Test_Disease Arg1:T40 Arg2:T37
+R88	Test_Disease Arg1:T244 Arg2:T273
+R89	Test_Disease Arg1:T244 Arg2:T274
+R90	Test_Disease Arg1:T239 Arg2:T273
+R91	Test_Disease Arg1:T4 Arg2:T273
+R92	Test_Disease Arg1:T216 Arg2:T273
+R93	Test_Disease Arg1:T74 Arg2:T280
+R94	Test_Disease Arg1:T311 Arg2:T280
+R95	Test_Disease Arg1:T75 Arg2:T278
+R96	Test_Disease Arg1:T76 Arg2:T278
+R97	Test_Disease Arg1:T322 Arg2:T253
+R98	Test_Disease Arg1:T123 Arg2:T253
+R99	Test_Disease Arg1:T124 Arg2:T253
+R100	Test_Disease Arg1:T323 Arg2:T254
+R101	Test_Disease Arg1:T126 Arg2:T254
+R102	Test_Disease Arg1:T138 Arg2:T137
+R103	Test_Disease Arg1:T139 Arg2:T137
+R104	Test_Disease Arg1:T140 Arg2:T137
+R105	Test_Disease Arg1:T143 Arg2:T137
+R106	Test_Disease Arg1:T141 Arg2:T137
+R107	Test_Disease Arg1:T142 Arg2:T137
+R108	Test_Disease Arg1:T327 Arg2:T145
+R109	Test_Disease Arg1:T144 Arg2:T145
+R110	Test_Disease Arg1:T331 Arg2:T284
+R111	Test_Disease Arg1:T332 Arg2:T284
+R112	Test_Disease Arg1:T332 Arg2:T283
+R113	Test_Disease Arg1:T167 Arg2:T259
+R114	Test_Disease Arg1:T107 Arg2:T106
+R115	Test_Disease Arg1:T136 Arg2:T135
+R116	Test_Disease Arg1:T167 Arg2:T164
+R117	Anatomy_Disease Arg1:T168 Arg2:T3
+R118	Anatomy_Disease Arg1:T169 Arg2:T3
+R119	Test_Disease Arg1:T9 Arg2:T292
+R120	Test_Disease Arg1:T11 Arg2:T179
+R121	Test_Disease Arg1:T11 Arg2:T10
+R122	Test_Disease Arg1:T15 Arg2:T181
+R123	Test_Disease Arg1:T16 Arg2:T181
+R124	Test_Disease Arg1:T17 Arg2:T181
+R125	Test_Disease Arg1:T18 Arg2:T181
+R126	Test_Disease Arg1:T19 Arg2:T181
+R127	Test_Disease Arg1:T22 Arg2:T298
+R128	Symptom_Disease Arg1:T296 Arg2:T298
+R129	Symptom_Disease Arg1:T296 Arg2:T23
+R130	Symptom_Disease Arg1:T296 Arg2:T192
+R131	Test_Disease Arg1:T22 Arg2:T23
+R132	Test_Disease Arg1:T22 Arg2:T192
+R133	Test_Disease Arg1:T31 Arg2:T33
+R134	Test_Disease Arg1:T38 Arg2:T36
+R135	Test_Disease Arg1:T42 Arg2:T36
+R136	Test_Disease Arg1:T43 Arg2:T36
+R137	Test_Disease Arg1:T39 Arg2:T36
+R138	Test_Disease Arg1:T40 Arg2:T36
+R139	Test_Disease Arg1:T300 Arg2:T285
+R140	Test_Disease Arg1:T301 Arg2:T285
+R141	Test_Disease Arg1:T302 Arg2:T285
+R142	Test_Disease Arg1:T303 Arg2:T285
+R143	Test_Disease Arg1:T300 Arg2:T305
+R144	Test_Disease Arg1:T301 Arg2:T305
+R145	Test_Disease Arg1:T302 Arg2:T305
+R146	Test_Disease Arg1:T303 Arg2:T305
+R147	Test_Disease Arg1:T300 Arg2:T286
+R148	Test_Disease Arg1:T301 Arg2:T286
+R149	Test_Disease Arg1:T302 Arg2:T286
+R150	Test_Disease Arg1:T303 Arg2:T286
+R151	Test_Disease Arg1:T77 Arg2:T281
+R152	Test_Disease Arg1:T312 Arg2:T281
+R153	Test_Disease Arg1:T103 Arg2:T105
+R154	Anatomy_Disease Arg1:T104 Arg2:T105
+R155	Test_Disease Arg1:T109 Arg2:T106
+R156	Test_Disease Arg1:T111 Arg2:T106
+R157	Test_Disease Arg1:T112 Arg2:T106
+R158	Test_Disease Arg1:T124 Arg2:T254
+R159	Test_Disease Arg1:T167 Arg2:T170
+R160	Anatomy_Disease Arg1:T168 Arg2:T170
+R161	Anatomy_Disease Arg1:T169 Arg2:T170

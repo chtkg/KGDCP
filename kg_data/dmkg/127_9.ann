@@ -1,0 +1,318 @@
+T1	Disease 6337 6343	1 型糖尿病
+T2	Test 3129 3131	GA
+T3	Test 3142 3144	GA
+T4	Disease 73 81	Graves 病
+T5	Disease 238 240	GD
+T6	Disease 322 324	GD
+T7	Disease 335 337	GD
+T8	Disease 475 477	GD
+T9	Disease 668 670	GD
+T10	Anatomy 2270 2274	CD40
+T11	Anatomy 2861 2867	CTLA-4
+T12	Test 3646 3651	甲状腺激素
+T13	Test 3654 3661	甲状腺 B 超
+T14	Test 3749 3751	心率
+T15	Symptom 3768 3770	震颤
+T16	Symptom 3772 3779	胫前黏液性水肿
+T17	Disease 4336 4338	GD
+T18	Disease 4306 4308	GD
+T19	Disease 4623 4625	GD
+T20	Disease 4659 4661	GD
+T21	Disease 4689 4691	GD
+T22	Disease 4975 4977	GD
+T23	Disease 4438 4440	GD
+T24	Disease 4778 4780	GD
+T25	Disease 4999 5001	GD
+T26	Anatomy 5045 5049	T 细胞
+T27	Anatomy 5112 5118	CD4 分子
+T28	Anatomy 5120 5126	CD8 分子
+T29	Anatomy 5127 5135	T 细胞抗原受体
+T30	Anatomy 5137 5143	CD3 分子
+T31	Anatomy 5195 5203	CD4+T 细胞
+T32	Anatomy 5205 5213	CD8+T 细胞
+T33	Anatomy 5215 5224	CD4+ T 细胞
+T34	Anatomy 5245 5251	Th1 细胞
+T35	Test 5315 5319	IL-4
+T36	Anatomy 5337 5346	CD8+ T 细胞
+T37	Anatomy 5451 5455	T 细胞
+T38	Anatomy 5633 5636	APC
+T39	Anatomy 5640 5645	B7 分子
+T40	Anatomy 5653 5659	CTLA-4
+T41	Anatomy 5682 5686	T 细胞
+T42	Anatomy 5694 5697	APC
+T43	Anatomy 5706 5711	B7 分子
+T44	Anatomy 5734 5738	T 细胞
+T45	Test 5758 5762	IL-2
+T46	Anatomy 5778 5782	T 细胞
+T47	Anatomy 5791 5795	T 细胞
+T48	Anatomy 5800 5806	CTLA-4
+T49	Anatomy 5809 5813	CD28
+T50	Anatomy 5814 5820	CTLA-4
+T51	Anatomy 5823 5827	CD28
+T52	Anatomy 5834 5838;5839 5840	B7 分 子
+T53	Anatomy 5846 5850	T 细胞
+T54	Anatomy 5860 5866	CTLA-4
+T55	Anatomy 5879 5883	T 细胞
+T56	Anatomy 5892 5896	T 细胞
+T57	Anatomy 5901 5907	CTLA-4
+T58	Anatomy 5925 5929;5930 5931	Ts 细 胞
+T59	Anatomy 5933 5938	Th 细胞
+T60	Anatomy 5941 5945	B 细胞
+T61	Disease 5969 5971	甲亢
+T62	Anatomy 5976 5982	CTLA-4
+T63	Anatomy 6157 6163	CTLA-4
+T64	Anatomy 6286 6290	CD28
+T65	Anatomy 6291 6297	CTLA-4
+T66	Anatomy 6300 6304	ICOS
+T67	Anatomy 6328 6334	CTLA-4
+T68	Disease 6348 6351;6352 6356	类风湿 性关节炎
+T69	Disease 6361 6368	系统性红斑狼疮
+T70	Anatomy 6392 6398	CTLA-4
+T71	Disease 6422 6424	GD
+T72	Disease 6465 6467	GD
+T73	Disease 6517 6519	GD
+T74	Disease 6543 6545	GD
+T75	Disease 6554 6556	GD
+T76	Anatomy 6723 6729	CTLA-4
+T77	Anatomy 6731 6733;6734 6735	甲状 腺
+T78	Anatomy 6747 6751	CD28
+T79	Test 6777 6784	甲状腺自身抗体
+T80	Disease 6791 6793	GD
+T81	Anatomy 6767 6773	CTLA-4
+T82	Disease 6877 6879	GD
+T83	Anatomy 6900 6906	CTLA-4
+T84	Disease 6909 6911	GD
+T85	Disease 7015 7017	GD
+T86	Disease 7032 7034	GD
+T87	Disease 1199 1201	GD
+T88	Disease 1588 1590	GD
+T89	Disease 1800 1802	GD
+T90	Disease 2119 2121	GD
+T91	Disease 2462 2464	GD
+T92	Disease 2681 2683	GD
+T93	Disease 2770 2772	GD
+T94	Disease 2962 2964	GD
+T95	Disease 3076 3078	GD
+T96	Disease 3268 3270	GD
+T97	Disease 3390 3392	GD
+T98	Disease 3573 3575	GD
+T99	Disease 3606 3608	GD
+T100	Disease 6633 6635	GD
+T101	Disease 3394 3402	Graves 病
+T102	Test 4426 4428	GA
+T103	Disease 3594 3598	AITD
+T104	Disease 686 691	格雷夫斯病
+T105	Disease 704 721	细胞毒性 T 淋巴细胞相关抗原 4
+T106	Test 3670 3672	性别
+T107	Test 3673 3675	年龄
+T108	Test 3724 3726	年龄
+T109	Test 3727 3729	性别
+T110	Test 3730 3732	病程
+T111	Anatomy 4963 4969	GG 纯合型
+T112	Anatomy 4443 4449	GG 基因型
+T113	Anatomy 4523 4525	GG
+T114	Anatomy 4528 4530	TT
+T115	Anatomy 4610 4616	GG 纯合型
+T116	Anatomy 4766 4768	GG
+T117	Anatomy 4774 4776	AA
+T118	Anatomy 4783 4789	GG 基因型
+T119	Anatomy 4861 4867	GG 纯合型
+T120	Disease 6376 6381;6382 6384	自身免疫性 疾病
+T121	Disease 6402 6409	自身免疫性疾病
+T122	Disease 2085 2092	自身免疫性疾病
+T123	Anatomy 167 175	rs231775
+T124	Anatomy 185 194	rs3087243
+T125	Anatomy 340 348	rs231775
+T126	Anatomy 480 489	rs3087243
+T127	Anatomy 631 639	rs231775
+T128	Anatomy 642 651	rs3087243
+T129	Anatomy 2487 2491	CD28
+T130	Anatomy 2493 2499	CTLA-4
+T131	Anatomy 2502 2517	可 诱 导 共 刺 激 分 子
+T132	Anatomy 2543 2547	ICOS
+T133	Anatomy 2797 2803	CTLA-4
+T134	Anatomy 2924 2932	rs231775
+T135	Anatomy 2935 2944	rs3087243
+T136	Anatomy 4286 4294	rs231775
+T137	Anatomy 4341 4349	rs231775
+T138	Anatomy 4638 4647	rs3087243
+T139	Anatomy 4945 4954	rs3087243
+T140	Anatomy 5015 5024	Th2 型细胞因子
+T141	Anatomy 5072 5074	胸腺
+T142	Anatomy 5175 5176;5177 5179	T 细胞
+T143	Anatomy 5475 5481	抗原呈递细胞
+T144	Anatomy 5482 5485	APC
+T145	Anatomy 5514 5522	T 细胞抗原受体
+T146	Anatomy 5523 5526	TCR
+T147	Anatomy 5539 5543	T 细胞
+T148	Anatomy 5584 5588	CD28
+T149	Anatomy 5591 5597	CTLA-4
+T150	Anatomy 5599 5603	CD28
+T151	Anatomy 5606 5612	CTLA-4
+T152	Anatomy 5581 5583	B7
+T153	Anatomy 5714 5716	B7
+T154	Anatomy 5719 5723	CD28
+T155	Anatomy 6098 6102;6103 6104	B7 分 子
+T156	Disease 6828 6830	HT
+T157	Anatomy 6949 6957	rs231775
+T158	Anatomy 6960 6969	rs3087243
+T159	Anatomy 62 71	CTLA-4 基因
+T160	Anatomy 131 148	细胞毒性 T 淋巴细胞相关抗原 4
+T161	Anatomy 149 155	CTLA-4
+T162	Disease 215 217	GD
+T163	Disease 206 214	Graves 病
+T164	Anatomy 308 317	CTLA-4 基因
+T165	Anatomy 621 630	CTLA-4 基因
+T166	Disease 2097 2104	甲状腺功能亢进
+T167	Disease 2105 2107	甲亢
+T168	Disease 2076 2078	GD
+T169	Disease 2067 2075	Graves 病
+T170	Anatomy 2227 2238	Fc 受体样 3 基因
+T171	Anatomy 2258 2263	FCRL3
+T172	Anatomy 2278 2285	人类白细胞抗原
+T173	Anatomy 2313 2316	HLA
+T174	Anatomy 2322 2339	细胞毒性 T 淋巴细胞相关抗原 4
+T175	Anatomy 2374 2380	CTLA-4
+T176	Anatomy 2387 2394	促甲状腺素受体
+T177	Anatomy 2433 2437	TSHR
+T178	Anatomy 2745 2754	CTLA-4 基因
+T179	Disease 2820 2821;2822 2838	自 身免 疫 性 甲 状 腺 疾 病
+T180	Disease 2841 2845	AITD
+T181	Anatomy 2897 2907	CTLA-4 基 因
+T182	Symptom 3752 3754	突眼
+T183	Symptom 3757 3762	甲状腺肿大
+T184	Test 3804 3809	甲状腺激素
+T185	Anatomy 4531 4533	GA
+T186	Anatomy 4769 4771	GA
+T187	Anatomy 4869 4876	TT+GA 型
+T188	Test 5254 5259	白细胞介素
+T189	Test 5260 5262	IL
+T190	Test 5267 5270	干扰素
+T191	Test 5272 5275	IFN
+T192	Test 5280 5286	肿瘤坏死因子
+T193	Test 5287 5290	TNF
+T194	Test 5305 5311	Th2 细胞
+T195	Anatomy 5349 5361	细胞毒性 T 淋巴细 胞
+T196	Anatomy 5389 5392	CTL
+T197	Anatomy 5394 5404	抑制性 T 淋巴细胞
+T198	Anatomy 5431 5433	Ts
+T199	Anatomy 5663 5668	B7 分子
+T200	Test 5950 5957;5958 5960	促甲状腺素受体 抗体
+T201	Test 5961 5965	TRAb
+T202	Anatomy 6008 6017	CTLA-4 基因
+T203	Anatomy 6315 6324	CTLA-4 基因
+T204	Reason 6451 6463	CTLA-4 基因多态性
+T205	Anatomy 6474 6483	CTLA-4 基因
+T206	Anatomy 6559 6568	CTLA-4 基因
+T207	Anatomy 6593 6601;6602 6603	CTLA-4 基 因
+T208	Anatomy 6681 6690	CTLA-4 基因
+T209	Disease 6795 6802	桥本氏甲状腺炎
+T210	Disease 6803 6805	HT
+T211	Anatomy 6866 6875	CTLA-4 基因
+T212	Anatomy 6976 6985	CTLA-4 基因
+T213	Reason 6999 7012	CTLA-4 基因功能异常
+R1	Anatomy_Disease Arg1:T159 Arg2:T4
+R2	Anatomy_Disease Arg1:T164 Arg2:T6
+R3	Anatomy_Disease Arg1:T165 Arg2:T9
+R4	Anatomy_Disease Arg1:T67 Arg2:T68
+R5	Anatomy_Disease Arg1:T67 Arg2:T69
+R6	Anatomy_Disease Arg1:T70 Arg2:T121
+R7	Anatomy_Disease Arg1:T205 Arg2:T73
+R8	Anatomy_Disease Arg1:T206 Arg2:T75
+R9	Anatomy_Disease Arg1:T211 Arg2:T82
+R10	Anatomy_Disease Arg1:T124 Arg2:T163
+R11	Anatomy_Disease Arg1:T125 Arg2:T7
+R12	Anatomy_Disease Arg1:T126 Arg2:T8
+R13	Anatomy_Disease Arg1:T128 Arg2:T9
+R14	Anatomy_Disease Arg1:T127 Arg2:T9
+R15	Anatomy_Disease Arg1:T129 Arg2:T91
+R16	Anatomy_Disease Arg1:T130 Arg2:T91
+R17	Anatomy_Disease Arg1:T131 Arg2:T91
+R18	Anatomy_Disease Arg1:T132 Arg2:T91
+R19	Anatomy_Disease Arg1:T133 Arg2:T93
+R20	Anatomy_Disease Arg1:T11 Arg2:T179
+R21	Anatomy_Disease Arg1:T136 Arg2:T18
+R22	Anatomy_Disease Arg1:T137 Arg2:T17
+R23	Anatomy_Disease Arg1:T138 Arg2:T19
+R24	Anatomy_Disease Arg1:T139 Arg2:T22
+R25	Anatomy_Disease Arg1:T140 Arg2:T25
+R26	Test_Disease Arg1:T201 Arg2:T61
+R27	Test_Disease Arg1:T200 Arg2:T61
+R28	Anatomy_Disease Arg1:T60 Arg2:T61
+R29	Anatomy_Disease Arg1:T67 Arg2:T1
+R30	Test_Disease Arg1:T79 Arg2:T80
+R31	Anatomy_Disease Arg1:T81 Arg2:T80
+R32	Anatomy_Disease Arg1:T83 Arg2:T84
+R33	Anatomy_Disease Arg1:T158 Arg2:T85
+R34	Anatomy_Disease Arg1:T157 Arg2:T85
+R35	Anatomy_Disease Arg1:T123 Arg2:T163
+R36	Anatomy_Disease Arg1:T161 Arg2:T163
+R37	Anatomy_Disease Arg1:T160 Arg2:T163
+R38	Anatomy_Disease Arg1:T178 Arg2:T92
+R39	Anatomy_Disease Arg1:T181 Arg2:T179
+R40	Anatomy_Disease Arg1:T134 Arg2:T179
+R41	Anatomy_Disease Arg1:T135 Arg2:T179
+R42	Test_Disease Arg1:T12 Arg2:T99
+R43	Test_Disease Arg1:T13 Arg2:T99
+R44	Test_Disease Arg1:T106 Arg2:T99
+R45	Test_Disease Arg1:T107 Arg2:T99
+R46	Anatomy_Disease Arg1:T112 Arg2:T23
+R47	Anatomy_Disease Arg1:T115 Arg2:T19
+R48	Anatomy_Disease Arg1:T118 Arg2:T24
+R49	Anatomy_Disease Arg1:T117 Arg2:T24
+R50	Anatomy_Disease Arg1:T186 Arg2:T24
+R51	Anatomy_Disease Arg1:T116 Arg2:T24
+R52	Anatomy_Disease Arg1:T111 Arg2:T22
+R53	Anatomy_Disease Arg1:T57 Arg2:T61
+R54	Anatomy_Disease Arg1:T58 Arg2:T61
+R55	Anatomy_Disease Arg1:T59 Arg2:T61
+R56	Anatomy_Disease Arg1:T67 Arg2:T120
+R57	Anatomy_Disease Arg1:T207 Arg2:T100
+R58	Anatomy_Disease Arg1:T81 Arg2:T209
+R59	Test_Disease Arg1:T79 Arg2:T209
+R60	Anatomy_Disease Arg1:T133 Arg2:T179
+R61	Anatomy_Disease Arg1:T11 Arg2:T180
+R62	Anatomy_Disease Arg1:T62 Arg2:T61
+R63	Anatomy_Disease Arg1:T70 Arg2:T69
+R64	Anatomy_Disease Arg1:T160 Arg2:T162
+R65	Anatomy_Disease Arg1:T161 Arg2:T162
+R66	Anatomy_Disease Arg1:T123 Arg2:T162
+R67	Anatomy_Disease Arg1:T124 Arg2:T162
+R68	Anatomy_Disease Arg1:T178 Arg2:T93
+R69	Anatomy_Disease Arg1:T181 Arg2:T180
+R70	Anatomy_Disease Arg1:T134 Arg2:T180
+R71	Anatomy_Disease Arg1:T135 Arg2:T180
+R72	Test_Disease Arg1:T102 Arg2:T23
+R73	Anatomy_Disease Arg1:T113 Arg2:T23
+R74	Anatomy_Disease Arg1:T114 Arg2:T23
+R75	Anatomy_Disease Arg1:T185 Arg2:T23
+R76	Anatomy_Disease Arg1:T138 Arg2:T20
+R77	Anatomy_Disease Arg1:T138 Arg2:T21
+R78	Anatomy_Disease Arg1:T119 Arg2:T22
+R79	Anatomy_Disease Arg1:T187 Arg2:T22
+R80	Anatomy_Disease Arg1:T202 Arg2:T61
+R81	Anatomy_Disease Arg1:T203 Arg2:T1
+R82	Anatomy_Disease Arg1:T203 Arg2:T68
+R83	Anatomy_Disease Arg1:T203 Arg2:T69
+R84	Anatomy_Disease Arg1:T203 Arg2:T120
+R85	Anatomy_Disease Arg1:T70 Arg2:T120
+R86	Anatomy_Disease Arg1:T70 Arg2:T1
+R87	Anatomy_Disease Arg1:T70 Arg2:T68
+R88	Anatomy_Disease Arg1:T206 Arg2:T74
+R89	Anatomy_Disease Arg1:T208 Arg2:T100
+R90	Anatomy_Disease Arg1:T81 Arg2:T210
+R91	Test_Disease Arg1:T79 Arg2:T210
+R92	Anatomy_Disease Arg1:T76 Arg2:T80
+R93	Anatomy_Disease Arg1:T77 Arg2:T209
+R94	Anatomy_Disease Arg1:T78 Arg2:T210
+R95	Anatomy_Disease Arg1:T76 Arg2:T209
+R96	Anatomy_Disease Arg1:T76 Arg2:T210
+R97	Anatomy_Disease Arg1:T77 Arg2:T80
+R98	Anatomy_Disease Arg1:T77 Arg2:T210
+R99	Anatomy_Disease Arg1:T78 Arg2:T80
+R100	Anatomy_Disease Arg1:T78 Arg2:T209
+R101	Anatomy_Disease Arg1:T211 Arg2:T156
+R102	Anatomy_Disease Arg1:T212 Arg2:T85
+R103	Anatomy_Disease Arg1:T157 Arg2:T86
+R104	Anatomy_Disease Arg1:T158 Arg2:T86
+R105	Anatomy_Disease Arg1:T212 Arg2:T86

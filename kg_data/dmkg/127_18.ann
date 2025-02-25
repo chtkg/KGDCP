@@ -1,0 +1,263 @@
+T1	Drug 109 113	吡格列酮
+T2	Anatomy 114 124	膀胱正常移行上皮细胞
+T3	Drug 193 197	吡格列酮
+T4	Anatomy 199 209	膀胱正常移行上皮细胞
+T5	Drug 362 366	吡格列酮
+T6	Drug 557 561	吡格列酮
+T7	Drug 652 656	吡格列酮
+T8	Anatomy 659 669	膀胱正常移行上皮细胞
+T9	Drug 701 707	噻唑烷二酮类
+T10	Drug 709 713	吡格列酮
+T11	Drug 2376 2382	噻唑烷二酮类
+T12	Disease 2383 2386	糖尿病
+T13	Anatomy 2425 2427	肝脏
+T14	Test 2437 2439	血糖
+T15	Drug 2452 2455	PGZ
+T16	Disease 2459 2462	膀胱癌
+T17	Drug 2483 2486	PGZ
+T18	Anatomy 2488 2498	膀胱正常移行上皮细胞
+T19	Anatomy 2846 2852	膀胱移行细胞
+T20	Anatomy 4146 4156	膀胱正常移行上皮细胞
+T21	Anatomy 4359 4369	膀胱正常移行上皮细胞
+T22	Drug 4824 4827	PGZ
+T23	Disease 4829 4832	膀胱癌
+T24	Drug 4852 4855	PGZ
+T25	Disease 4860 4863	膀胱癌
+T26	Drug 4896 4899	PGZ
+T27	Disease 4908 4911	膀胱癌
+T28	Disease 4994 4997	糖尿病
+T29	Drug 5007 5011	吡格列酮
+T30	Disease 5012 5015	膀胱癌
+T31	Drug 5083 5086	PGZ
+T32	Disease 5088 5091	膀胱癌
+T33	Disease 5119 5122	糖尿病
+T34	Drug 5155 5158	PGZ
+T35	Disease 5160 5163	糖尿病
+T36	Drug 5173 5176	PGZ
+T37	Disease 5178 5181	膀胱癌
+T38	Drug 5256 5259	PGZ
+T39	Disease 5261 5264	糖尿病
+T40	Drug 5272 5275	PGZ
+T41	Disease 5277 5280	膀胱癌
+T42	Drug 5296 5299	PGZ
+T43	Disease 5301 5304	糖尿病
+T44	Disease 5306 5309	膀胱癌
+T45	Drug 5328 5331	PGZ
+T46	Drug 5396 5399	PGZ
+T47	Disease 5403 5406	膀胱癌
+T48	Drug 5451 5454	PGZ
+T49	Disease 5456 5459	膀胱癌
+T50	Drug 5482 5486	吡格列酮
+T51	Anatomy 5487 5497	膀胱正常移行上皮细胞
+T52	Drug 5511 5514	PGZ
+T53	Disease 5516 5519	膀胱癌
+T54	Drug 5530 5533	PGZ
+T55	Anatomy 5550 5551;5552 5561	膀 胱正常移行上皮细胞
+T56	Drug 5631 5634	PGZ
+T57	Anatomy 5655 5665	膀胱正常移行上皮细胞
+T58	Drug 5686 5689	PGZ
+T59	Drug 5751 5754	PGZ
+T60	Disease 5877 5880	膀胱癌
+T61	Drug 5989 5992	PGZ
+T62	Anatomy 5995 6005	膀胱正常移行上皮细胞
+T63	Anatomy 6091 6094;6095 6102	膀胱正 常移行上皮细胞
+T64	Drug 6115 6118	PGZ
+T65	Disease 6131 6134	膀胱癌
+T66	Drug 6146 6149	PGZ
+T67	Drug 6211 6214	PGZ
+T68	Disease 6216 6219	直肠癌
+T69	Disease 6220 6223	胰腺癌
+T70	Disease 6224 6226	肝癌
+T71	Drug 6238 6241	PGZ
+T72	Disease 6245 6248	糖尿病
+T73	Drug 6274 6277	PGZ
+T74	Drug 6304 6307	PGZ
+T75	Drug 6384 6392	PPAR 激动剂
+T76	Anatomy 6413 6417	膀胱上皮
+T77	Drug 6476 6479	PGZ
+T78	Anatomy 6483 6492;6493 6494	膀胱正常移行上皮细 胞
+T79	Drug 6531 6534	PGZ
+T80	Anatomy 6537 6547	膀胱正常移行上皮细胞
+T81	Disease 6561 6564	糖尿病
+T82	Drug 6569 6572	PGZ
+T83	Disease 6583 6586	膀胱癌
+T84	Drug 3292 3296	吡格列酮
+T85	Drug 3335 3339	吡格列酮
+T86	Drug 3375 3379	吡格列酮
+T87	Drug 4259 4263	吡格列酮
+T88	Drug 4684 4688	吡格列酮
+T89	Anatomy 314 316	D1
+T90	Anatomy 317 320	p53
+T91	Anatomy 321 326	Bcl-2
+T92	Anatomy 327 330	Bax
+T93	Test 2428 2434	胰岛素敏感性
+T94	Anatomy 4662 4664	膀胱
+T95	Anatomy 5818 5823	Bcl-2
+T96	Anatomy 5824 5827	Bax
+T97	Anatomy 5899 5901	D1
+T98	Anatomy 5929 5931	D1
+T99	Drug 6354 6362	PPAR 激动剂
+T100	Anatomy 1430 1435	Bcl-2
+T101	Anatomy 1921 1926	Bcl-2
+T102	Anatomy 2729 2734	Bcl-2
+T103	Anatomy 3634 3639	Bcl-2
+T104	Anatomy 1932 1935	Bax
+T105	Anatomy 2735 2738	Bax
+T106	Anatomy 3642 3645	Bax
+T107	Test 266 273	细胞生长抑制率
+T108	Anatomy 530 536	J82 细胞
+T109	Anatomy 626 632	J82 细胞
+T110	Disease 715 718	膀胱癌
+T111	Anatomy 2807 2817	膀胱癌细胞株 J82
+T112	Anatomy 3924 3930	膀胱正常细胞
+T113	Drug 3972 3975	PGZ
+T114	Drug 4067 4070	PGZ
+T115	Anatomy 4073 4079	J82 细胞
+T116	Drug 4141 4144	PGZ
+T117	Anatomy 4193 4198;4199 4200	J82 细 胞
+T118	Anatomy 4326 4332	J82 细胞
+T119	Drug 4353 4356	PGZ
+T120	Drug 4526 4529	PGZ
+T121	Anatomy 4543 4549	J82 细胞
+T122	Drug 4639 4642	PGZ
+T123	Anatomy 4730 4736	J82 细胞
+T124	Anatomy 4783 4789	J82 细胞
+T125	Amount 5337 5346	28 000 mg
+T126	Duration 5352 5360	大于 24 个月
+T127	Anatomy 6007 6013	J82 细胞
+T128	Test 291 294	PCR
+T129	Test 4507 4510	PCR
+T130	Anatomy 684 699	过氧化物酶体增殖物激活受体 γ
+T131	Test_Value 4805 4807	降低
+T132	Duration 4777 4780	8 d
+T133	Test_Value 647 649	降低
+T134	Disease 5376 5378	癌症
+T135	Duration 6060 6063	8 d
+T136	Test_Value 6085 6089	明显减弱
+T137	Drug 2543 2546	PGZ
+T138	Disease 125 128	膀胱癌
+T139	Anatomy 210 220	膀胱癌 J82 细胞
+T140	Anatomy 369 371	膀胱
+T141	Drug 2351 2355	吡格列酮
+T142	Drug 2370 2373	PGZ
+T143	Anatomy 2391 2406	过氧化物酶体增殖物激活受体 γ
+T144	Anatomy 2407 2412	PPARγ
+T145	Disease 2499 2502	膀胱癌
+T146	Anatomy 4103 4109	角膜上皮细胞
+T147	Anatomy 4110 4116	肝脏正常细胞
+T148	Anatomy 4117 4123	肾脏正常细胞
+T149	Anatomy 4534 4538;4539 4541	膀胱正常 细胞
+T150	Anatomy 5498 5503	膀胱癌细胞
+T151	Anatomy 5535 5540	膀胱癌细胞
+T152	Drug 5584 5587	PGZ
+T153	Anatomy 5593 5599	角膜上皮细胞
+T154	Anatomy 5600 5606	肝脏正常细胞
+T155	Anatomy 5607 5610;5611 5614	肾脏正 常细胞
+T156	Disease 5643 5646	膀胱癌
+T157	Anatomy 5756 5762	正常膀胱细胞
+T158	Anatomy 6161 6165	膀胱上皮
+T159	Disease 6503 6506	膀胱癌
+T160	Disease 6523 6526	膀胱癌
+T161	Test 580 582	D1
+T162	Test 583 586	p53
+T163	Test 587 592	Bcl-2
+T164	Test 593 596	Bax
+T165	Test 636 638	D1
+T166	Test 639 642	p53
+T167	Test 4578 4580	D1
+T168	Test 4581 4584	p53
+T169	Test 4592 4595	Bax
+T170	Test 4586 4591	Bcl-2
+T171	Test 4741 4743	D1
+T172	Test 4744 4747	p53
+T173	Test 4754 4757	Bax
+T174	Test 4748 4753	Bcl-2
+T175	Test 4793 4795	D1
+T176	Test 4796 4799	p53
+T177	Test 4699 4701	D1
+T178	Test 4702 4705	p53
+T179	Test 4714 4717	Bax
+T180	Test 4706 4711	Bcl-2
+T181	Test 5778 5783	Bcl-2
+T182	Test 5784 5787	Bax
+T183	Anatomy 5854 5860	膀胱正常细胞
+T184	Test 5869 5871	D1
+T185	Test 5872 5875	p53
+T186	Test 6032 6034	D1
+T187	Test 6035 6038	p53
+T188	Test 6074 6076	D1
+T189	Test 6077 6080	p53
+R1	Drug_Disease Arg1:T42 Arg2:T44
+R2	Amount_Drug Arg1:T125 Arg2:T45
+R3	Duration_Drug Arg1:T126 Arg2:T45
+R4	Drug_Disease Arg1:T67 Arg2:T69
+R5	Drug_Disease Arg1:T67 Arg2:T70
+R6	Drug_Disease Arg1:T82 Arg2:T83
+R7	Anatomy_Disease Arg1:T2 Arg2:T138
+R8	Drug_Disease Arg1:T1 Arg2:T138
+R9	Drug_Disease Arg1:T11 Arg2:T12
+R10	Drug_Disease Arg1:T142 Arg2:T12
+R11	Drug_Disease Arg1:T141 Arg2:T12
+R12	Anatomy_Disease Arg1:T143 Arg2:T12
+R13	Anatomy_Disease Arg1:T144 Arg2:T12
+R14	Drug_Disease Arg1:T15 Arg2:T16
+R15	Test_Disease Arg1:T14 Arg2:T12
+R16	Test_Disease Arg1:T93 Arg2:T12
+R17	Anatomy_Disease Arg1:T13 Arg2:T12
+R18	Drug_Disease Arg1:T17 Arg2:T145
+R19	Anatomy_Disease Arg1:T18 Arg2:T145
+R20	Drug_Disease Arg1:T24 Arg2:T25
+R21	Drug_Disease Arg1:T26 Arg2:T27
+R22	Drug_Disease Arg1:T29 Arg2:T30
+R23	Drug_Disease Arg1:T31 Arg2:T32
+R24	Drug_Disease Arg1:T34 Arg2:T35
+R25	Drug_Disease Arg1:T36 Arg2:T37
+R26	Drug_Disease Arg1:T38 Arg2:T39
+R27	Drug_Disease Arg1:T40 Arg2:T41
+R28	Drug_Disease Arg1:T42 Arg2:T43
+R29	Drug_Disease Arg1:T46 Arg2:T47
+R30	Drug_Disease Arg1:T48 Arg2:T49
+R31	Drug_Disease Arg1:T52 Arg2:T53
+R32	Drug_Disease Arg1:T56 Arg2:T156
+R33	Anatomy_Disease Arg1:T57 Arg2:T156
+R34	Anatomy_Disease Arg1:T97 Arg2:T60
+R35	Drug_Disease Arg1:T64 Arg2:T65
+R36	Drug_Disease Arg1:T66 Arg2:T65
+R37	Drug_Disease Arg1:T67 Arg2:T68
+R38	Drug_Disease Arg1:T71 Arg2:T72
+R39	Anatomy_Disease Arg1:T78 Arg2:T159
+R40	Drug_Disease Arg1:T79 Arg2:T160
+R41	Drug_Disease Arg1:T82 Arg2:T81
+R42	Anatomy_Disease Arg1:T80 Arg2:T160
+R43	Drug_Disease Arg1:T77 Arg2:T159
+R44	Drug_Disease Arg1:T22 Arg2:T23
+R45	Drug_Disease Arg1:T50 Arg2:T53
+R46	Anatomy_Disease Arg1:T51 Arg2:T53
+R47	Anatomy_Disease Arg1:T150 Arg2:T53
+R48	Anatomy_Disease Arg1:T155 Arg2:T156
+R49	Anatomy_Disease Arg1:T154 Arg2:T156
+R50	Drug_Disease Arg1:T152 Arg2:T156
+R51	Anatomy_Disease Arg1:T153 Arg2:T156
+R52	Test_Disease Arg1:T185 Arg2:T60
+R53	Test_Disease Arg1:T184 Arg2:T60
+R54	Anatomy_Disease Arg1:T98 Arg2:T60
+R55	Anatomy_Disease Arg1:T63 Arg2:T65
+R56	Test_Disease Arg1:T189 Arg2:T65
+R57	Test_Disease Arg1:T188 Arg2:T65
+R58	Test_Disease Arg1:T187 Arg2:T65
+R59	Test_Disease Arg1:T186 Arg2:T65
+R60	Anatomy_Disease Arg1:T127 Arg2:T65
+R61	Anatomy_Disease Arg1:T62 Arg2:T65
+R62	Drug_Disease Arg1:T61 Arg2:T65
+R63	Anatomy_Disease Arg1:T158 Arg2:T65
+R64	Test_Disease Arg1:T14 Arg2:T16
+R65	Test_Disease Arg1:T93 Arg2:T16
+R66	Anatomy_Disease Arg1:T13 Arg2:T16
+R67	Drug_Disease Arg1:T31 Arg2:T33
+R68	Drug_Disease Arg1:T45 Arg2:T134
+R69	Test_Disease Arg1:T181 Arg2:T60
+R70	Anatomy_Disease Arg1:T95 Arg2:T60
+R71	Anatomy_Disease Arg1:T96 Arg2:T60
+R72	Anatomy_Disease Arg1:T183 Arg2:T60
+R73	Test_Disease Arg1:T182 Arg2:T60
+R74	Duration_Drug Arg1:T135 Arg2:T61

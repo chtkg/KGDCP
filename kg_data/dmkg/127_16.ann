@@ -1,0 +1,279 @@
+T1	Disease 2527 2533	2 型糖尿病
+T2	Disease 2620 2626	2 型糖尿病
+T3	Disease 7340 7346	2 型糖尿病
+T4	Anatomy 181 189	JAZF1 基因
+T5	Anatomy 191 202	3T3-L1 脂肪细胞
+T6	Drug 426 429	胰岛素
+T7	Drug 430 434	利拉鲁肽
+T8	Anatomy 542 553	3T3-L1 脂肪细胞
+T9	Drug 570 573	胰岛素
+T10	Drug 612 615	胰岛素
+T11	Drug 616 620	利拉鲁肽
+T12	Drug 795 799	利拉鲁肽
+T13	Anatomy 2642 2647	JAZF1
+T14	Disease 2700 2703	糖尿病
+T15	Anatomy 2710 2717	胰岛 β 细胞
+T16	Disease 2731 2734	糖尿病
+T17	Anatomy 2736 2740	胰岛细胞
+T18	Anatomy 2769 2774	JAZF1
+T19	Disease 2776 2779	糖尿病
+T20	Anatomy 2792 2797	JAZF1
+T21	Drug 2824 2827	胰岛素
+T22	Drug 2828 2832	利拉鲁肽
+T23	Anatomy 2844 2856	JAZF1 基因沉默细胞
+T24	Drug 4021 4024	胰岛素
+T25	Drug 4004 4008	地塞米松
+T26	Drug 4064 4068	地塞米松
+T27	Drug 4189 4192	胰岛素
+T28	Drug 4193 4197	利拉鲁肽
+T29	Drug 4231 4232;4233 4235	胰 岛素
+T30	Drug 4245 4248	胰岛素
+T31	Drug 4287 4288;4289 4291	胰 岛素
+T32	Drug 4258 4260;4261 4263	利拉 鲁肽
+T33	Drug 4273 4277	利拉鲁肽
+T34	Drug 4292 4296	利拉鲁肽
+T35	Drug 4307 4310	胰岛素
+T36	Drug 4311 4315	利拉鲁肽
+T37	Drug 4434 4437	胰岛素
+T38	Drug 4438 4442	利拉鲁肽
+T39	Drug 4588 4591	胰岛素
+T40	Drug 6060 6063	胰岛素
+T41	Drug 6125 6128	胰岛素
+T42	Anatomy 6198 6206	JAZF1 基因
+T43	Drug 6234 6237	胰岛素
+T44	Drug 6302 6304;6305 6307	利拉 鲁肽
+T45	Drug 6372 6375	胰岛素
+T46	Drug 6376 6378;6379 6381	利拉 鲁肽
+T47	Anatomy 7325 7330	JAZF1
+T48	Anatomy 7429 7434	JAZF1
+T49	Anatomy 7440 7442	睾丸
+T50	Anatomy 7443 7445	脂肪
+T51	Anatomy 7461 7466	JAZF1
+T52	Anatomy 7474 7485	3T3-L1 脂肪细胞
+T53	Anatomy 7559 7564	JAZF1
+T54	Anatomy 7596 7601	JAZF1
+T55	Test 7787 7790	胰岛素
+T56	Disease 7819 7822	糖尿病
+T57	Drug 8070 8074	利拉鲁肽
+T58	Test 8099 8102	胰岛素
+T59	Disease 8132 8135	糖尿病
+T60	Drug 8155 8159	利拉鲁肽
+T61	Drug 8187 8191	利拉鲁肽
+T62	Anatomy 8230 8235	JAZF1
+T63	Disease 8258 8261	糖尿病
+T64	Drug 8303 8307	利拉鲁肽
+T65	Anatomy 4098 4102	脂肪细胞
+T66	Anatomy 4106 4110	脂肪细胞
+T67	Anatomy 7911 7915	脂肪细胞
+T68	Disease 2561 2565	前列腺癌
+T69	Drug 3240 3244	利拉鲁肽
+T70	Drug 7120 7124	利拉鲁肽
+T71	Test 8107 8109	体重
+T72	Anatomy 209 213	AMPK
+T73	Anatomy 362 366	AMPK
+T74	Anatomy 492 496	AMPK
+T75	Anatomy 641 645	AMPK
+T76	Anatomy 695 699	AMPK
+T77	Anatomy 738 742	AMPK
+T78	Anatomy 827 831	AMPK
+T79	Anatomy 1305 1309	AMPK
+T80	Anatomy 1614 1618	AMPK
+T81	Anatomy 1986 1990	AMPK
+T82	Anatomy 2142 2146	AMPK
+T83	Anatomy 2231 2235	AMPK
+T84	Anatomy 2911 2915	AMPK
+T85	Anatomy 3138 3142	AMPK
+T86	Anatomy 6222 6226	AMPK
+T87	Anatomy 6253 6257	AMPK
+T88	Anatomy 6322 6326	AMPK
+T89	Anatomy 6401 6405	AMPK
+T90	Anatomy 6478 6482	AMPK
+T91	Anatomy 6751 6755	AMPK
+T92	Anatomy 6808 6812	AMPK
+T93	Anatomy 6867 6871	AMPK
+T94	Anatomy 6932 6936	AMPK
+T95	Anatomy 7045 7049	AMPK
+T96	Anatomy 7065 7069	AMPK
+T97	Anatomy 7080 7084	AMPK
+T98	Anatomy 7091 7095	AMPK
+T99	Anatomy 7235 7239	AMPK
+T100	Anatomy 7297 7301	AMPK
+T101	Anatomy 7578 7582	AMPK
+T102	Anatomy 7923 7927	AMPK
+T103	Anatomy 8022 8026	AMPK
+T104	Anatomy 8049 8053	AMPK
+T105	Anatomy 8173 8177	AMPK
+T106	Anatomy 8204 8208	AMPK
+T107	Anatomy 8249 8253	AMPK
+T108	Anatomy 8321 8325	AMPK
+T109	Anatomy 203 206	Akt
+T110	Anatomy 344 347	Akt
+T111	Anatomy 486 489	Akt
+T112	Anatomy 635 638	Akt
+T113	Anatomy 689 692	Akt
+T114	Anatomy 732 735	Akt
+T115	Anatomy 819 822	Akt
+T116	Anatomy 1264 1267	Akt
+T117	Anatomy 1606 1609	Akt
+T118	Anatomy 1978 1981	Akt
+T119	Anatomy 2134 2137	Akt
+T120	Anatomy 2223 2226	Akt
+T121	Anatomy 3125 3128	Akt
+T122	Anatomy 6216 6219	Akt
+T123	Anatomy 6247 6250	Akt
+T124	Anatomy 6316 6319	Akt
+T125	Anatomy 6395 6398	Akt
+T126	Anatomy 6472 6475	Akt
+T127	Anatomy 6745 6748	Akt
+T128	Anatomy 6802 6805	Akt
+T129	Anatomy 6861 6864	Akt
+T130	Anatomy 6921 6924	Akt
+T131	Anatomy 6988 6991	Akt
+T132	Anatomy 7007 7010	Akt
+T133	Anatomy 7020 7023	Akt
+T134	Anatomy 7030 7033	Akt
+T135	Anatomy 7229 7232	Akt
+T136	Anatomy 7289 7292	Akt
+T137	Anatomy 7572 7575	Akt
+T138	Anatomy 7730 7733	Akt
+T139	Anatomy 7833 7836	Akt
+T140	Anatomy 7879 7882	Akt
+T141	Anatomy 7902 7905	Akt
+T142	Anatomy 8167 8170	Akt
+T143	Anatomy 8198 8201	Akt
+T144	Anatomy 8243 8246	Akt
+T145	Anatomy 8315 8318	Akt
+T146	Anatomy 272 277	JAZF1
+T147	Anatomy 336 339;340 343	蛋白激 酶 B
+T148	Anatomy 350 361	AMP 活化的蛋白激酶
+T149	Anatomy 557 562	JAZF1
+T150	Test 576 581	葡萄糖摄取
+T151	Anatomy 664 669	JAZF1
+T152	Anatomy 718 723	JAZF1
+T153	Anatomy 2405 2410	JAZF1
+T154	Anatomy 2473 2478	Tip27
+T155	Disease 2535 2537	肥胖
+T156	Disease 2566 2574	子宫内膜间质肿瘤
+T157	Anatomy 2598 2603	JAZF1
+T158	Test 2673 2676	胰岛素
+T159	Anatomy 2886 2892	蛋白激酶 B
+T160	Anatomy 2899 2902;2903 2910	AMP 活化的蛋白激酶
+T161	Anatomy 2935 2940	JAZF1
+T162	Test 7750 7753	葡萄糖
+T163	Test 7755 7757	脂肪
+T164	Test 7758 7761	胆固醇
+T165	Test 7762 7765	蛋白质
+T166	Anatomy 7799 7802	骨骼肌
+T167	Anatomy 325 336	3T3-L1 脂肪细胞
+T168	Anatomy 411 422	3T3-L1 脂肪细胞
+T169	Anatomy 623 634	3T3-L1 脂肪细胞
+T170	Drug 790 793	胰岛素
+T171	Anatomy 2875 2886	3T3-L1 脂肪细胞
+T172	Anatomy 2963 2972	3T3-L1 细胞
+T173	Anatomy 3275 3286	JAZF1-shRNA
+T174	Anatomy 3508 3517	JAZF1mRNA
+T175	Anatomy 3784 3796	3T3-L1 前脂肪细胞
+T176	Anatomy 3823 3835	3T3-L1 前脂肪细胞
+T177	Drug 4059 4062	MIX
+T178	Drug 3959 3962	葡萄糖
+T179	Drug 3979 3984;3985 3992	异丁甲基黄 嘌呤(MIX)
+T180	Test 4458 4471	细胞葡萄糖摄取率(GUR)
+T181	Anatomy 4476 4484;4485 4489	3T3-L1 前 脂肪细胞
+T182	Test 4572 4575	GUR
+T183	Test 4604 4607	GUR
+T184	Anatomy 6070 6088;6089 6090	JAZF1-shRNA 3 号抑制质 粒
+T185	Test 6097 6103	葡萄糖摄取率
+T186	Anatomy 6135 6153;6154 6155	JAZF1-shRNA 3 号抑制质 粒
+T187	Drug 6496 6499	胰岛素
+T188	Anatomy 7662 7670;7671 7672	3T3-L1 细 胞
+T189	Anatomy 4184 4188	脂肪细胞
+T190	Anatomy 4567 4571	脂肪细胞
+T191	Anatomy 4599 4603	脂肪细胞
+T192	Anatomy 5616 5620	脂肪细胞
+T193	Anatomy 5925 5929	脂肪细胞
+T194	Anatomy 6049 6053	脂肪细胞
+T195	Anatomy 6211 6215	脂肪细胞
+T196	Anatomy 6601 6605	脂肪细胞
+T197	Anatomy 5005 5014	3T3-L1 细胞
+T198	Anatomy 3499 3502;3503 3504	脂肪细 胞
+T199	Test 462 467	葡萄糖摄取
+T200	Anatomy 762 767	JAZF1
+T201	Anatomy 769 775	蛋白激酶 B
+T202	Anatomy 777 788	AMP 活化的蛋白激酶
+T203	Test 6162 6168	葡萄糖摄取率
+T204	Anatomy 7792 7793	肝
+T205	Test_Value 7889 7891	降低
+T206	Test_Value 8180 8184	明显升高
+T207	Duration 4447 4453	10 min
+T208	Test 2649 2653	体重指数
+T209	Test 2654 2657	BMI
+T210	Anatomy 2741 2749	JAZF1 基因
+T211	Anatomy 2799 2802	胰岛素
+T212	Anatomy 2860 2868	JAZF1 基因
+T213	Anatomy 3334 3349	JAZF1 基因的 CDS 区
+T214	Anatomy 6454 6462	JAZF1 基因
+T215	Anatomy 7520 7525;7526 7528	JAZF1 基因
+T216	Reason 7628 7633	胰岛素抵抗
+T217	Anatomy 7650 7658	JAZF1 基因
+T218	Anatomy 7681 7689	JAZF1 基因
+T219	Anatomy 7867 7875	JAZF1 基因
+T220	Anatomy 8008 8016	JAZF1 基因
+T221	Anatomy 8034 8042	JAZF1 基因
+T222	Test 8116 8122;8123 8126	胰岛 β 细 胞功能
+T223	Anatomy 3143 3151	磷酸化 AMPK
+T224	Anatomy 2893 2896	Akt
+T225	Anatomy 3129 3131;3132 3137	磷酸 化 Akt
+T226	Test 2720 2725;2726 2729	DNA 芯 片检测
+T227	Test_Value 2757 2761	显著减少
+T228	Drug 8076 8084	胰升糖素样肽 1
+T229	Drug 8085 8090	GLP-1
+R1	Anatomy_Disease Arg1:T210 Arg2:T16
+R2	Anatomy_Disease Arg1:T154 Arg2:T1
+R3	Anatomy_Disease Arg1:T153 Arg2:T1
+R4	Anatomy_Disease Arg1:T157 Arg2:T2
+R5	Anatomy_Disease Arg1:T13 Arg2:T2
+R6	Test_Disease Arg1:T208 Arg2:T2
+R7	Test_Disease Arg1:T209 Arg2:T2
+R8	Anatomy_Disease Arg1:T15 Arg2:T14
+R9	Test_Disease Arg1:T226 Arg2:T14
+R10	Anatomy_Disease Arg1:T18 Arg2:T19
+R11	Anatomy_Disease Arg1:T17 Arg2:T16
+R12	Anatomy_Disease Arg1:T20 Arg2:T19
+R13	Anatomy_Disease Arg1:T47 Arg2:T3
+R14	Test_Disease Arg1:T55 Arg2:T56
+R15	Test_Disease Arg1:T58 Arg2:T59
+R16	Drug_Disease Arg1:T60 Arg2:T59
+R17	Anatomy_Disease Arg1:T142 Arg2:T59
+R18	Anatomy_Disease Arg1:T105 Arg2:T59
+R19	Drug_Disease Arg1:T61 Arg2:T59
+R20	Anatomy_Disease Arg1:T62 Arg2:T63
+R21	Anatomy_Disease Arg1:T107 Arg2:T63
+R22	Anatomy_Disease Arg1:T144 Arg2:T63
+R23	Drug_Disease Arg1:T64 Arg2:T63
+R24	Anatomy_Disease Arg1:T145 Arg2:T63
+R25	Anatomy_Disease Arg1:T108 Arg2:T63
+R26	Duration_Drug Arg1:T207 Arg2:T38
+R27	Anatomy_Disease Arg1:T166 Arg2:T56
+R28	Anatomy_Disease Arg1:T139 Arg2:T56
+R29	Test_Disease Arg1:T71 Arg2:T59
+R30	Test_Disease Arg1:T222 Arg2:T59
+R31	Anatomy_Disease Arg1:T154 Arg2:T155
+R32	Anatomy_Disease Arg1:T153 Arg2:T155
+R33	Anatomy_Disease Arg1:T154 Arg2:T68
+R34	Anatomy_Disease Arg1:T154 Arg2:T156
+R35	Anatomy_Disease Arg1:T153 Arg2:T68
+R36	Anatomy_Disease Arg1:T153 Arg2:T156
+R37	Test_Disease Arg1:T158 Arg2:T2
+R38	Anatomy_Disease Arg1:T211 Arg2:T19
+R39	Anatomy_Disease Arg1:T204 Arg2:T56
+R40	Drug_Disease Arg1:T57 Arg2:T59
+R41	Drug_Disease Arg1:T228 Arg2:T59
+R42	Drug_Disease Arg1:T229 Arg2:T59
+R43	Anatomy_Disease Arg1:T143 Arg2:T59
+R44	Anatomy_Disease Arg1:T106 Arg2:T59
+R45	Duration_Drug Arg1:T207 Arg2:T37
+R46	Anatomy_Disease Arg1:T138 Arg2:T56
+R47	Test_Disease Arg1:T162 Arg2:T56
+R48	Test_Disease Arg1:T163 Arg2:T56
+R49	Test_Disease Arg1:T164 Arg2:T56
+R50	Test_Disease Arg1:T165 Arg2:T56

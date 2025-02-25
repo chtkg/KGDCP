@@ -1,0 +1,600 @@
+T1	Disease 4811 4815;4816 4818	1 型糖 尿病
+T2	Disease 1703 1709	2 型糖尿病
+T3	Disease 1870 1876	2 型糖尿病
+T4	Disease 2238 2244	2 型糖尿病
+T5	Disease 2946 2952	2 型糖尿病
+T6	Disease 3000 3003;3004 3007	2 型 糖尿病
+T7	Disease 4114 4120	2 型糖尿病
+T8	Disease 4386 4392	2 型糖尿病
+T9	Disease 4584 4587;4588 4591	2 型 糖尿病
+T10	Disease 4844 4850	2 型糖尿病
+T11	Disease 5619 5625	2 型糖尿病
+T12	Disease 5664 5670	2 型糖尿病
+T13	Disease 5889 5893;5894 5896	2 型糖 尿病
+T14	Disease 6089 6095	2 型糖尿病
+T15	Disease 6144 6150	2 型糖尿病
+T16	Disease 6195 6198;6199 6202	2 型 糖尿病
+T17	Disease 7056 7062	2 型糖尿病
+T18	Disease 5845 5846;5847 5851	2 型糖尿病
+T19	Disease 6593 6594;6595 6599	2 型糖尿病
+T20	Test 4337 4342	HBA1C
+T21	Test 4395 4400	HBA1C
+T22	Disease 41 46	老年糖尿病
+T23	Disease 46 52	认知功能障碍
+T24	Anatomy 82 86	周围神经
+T25	Anatomy 87 93	中枢神经系统
+T26	Disease 98 104	认知功能障碍
+T27	Disease 117 123	认知功能障碍
+T28	Reason 137 143	高胰岛素血症
+T29	Reason 147 152	胰岛素缺乏
+T30	Reason 172 187	下丘脑-垂体-肾上腺轴功能失调
+T31	Reason 153 159	血糖控制水平
+T32	Reason 160 164;165 166	糖基化产 物
+T33	Reason 167 171	炎症介质
+T34	Reason 188 199	血-脑脊液屏障功能障碍
+T35	Disease 224 229	老年糖尿病
+T36	Disease 231 237	认知功能障碍
+T37	Disease 1224 1227	糖尿病
+T38	Disease 1228 1234	认知功能障碍
+T39	Disease 1297 1303	认知功能障碍
+T40	Disease 1337 1339	痴呆
+T41	Disease 1343 1346	糖尿病
+T42	Disease 1347 1353	认知功能障碍
+T43	Disease 1426 1429	糖尿病
+T44	Disease 1469 1471	AD
+T45	Test 1480 1481;1482 1484	胰 岛素
+T46	Disease 1491 1499	外周高胰岛素血症
+T47	Disease 1505 1510;1511 1512	3 型糖尿 病
+T48	Reason 1521 1526	胰岛素抵抗
+T49	Disease 1533 1539	认知功能障碍
+T50	Disease 1546 1552	认知功能障碍
+T51	Disease 1559 1562	糖尿病
+T52	Disease 1581 1589	糖尿病慢性并发症
+T53	Disease 1655 1661	认识功能障碍
+T54	Disease 1673 1678	老年糖尿病
+T55	Disease 1680 1686	认知功能障碍
+T56	Disease 1710 1718	老年认知功能障碍
+T57	Disease 1745 1750;1751 1752	2 型糖尿 病
+T58	Disease 1757 1762	血管性痴呆
+T59	Disease 1771 1778	AD 型痴呆症
+T60	Disease 1821 1827	认知功能障碍
+T61	Disease 1879 1882	痴呆症
+T62	Disease 1952 1955	糖尿病
+T63	Disease 1957 1959	AD
+T64	Disease 1993 1994;1995 1999	血 管性痴呆
+T65	Disease 2100 2102	AD
+T66	Disease 2163 2166	糖尿病
+T67	Disease 2171 2174	糖尿病
+T68	Disease 2246 2248	AD
+T69	Disease 2326 2329	糖尿病
+T70	Disease 2382 2387	老年糖尿病
+T71	Anatomy 2416 2420	大脑皮层
+T72	Symptom 2445 2454	渐进性的记忆力减退
+T73	Symptom 2495 2503	失去生活自理能力
+T74	Disease 2674 2679	老年痴呆症
+T75	Disease 2752 2756;2757 2758	老年糖尿 病
+T76	Disease 2763 2769	认知功能障碍
+T77	Disease 2777 2780	糖尿病
+T78	Disease 2800 2803	糖尿病
+T79	Level 2870 2872	严重
+T80	Disease 2883 2888	糖尿病急症
+T81	Level 2892 2894	严重
+T82	Disease 2901 2907	认知功能障碍
+T83	Disease 2908 2910	痴呆
+T84	Disease 2953 2959	认知功能障碍
+T85	Disease 3008 3014	认知功能障碍
+T86	Reason 3025 3030	胰岛素抵抗
+T87	Reason 3043 3048	慢性高血糖
+T88	Disease 3193 3198	老年痴呆症
+T89	Test 3214 3217	胰岛素
+T90	Disease 3230 3233	痴呆症
+T91	Test 3309 3312	胰岛素
+T92	Test_Value 3314 3328	<22. 2 MIU / L
+T93	Test 3329 3332	胰岛素
+T94	Disease 3344 3347	痴呆症
+T95	Test 3409 3412	胰岛素
+T96	Test_Value 3414 3415;3416 3429	≥ 22. 2 MIU / L
+T97	Test 3432 3435	胰岛素
+T98	Disease 3520 3522	AD
+T99	Test 3532 3535	胰岛素
+T100	Disease 3572 3574	AD
+T101	Anatomy 3614 3619	胰岛素受体
+T102	Test 3642 3645	胰岛素
+T103	Test 3690 3693	胰岛素
+T104	Test 3712 3715	胰岛素
+T105	Anatomy 3733 3739	Tau 蛋白
+T106	Disease 3746 3748	AD
+T107	Test 3825 3828	胰岛素
+T108	Test 3843 3846	胰岛素
+T109	Anatomy 3854 3857	IDE
+T110	Anatomy 3867 3870	IDE
+T111	Test 3886 3889	胰岛素
+T112	Anatomy 3970 3972	Aβ
+T113	Anatomy 3977 3983	Tau 蛋白
+T114	Disease 4059 4061;4062 4066	认知 功能障碍
+T115	Test 4071 4073	血糖
+T116	Reason 4179 4184	急性高血糖
+T117	Disease 4187 4193	认知功能受损
+T118	Test 4218 4225	血浆胶体渗透压
+T119	Test_Value 4225 4227	升高
+T120	Disease 4228 4231	酸中毒
+T121	Anatomy 4606 4612	血管内皮细胞
+T122	Reason 4704 4706;4707 4708	高血 压
+T123	Reason 4709 4712	高血脂
+T124	Reason 4713 4716	冠心病
+T125	Disease 4717 4721	认知障碍
+T126	Disease 4780 4786	认知功能障碍
+T127	Level 4804 4806	严重
+T128	Anatomy 5101 5104	基底核
+T129	Anatomy 5105 5108	下丘脑
+T130	Test 5146 5148	血糖
+T131	Disease 5149 5152	糖尿病
+T132	Test 5158 5160	血糖
+T133	Test 5168 5171	AGE
+T134	Disease 5185 5187;5188 5189	糖尿 病
+T135	Anatomy 5208 5214	AGE 受体
+T136	Test 5284 5286	NO
+T137	Disease 5369 5371	AD
+T138	Anatomy 5391 5397	Tau 蛋白
+T139	Anatomy 5399 5401	Aβ
+T140	Disease 5405 5407	AD
+T141	Disease 5452 5454	AD
+T142	Disease 5482 5484	AD
+T143	Anatomy 5503 5507	AGER
+T144	Disease 5583 5589	微血管并发症
+T145	Disease 5590 5596	认知功能障碍
+T146	Reason 5613 5618	胰岛素抵抗
+T147	Test 5648 5651	CRP
+T148	Disease 5655 5657;5658 5659	糖尿 病
+T149	Disease 5692 5695	糖尿病
+T150	Disease 5696 5702	动脉粥样硬化
+T151	Disease 5719 5722	痴呆症
+T152	Disease 5736 5738	AD
+T153	Test 5829 5832	TNF
+T154	Test 5835 5838	CRP
+T155	Test 5958 5966	地塞米松抑制实验
+T156	Test 5967 5970	皮质醇
+T157	Disease 5998 6001	糖尿病
+T158	Disease 6025 6032	缺血性心脏疾病
+T159	Disease 6033 6036	糖尿病
+T160	Disease 6044 6049	视网膜病变
+T161	Disease 6050 6054	神经病变
+T162	Disease 6055 6057	肾病
+T163	Test 6117 6120	皮质醇
+T164	Test 6169 6172	皮质醇
+T165	Disease 6204 6207	糖尿病
+T166	Test 6219 6222	皮质醇
+T167	Test 6251 6254	C 肽
+T168	Anatomy 6262 6267	胰岛素受体
+T169	Test 6278 6281	C 肽
+T170	Test 6341 6343	NO
+T171	Test 6369 6372	C 肽
+T172	Disease 6380 6383	糖尿病
+T173	Anatomy 6410 6419	ADP-核糖聚合酶
+T174	Anatomy 6395 6407	神经生长因子受体 p75
+T175	Anatomy 6437 6445	胰岛素样生长因子
+T176	Disease 6533 6535;6536 6539	血管 性痴呆
+T177	Disease 6541 6543	AD
+T178	Disease 6549 6554	老年糖尿病
+T179	Reason 6622 6638	脂蛋白相关蛋白(LRP)水平下降
+T180	Reason 6639 6640;6641 6645	脂 代谢紊乱
+T181	Reason 6651 6656	心血管疾病
+T182	Reason 6657 6660	脑缺血
+T183	Reason 6661 6666	脑白质病变
+T184	Reason 6667 6673;6674 6678	神经胶质细胞 代谢紊乱
+T185	Reason 6679 6691	神经生长因子水平明显降低
+T186	Reason 6692 6699	神经递质的紊乱
+T187	Reason 6700 6702;6703 6711	同型 半胱氨酸水平升高
+T188	Reason 6717 6729	神经元 Ca2+稳态损害
+T189	Disease 6735 6740	老年糖尿病
+T190	Disease 6741 6747	认识功能障碍
+T191	Disease 6788 6793	老年糖尿病
+T192	Disease 6839 6842;6843 6846	认知功 能障碍
+T193	Drug 6924 6930	钙离子拮抗剂
+T194	Drug 6932 6935	ARB
+T195	Drug 6938 6942	ACEI
+T196	Drug 6954 6960	胰岛素增敏剂
+T197	Test 6970 6972	血糖
+T198	Anatomy 5215 5219	RAGE
+T199	Anatomy 3999 4003	神经细胞
+T200	Anatomy 4519 4523	神经细胞
+T201	Anatomy 4739 4743	神经细胞
+T202	Disease 251 254	糖尿病
+T203	Disease 260 266	认知功能障碍
+T204	Test 2080 2082	年龄
+T205	Test 2083 2085	性别
+T206	Test 2086 2090	教育程度
+T207	Symptom 2177 2183	认知功能衰退
+T208	Symptom 2184 2190	认知能力下降
+T209	Disease 2804 2810	认识功能障碍
+T210	Disease 3077 3085	老年 2 型糖尿
+T211	Test 3404 3407	胰岛素
+T212	Symptom 4096 4102	认知功能下降
+T213	Disease 4688 4693	微血管病变
+T214	Test_Value 6122 6124	升高
+T215	Symptom 6175 6182	认知能力的下降
+T216	Level 6216 6219	高水平
+T217	Symptom 6795 6801	认知能力下降
+T218	Test 6876 6880	认知功能
+T219	Test 7040 7044	认知功能
+T220	Disease 111 116	老年糖尿病
+T221	Disease 1318 1324	认知功能损害
+T222	Anatomy 1432 1438	中枢神经系统
+T223	Anatomy 1478 1479	脑
+T224	Disease 1648 1652;1653 1654	老年糖尿 病
+T225	Disease 2094 2097	糖尿病
+T226	Disease 2333 2336	VaD
+T227	Anatomy 2421 2423	白质
+T228	Symptom 2462 2464;2465 2475	注意 力和额叶执行功能受损
+T229	Symptom 2649 2653	BPSD
+T230	Symptom 2655 2659	BPSD
+T231	Disease 3057 3059;3060 3063	脑血 管疾病
+T232	Anatomy 3088 3089;3090 3091	大 脑
+T233	Reason 3110 3114	炎性介质
+T234	Reason 3115 3118;3119 3120	流变因 素
+T235	Reason 3121 3137	下丘脑-垂体-肾上腺轴的功能失调
+T236	Test 3164 3167	胰岛素
+T237	Test 3264 3267	胰岛素
+T238	Anatomy 3586 3588	大脑
+T239	Anatomy 3590 3592	海马
+T240	Anatomy 3593 3598	内嗅皮质区
+T241	Anatomy 3669 3671	大脑
+T242	Anatomy 3702 3705	IDE
+T243	Anatomy 3788 3790	Aβ
+T244	Anatomy 3893 3895	大脑
+T245	Anatomy 3950 3953	IDE
+T246	Test_Value 4344 4346	升高
+T247	Test 4264 4270	神经传导速度
+T248	Anatomy 4543 4546	血小板
+T249	Anatomy 4550 4553	血小板
+T250	Anatomy 5065 5067	大脑
+T251	Anatomy 5081 5085	大脑皮质
+T252	Anatomy 5111 5115;5116 5118	自主神经 中枢
+T253	Anatomy 5351 5353	Aβ
+T254	Anatomy 5489 5491	Aβ
+T255	Anatomy 5485 5488	脑血管
+T256	Disease 5571 5574;5575 5576	动脉硬 化
+T257	Disease 5577 5582	神经元损伤
+T258	Reason 5866 5881	下丘脑-垂体-肾上腺轴功能失调
+T259	Anatomy 5899 5902	下丘脑
+T260	Anatomy 6602 6604	大脑
+T261	Disease 7021 7023;7024 7025	糖尿 病
+T262	Disease 7025 7031	认知功能障碍
+T263	Disease 3772 3780	中枢神经系统炎症
+T264	Test 3495 3498	胰岛素
+T265	Anatomy 3539 3541;3542 3544	血脑 屏障
+T266	Test 3938 3941	胰岛素
+T267	Anatomy 4454 4458	血脑屏障
+T268	Anatomy 5093 5098	皮质下中枢
+T269	Anatomy 5903 5905	垂体
+T270	Anatomy 5906 5909	肾上腺
+T271	Disease 76 79	糖尿病
+T272	Level 1327 1329	轻度
+T273	Disease 1329 1333;1334 1336	认知功能 损害
+T274	Reason 1363 1366	糖尿病
+T275	Disease 1369 1374	血管性痴呆
+T276	Disease 1375 1378	VaD
+T277	Disease 1408 1414	阿尔茨海默病
+T278	Disease 1415 1417	AD
+T279	Reason 1515 1520	代谢综合征
+T280	Reason 1527 1530	糖尿病
+T281	Reason 1817 1820	糖尿病
+T282	Disease 2362 2367	老年糖尿病
+T283	Disease 2368 2374	认知功能障碍
+T284	Anatomy 2391 2395	中枢神经
+T285	Disease 2402 2407;2408 2411	中枢神经系 统损害
+T286	Symptom 2481 2485	精神症状
+T287	Symptom 2486 2490	人格变化
+T288	Disease 2597 2602	老年糖尿病
+T289	Disease 2603 2606;2607 2610	认知功 能损害
+T290	Level 2611 2613	轻度
+T291	Disease 2613 2619	认知功能障碍
+T292	Disease 2620 2623	MCI
+T293	Disease 2635 2636;2637 2640	老 年痴呆
+T294	Symptom 2695 2697;2698 2699	精神 病
+T295	Symptom 2700 2703	抑郁症
+T296	Symptom 2704 2708	情绪激动
+T297	Symptom 2709 2715	侵略和去抑制
+T298	Symptom 2747 2751	抑郁情绪
+T299	Disease 2829 2834	老年糖尿病
+T300	Disease 2834 2840	认知功能障碍
+T301	Symptom 2872 2875	高血糖
+T302	Symptom 2876 2879	低血糖
+T303	Symptom 2880 2882	脱水
+T304	Symptom 2894 2897	低血糖
+T305	Symptom 2913 2916	低血糖
+T306	Symptom 2917 2920	高血糖
+T307	Disease 2930 2933	糖尿病
+T308	Disease 2934 2940	认知功能障碍
+T309	Symptom 3072 3075	低血糖
+T310	Level 3069 3071	严重
+T311	Disease 3151 3157	高胰岛素血症
+T312	Disease 3158 3163	胰岛素缺乏
+T313	Disease 3439 3444	老年痴呆症
+T314	Reason 3508 3510;3511 3517	中枢 高胰岛素血症
+T315	Anatomy 3554 3563	淀粉样蛋白 β42
+T316	Anatomy 3551 3554	脑脊液
+T317	Anatomy 3600 3603;3604 3606	胰岛素 受体
+T318	Anatomy 3620 3629;3630 3639	胰岛素样生长因子I (IGF-I)受体
+T319	Anatomy 3656 3661;3662 3663	胰岛素降解 酶
+T320	Anatomy 3664 3667	IDE
+T321	Anatomy 3676 3683	β 淀粉样蛋白
+T322	Anatomy 3684 3686	Aβ
+T323	Anatomy 3695 3697	Aβ
+T324	Anatomy 3724 3726	Aβ
+T325	Disease 3760 3764;3765 3769	外周高胰 岛素血症
+T326	Disease 3801 3809	外周高胰岛素血症
+T327	Reason 3918 3925	胰岛素分泌不足
+T328	Reason 3929 3934	胰岛素抵抗
+T329	Reason 4078 4081	高血糖
+T330	Reason 4122 4125;4126 4128	急性高 血糖
+T331	Reason 4142 4145	高血糖
+T332	Reason 4155 4158	高血糖
+T333	Reason 4206 4213;4214 4216	急性血糖浓度的 升高
+T334	Disease 4232 4237	电解质紊乱
+T335	Symptom 4287 4290	高血糖
+T336	Symptom 4419 4424	慢性高血糖
+T337	Reason 4538 4541	高血糖
+T338	Reason 4613 4616	高血糖
+T339	Reason 4628 4631	高血糖
+T340	Reason 4665 4668	高血糖
+T341	Reason 4682 4685	高血糖
+T342	Reason 4806 4809	低血糖
+T343	Reason 4864 4867	低血糖
+T344	Reason 4875 4878	低血糖
+T345	Disease 4883 4888	老年痴呆症
+T346	Reason 4914 4918	认知障碍
+T347	Reason 4919 4924	老年痴呆症
+T348	Disease 4927 4930	低血糖
+T349	Reason 4937 4939;4940 4941	低血 糖
+T350	Reason 4967 4968;4969 4971	低 血糖
+T351	Symptom 4983 4985	焦虑
+T352	Symptom 4986 4988	抑郁
+T353	Symptom 4990 4992	恐惧
+T354	Reason 4994 4997	低血糖
+T355	Disease 5000 5006	认知功能紊乱
+T356	Reason 5022 5025	低血糖
+T357	Reason 5044 5047	低血糖
+T358	Test 5128 5135	糖基化终末产物
+T359	Test 5136 5139	AGE
+T360	Anatomy 5141 5144	AGE
+T361	Reason 5178 5181	高血糖
+T362	Anatomy 5202 5205	AGE
+T363	Anatomy 5222 5225	AGE
+T364	Disease 5227 5230	糖尿病
+T365	Anatomy 5259 5262	AGE
+T366	Test 5275 5282	内源性一氧化氮
+T367	Reason 5340 5342;5343 5347	Aβ 代谢异常
+T368	Anatomy 5382 5385	AGE
+T369	Anatomy 5421 5424	AGE
+T370	Anatomy 5497 5500	AGE
+T371	Test 5918 5924;5925 5926	基础血浆皮质 醇
+T372	Test 5929 5934	夜间皮质醇
+T373	Test 5939 5946	肾上腺皮质激素
+T374	Test 5947 5951	ACTH
+T375	Test 6003 6008	血浆皮质醇
+T376	Disease 6097 6103	认知功能下降
+T377	Disease 6105 6109	情绪障碍
+T378	Disease 6125 6128	糖尿病
+T379	Disease 6129 6131;6132 6136	认知 功能障碍
+T380	Level 6166 6169	高水平
+T381	Symptom 6234 6237	高血糖
+T382	Symptom 6229 6233	抑郁症状
+T383	Anatomy 6269 6271;6272 6276	胰岛 素信号肽
+T384	Anatomy 6323 6329	一氧化氮合酶
+T385	Anatomy 6331 6335	eNOS
+T386	Disease 6431 6436	胰岛素受损
+T387	Disease 6752 6755	糖尿病
+T388	Disease 6756 6757;6758 6763	认 知功能障碍
+T389	Test 6851 6861	简易智力状态检查量表
+T390	Test 6862 6866	MMSE
+T391	Reason 6983 6988	胰岛素抵抗
+T392	Disease 6993 6994;6995 6999	2 型糖尿病
+T393	Disease 6999 7005	认知功能障碍
+T394	Anatomy 5824 5828	IL-6
+T395	Anatomy 5458 5462	RAGE
+T396	Anatomy 5468 5472	RAGE
+T397	Disease 6817 6820	低血糖
+R1	Symptom_Disease Arg1:T207 Arg2:T67
+R2	Symptom_Disease Arg1:T208 Arg2:T67
+R3	Symptom_Disease Arg1:T301 Arg2:T80
+R4	Symptom_Disease Arg1:T302 Arg2:T80
+R5	Symptom_Disease Arg1:T303 Arg2:T80
+R6	Symptom_Disease Arg1:T305 Arg2:T83
+R7	Symptom_Disease Arg1:T306 Arg2:T83
+R8	Symptom_Disease Arg1:T304 Arg2:T82
+R9	Symptom_Disease Arg1:T309 Arg2:T210
+R10	Anatomy_Disease Arg1:T360 Arg2:T131
+R11	Test_Disease Arg1:T147 Arg2:T148
+R12	Test_Disease Arg1:T375 Arg2:T157
+R13	Symptom_Disease Arg1:T217 Arg2:T191
+R14	Anatomy_Disease Arg1:T24 Arg2:T26
+R15	Anatomy_Disease Arg1:T25 Arg2:T26
+R16	Anatomy_Disease Arg1:T222 Arg2:T43
+R17	Anatomy_Disease Arg1:T223 Arg2:T44
+R18	Test_Disease Arg1:T45 Arg2:T44
+R19	Anatomy_Disease Arg1:T284 Arg2:T70
+R20	Anatomy_Disease Arg1:T71 Arg2:T285
+R21	Anatomy_Disease Arg1:T227 Arg2:T285
+R22	Symptom_Disease Arg1:T72 Arg2:T285
+R23	Symptom_Disease Arg1:T228 Arg2:T285
+R24	Symptom_Disease Arg1:T229 Arg2:T293
+R25	Symptom_Disease Arg1:T230 Arg2:T293
+R26	Symptom_Disease Arg1:T294 Arg2:T74
+R27	Symptom_Disease Arg1:T295 Arg2:T74
+R28	Symptom_Disease Arg1:T296 Arg2:T74
+R29	Symptom_Disease Arg1:T297 Arg2:T74
+R30	Test_Disease Arg1:T236 Arg2:T312
+R31	Test_Disease Arg1:T89 Arg2:T311
+R32	Test_Disease Arg1:T237 Arg2:T311
+R33	Test_Disease Arg1:T99 Arg2:T98
+R34	Anatomy_Disease Arg1:T315 Arg2:T100
+R35	Anatomy_Disease Arg1:T316 Arg2:T98
+R36	Anatomy_Disease Arg1:T238 Arg2:T100
+R37	Anatomy_Disease Arg1:T239 Arg2:T100
+R38	Anatomy_Disease Arg1:T240 Arg2:T100
+R39	Anatomy_Disease Arg1:T317 Arg2:T100
+R40	Anatomy_Disease Arg1:T105 Arg2:T106
+R41	Anatomy_Disease Arg1:T324 Arg2:T106
+R42	Test_Disease Arg1:T107 Arg2:T326
+R43	Test_Disease Arg1:T108 Arg2:T326
+R44	Test_Disease Arg1:T115 Arg2:T7
+R45	Test_Disease Arg1:T21 Arg2:T8
+R46	Test_Disease Arg1:T20 Arg2:T8
+R47	Test_Disease Arg1:T130 Arg2:T131
+R48	Test_Disease Arg1:T359 Arg2:T131
+R49	Test_Disease Arg1:T358 Arg2:T131
+R50	Test_Disease Arg1:T132 Arg2:T131
+R51	Test_Disease Arg1:T133 Arg2:T131
+R52	Anatomy_Disease Arg1:T135 Arg2:T134
+R53	Anatomy_Disease Arg1:T198 Arg2:T134
+R54	Test_Disease Arg1:T366 Arg2:T364
+R55	Test_Disease Arg1:T136 Arg2:T364
+R56	Anatomy_Disease Arg1:T253 Arg2:T137
+R57	Anatomy_Disease Arg1:T138 Arg2:T140
+R58	Anatomy_Disease Arg1:T139 Arg2:T140
+R59	Anatomy_Disease Arg1:T255 Arg2:T142
+R60	Anatomy_Disease Arg1:T254 Arg2:T142
+R61	Anatomy_Disease Arg1:T143 Arg2:T142
+R62	Test_Disease Arg1:T153 Arg2:T18
+R63	Test_Disease Arg1:T154 Arg2:T18
+R64	Test_Disease Arg1:T371 Arg2:T13
+R65	Test_Disease Arg1:T372 Arg2:T13
+R66	Test_Disease Arg1:T163 Arg2:T378
+R67	Test_Disease Arg1:T164 Arg2:T15
+R68	Test_Disease Arg1:T166 Arg2:T165
+R69	Test_Disease Arg1:T171 Arg2:T172
+R70	Anatomy_Disease Arg1:T174 Arg2:T172
+R71	Anatomy_Disease Arg1:T173 Arg2:T172
+R72	Anatomy_Disease Arg1:T260 Arg2:T19
+R73	Test_Disease Arg1:T197 Arg2:T392
+R74	Anatomy_Disease Arg1:T265 Arg2:T98
+R75	Test_Disease Arg1:T206 Arg2:T225
+R76	Test_Disease Arg1:T205 Arg2:T225
+R77	Test_Disease Arg1:T204 Arg2:T225
+R78	Symptom_Disease Arg1:T286 Arg2:T285
+R79	Symptom_Disease Arg1:T287 Arg2:T285
+R80	Symptom_Disease Arg1:T73 Arg2:T285
+R81	Symptom_Disease Arg1:T298 Arg2:T76
+R82	Test_Disease Arg1:T236 Arg2:T311
+R83	Test_Disease Arg1:T97 Arg2:T313
+R84	Test_Disease Arg1:T95 Arg2:T313
+R85	Test_Disease Arg1:T93 Arg2:T94
+R86	Test_Disease Arg1:T91 Arg2:T94
+R87	Anatomy_Disease Arg1:T101 Arg2:T100
+R88	Anatomy_Disease Arg1:T318 Arg2:T100
+R89	Anatomy_Disease Arg1:T319 Arg2:T100
+R90	Anatomy_Disease Arg1:T320 Arg2:T100
+R91	Anatomy_Disease Arg1:T241 Arg2:T100
+R92	Anatomy_Disease Arg1:T321 Arg2:T100
+R93	Anatomy_Disease Arg1:T322 Arg2:T100
+R94	Anatomy_Disease Arg1:T242 Arg2:T106
+R95	Anatomy_Disease Arg1:T323 Arg2:T106
+R96	Anatomy_Disease Arg1:T243 Arg2:T263
+R97	Anatomy_Disease Arg1:T199 Arg2:T114
+R98	Anatomy_Disease Arg1:T113 Arg2:T114
+R99	Anatomy_Disease Arg1:T112 Arg2:T114
+R100	Anatomy_Disease Arg1:T245 Arg2:T114
+R101	Test_Disease Arg1:T247 Arg2:T117
+R102	Test_Disease Arg1:T118 Arg2:T117
+R103	Anatomy_Disease Arg1:T201 Arg2:T126
+R104	Symptom_Disease Arg1:T351 Arg2:T355
+R105	Symptom_Disease Arg1:T352 Arg2:T355
+R106	Symptom_Disease Arg1:T353 Arg2:T355
+R107	Anatomy_Disease Arg1:T362 Arg2:T134
+R108	Anatomy_Disease Arg1:T363 Arg2:T364
+R109	Anatomy_Disease Arg1:T368 Arg2:T140
+R110	Anatomy_Disease Arg1:T369 Arg2:T141
+R111	Anatomy_Disease Arg1:T395 Arg2:T141
+R112	Anatomy_Disease Arg1:T396 Arg2:T141
+R113	Anatomy_Disease Arg1:T370 Arg2:T142
+R114	Anatomy_Disease Arg1:T394 Arg2:T18
+R115	Anatomy_Disease Arg1:T259 Arg2:T13
+R116	Anatomy_Disease Arg1:T269 Arg2:T13
+R117	Anatomy_Disease Arg1:T270 Arg2:T13
+R118	Test_Disease Arg1:T373 Arg2:T13
+R119	Test_Disease Arg1:T374 Arg2:T13
+R120	Test_Disease Arg1:T155 Arg2:T13
+R121	Test_Disease Arg1:T156 Arg2:T13
+R122	Symptom_Disease Arg1:T382 Arg2:T165
+R123	Symptom_Disease Arg1:T381 Arg2:T165
+R124	Anatomy_Disease Arg1:T175 Arg2:T172
+R125	Test_Disease Arg1:T219 Arg2:T17
+R126	Anatomy_Disease Arg1:T24 Arg2:T271
+R127	Test_Disease Arg1:T89 Arg2:T90
+R128	Test_Disease Arg1:T237 Arg2:T90
+R129	Anatomy_Disease Arg1:T316 Arg2:T100
+R130	Test_Disease Arg1:T104 Arg2:T106
+R131	Anatomy_Disease Arg1:T243 Arg2:T325
+R132	Anatomy_Disease Arg1:T248 Arg2:T9
+R133	Anatomy_Disease Arg1:T249 Arg2:T9
+R134	Anatomy_Disease Arg1:T121 Arg2:T9
+R135	Test_Disease Arg1:T147 Arg2:T12
+R136	Anatomy_Disease Arg1:T175 Arg2:T386
+R137	Test_Disease Arg1:T389 Arg2:T192
+R138	Test_Disease Arg1:T390 Arg2:T192
+R139	Symptom_Disease Arg1:T298 Arg2:T75
+R140	Anatomy_Disease Arg1:T25 Arg2:T271
+R141	Test_Disease Arg1:T45 Arg2:T46
+R142	Test_Disease Arg1:T45 Arg2:T47
+R143	Test_Disease Arg1:T206 Arg2:T65
+R144	Test_Disease Arg1:T205 Arg2:T65
+R145	Test_Disease Arg1:T204 Arg2:T65
+R146	Symptom_Disease Arg1:T207 Arg2:T66
+R147	Symptom_Disease Arg1:T208 Arg2:T66
+R148	Symptom_Disease Arg1:T230 Arg2:T74
+R149	Symptom_Disease Arg1:T229 Arg2:T74
+R150	Symptom_Disease Arg1:T298 Arg2:T77
+R151	Symptom_Disease Arg1:T301 Arg2:T300
+R152	Symptom_Disease Arg1:T302 Arg2:T300
+R153	Symptom_Disease Arg1:T303 Arg2:T300
+R154	Symptom_Disease Arg1:T301 Arg2:T299
+R155	Symptom_Disease Arg1:T302 Arg2:T299
+R156	Symptom_Disease Arg1:T303 Arg2:T299
+R157	Symptom_Disease Arg1:T304 Arg2:T83
+R158	Symptom_Disease Arg1:T305 Arg2:T82
+R159	Symptom_Disease Arg1:T306 Arg2:T82
+R160	Anatomy_Disease Arg1:T232 Arg2:T210
+R161	Symptom_Disease Arg1:T309 Arg2:T231
+R162	Test_Disease Arg1:T236 Arg2:T88
+R163	Test_Disease Arg1:T211 Arg2:T313
+R164	Test_Disease Arg1:T264 Arg2:T313
+R165	Test_Disease Arg1:T102 Arg2:T100
+R166	Anatomy_Disease Arg1:T319 Arg2:T106
+R167	Anatomy_Disease Arg1:T320 Arg2:T106
+R168	Anatomy_Disease Arg1:T241 Arg2:T106
+R169	Anatomy_Disease Arg1:T321 Arg2:T106
+R170	Anatomy_Disease Arg1:T322 Arg2:T106
+R171	Test_Disease Arg1:T103 Arg2:T106
+R172	Anatomy_Disease Arg1:T109 Arg2:T326
+R173	Anatomy_Disease Arg1:T110 Arg2:T326
+R174	Test_Disease Arg1:T266 Arg2:T114
+R175	Anatomy_Disease Arg1:T244 Arg2:T114
+R176	Test_Disease Arg1:T111 Arg2:T114
+R177	Test_Disease Arg1:T247 Arg2:T120
+R178	Test_Disease Arg1:T247 Arg2:T334
+R179	Anatomy_Disease Arg1:T365 Arg2:T364
+R180	Anatomy_Disease Arg1:T369 Arg2:T140
+R181	Test_Disease Arg1:T147 Arg2:T149
+R182	Test_Disease Arg1:T147 Arg2:T150
+R183	Test_Disease Arg1:T147 Arg2:T151
+R184	Test_Disease Arg1:T375 Arg2:T158
+R185	Test_Disease Arg1:T375 Arg2:T159
+R186	Test_Disease Arg1:T375 Arg2:T160
+R187	Test_Disease Arg1:T375 Arg2:T161
+R188	Test_Disease Arg1:T375 Arg2:T162
+R189	Test_Disease Arg1:T163 Arg2:T379
+R190	Symptom_Disease Arg1:T215 Arg2:T15
+R191	Test_Disease Arg1:T166 Arg2:T16
+R192	Symptom_Disease Arg1:T382 Arg2:T16
+R193	Symptom_Disease Arg1:T381 Arg2:T16
+R194	Symptom_Disease Arg1:T217 Arg2:T388
+R195	Test_Disease Arg1:T218 Arg2:T192
+R196	Drug_Disease Arg1:T196 Arg2:T392
+R197	Drug_Disease Arg1:T195 Arg2:T392
+R198	Drug_Disease Arg1:T194 Arg2:T392
+R199	Drug_Disease Arg1:T193 Arg2:T392
+R200	Drug_Disease Arg1:T193 Arg2:T393
+R201	Drug_Disease Arg1:T194 Arg2:T393
+R202	Drug_Disease Arg1:T195 Arg2:T393
+R203	Drug_Disease Arg1:T196 Arg2:T393

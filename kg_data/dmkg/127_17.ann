@@ -1,0 +1,318 @@
+T1	Disease 5929 5935	2 型糖尿病
+T2	Disease 5966 5972	2 型糖尿病
+T3	Disease 7685 7691	2 型糖尿病
+T4	Test 90 95	TNF-α
+T5	Test 335 340	TNF-α
+T6	Test 559 564	TNF-α
+T7	Anatomy 2272 2276	脂肪组织
+T8	Test 2350 2353	抵抗素
+T9	Test 2357 2360	胰岛素
+T10	Anatomy 2381 2385	脂肪细胞
+T11	Anatomy 2428 2432	脂肪细胞
+T12	Test 2507 2510	TSH
+T13	Anatomy 2513 2517	脂肪细胞
+T14	Anatomy 2534 2538	脂肪细胞
+T15	Test 2541 2546	TNF-α
+T16	Test 2584 2587	TSH
+T17	Drug 2683 2686	胰岛素
+T18	Drug 2687 2688;2689 2692	地 塞米松
+T19	Drug 3257 3261	地塞米松
+T20	Drug 3237 3238;3239 3241	胰 岛素
+T21	Drug 3302 3306	地塞米松
+T22	Drug 3317 3319;3320 3321	胰岛 素
+T23	Test 3493 3498	TNF-α
+T24	Test 3613 3618	TNF-α
+T25	Test 3662 3667	TNF-α
+T26	Anatomy 4472 4477	成纤维细胞
+T27	Test 4881 4886	TNF-α
+T28	Test 4972 4977	TNF-α
+T29	Test 5782 5787	TNF-α
+T30	Anatomy 5813 5817	脂肪细胞
+T31	Anatomy 5871 5875;5876 5879	甲状腺滤 泡细胞
+T32	Anatomy 5886 5890	脂肪组织
+T33	Anatomy 6057 6061	脂肪组织
+T34	Test 6062 6065	胰岛素
+T35	Test 6111 6114	TSH
+T36	Anatomy 6119 6123	脂肪细胞
+T37	Test 6171 6174	TSH
+T38	Anatomy 6176 6183	甲状腺滤泡细胞
+T39	Anatomy 6258 6261	甲状腺
+T40	Anatomy 6252 6256	脂肪细胞
+T41	Test 6279 6282	TSH
+T42	Anatomy 6286 6290	脂肪细胞
+T43	Anatomy 6336 6345	葡萄糖转运蛋白 4
+T44	Test 6364 6367	TSH
+T45	Anatomy 6372 6376	脂肪细胞
+T46	Anatomy 6507 6511	脂肪细胞
+T47	Test 6543 6546	胰岛素
+T48	Test 6596 6598;6599 6600	胰岛 素
+T49	Anatomy 6875 6879	脂肪细胞
+T50	Test 6898 6901	胰岛素
+T51	Test 7023 7025;7026 7027	胰岛 素
+T52	Anatomy 7051 7055	脂肪细胞
+T53	Anatomy 7352 7356	脂肪细胞
+T54	Anatomy 7499 7503	脂肪细胞
+T55	Anatomy 7521 7522;7523 7526	脂 肪细胞
+T56	Anatomy 7771 7774	甲状腺
+T57	Anatomy 7766 7770	脂肪组织
+T58	Test 1079 1082	TSH
+T59	Test 1456 1459	TSH
+T60	Test 1891 1894	TSH
+T61	Test 5192 5195	TSH
+T62	Test 5276 5279	TSH
+T63	Test 5307 5310	TSH
+T64	Test 7346 7349	TSH
+T65	Test 7494 7497	TSH
+T66	Test 7758 7761	TSH
+T67	Anatomy 114 119	IRS-1
+T68	Anatomy 2395 2403	促甲状腺激素受体
+T69	Anatomy 2404 2408	TSHR
+T70	Anatomy 2520 2524	TSHR
+T71	Anatomy 2551 2560	胰岛素受体底物 1
+T72	Anatomy 2561 2566	IRS-1
+T73	Anatomy 458 462	TSHR
+T74	Drug 476 485	TNF-α 拮抗剂
+T75	Drug 486 491	WP9QY
+T76	Anatomy 543 547	TSHR
+T77	Anatomy 572 577	IRS-1
+T78	Anatomy 5861 5865	TSHR
+T79	Test 6039 6044;6045 6047	胰岛素敏感 指数
+T80	Anatomy 6186 6190	TSHR
+T81	Anatomy 6198 6202	G 蛋白
+T82	Anatomy 6207 6211	环腺苷酸
+T83	Anatomy 6212 6216	cAMP
+T84	Anatomy 6218 6223	二磷酸肌醇
+T85	Anatomy 6291 6295	cAMP
+T86	Anatomy 6296 6302	蛋白激酶 A
+T87	Anatomy 6311 6316	NF-κB
+T88	Anatomy 6379 6383	TSHR
+T89	Anatomy 6426 6430	TSHR
+T90	Anatomy 6514 6518	TSHR
+T91	Anatomy 6557 6562	胰岛素受体
+T92	Anatomy 6578 6580	IR
+T93	Anatomy 6564 6566	IR
+T94	Anatomy 6606 6611	IRS-1
+T95	Test 6624 6627	胰岛素
+T96	Anatomy 6638 6643	IRS-1
+T97	Anatomy 6645 6655	磷脂酰肌醇-3 激酶
+T98	Anatomy 6656 6661	PI3-K
+T99	Anatomy 6689 6694	PI3-K
+T100	Anatomy 6699 6705	蛋白激酶 B
+T101	Anatomy 6722 6727	GLUT4
+T102	Anatomy 6758 6763	IRS-1
+T103	Test 6786 6789	胰岛素
+T104	Anatomy 6799 6804	IRS-1
+T105	Test 6823 6826	胰岛素
+T106	Anatomy 6933 6938	IRS-1
+T107	Anatomy 6953 6958	IRS-1
+T108	Anatomy 6965 6970	IRS-1
+T109	Anatomy 7032 7034	IR
+T110	Anatomy 7056 7061	胰岛素受体
+T111	Anatomy 7151 7156	IRS-1
+T112	Anatomy 7203 7208	IRS-1
+T113	Anatomy 7272 7277	IRS-1
+T114	Anatomy 7326 7331	IRS-1
+T115	Anatomy 7377 7382	IRS-1
+T116	Anatomy 7391 7396	IRS-1
+T117	Drug 7427 7436	TNF-α 拮抗剂
+T118	Drug 7439 7444	WP9QY
+T119	Drug 7452 7457	WP9QY
+T120	Anatomy 7469 7474	IRS-1
+T121	Anatomy 7506 7510	TSHR
+T122	Anatomy 7540 7545	IRS-1
+T123	Anatomy 7554 7559	IRS-1
+T124	Test 7573 7576	胰岛素
+T125	Anatomy 7591 7596	GLUT4
+T126	Anatomy 174 185	3T3-L1 脂肪细胞
+T127	Anatomy 322 330;331 334	3T3-L1 脂 肪细胞
+T128	Anatomy 529 540	3T3-L1 脂肪细胞
+T129	Disease 612 617	胰岛素抵抗
+T130	Drug 619 624	促甲状腺素
+T131	Test 626 634	肿瘤坏死因子 α
+T132	Anatomy 647 654	小发夹 RNA
+T133	Anatomy 2489 2500	3T3-L1 脂肪细胞
+T134	Anatomy 2622 2634	3T3-L1 前脂肪细胞
+T135	Drug 2662 2682	3-异丁基-1-甲基黄嘌呤( IBMX)
+T136	Anatomy 3047 3059	3T3-L1 前脂肪细胞
+T137	Anatomy 3400 3411	3T3-L1 脂肪细胞
+T138	Anatomy 3541 3545	脂肪细胞
+T139	Drug 3584 3587	胰岛素
+T140	Anatomy 3689 3699	TSHR shRNA
+T141	Anatomy 3766 3776	TSHR-shRNA
+T142	Anatomy 3864 3875	3T3-L1 脂肪细胞
+T143	Anatomy 4115 4126	3T3-L1 脂肪细胞
+T144	Anatomy 4434 4446	3T3-L1 前脂肪细胞
+T145	Anatomy 4458 4466;4467 4471	3T3-L1 前 脂肪细胞
+T146	Anatomy 4545 4558	TSHR shRNA 质粒
+T147	Anatomy 4582 4593	3T3-L1 脂肪细胞
+T148	Anatomy 4737 4747	TSHR shRNA
+T149	Anatomy 4750 4754;4755 4757	成熟脂肪 细胞
+T150	Anatomy 4869 4880	3T3-L1 脂肪细胞
+T151	Anatomy 4936 4947	3T3-L1 脂肪细胞
+T152	Anatomy 4954 4965	3T3-L1 脂肪细胞
+T153	Anatomy 5576 5587	3T3-L1 脂肪细胞
+T154	Anatomy 5756 5773	TSHR shRNA 转染脂肪细胞
+T155	Anatomy 7112 7123	3T3-L1 脂肪细胞
+T156	Anatomy 7141 7150	3T3-L1 细胞
+T157	Anatomy 7717 7728	3T3-L1 脂肪细胞
+T158	Test 2700 2703	TSH
+T159	Anatomy 5476 5479;5480 5481	脂肪细 胞
+T160	Drug 186 192	牛促甲状腺素
+T161	Anatomy 636 645	胰岛素受体底物 1
+T162	Anatomy 3413 3423	TSHR shRNA
+T163	Drug 3426 3434;3435 3436	TNF-α 拮抗 剂
+T164	Anatomy 3953 3964	3T3-L1 脂肪细胞
+T165	Anatomy 4759 4763	TSHR
+T166	Drug 4920 4925	牛 TSH
+T167	Anatomy 5461 5471	TSHR shRNA
+T168	Test_Value 5657 5659	下降
+T169	Test_Value 6477 6479	上升
+T170	Anatomy 7036 7043	酪氨酸蛋白激酶
+T171	Anatomy 7578 7582	PI3K
+T172	Test 313 316	TSH
+T173	Test 400 403	TSH
+T174	Test 497 500	TSH
+T175	Test 523 526	TSH
+T176	Test 4863 4866	TSH
+T177	Test 4982 4985	TSH
+T178	Test 5570 5573	TSH
+T179	Test 5623 5626	TSH
+T180	Test 5662 5665	TSH
+T181	Test 5808 5811	TSH
+T182	Test 6247 6250	TSH
+T183	Test 6440 6443	TSH
+T184	Test 6501 6504	TSH
+T185	Test 7105 7108	TSH
+T186	Test 7129 7132	TSH
+T187	Test 7181 7184	TSH
+T188	Test 7234 7237	TSH
+T189	Test 7247 7250	TSH
+T190	Test 7301 7304	TSH
+T191	Test 7463 7466	TSH
+T192	Test_Value 302 312	1 mIU / ml
+T193	Drug 2718 2727	TNF-α 拮抗剂
+T194	Drug 2728 2733	WP9QY
+T195	Test 2823 2828	TNF-α
+T196	Anatomy 2865 2870	IRS-1
+T197	Anatomy 2874 2879	IRS-1
+T198	Drug 5797 5802	WP9QY
+T199	Anatomy 6570 6575	IRS-1
+T200	Test_Value 7190 7200	1 mIU / ml
+T201	Test_Value 7219 7224;7225 7233	0. 01 mIU / ml
+T202	Test_Value 7241 7243	降低
+T203	Test_Value 7256 7269	0. 1 mIU / ml
+T204	Test 2434 2439	促炎症因子
+T205	Anatomy 101 112	3T3-L1 脂肪细胞
+T206	Test 80 85	促甲状腺素
+T207	Test 221 229	肿瘤坏死因子 α
+T208	Test 230 235	TNF-α
+T209	Disease 593 598	胰岛素抵抗
+T210	Test 2319 2327	肿瘤坏死因子 α
+T211	Test 2328 2333	TNF-α
+T212	Test 2335 2342	白细胞介素 6
+T213	Test 2344 2348	IL-6
+T214	Test 2420 2423	TSH
+T215	Test 2412 2418	促甲状腺激素
+T216	Disease 2443 2448	胰岛素抵抗
+T217	Reason 2480 2485	胰岛素抵抗
+T218	Reason 2592 2597	胰岛素抵抗
+T219	Anatomy 3675 3685	TSHR shRNA
+T220	Anatomy 4495 4496;4497 4502	成 熟脂肪细胞
+T221	Test 5892 5898	血清 TSH
+T222	Reason 5900 5905	胰岛素抵抗
+T223	Test 5940 5943	TSH
+T224	Test 5982 5988	血清 TSH
+T225	Anatomy 5992 5998	附睾脂肪组织
+T226	Anatomy 5998 6006;6007 6010	核转录因子-κB p65
+T227	Anatomy 6011 6020	NF-kB p65
+T228	Anatomy 6022 6030	TNF-α 蛋白
+T229	Anatomy 6080 6085	TNF-α
+T230	Disease 6094 6099	胰岛素抵抗
+T231	Anatomy 6126 6131	TNF-α
+T232	Disease 6143 6148	胰岛素抵抗
+T233	Anatomy 6320 6328	TNF-α 基因
+T234	Anatomy 6390 6395	TNF-α
+T235	Anatomy 6451 6462	3T3-L1 脂肪细胞
+T236	Test 6468 6473	TNF-α
+T237	Anatomy 6528 6533	TNF-α
+T238	Disease 6838 6843	胰岛素抵抗
+T239	Anatomy 6853 6858	TNF-α
+T240	Disease 6862 6867	胰岛素抵抗
+T241	Anatomy 6884 6889	TNF-α
+T242	Anatomy 6924 6929	TNF-α
+T243	Anatomy 7011 7016	TNF-α
+T244	Anatomy 7308 7313	TNF-α
+T245	Anatomy 7364 7369	TNF-α
+T246	Anatomy 7529 7534	TNF-α
+T247	Disease 7619 7624	胰岛素抵抗
+T248	Disease 7636 7641	胰岛素抵抗
+T249	Test 7663 7669	血清 TSH
+T250	Disease 7678 7683	胰岛素抵抗
+T251	Disease 7697 7702	胰岛素抵抗
+T252	Anatomy 153 160	促甲状腺素受体
+T253	Anatomy 161 165	TSHR
+T254	Anatomy 252 261	胰岛素受体底物 1
+T255	Anatomy 263 268	IRS-1
+T256	Anatomy 283 288	IRS-1
+T257	Test 412 417	IRS-1
+T258	Anatomy 503 508	IRS-1
+T259	Test 3511 3516	IRS-1
+T260	Test 3927 3932	IRS-1
+T261	Test 4086 4091	IRS-1
+T262	Anatomy 5588 5596	IRS-1 蛋白
+T263	Anatomy 5636 5641	IRS-1
+T264	Anatomy 5818 5823	IRS-1
+T265	Anatomy 6419 6423	脂肪细胞
+T266	Anatomy 6406 6410	TSHR
+T267	Anatomy 6486 6490	TSHR
+T268	Anatomy 7406 7411	TNF-α
+R1	Test_Disease Arg1:T249 Arg2:T3
+R2	Test_Disease Arg1:T223 Arg2:T1
+R3	Anatomy_Disease Arg1:T225 Arg2:T2
+R4	Anatomy_Disease Arg1:T226 Arg2:T2
+R5	Anatomy_Disease Arg1:T227 Arg2:T2
+R6	Anatomy_Disease Arg1:T77 Arg2:T209
+R7	Test_Disease Arg1:T6 Arg2:T209
+R8	Anatomy_Disease Arg1:T76 Arg2:T209
+R9	Anatomy_Disease Arg1:T128 Arg2:T209
+R10	Test_Disease Arg1:T175 Arg2:T209
+R11	Test_Disease Arg1:T204 Arg2:T216
+R12	Anatomy_Disease Arg1:T11 Arg2:T216
+R13	Test_Disease Arg1:T214 Arg2:T216
+R14	Test_Disease Arg1:T215 Arg2:T216
+R15	Anatomy_Disease Arg1:T69 Arg2:T216
+R16	Anatomy_Disease Arg1:T68 Arg2:T216
+R17	Anatomy_Disease Arg1:T10 Arg2:T216
+R18	Test_Disease Arg1:T224 Arg2:T2
+R19	Test_Disease Arg1:T79 Arg2:T2
+R20	Anatomy_Disease Arg1:T228 Arg2:T2
+R21	Anatomy_Disease Arg1:T33 Arg2:T230
+R22	Test_Disease Arg1:T34 Arg2:T230
+R23	Anatomy_Disease Arg1:T229 Arg2:T230
+R24	Test_Disease Arg1:T35 Arg2:T232
+R25	Anatomy_Disease Arg1:T36 Arg2:T232
+R26	Anatomy_Disease Arg1:T231 Arg2:T232
+R27	Test_Disease Arg1:T105 Arg2:T238
+R28	Anatomy_Disease Arg1:T104 Arg2:T238
+R29	Test_Disease Arg1:T103 Arg2:T238
+R30	Anatomy_Disease Arg1:T102 Arg2:T238
+R31	Anatomy_Disease Arg1:T239 Arg2:T240
+R32	Anatomy_Disease Arg1:T49 Arg2:T240
+R33	Anatomy_Disease Arg1:T241 Arg2:T240
+R34	Test_Disease Arg1:T50 Arg2:T240
+R35	Anatomy_Disease Arg1:T125 Arg2:T247
+R36	Anatomy_Disease Arg1:T171 Arg2:T247
+R37	Test_Disease Arg1:T124 Arg2:T247
+R38	Anatomy_Disease Arg1:T123 Arg2:T247
+R39	Anatomy_Disease Arg1:T122 Arg2:T247
+R40	Anatomy_Disease Arg1:T246 Arg2:T247
+R41	Anatomy_Disease Arg1:T55 Arg2:T247
+R42	Anatomy_Disease Arg1:T121 Arg2:T247
+R43	Anatomy_Disease Arg1:T54 Arg2:T247
+R44	Test_Disease Arg1:T65 Arg2:T247
+R45	Test_Disease Arg1:T249 Arg2:T250
+R46	Anatomy_Disease Arg1:T157 Arg2:T251
+R47	Test_Disease Arg1:T66 Arg2:T251
+R48	Anatomy_Disease Arg1:T57 Arg2:T251
+R49	Anatomy_Disease Arg1:T56 Arg2:T251
+R50	Test_Disease Arg1:T249 Arg2:T248

@@ -1,0 +1,411 @@
+T1	Disease 1149 1155	2 型糖尿病
+T2	Disease 2090 2096	2 型糖尿病
+T3	Disease 4520 4526	2 型糖尿病
+T4	Disease 4731 4737	2 型糖尿病
+T5	Disease 4990 4996	2 型糖尿病
+T6	Disease 6132 6138	2 型糖尿病
+T7	Test 5040 5045	HBA1C
+T8	Drug 6242 6246	二甲双胍
+T9	Test 5197 5201	空腹血糖
+T10	Test 5180 5184	总胆固醇
+T11	Test 5034 5038	体重指数
+T12	Test 5243 5246	收缩压
+T13	Test 5248 5251	舒张压
+T14	Disease 2441 2447	动脉粥样硬化
+T15	Disease 2459 2465	动脉粥样硬化
+T16	Disease 5132 5138	动脉粥样硬化
+T17	Test 5192 5196	甘油三酯
+T18	Test 5575 5579	甘油三酯
+T19	Disease 2911 2914	乳腺癌
+T20	Disease 3317 3320	乳腺癌
+T21	Disease 2908 2910	肺癌
+T22	Test 4579 4581	体重
+T23	Test 4644 4646	体重
+T24	Test 4777 4779	体重
+T25	Treatment 30 34	限食疗法
+T26	Treatment 121 123	限食
+T27	Treatment 1222 1224	限食
+T28	Treatment 1266 1268	限食
+T29	Treatment 1334 1336	限食
+T30	Anatomy 1482 1489	SIR2 基因
+T31	Anatomy 1561 1565	SIR2
+T32	Anatomy 1786 1790	SIR2
+T33	Anatomy 1895 1902	SIR2 基因
+T34	Anatomy 1991 1999	SIR 家族基因
+T35	Treatment 2001 2003	限食
+T36	Anatomy 2014 2018	mTOR
+T37	Anatomy 2020 2024	FOXO
+T38	Treatment 2052 2054	限食
+T39	Disease 2097 2102	心血管疾病
+T40	Disease 2106 2113	神经退行性病变
+T41	Disease 2103 2105	肿瘤
+T42	Disease 1146 1148	肥胖
+T43	Disease 1156 1161	心血管疾病
+T44	Disease 1162 1166;1167 1170	神经退行 性病变
+T45	Disease 1172 1174	癌症
+T46	Treatment 2127 2129	限食
+T47	Test 2132 2134	血糖
+T48	Anatomy 2141 2143	胰腺
+T49	Test 2145 2146;2147 2149	胰 岛素
+T50	Anatomy 2195 2197	肝脏
+T51	Test 2198 2204	胰岛素敏感性
+T52	Anatomy 2225 2227	肝脏
+T53	Disease 2254 2257	糖尿病
+T54	Treatment 2259 2261	限食
+T55	Anatomy 3423 3427	mTOR
+T56	Anatomy 3725 3729	mTOR
+T57	Duration 2262 2265	7 周
+T58	Treatment 2273 2275	限食
+T59	Symptom 2293 2296	蛋白尿
+T60	Disease 2308 2311	糖尿病
+T61	Anatomy 2323 2325	肾脏
+T62	Treatment 2351 2353	限食
+T63	Test 2358 2360	心率
+T64	Test 2361 2363	血压
+T65	Test 2381 2384	胆固醇
+T66	Disease 2413 2415	肥胖
+T67	Anatomy 2419 2426	ApoE 基因
+T68	Treatment 2454 2456	限食
+T69	Treatment 2475 2477	限食
+T70	Test 2568 2571	胰岛素
+T71	Test 2573 2581	胰岛素样生长因子
+T72	Test 2548 2553	5-羟色胺
+T73	Test 2688 2690	血压
+T74	Test 2691 2693	心率
+T75	Treatment 2710 2712	限食
+T76	Anatomy 2741 2745	心肌细胞
+T77	Treatment 2888 2890	限食
+T78	Anatomy 2966 2974	p53 抑癌基因
+T79	Treatment 3023 3025	限食
+T80	Duration 3026 3027;3028 3029	6 周
+T81	Treatment 3047 3049	限食
+T82	Anatomy 3053 3055	乳腺
+T83	Anatomy 3058 3060	乳腺
+T84	Treatment 3079 3081	限食
+T85	Treatment 3126 3128	限食
+T86	Treatment 3168 3170	限食
+T87	Disease 3173 3177	乳腺肿瘤
+T88	Treatment 3234 3236	限食
+T89	Treatment 3249 3251	限食
+T90	Treatment 3278 3280	限食
+T91	Treatment 3329 3331	限食
+T92	Treatment 3377 3379	限食
+T93	Treatment 3404 3406	限食
+T94	Anatomy 3431 3437	SIRT-1
+T95	Test 3476 3479	胰岛素
+T96	Test 3482 3486	IGFs
+T97	Test 3487 3492	糖皮质激素
+T98	Disease 3581 3588	神经退行性病变
+T99	Disease 3600 3605;3606 3607	阿尔茨海默 病
+T100	Disease 3608 3613	帕金森氏病
+T101	Treatment 3615 3617	限食
+T102	Disease 3626 3633	神经退行性病变
+T103	Treatment 3948 3950	限食
+T104	Disease 3960 3966	阿尔茨海默病
+T105	Treatment 4066 4068	限食
+T106	Treatment 4074 4076	限食
+T107	Treatment 4148 4150	限食
+T108	Disease 4215 4218	冠心病
+T109	Treatment 4385 4387	限食
+T110	Reason 4446 4448	肥胖
+T111	Disease 4449 4452	糖尿病
+T112	Test 4473 4475	血糖
+T113	Test 4476 4478	血脂
+T114	Test 4482 4488	胰岛素敏感性
+T115	Test 4603 4605	血糖
+T116	Test 4608 4613;4614 4615	胰岛素敏感 性
+T117	Treatment 4618 4620	限食
+T118	Disease 4622 4625	糖尿病
+T119	Treatment 4660 4662	限食
+T120	Treatment 4674 4676	限食
+T121	Disease 4677 4680	糖尿病
+T122	Treatment 4713 4715	限食
+T123	Level 4725 4727	严重
+T124	Disease 4727 4729	肥胖
+T125	Duration 4742 4745	7 d
+T126	Test 4780 4782	血糖
+T127	Test 4783 4785	血脂
+T128	Treatment 4790 4792	限食
+T129	Test 4805 4808	胰岛素
+T130	Test 4812 4813;4814 4819	胰 岛素敏感性
+T131	Treatment 4862 4864	限食
+T132	Treatment 4871 4873	限食
+T133	Disease 4931 4934	糖尿病
+T134	Treatment 4949 4951	限食
+T135	Disease 4965 4970	心血管疾病
+T136	Disease 4986 4988	肥胖
+T137	Duration 5005 5009	16 周
+T138	Test 5069 5075	舒张期心功能
+T139	Treatment 5096 5098	限食
+T140	Treatment 5127 5129	限食
+T141	Treatment 5172 5173;5174 5175	限 食
+T142	Test 5185 5191	低密度脂蛋白
+T143	Test 5203 5206	胰岛素
+T144	Test_Value 5252 5254	降低
+T145	Test_Value 5267 5269	升高
+T146	Treatment 5279 5281	限食
+T147	Treatment 5317 5319	限食
+T148	Treatment 5352 5354	限食
+T149	Treatment 5397 5399	限食
+T150	Treatment 5501 5504	ADF
+T151	Duration 5496 5499	3 周
+T152	Duration 5558 5561	3 周
+T153	Treatment 5563 5566	ADF
+T154	Test 5594 5597	HDL
+T155	Treatment 5636 5638	限食
+T156	Treatment 5653 5655	限食
+T157	Disease 5659 5666	神经退行性病变
+T158	Treatment 5806 5808	限食
+T159	Treatment 5821 5823	限食
+T160	Treatment 5891 5893	限食
+T161	Treatment 5904 5906	限食
+T162	Treatment 5913 5915	限食
+T163	Duration 5922 5930	7 ~ 10 d
+T164	Duration 5938 5943	>10 d
+T165	Treatment 5917 5921	短期限食
+T166	Treatment 5932 5933;5934 5937	长 期限食
+T167	Treatment 5955 5959	连续限食
+T168	Treatment 5960 5964;5965 5966	间断性限 食
+T169	Treatment 5979 5985	极低热量限食
+T170	Treatment 6007 6012	低热量限食
+T171	Treatment 6047 6052	低热量限食
+T172	Treatment 6053 6061	低碳水化合物限食
+T173	Treatment 6063 6065	限食
+T174	Treatment 6084 6089	间断性限食
+T175	Treatment 6093 6097	连续限食
+T176	Treatment 6103 6107	间断限食
+T177	Treatment 6145 6149	连续限食
+T178	Treatment 6163 6165	限食
+T179	Treatment 6173 6175	限食
+T180	Treatment 6187 6189	限食
+T181	Treatment 6201 6203	限食
+T182	Treatment 6215 6217	限食
+T183	Drug 6235 6241	糖酵解抑制剂
+T184	Drug 6254 6265	Sirtuin 激动剂
+T185	Drug 6266 6270	白藜芦醇
+T186	Treatment 6291 6293	限食
+T187	Drug 6299 6303	白藜芦醇
+T188	Test 6335 6341	胰岛素敏感性
+T189	Disease 6347 6352	心血管疾病
+T190	Treatment 6380 6382	限食
+T191	Treatment 6384 6386	限食
+T192	Treatment 6433 6434;6435 6436	限 食
+T193	Disease 6506 6510	营养不良
+T194	Treatment 6545 6547	限食
+T195	Treatment 6578 6580	限食
+T196	Disease 5548 5553	心血管疾病
+T197	Anatomy 3771 3775	AMPK
+T198	Drug 3741 3745	雷帕霉素
+T199	Anatomy 3788 3791	Akt
+T200	Disease 81 85	营养不良
+T201	Treatment 167 169	限食
+T202	Treatment 205 209	热量限制
+T203	Disease 215 218	糖尿病
+T204	Anatomy 1576 1586;1587 1628	尼克酰胺腺嘌呤二核苷 酸(nicotinamide adenine dinucleotide, NAD)
+T205	Disease 220 222	肿瘤
+T206	Disease 2955 2957	肿瘤
+T207	Reason 2950 2952	病毒
+T208	Anatomy 2958 2959;2960 2963	移 植肿瘤
+T209	Treatment 3140 3142	肿瘤
+T210	Treatment 3918 3922	热量限制
+T211	Disease 4220 4222	癌症
+T212	Amount 4533 4536;4537 4545	400 kcal / d
+T213	Amount 4548 4561	1 000 kal / d
+T214	Test_Value 4582 4584;4585 4588	减少 12%
+T215	Amount 4746 4748;4749 4765	极低 热量(400 kcal / d)
+T216	Treatment 5010 5015;5016 5029	低热量饮食 (450 kcl / d)
+T217	Amount 5987 5996;5997 6005	400 ~ 800 kcal / d
+T218	Amount 6013 6033	800 ~ 1 800 kcal / d
+T219	Treatment 1318 1320	限食
+T220	Anatomy 1452 1459	SIR2 基因
+T221	Anatomy 1530 1537	RNA 聚合酶
+T222	Treatment 2074 2076	限食
+T223	Treatment 2180 2182	限食
+T224	Duration 2183 2188	18 个月
+T225	Test 2633 2637	IGFs
+T226	Anatomy 2656 2663	副交感神经系统
+T227	Test 2696 2698	脂质
+T228	Test 2699 2703	炎症因子
+T229	Anatomy 3094 3096	肺部
+T230	Anatomy 4040 4043	纹状体
+T231	Duration 4566 4570	14 周
+T232	Anatomy 5076 5078	心房
+T233	Test_Value 5583 5584;5585 5586	降 低
+T234	Level 5581 5583	显著
+T235	Level 5601 5603	显著
+T236	Test_Value 5603 5605	增高
+T237	Treatment 5779 5783	热量限制
+T238	Test 2282 2283;2284 2286	糖 耐量
+T239	Test 2335 2338	糖耐量
+T240	Anatomy 2665 2668	下丘脑
+T241	Anatomy 2669 2671	垂体
+T242	Test 4043 4049	神经营养因子
+T243	Drug 6248 6252	抗氧化剂
+T244	Disease 5321 5327	动脉粥样硬化
+T245	Treatment 60 64	热量限制
+T246	Treatment 65 67	限食
+T247	Treatment 1203 1207	限食疗法
+T248	Treatment 1250 1254	适度限食
+T249	Anatomy 1356 1364	沉默信息调节因子
+T250	Anatomy 1395 1398	SIR
+T251	Treatment 1018 1025	热 量 限 制
+T252	Treatment 1053 1060	饮 食 限 制
+T253	Treatment 1114 1116	限食
+T254	Test 2209 2216;2217 2218	外周胰岛素敏感 性
+T255	Test 2376 2379	LDL
+T256	Test 2367 2373;2374 2375	中低密度脂蛋 白
+T257	Disease 2392 2400	年龄相关心肌疾病
+T258	Test 2502 2511	脑源性神经营养因子
+T259	Test 2678 2685	胰岛素的敏感性
+T260	Treatment 2992 2996	限食疗法
+T261	Anatomy 3034 3040	乳腺肿瘤细胞
+T262	Anatomy 3202 3205;3206 3209	前列腺 癌细胞
+T263	Treatment 3353 3355;3356 3358	限食 治疗
+T264	Anatomy 4008 4014	β 淀粉样肽
+T265	Anatomy 4001 4004	海马区
+T266	Treatment 4460 4464	限食疗法
+T267	Test 4878 4884;4885 4886	胰岛素的敏感 性
+T268	Treatment 4905 4909	限食疗法
+T269	Symptom 4939 4945	血脂代谢异常
+T270	Anatomy 5047 5049	心肌
+T271	Anatomy 5050 5052	肝脏
+T272	Disease 5100 5110;5111 5112	糖尿病合并心血管并发 症
+T273	Test 5207 5216	高敏 C 反应蛋白
+T274	Test 5237 5240	CRP
+T275	Test 5256 5262	高密度脂蛋白
+T276	Test 5263 5266	HDL
+T277	Test 5285 5295	颈动脉内膜的平均厚度
+T278	Test 5340 5346	CRP 浓度
+T279	Treatment 5414 5418	隔日限食
+T280	Treatment 5442 5445	ADF
+T281	Test 5515 5522	胰岛素的敏感性
+T282	Treatment 5878 5882	限食疗法
+T283	Treatment 5867 5871	限食疗法
+T284	Reason 6122 6127	胰岛素抵抗
+T285	Operation 6279 6284	胃旁路手术
+T286	Treatment 6361 6365	限食疗法
+T287	Treatment 6477 6481	限食疗法
+T288	Treatment 6495 6499	限食疗法
+T289	Treatment 1184 1188	限食疗法
+R1	Treatment_Disease Arg1:T222 Arg2:T2
+R2	Treatment_Disease Arg1:T46 Arg2:T40
+R3	Test_Disease Arg1:T47 Arg2:T40
+R4	Anatomy_Disease Arg1:T48 Arg2:T40
+R5	Test_Disease Arg1:T49 Arg2:T40
+R6	Treatment_Disease Arg1:T54 Arg2:T53
+R7	Treatment_Disease Arg1:T58 Arg2:T60
+R8	Symptom_Disease Arg1:T59 Arg2:T60
+R9	Anatomy_Disease Arg1:T61 Arg2:T60
+R10	Anatomy_Disease Arg1:T67 Arg2:T66
+R11	Treatment_Disease Arg1:T68 Arg2:T15
+R12	Treatment_Disease Arg1:T77 Arg2:T21
+R13	Treatment_Disease Arg1:T86 Arg2:T87
+R14	Anatomy_Disease Arg1:T262 Arg2:T87
+R15	Treatment_Disease Arg1:T91 Arg2:T20
+R16	Treatment_Disease Arg1:T101 Arg2:T102
+R17	Treatment_Disease Arg1:T103 Arg2:T104
+R18	Test_Disease Arg1:T112 Arg2:T111
+R19	Test_Disease Arg1:T113 Arg2:T111
+R20	Test_Disease Arg1:T114 Arg2:T111
+R21	Treatment_Disease Arg1:T117 Arg2:T118
+R22	Test_Disease Arg1:T116 Arg2:T118
+R23	Test_Disease Arg1:T115 Arg2:T118
+R24	Test_Disease Arg1:T23 Arg2:T118
+R25	Treatment_Disease Arg1:T119 Arg2:T121
+R26	Treatment_Disease Arg1:T120 Arg2:T121
+R27	Treatment_Disease Arg1:T122 Arg2:T124
+R28	Test_Disease Arg1:T24 Arg2:T4
+R29	Test_Disease Arg1:T126 Arg2:T4
+R30	Test_Disease Arg1:T127 Arg2:T4
+R31	Treatment_Disease Arg1:T140 Arg2:T16
+R32	Treatment_Disease Arg1:T153 Arg2:T196
+R33	Test_Disease Arg1:T18 Arg2:T196
+R34	Treatment_Disease Arg1:T156 Arg2:T157
+R35	Treatment_Disease Arg1:T177 Arg2:T6
+R36	Treatment_Disease Arg1:T176 Arg2:T6
+R37	Test_Disease Arg1:T188 Arg2:T189
+R38	Test_Disease Arg1:T238 Arg2:T60
+R39	Treatment_Disease Arg1:T289 Arg2:T45
+R40	Treatment_Disease Arg1:T289 Arg2:T44
+R41	Treatment_Disease Arg1:T289 Arg2:T43
+R42	Treatment_Disease Arg1:T289 Arg2:T1
+R43	Treatment_Disease Arg1:T289 Arg2:T42
+R44	Treatment_Disease Arg1:T222 Arg2:T39
+R45	Treatment_Disease Arg1:T222 Arg2:T41
+R46	Treatment_Disease Arg1:T222 Arg2:T40
+R47	Test_Disease Arg1:T239 Arg2:T60
+R48	Treatment_Disease Arg1:T77 Arg2:T19
+R49	Treatment_Disease Arg1:T263 Arg2:T20
+R50	Anatomy_Disease Arg1:T265 Arg2:T104
+R51	Anatomy_Disease Arg1:T264 Arg2:T104
+R52	Anatomy_Disease Arg1:T230 Arg2:T104
+R53	Test_Disease Arg1:T242 Arg2:T104
+R54	Treatment_Disease Arg1:T266 Arg2:T111
+R55	Test_Disease Arg1:T22 Arg2:T3
+R56	Test_Disease Arg1:T129 Arg2:T4
+R57	Treatment_Disease Arg1:T128 Arg2:T4
+R58	Test_Disease Arg1:T130 Arg2:T4
+R59	Symptom_Disease Arg1:T269 Arg2:T133
+R60	Treatment_Disease Arg1:T134 Arg2:T133
+R61	Treatment_Disease Arg1:T216 Arg2:T5
+R62	Test_Disease Arg1:T11 Arg2:T5
+R63	Test_Disease Arg1:T7 Arg2:T5
+R64	Anatomy_Disease Arg1:T270 Arg2:T5
+R65	Anatomy_Disease Arg1:T271 Arg2:T5
+R66	Test_Disease Arg1:T138 Arg2:T5
+R67	Anatomy_Disease Arg1:T232 Arg2:T5
+R68	Treatment_Disease Arg1:T139 Arg2:T272
+R69	Treatment_Disease Arg1:T147 Arg2:T244
+R70	Treatment_Disease Arg1:T286 Arg2:T189
+R71	Treatment_Disease Arg1:T68 Arg2:T14
+R72	Treatment_Disease Arg1:T155 Arg2:T157
+R73	Treatment_Disease Arg1:T178 Arg2:T6
+R74	Treatment_Disease Arg1:T191 Arg2:T189
+R75	Treatment_Disease Arg1:T190 Arg2:T189
+R76	Treatment_Disease Arg1:T245 Arg2:T200
+R77	Treatment_Disease Arg1:T246 Arg2:T200
+R78	Treatment_Disease Arg1:T46 Arg2:T41
+R79	Test_Disease Arg1:T47 Arg2:T39
+R80	Treatment_Disease Arg1:T46 Arg2:T39
+R81	Treatment_Disease Arg1:T46 Arg2:T2
+R82	Test_Disease Arg1:T47 Arg2:T41
+R83	Test_Disease Arg1:T47 Arg2:T2
+R84	Anatomy_Disease Arg1:T48 Arg2:T41
+R85	Anatomy_Disease Arg1:T48 Arg2:T39
+R86	Anatomy_Disease Arg1:T48 Arg2:T2
+R87	Test_Disease Arg1:T49 Arg2:T2
+R88	Test_Disease Arg1:T49 Arg2:T39
+R89	Test_Disease Arg1:T49 Arg2:T41
+R90	Treatment_Disease Arg1:T62 Arg2:T257
+R91	Test_Disease Arg1:T63 Arg2:T257
+R92	Test_Disease Arg1:T64 Arg2:T257
+R93	Test_Disease Arg1:T256 Arg2:T257
+R94	Test_Disease Arg1:T255 Arg2:T257
+R95	Test_Disease Arg1:T65 Arg2:T257
+R96	Treatment_Disease Arg1:T260 Arg2:T206
+R97	Treatment_Disease Arg1:T134 Arg2:T135
+R98	Test_Disease Arg1:T11 Arg2:T136
+R99	Test_Disease Arg1:T154 Arg2:T196
+R100	Treatment_Disease Arg1:T288 Arg2:T193
+R101	Treatment_Disease Arg1:T26 Arg2:T200
+R102	Treatment_Disease Arg1:T201 Arg2:T200
+R103	Anatomy_Disease Arg1:T67 Arg2:T14
+R104	Treatment_Disease Arg1:T101 Arg2:T100
+R105	Treatment_Disease Arg1:T101 Arg2:T99
+R106	Treatment_Disease Arg1:T101 Arg2:T98
+R107	Test_Disease Arg1:T115 Arg2:T3
+R108	Test_Disease Arg1:T116 Arg2:T3
+R109	Test_Disease Arg1:T22 Arg2:T118
+R110	Treatment_Disease Arg1:T122 Arg2:T4
+R111	Symptom_Disease Arg1:T269 Arg2:T135
+R112	Treatment_Disease Arg1:T216 Arg2:T136
+R113	Test_Disease Arg1:T7 Arg2:T136
+R114	Anatomy_Disease Arg1:T270 Arg2:T136
+R115	Anatomy_Disease Arg1:T271 Arg2:T136
+R116	Test_Disease Arg1:T138 Arg2:T136
+R117	Anatomy_Disease Arg1:T232 Arg2:T136
+R118	Test_Disease Arg1:T278 Arg2:T244
+R119	Treatment_Disease Arg1:T148 Arg2:T244
+R120	Test_Disease Arg1:T281 Arg2:T196
+R121	Treatment_Disease Arg1:T150 Arg2:T196
+R122	Drug_Disease Arg1:T187 Arg2:T189

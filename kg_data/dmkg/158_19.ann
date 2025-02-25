@@ -1,0 +1,613 @@
+T1	Disease 75 81	2 型糖尿病
+T2	Disease 122 128	2 型糖尿病
+T3	Disease 304 310	2 型糖尿病
+T4	Disease 1672 1678	2 型糖尿病
+T5	Disease 1736 1742	2 型糖尿病
+T6	Disease 1843 1849	2 型糖尿病
+T7	Disease 2207 2213	2 型糖尿病
+T8	Disease 2295 2301	2 型糖尿病
+T9	Disease 6682 6688	2 型糖尿病
+T10	Disease 7853 7859	2 型糖尿病
+T11	Disease 7940 7946	2 型糖尿病
+T12	Disease 7917 7918;7919 7923	2 型糖尿病
+T13	Test 1750 1754	空腹血糖
+T14	Test 2263 2267	空腹血糖
+T15	Test 3205 3209	空腹血糖
+T16	Test 3212 3216	空腹血糖
+T17	Test 3254 3258	空腹血糖
+T18	Test 3294 3298	空腹血糖
+T19	Test 5480 5484	空腹血糖
+T20	Test 5486 5490	空腹血糖
+T21	Test 5526 5530	空腹血糖
+T22	Test 5698 5702	空腹血糖
+T23	Test 7080 7084	空腹血糖
+T24	Test 7113 7117	空腹血糖
+T25	Test 7187 7191	空腹血糖
+T26	Test 7397 7399;7400 7402	空腹 血糖
+T27	Test 7582 7586	空腹血糖
+T28	Test 2851 2855	体重指数
+T29	Test 4628 4632	体重指数
+T30	Test 3963 3967	OGTT
+T31	Test 5386 5388	腰围
+T32	Test 6344 6346	腰围
+T33	Test 3953 3962	口服葡萄糖耐量试验
+T34	Test 4010 4017	HOMA-IR
+T35	Test 4086 4093	HOMA-IR
+T36	Test 4268 4275	HOMA-IR
+T37	Test 4320 4327	HOMA-IR
+T38	Test 4360 4367	HOMA-IR
+T39	Test 6120 6127	HOMA-IR
+T40	Test 6198 6205	HOMA-IR
+T41	Test 6252 6259	HOMA-IR
+T42	Disease 185 190	糖尿病前期
+T43	Disease 274 279	糖尿病前期
+T44	Disease 1608 1613	糖尿病前期
+T45	Disease 1663 1668	糖尿病前期
+T46	Disease 2329 2334	糖尿病前期
+T47	Disease 3351 3356	糖尿病前期
+T48	Disease 3758 3763	糖尿病前期
+T49	Disease 3803 3805;3806 3809	糖尿 病前期
+T50	Disease 5732 5737	糖尿病前期
+T51	Disease 5775 5780	糖尿病前期
+T52	Disease 6049 6054	糖尿病前期
+T53	Disease 6879 6884	糖尿病前期
+T54	Disease 7092 7097	糖尿病前期
+T55	Disease 7387 7392	糖尿病前期
+T56	Disease 7679 7684	糖尿病前期
+T57	Test 3392 3397	空腹胰岛素
+T58	Test 5824 5829	空腹胰岛素
+T59	Test 5854 5859	空腹胰岛素
+T60	Test 5905 5910	空腹胰岛素
+T61	Test 7210 7215	空腹胰岛素
+T62	Test 7244 7249	空腹胰岛素
+T63	Test 7284 7289	空腹胰岛素
+T64	Test 7304 7306;7307 7310	空腹 胰岛素
+T65	Test 7822 7827	空腹胰岛素
+T66	Test 2856 2859	BMI
+T67	Test 193 195	体重
+T68	Test 1644 1646	体重
+T69	Test 1716 1718	体重
+T70	Test 2253 2255	体重
+T71	Test 2324 2326	体重
+T72	Test 2337 2339	体重
+T73	Test 2366 2368	体重
+T74	Test 2501 2503	体重
+T75	Test 2519 2521	体重
+T76	Test 2640 2642	体重
+T77	Test 2686 2688	体重
+T78	Test 2774 2776	体重
+T79	Test 2972 2974	体重
+T80	Test 3048 3050	体重
+T81	Test 3102 3104	体重
+T82	Test 3154 3156	体重
+T83	Test 3186 3188	体重
+T84	Test 3631 3633	体重
+T85	Test 3723 3725	体重
+T86	Test 3767 3769	体重
+T87	Test 4250 4252	体重
+T88	Test 4546 4548	体重
+T89	Test 4659 4661	体重
+T90	Test 4693 4695	体重
+T91	Test 4728 4730	体重
+T92	Test 4755 4757	体重
+T93	Test 4793 4795	体重
+T94	Test 4841 4843	体重
+T95	Test 4889 4891	体重
+T96	Test 4991 4993	体重
+T97	Test 5260 5262	体重
+T98	Test 5311 5313	体重
+T99	Test 5355 5357	体重
+T100	Test 6132 6134	体重
+T101	Test 6182 6184	体重
+T102	Test 6242 6244	体重
+T103	Test 6270 6272	体重
+T104	Test 6699 6701	体重
+T105	Test 6741 6743	体重
+T106	Test 6776 6778	体重
+T107	Test 6811 6813	体重
+T108	Test 6840 6842	体重
+T109	Test 6893 6895	体重
+T110	Test 6934 6936	体重
+T111	Test 6978 6980	体重
+T112	Test 7018 7020	体重
+T113	Test 7323 7325	体重
+T114	Test 7443 7445	体重
+T115	Test 7519 7521	体重
+T116	Test 7557 7559	体重
+T117	Test 7651 7653	体重
+T118	Test 7780 7782	体重
+T119	Anatomy 226 230	脂肪组织
+T120	Anatomy 4400 4404	脂肪组织
+T121	Anatomy 4417 4421	脂肪组织
+T122	Anatomy 4469 4473	脂肪组织
+T123	Anatomy 4514 4518	脂肪组织
+T124	Anatomy 4561 4565	脂肪组织
+T125	Anatomy 4580 4584	脂肪组织
+T126	Anatomy 4643 4647	脂肪组织
+T127	Anatomy 6371 6375	脂肪组织
+T128	Anatomy 6388 6392	脂肪组织
+T129	Anatomy 6437 6441	脂肪组织
+T130	Anatomy 6477 6481	脂肪组织
+T131	Anatomy 6490 6494	脂肪组织
+T132	Anatomy 6500 6504	脂肪组织
+T133	Anatomy 6517 6521	脂肪组织
+T134	Anatomy 6527 6531	脂肪组织
+T135	Anatomy 6562 6566	脂肪组织
+T136	Anatomy 6615 6619	脂肪组织
+T137	Anatomy 6712 6716	脂肪组织
+T138	Anatomy 6949 6953	脂肪组织
+T139	Anatomy 6985 6989	脂肪组织
+T140	Anatomy 6996 7000	脂肪组织
+T141	Anatomy 7025 7029	脂肪组织
+T142	Anatomy 7036 7040	脂肪组织
+T143	Anatomy 7062 7066	脂肪组织
+T144	Anatomy 7814 7818	脂肪组织
+T145	Test 247 250;251 252	空腹血 糖
+T146	Test 3331 3334;3335 3336	空腹血 糖
+T147	Test 5548 5550	血糖
+T148	Test 6044 6046	血糖
+T149	Test 7135 7137	血糖
+T150	Test 7632 7634	血糖
+T151	Test 7659 7661	血糖
+T152	Test 2714 2715;2716 2717	体 重
+T153	Test 4973 4974;4975 4976	体 重
+T154	Treatment 135 139	限食疗法
+T155	Treatment 1812 1816	限食疗法
+T156	Treatment 7880 7884	限食疗法
+T157	Treatment 7934 7938	限食疗法
+T158	Test 198 202;203 205	内脏脂肪 含量
+T159	Test 208 211	胰岛素
+T160	Treatment 233 237	每日限食
+T161	Treatment 64 68	每日限食
+T162	Treatment 69 73	隔日限食
+T163	Treatment 166 170	隔日限食
+T164	Treatment 285 289	每日限食
+T165	Treatment 293 297	隔日限食
+T166	Disease 1591 1594	糖尿病
+T167	Test 1755 1758	胰岛素
+T168	Test 1761 1767	胰岛素敏感性
+T169	Treatment 1776 1780	每日限食
+T170	Disease 1840 1842	肥胖
+T171	Treatment 1984 1988	每日限食
+T172	Treatment 2054 2058	隔日限食
+T173	Treatment 2082 2086	隔日限食
+T174	Treatment 2150 2154	每日限食
+T175	Treatment 2157 2159;2160 2162	隔日 限食
+T176	Treatment 2191 2192;2193 2196	每 日限食
+T177	Treatment 2198 2202	隔日限食
+T178	Treatment 2242 2246	每日限食
+T179	Treatment 2247 2251	隔日限食
+T180	Test 2256 2262	内在脂肪含量
+T181	Test 2268 2271	胰岛素
+T182	Treatment 2311 2315	每日限食
+T183	Duration 2353 2361	6 ~ 24 周
+T184	Treatment 2361 2365	每日限食
+T185	Test_Value 2368 2379	下降 4% ~ 14%
+T186	Duration 2490 2494	24 周
+T187	Treatment 2559 2563	每日限食
+T188	Disease 2666 2668	超重
+T189	Disease 2669 2671	肥胖
+T190	Treatment 2680 2681;2682 2685	每 日限食
+T191	Duration 2753 2755;2756 2757	12 周
+T192	Disease 2804 2806	肥胖
+T193	Treatment 2834 2838	每日限食
+T194	Test 2878 2884	内脏脂肪含量
+T195	Treatment 2892 2896	每日限食
+T196	Duration 2930 2938	6 ~ 24 周
+T197	Test 2961 2967	内脏脂肪含量
+T198	Test 3023 3027	内脏脂肪
+T199	Duration 3017 3021	24 周
+T200	Test 3082 3086	内脏脂肪
+T201	Treatment 3136 3137;3138 3139	限 食
+T202	Test 3140 3144	内脏脂肪
+T203	Test 3189 3195	内脏脂肪含量
+T204	Duration 3225 3231;3232 3233	6 ~ 12 周
+T205	Test 3376 3379	胰岛素
+T206	Treatment 3384 3388	每日限食
+T207	Duration 3420 3428	6 ~ 12 周
+T208	Test 3431 3434	胰岛素
+T209	Test_Value 3439 3441	减少
+T210	Duration 3487 3491	12 周
+T211	Test 3517 3520	胰岛素
+T212	Test 3548 3551	胰岛素
+T213	Test 3606 3609	胰岛素
+T214	Test 3616 3619	胰岛素
+T215	Treatment 3753 3757	每日限食
+T216	Test 3772 3775	胰岛素
+T217	Test 3829 3835	胰岛素敏感性
+T218	Treatment 3862 3864;3865 3867	每日 限食
+T219	Test 3868 3874	胰岛素敏感性
+T220	Duration 3901 3909	6 ~ 24 周
+T221	Test 3912 3918	胰岛素敏感性
+T222	Test 3979 3985	胰岛素敏感性
+T223	Test 4021 4027	胰岛素敏感性
+T224	Duration 4070 4073	6 周
+T225	Test_Value 4094 4100	下降 70%
+T226	Duration 4130 4133	8 周
+T227	Disease 4252 4254	超重
+T228	Disease 4255 4256;4257 4258	肥 胖
+T229	Duration 4263 4267	24 周
+T230	Test_Value 4276 4282	下降 15%
+T231	Test_Value 4328 4334	下降 20%
+T232	Treatment 4411 4415	每日限食
+T233	Duration 4441 4449	4 ~ 12 周
+T234	Treatment 4452 4456	每日限食
+T235	Treatment 4496 4500	每日限食
+T236	Treatment 4537 4541	每日限食
+T237	Disease 4601 4603	超重
+T238	Disease 4605 4607	肥胖
+T239	Treatment 4622 4626	每日限食
+T240	Disease 4656 4658	肥胖
+T241	Disease 4672 4674	超重
+T242	Duration 4713 4721	3 ~ 24 周
+T243	Treatment 4722 4726	隔日限食
+T244	Treatment 4785 4789	隔日限食
+T245	Duration 4863 4866	8 周
+T246	Treatment 4867 4871	隔日限食
+T247	Treatment 4940 4942;4943 4945	隔日 限食
+T248	Duration 4957 4961	12 周
+T249	Treatment 5060 5064	间断限食
+T250	Treatment 5075 5077;5078 5080	隔日 限食
+T251	Treatment 5098 5102	隔日限食
+T252	Treatment 5123 5127	间断限食
+T253	Treatment 5146 5149;5150 5151	隔日限 食
+T254	Treatment 5168 5172	间断限食
+T255	Test 5194 5200	内脏脂肪含量
+T256	Treatment 5231 5235	隔日限食
+T257	Test 5236 5240	内脏脂肪
+T258	Test 5266 5270	内脏脂肪
+T259	Test 5299 5300;5301 5304	内 脏脂肪
+T260	Test 5344 5348	内脏脂肪
+T261	Test 5464 5470	内脏脂肪含量
+T262	Test 5432 5434;5435 5438	磁共 振成像
+T263	Duration 5515 5523	8 ~ 12 周
+T264	Duration 5578 5582	12 周
+T265	Treatment 5583 5587	隔日限食
+T266	Test 5588 5591	葡萄糖
+T267	Duration 5627 5630	8 周
+T268	Duration 5672 5675	8 周
+T269	Test 5637 5640	葡萄糖
+T270	Treatment 5675 5679	隔日限食
+T271	Treatment 5692 5693;5694 5697	隔 日限食
+T272	Test 5763 5766	胰岛素
+T273	Treatment 5797 5801	隔日限食
+T274	Duration 5845 5853	8 ~ 12 周
+T275	Test_Value 5861 5869;5870 5873	下降 20% ~ 31%
+T276	Test 5950 5953	胰岛素
+T277	Test 5982 5985	胰岛素
+T278	Test 6037 6043	胰岛素敏感性
+T279	Duration 6062 6070	3 ~ 24 周
+T280	Treatment 6070 6074	隔日限食
+T281	Test 6075 6081	胰岛素敏感性
+T282	Test 6105 6111	胰岛素敏感性
+T283	Test 6140 6146	胰岛素敏感性
+T284	Test 6278 6284	胰岛素敏感性
+T285	Test 6297 6303	内脏脂肪含量
+T286	Test 6304 6310	胰岛素敏感性
+T287	Test 6334 6340	内脏脂肪含量
+T288	Treatment 6382 6386	隔日限食
+T289	Treatment 6410 6414	隔日限食
+T290	Duration 6415 6423	4 ~ 12 周
+T291	Treatment 6451 6455	每日限食
+T292	Treatment 6470 6474	隔日限食
+T293	Treatment 6507 6511	每日限食
+T294	Treatment 6549 6553	每日限食
+T295	Treatment 6556 6560	隔日限食
+T296	Treatment 6590 6594	每日限食
+T297	Treatment 6625 6628;6629 6630	隔日限 食
+T298	Treatment 6671 6675	每日限食
+T299	Test 6702 6708	内脏脂肪含量
+T300	Treatment 6728 6732	每日限食
+T301	Treatment 6733 6737	隔日限食
+T302	Treatment 6767 6771	隔日限食
+T303	Treatment 6803 6807	每日限食
+T304	Duration 6759 6767	3 ~ 24 周
+T305	Duration 6795 6803	6 ~ 24 周
+T306	Test_Value 6813 6824	下降 4% ~ 14%
+T307	Test_Value 6778 6788	减轻 3% ~ 8%
+T308	Treatment 6849 6853	每日限食
+T309	Treatment 6854 6858	隔日限食
+T310	Test 6918 6924	内脏脂肪含量
+T311	Treatment 6970 6974	隔日限食
+T312	Treatment 7010 7012;7013 7015	每日 限食
+T313	Treatment 7054 7058	隔日限食
+T314	Treatment 7069 7073	每日限食
+T315	Test 7085 7088	胰岛素
+T316	Treatment 7102 7104;7105 7107	隔日 限食
+T317	Treatment 7108 7112	每日限食
+T318	Treatment 7124 7128	隔日限食
+T319	Treatment 7158 7162	每日限食
+T320	Duration 7174 7182	6 ~ 12 周
+T321	Duration 7229 7237	8 ~ 12 周
+T322	Duration 7269 7277	6 ~ 12 周
+T323	Treatment 7277 7281	每日限食
+T324	Test 7342 7348	胰岛素敏感性
+T325	Duration 7355 7363	3 ~ 24 周
+T326	Treatment 7363 7367	每日限食
+T327	Treatment 7368 7371;7372 7373	隔日限 食
+T328	Test 7378 7384	胰岛素敏感性
+T329	Test 7422 7428	胰岛素敏感性
+T330	Test 7590 7596	胰岛素敏感性
+T331	Treatment 7714 7717;7718 7719	隔日限 食
+T332	Treatment 7739 7743	隔日限食
+T333	Treatment 7767 7771	每日限食
+T334	Treatment 7772 7774;7775 7777	隔日 限食
+T335	Treatment 7792 7796	每日限食
+T336	Test 7806 7812	内脏脂肪含量
+T337	Test 7831 7837	胰岛素敏感性
+T338	Treatment 7840 7844	隔日限食
+T339	Treatment 7845 7849	每日限食
+T340	Disease 7887 7889;7890 7891	糖尿 病
+T341	Disease 335 338	糖尿病
+T342	Treatment 329 333	隔日限食
+T343	Treatment 323 327	每日限食
+T344	Treatment 1782 1788	每日热卡限制
+T345	Test_Value 2503 2504;2505 2509	下 降最明显
+T346	Test_Value 2521 2527	下降 10%
+T347	Test 2863 2865	性别
+T348	Test 2866 2868	年龄
+T349	Test_Value 2948 2958	下降 2% ~38%
+T350	Treatment 2938 2940	限食
+T351	Treatment 3007 3014	50%热量限制
+T352	Test_Value 3050 3052	下降
+T353	Test_Value 3027 3029	下降
+T354	Treatment 3068 3076	热量限制 25%
+T355	Test_Value 3086 3092	下降 28%
+T356	Test_Value 3104 3106	下降
+T357	Test_Value 3156 3162	下降 11%
+T358	Test_Value 3144 3150	减少 22%
+T359	Test_Value 3196 3198	下降
+T360	Treatment 3234 3249	25% ~ 30% 的热量限制
+T361	Treatment 3508 3515	25%热量限制
+T362	Test_Value 3520 3522	下降
+T363	Test_Value 3551 3553	下降
+T364	Treatment 3586 3593;3594 3597	高单不饱和脂肪 酸饮食
+T365	Treatment 3579 3583	低脂饮食
+T366	Test_Value 3622 3624	下降
+T367	Test_Value 3633 3635	下降
+T368	Test_Value 3725 3727	下降
+T369	Test_Value 3769 3771	减轻
+T370	Test_Value 3778 3780	下降
+T371	Treatment 4074 4084	50%高蛋白饮食限食
+T372	Treatment 4133 4137	严格限食
+T373	Treatment 4138 4146;4147 4148	50% 高蛋白饮 食
+T374	Treatment 4166 4174	25% 热量限制
+T375	Treatment 4183 4191	50% 热量限制
+T376	Treatment 4240 4248	25% 热量限制
+T377	Treatment 4310 4317	25%热量限制
+T378	Treatment 4340 4342;4343 4348	高能 量限制饮食
+T379	Treatment 4349 4356	50%每日限食
+T380	Test_Value 4368 4370	下降
+T381	Test_Value 4661 4663	减少
+T382	Test_Value 4795 4796;4797 4798	下 降
+T383	Test_Value 4843 4848	下降 8%
+T384	Test_Value 4891 4893	下降
+T385	Duration 5223 5226;5227 5231	6 ~ 24 周
+T386	Test_Value 5263 5265	减少
+T387	Test_Value 5270 5272	减少
+T388	Treatment 5460 5462	限食
+T389	Test_Value 5534 5536	下降
+T390	Test_Value 5550 5552	下降
+T391	Test_Value 5640 5650	下降 3% ~ 4%
+T392	Test_Value 5702 5704	降低
+T393	Test_Value 5910 5912	下降
+T394	Test_Value 6184 6186	下降
+T395	Test_Value 6206 6208	下降
+T396	Test_Value 6244 6249	下降 4%
+T397	Test_Value 6260 6265	下降 9%
+T398	Treatment 6676 6680	隔日限食
+T399	Test_Value 6842 6844	下降
+T400	Test_Value 7137 7139	下降
+T401	Test_Value 7251 7263	下降 20% ~ 31%
+T402	Test_Value 7289 7301	下降 11% ~ 44%
+T403	Test_Value 7313 7315	下降
+T404	Test_Value 7325 7327	减少
+T405	Test_Value 7559 7561	下降
+T406	Disease 2430 2431;2432 2433	超 重
+T407	Treatment 4485 4494	13 ~ 24 周
+T408	Treatment 4680 4684	隔日限食
+T409	Duration 4834 4835;4836 4837	8 周
+T410	Anatomy 5377 5381	内脏脂肪
+T411	Duration 6008 6012	12 周
+T412	Treatment 6170 6173;6174 6175	隔日限 食
+T413	Test_Value 6190 6192	8%
+T414	Test 6600 6603	DXA
+T415	Test 6606 6608	MR
+T416	Treatment 2289 2291	限食
+T417	Treatment 1824 1826	限食
+T418	Treatment 2067 2069	限食
+T419	Treatment 2389 2391	限食
+T420	Duration 2616 2620	12 周
+T421	Treatment 3078 3080	限食
+T422	Treatment 5052 5054	限食
+T423	Treatment 5110 5111;5112 5113	限 食
+T424	Test_Value 5240 5250	减少 4% ~ 7%
+T425	Treatment 7207 7209	限食
+T426	Anatomy 2166 2169	心血管
+T427	Test 3994 3998;3999 4009	稳态模型 评估的胰岛素抵抗指数
+T428	Test 216 222	胰岛素敏感性
+T429	Reason 2274 2279	胰岛素抵抗
+T430	Treatment 2449 2457	每天限食 50%
+T431	Treatment 2463 2467;2468 2471	每天限食 25%
+T432	Treatment 2758 2766	25% 每日限食
+T433	Test 2900 2902;2903 2905	内脏 脂肪
+T434	Test 2941 2945;2946 2948	内脏脂肪 含量
+T435	Disease 4150 4155	胰岛素抵抗
+T436	Disease 4201 4206	胰岛素抵抗
+T437	Test_Value 5304 5309	减少 6%
+T438	Test_Value 5313 5318	减少 7%
+T439	Test_Value 5348 5353	减少 4%
+T440	Test_Value 5357 5362	减少 4%
+T441	Test 5441 5449	内脏脂肪实际质量
+T442	Treatment 5630 5636	隔日限食疗法
+T443	Treatment 7237 7243	隔日限食治疗
+R1	Treatment_Disease Arg1:T162 Arg2:T1
+R2	Treatment_Disease Arg1:T161 Arg2:T1
+R3	Treatment_Disease Arg1:T154 Arg2:T2
+R4	Treatment_Disease Arg1:T163 Arg2:T42
+R5	Test_Disease Arg1:T67 Arg2:T42
+R6	Test_Disease Arg1:T158 Arg2:T42
+R7	Test_Disease Arg1:T159 Arg2:T42
+R8	Test_Disease Arg1:T428 Arg2:T42
+R9	Treatment_Disease Arg1:T160 Arg2:T42
+R10	Test_Disease Arg1:T145 Arg2:T43
+R11	Treatment_Disease Arg1:T164 Arg2:T43
+R12	Treatment_Disease Arg1:T165 Arg2:T43
+R13	Test_Disease Arg1:T68 Arg2:T45
+R14	Test_Disease Arg1:T69 Arg2:T5
+R15	Test_Disease Arg1:T13 Arg2:T5
+R16	Test_Disease Arg1:T167 Arg2:T5
+R17	Test_Disease Arg1:T168 Arg2:T5
+R18	Treatment_Disease Arg1:T155 Arg2:T170
+R19	Treatment_Disease Arg1:T177 Arg2:T7
+R20	Treatment_Disease Arg1:T176 Arg2:T7
+R21	Treatment_Disease Arg1:T178 Arg2:T8
+R22	Treatment_Disease Arg1:T179 Arg2:T8
+R23	Test_Disease Arg1:T70 Arg2:T8
+R24	Test_Disease Arg1:T180 Arg2:T8
+R25	Test_Disease Arg1:T14 Arg2:T8
+R26	Test_Disease Arg1:T181 Arg2:T8
+R27	Treatment_Disease Arg1:T416 Arg2:T8
+R28	Treatment_Disease Arg1:T417 Arg2:T170
+R29	Test_Disease Arg1:T71 Arg2:T46
+R30	Test_Disease Arg1:T72 Arg2:T46
+R31	Treatment_Disease Arg1:T184 Arg2:T46
+R32	Test_Disease Arg1:T73 Arg2:T46
+R33	Treatment_Disease Arg1:T419 Arg2:T46
+R34	Treatment_Disease Arg1:T190 Arg2:T189
+R35	Test_Disease Arg1:T77 Arg2:T189
+R36	Test_Disease Arg1:T78 Arg2:T192
+R37	Treatment_Disease Arg1:T193 Arg2:T192
+R38	Test_Disease Arg1:T146 Arg2:T47
+R39	Test_Disease Arg1:T85 Arg2:T48
+R40	Treatment_Disease Arg1:T215 Arg2:T48
+R41	Test_Disease Arg1:T86 Arg2:T48
+R42	Test_Disease Arg1:T216 Arg2:T48
+R43	Test_Disease Arg1:T87 Arg2:T227
+R44	Test_Disease Arg1:T36 Arg2:T228
+R45	Treatment_Disease Arg1:T239 Arg2:T238
+R46	Test_Disease Arg1:T29 Arg2:T238
+R47	Test_Disease Arg1:T89 Arg2:T240
+R48	Test_Disease Arg1:T22 Arg2:T50
+R49	Treatment_Disease Arg1:T271 Arg2:T50
+R50	Test_Disease Arg1:T272 Arg2:T51
+R51	Treatment_Disease Arg1:T273 Arg2:T51
+R52	Test_Disease Arg1:T58 Arg2:T51
+R53	Test_Disease Arg1:T148 Arg2:T52
+R54	Test_Disease Arg1:T278 Arg2:T52
+R55	Test_Disease Arg1:T281 Arg2:T52
+R56	Treatment_Disease Arg1:T280 Arg2:T52
+R57	Treatment_Disease Arg1:T298 Arg2:T9
+R58	Treatment_Disease Arg1:T309 Arg2:T53
+R59	Treatment_Disease Arg1:T308 Arg2:T53
+R60	Test_Disease Arg1:T109 Arg2:T53
+R61	Test_Disease Arg1:T315 Arg2:T54
+R62	Test_Disease Arg1:T23 Arg2:T54
+R63	Treatment_Disease Arg1:T316 Arg2:T54
+R64	Treatment_Disease Arg1:T317 Arg2:T54
+R65	Test_Disease Arg1:T24 Arg2:T54
+R66	Treatment_Disease Arg1:T327 Arg2:T55
+R67	Treatment_Disease Arg1:T326 Arg2:T55
+R68	Test_Disease Arg1:T328 Arg2:T55
+R69	Test_Disease Arg1:T26 Arg2:T55
+R70	Test_Disease Arg1:T151 Arg2:T56
+R71	Test_Disease Arg1:T117 Arg2:T56
+R72	Treatment_Disease Arg1:T339 Arg2:T10
+R73	Treatment_Disease Arg1:T338 Arg2:T10
+R74	Treatment_Disease Arg1:T156 Arg2:T340
+R75	Treatment_Disease Arg1:T157 Arg2:T11
+R76	Anatomy_Disease Arg1:T119 Arg2:T42
+R77	Treatment_Disease Arg1:T169 Arg2:T5
+R78	Treatment_Disease Arg1:T344 Arg2:T5
+R79	Anatomy_Disease Arg1:T426 Arg2:T7
+R80	Treatment_Disease Arg1:T175 Arg2:T7
+R81	Treatment_Disease Arg1:T174 Arg2:T7
+R82	Treatment_Disease Arg1:T430 Arg2:T406
+R83	Treatment_Disease Arg1:T431 Arg2:T406
+R84	Test_Disease Arg1:T152 Arg2:T189
+R85	Test_Disease Arg1:T28 Arg2:T192
+R86	Test_Disease Arg1:T66 Arg2:T192
+R87	Test_Disease Arg1:T347 Arg2:T192
+R88	Test_Disease Arg1:T348 Arg2:T192
+R89	Test_Disease Arg1:T18 Arg2:T47
+R90	Test_Disease Arg1:T17 Arg2:T47
+R91	Treatment_Disease Arg1:T360 Arg2:T47
+R92	Test_Disease Arg1:T16 Arg2:T47
+R93	Test_Disease Arg1:T15 Arg2:T47
+R94	Treatment_Disease Arg1:T373 Arg2:T435
+R95	Treatment_Disease Arg1:T372 Arg2:T435
+R96	Treatment_Disease Arg1:T374 Arg2:T435
+R97	Treatment_Disease Arg1:T375 Arg2:T435
+R98	Test_Disease Arg1:T35 Arg2:T435
+R99	Treatment_Disease Arg1:T371 Arg2:T435
+R100	Treatment_Disease Arg1:T376 Arg2:T227
+R101	Treatment_Disease Arg1:T377 Arg2:T228
+R102	Treatment_Disease Arg1:T378 Arg2:T228
+R103	Treatment_Disease Arg1:T379 Arg2:T228
+R104	Test_Disease Arg1:T38 Arg2:T228
+R105	Anatomy_Disease Arg1:T125 Arg2:T238
+R106	Anatomy_Disease Arg1:T124 Arg2:T238
+R107	Test_Disease Arg1:T88 Arg2:T238
+R108	Treatment_Disease Arg1:T236 Arg2:T238
+R109	Treatment_Disease Arg1:T270 Arg2:T50
+R110	Treatment_Disease Arg1:T265 Arg2:T50
+R111	Test_Disease Arg1:T147 Arg2:T50
+R112	Test_Disease Arg1:T59 Arg2:T51
+R113	Test_Disease Arg1:T282 Arg2:T52
+R114	Test_Disease Arg1:T39 Arg2:T52
+R115	Test_Disease Arg1:T100 Arg2:T52
+R116	Test_Disease Arg1:T283 Arg2:T52
+R117	Test_Disease Arg1:T108 Arg2:T53
+R118	Test_Disease Arg1:T107 Arg2:T53
+R119	Treatment_Disease Arg1:T303 Arg2:T53
+R120	Treatment_Disease Arg1:T302 Arg2:T53
+R121	Test_Disease Arg1:T106 Arg2:T53
+R122	Test_Disease Arg1:T310 Arg2:T53
+R123	Test_Disease Arg1:T110 Arg2:T53
+R124	Anatomy_Disease Arg1:T138 Arg2:T53
+R125	Test_Disease Arg1:T324 Arg2:T55
+R126	Test_Disease Arg1:T329 Arg2:T55
+R127	Test_Disease Arg1:T114 Arg2:T55
+R128	Test_Disease Arg1:T150 Arg2:T56
+R129	Test_Disease Arg1:T330 Arg2:T56
+R130	Test_Disease Arg1:T27 Arg2:T56
+R131	Test_Disease Arg1:T116 Arg2:T56
+R132	Test_Disease Arg1:T337 Arg2:T10
+R133	Test_Disease Arg1:T65 Arg2:T10
+R134	Anatomy_Disease Arg1:T144 Arg2:T10
+R135	Test_Disease Arg1:T336 Arg2:T10
+R136	Treatment_Disease Arg1:T335 Arg2:T10
+R137	Test_Disease Arg1:T118 Arg2:T10
+R138	Treatment_Disease Arg1:T334 Arg2:T10
+R139	Treatment_Disease Arg1:T333 Arg2:T10
+R140	Treatment_Disease Arg1:T178 Arg2:T7
+R141	Treatment_Disease Arg1:T179 Arg2:T7
+R142	Treatment_Disease Arg1:T182 Arg2:T8
+R143	Treatment_Disease Arg1:T419 Arg2:T406
+R144	Test_Disease Arg1:T76 Arg2:T188
+R145	Treatment_Disease Arg1:T164 Arg2:T3
+R146	Treatment_Disease Arg1:T165 Arg2:T3
+R147	Test_Disease Arg1:T68 Arg2:T4
+R148	Treatment_Disease Arg1:T417 Arg2:T5
+R149	Treatment_Disease Arg1:T417 Arg2:T6
+R150	Treatment_Disease Arg1:T155 Arg2:T6
+R151	Treatment_Disease Arg1:T190 Arg2:T188
+R152	Test_Disease Arg1:T77 Arg2:T188
+R153	Test_Disease Arg1:T152 Arg2:T188
+R154	Treatment_Disease Arg1:T432 Arg2:T192
+R155	Test_Disease Arg1:T86 Arg2:T49
+R156	Test_Disease Arg1:T216 Arg2:T49
+R157	Treatment_Disease Arg1:T215 Arg2:T49
+R158	Treatment_Disease Arg1:T374 Arg2:T436
+R159	Treatment_Disease Arg1:T375 Arg2:T436
+R160	Test_Disease Arg1:T36 Arg2:T227
+R161	Treatment_Disease Arg1:T376 Arg2:T228
+R162	Test_Disease Arg1:T87 Arg2:T228
+R163	Test_Disease Arg1:T29 Arg2:T237
+R164	Anatomy_Disease Arg1:T126 Arg2:T238
+R165	Anatomy_Disease Arg1:T126 Arg2:T237
+R166	Test_Disease Arg1:T89 Arg2:T241
+R167	Treatment_Disease Arg1:T398 Arg2:T9
+R168	Treatment_Disease Arg1:T331 Arg2:T56
+R169	Treatment_Disease Arg1:T332 Arg2:T56
+R170	Treatment_Disease Arg1:T157 Arg2:T12

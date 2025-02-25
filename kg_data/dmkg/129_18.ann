@@ -1,0 +1,492 @@
+T1	Test 4930 4935	HDL-C
+T2	Test 4967 4972	HDL-C
+T3	Test 4947 4952	LDL-C
+T4	Test 4959 4964	LDL-C
+T5	Test 4981 4983	TG
+T6	Test 5024 5026	TG
+T7	Test 4919 4922;4923 4929	高密度 脂蛋白胆固醇
+T8	Test 4937 4946	低密度脂蛋白胆固醇
+T9	Test 4914 4918	总胆固醇
+T10	Test 4885 4889	体重指数
+T11	Test 4704 4707	收缩压
+T12	Test 4736 4739	收缩压
+T13	Test 2131 2134	肾功能
+T14	Disease 199 205	动脉粥样硬化
+T15	Disease 992 998	动脉粥样硬化
+T16	Disease 1156 1162	动脉粥样硬化
+T17	Disease 1298 1299;1300 1305	动 脉粥样硬化
+T18	Disease 2225 2231	动脉粥样硬化
+T19	Disease 3687 3693	动脉粥样硬化
+T20	Disease 5193 5198	代谢综合征
+T21	Anatomy 3740 3744	脂肪细胞
+T22	Test 3823 3826	骨钙素
+T23	Disease 5218 5220	MS
+T24	Disease 5227 5229	MS
+T25	Disease 5349 5351	MS
+T26	Disease 5463 5465	MS
+T27	Test 5303 5305	体重
+T28	Drug 35 40	维生素 D
+T29	Drug 78 83	维生素 D
+T30	Drug 192 197	维生素 D
+T31	Drug 903 908	维生素 D
+T32	Drug 942 947	维生素 D
+T33	Drug 1589 1594	维生素 D
+T34	Drug 1681 1686	维生素 D
+T35	Drug 1803 1808	维生素 D
+T36	Drug 2079 2084	维生素 D
+T37	Drug 2309 2314	维生素 D
+T38	Drug 2336 2341	维生素 D
+T39	Drug 2413 2418	维生素 D
+T40	Drug 2496 2501	维生素 D
+T41	Drug 2583 2588	维生素 D
+T42	Drug 2654 2659	维生素 D
+T43	Drug 2802 2807	维生素 D
+T44	Drug 2813 2818	维生素 D
+T45	Drug 2846 2851	维生素 D
+T46	Drug 2898 2903	维生素 D
+T47	Drug 2961 2966	维生素 D
+T48	Drug 2976 2981	维生素 D
+T49	Drug 3034 3039	维生素 D
+T50	Drug 3079 3084	维生素 D
+T51	Drug 3124 3129	维生素 D
+T52	Drug 3362 3364;3365 3368	维生 素 D
+T53	Drug 3949 3954	维生素 D
+T54	Drug 4046 4051	维生素 D
+T55	Drug 4141 4146	维生素 D
+T56	Drug 5069 5074	维生素 D
+T57	Drug 5127 5128;5129 5133	维 生素 D
+T58	Anatomy 3816 3820	成骨细胞
+T59	Disease 42 47	心血管疾病
+T60	Disease 86 91	心血管疾病
+T61	Disease 131 136	心血管疾病
+T62	Disease 170 175	心血管疾病
+T63	Disease 207 212	心血管疾病
+T64	Disease 1060 1065	心血管疾病
+T65	Disease 1163 1169	心脑血管疾病
+T66	Anatomy 1210 1216	免疫系统细胞
+T67	Anatomy 1217 1221	T 细胞
+T68	Anatomy 1222 1226	B 细胞
+T69	Anatomy 1227 1233	自然杀伤细胞
+T70	Anatomy 1234 1238	单核细胞
+T71	Anatomy 1240 1242;1243 1245	巨噬 细胞
+T72	Anatomy 1246 1251	树突状细胞
+T73	Anatomy 1253 1258	血管壁细胞
+T74	Anatomy 1259 1263	内皮细胞
+T75	Anatomy 1264 1270;1271 1272	血管平滑肌细 胞
+T76	Test 1341 1350	25-羟维生素 D
+T77	Test 1351 1358	25(OH)D
+T78	Test_Value 1358 1369	<20 ng / ml
+T79	Test 1440 1445	麦角骨化醇
+T80	Test 1446 1452	维生素 D2
+T81	Test 1453 1456	VD2
+T82	Test 1459 1463	胆骨化醇
+T83	Test 1464 1470	维生素 D3
+T84	Test 1472 1475	VD3
+T85	Test 1484 1487	VD3
+T86	Test 1515 1522	7-脱氢胆固醇
+T87	Test 1575 1578	VD3
+T88	Anatomy 1620 1622	肝脏
+T89	Anatomy 1624 1635	肝微粒体 25-羟化酶
+T90	Anatomy 1697 1699	肝脏
+T91	Anatomy 1839 1845	血管内皮细胞
+T92	Anatomy 1847 1852	平滑肌细胞
+T93	Test 1880 1893	1,25(OH) 2 D3
+T94	Anatomy 1900 1903	VDR
+T95	Test 1934 1950	1, 25 ( OH) 2 D3
+T96	Test 1964 1976	1,25(OH) 2D3
+T97	Anatomy 2093 2096	VDR
+T98	Anatomy 2137 2139	肾脏
+T99	Test 2142 2154	1,25(OH) 2D3
+T100	Anatomy 2249 2255	血管内皮细胞
+T101	Anatomy 2256 2262	血管内皮细胞
+T102	Anatomy 2265 2267;2268 2274	维生 素 D 受体
+T103	Anatomy 2316 2322	血管内皮细胞
+T104	Anatomy 2404 2411	脐静脉内皮细胞
+T105	Anatomy 2421 2427	一氧化氮合酶
+T106	Anatomy 2450 2462	NADPH 氧化酶复合体
+T107	Anatomy 2464 2470	血管内皮细胞
+T108	Anatomy 2507 2516	NADPH 氧化酶
+T109	Anatomy 2552 2558	一氧化氮合酶
+T110	Anatomy 2566 2572	血管内皮细胞
+T111	Anatomy 2629 2638	超氧化物歧化酶-1
+T112	Anatomy 2664 2671	脐静脉内皮细胞
+T113	Anatomy 2757 2764	p38MAPK
+T114	Anatomy 2829 2834	NF-κB
+T115	Anatomy 2866 2871	NF-κB
+T116	Anatomy 2909 2912	p53
+T117	Anatomy 2913 2918	NF-κB
+T118	Anatomy 2968 2975	血管平滑肌细胞
+T119	Anatomy 3045 3048;3049 3051	平滑肌 细胞
+T120	Anatomy 3088 3095	血管平滑肌细胞
+T121	Anatomy 3167 3171	T 细胞
+T122	Anatomy 3174 3181;3182 3183	幼稚型 T 细 胞
+T123	Anatomy 3184 3191	辅助 T 细胞
+T124	Anatomy 3197 3200	Th1
+T125	Anatomy 3201 3204	Th2
+T126	Anatomy 3206 3213	调节 T 细胞
+T127	Anatomy 3216 3220	B 细胞
+T128	Anatomy 3223 3226	白细胞
+T129	Anatomy 3227 3231	巨噬细胞
+T130	Anatomy 3248 3251	Th1
+T131	Test 3261 3266	干扰素-γ
+T132	Test 3284 3288	IL-6
+T133	Test 3291 3296	IL-12
+T134	Test 3329 3333	IL-5
+T135	Test 3334 3339	IL-10
+T136	Test 3342 3347	IL-13
+T137	Anatomy 3351 3354	Th1
+T138	Anatomy 3373 3376	Th2
+T139	Anatomy 3387 3390	Th1
+T140	Anatomy 3411 3415	单核细胞
+T141	Anatomy 3420 3424	巨噬细胞
+T142	Test 3427 3439	1,25(OH) 2D3
+T143	Anatomy 3443 3447	巨噬细胞
+T144	Test 3456 3460;3461 3463	低密度脂 蛋白
+T145	Test 3592 3596	IL-6
+T146	Test 3658 3664	血管紧张素2
+T147	Test 3665 3668	醛固酮
+T148	Test 3678 3680	血压
+T149	Test 3793 3796	胰岛素
+T150	Test 3829 3832	胰岛素
+T151	Test 3860 3863	胰岛素
+T152	Disease 3976 3981	心血管疾病
+T153	Test 4013 4020	25(OH)D
+T154	Disease 4030 4035	心血管疾病
+T155	Disease 4086 4091	心血管疾病
+T156	Reason 4221 4226;4227 4229	维生素 D 缺乏
+T157	Reason 4233 4236	高血压
+T158	Reason 4237 4240	高血脂
+T159	Reason 4241 4244	糖尿病
+T160	Reason 4245 4247	肥胖
+T161	Disease 4250 4255	心血管疾病
+T162	Disease 4310 4313	冠心病
+T163	Disease 4314 4318	心肌梗死
+T164	Disease 4435 4440	心血管疾病
+T165	Disease 4475 4477;4478 4481	心血 管疾病
+T166	Disease 4544 4549	心血管疾病
+T167	Test_Value 4574 4585	>30 ng / ml
+T168	Disease 4591 4595;4596 4597	心血管疾 病
+T169	Test_Value 4641 4652	<20 ng / ml
+T170	Test_Value 4663 4674	>50 ng / ml
+T171	Test 4693 4700	25(OH)D
+T172	Disease 4728 4731	高血压
+T173	Test 4755 4757	血压
+T174	Test 4783 4790	25(OH)D
+T175	Disease 4820 4823	高血压
+T176	Test 4829 4836	25(OH)D
+T177	Test 5013 5020	25(OH)D
+T178	Test 5098 5099;5100 5111	颈 动脉-股动脉脉搏波速度
+T179	Test 5306 5308	血糖
+T180	Test 5309 5311	血压
+T181	Test 5312 5314	血脂
+T182	Test_Value 5335 5346	<10 ng / ml
+T183	Test_Value 5372 5383	>30 ng / ml
+T184	Test_Value 5472 5487	15. 655 ng / ml
+T185	Disease 5812 5813;5814 5816	冠 心病
+T186	Disease 5881 5885	高钙血症
+T187	Disease 5886 5889	肾结石
+T188	Disease 5876 5878	中毒
+T189	Disease 6197 6202	心血管疾病
+T190	Disease 6232 6237	心血管疾病
+T191	Disease 6265 6270	心血管疾病
+T192	Disease 6407 6412	心血管疾病
+T193	Disease 1122 1127	心血管疾病
+T194	Drug 2703 2706	脂多糖
+T195	Anatomy 3735 3739	脂肪细胞
+T196	Anatomy 924 926	骨骼
+T197	Anatomy 927 929	肌肉
+T198	Anatomy 2709 2712;2713 2718	糖基化 终产物受体
+T199	Test_Value 4026 4028	下降
+T200	Test 4879 4881	性别
+T201	Test 4882 4884	年龄
+T202	Test 4891 4895	样本月份
+T203	Test_Value 4955 4956;4957 4958	增 加
+T204	Test_Value 4986 4988	减低
+T205	Test 5300 5302	年龄
+T206	Level 5322 5323	低
+T207	Level 5359 5360	高
+T208	Anatomy 5805 5807	骨骼
+T209	Amount 5982 5988	400 IU
+T210	Amount 6000 6003;6004 6006	600 IU
+T211	Amount 6019 6025	600 IU
+T212	Amount 6034 6040	800 IU
+T213	Amount 6051 6057	600 IU
+T214	Amount 6095 6098	700
+T215	Amount 6099 6102	700
+T216	Amount 6103 6116	1 500 ~ 2 000
+T217	Amount 6117 6130	1 500 ~ 2 000
+T218	Amount 6133 6149	1 500 ~ 2 000 IU
+T219	Reason 1332 1340	维生素 D 缺乏
+T220	Anatomy 1734 1736	肾脏
+T221	Test 1871 1875;1876 1879	活性维生 素 D
+T222	Test 2360 2361;2362 2365	一 氧化氮
+T223	Test 2366 2368	NO
+T224	Test 2435 2437	NO
+T225	Anatomy 2986 2988;2989 2999	细胞 周期蛋白依赖激酶 2
+T226	Anatomy 3012 3017;3018 3020	血管平滑肌 细胞
+T227	Test 3006 3009	内皮素
+T228	Test 3256 3260	细胞因子
+T229	Anatomy 3466 3470	泡沫细胞
+T230	Test 3580 3587	血清维生素 D
+T231	Anatomy 3714 3720	PPAR-γ
+T232	Reason 3769 3773;3774 3775	胰岛素抵 抗
+T233	Disease 3966 3975	维生素 D 缺乏症
+T234	Level 4587 4589	轻度
+T235	Test 5076 5081	血管僵硬度
+T236	Test_Value 5792 5802	20 ng / ml
+T237	Test_Value 5828 5843	30 ~ 40 ng / ml
+T238	Test_Value 5850 5852;5853 5860	70 ng / ml
+T239	Test_Value 5862 5874	≥150 ng / ml
+T240	Reason 6283 6289	内皮功能紊乱
+T241	Reason 6290 6294	炎症反应
+T242	Drug 106 111	维生素 D
+T243	Drug 162 163;164 168	维 生素 D
+T244	Drug 1007 1012	维生素 D
+T245	Drug 1033 1038	维生素 D
+T246	Drug 1401 1406	维生素 D
+T247	Drug 1410 1415	维生素 D
+T248	Drug 2004 2009	维生素 D
+T249	Drug 2036 2041	维生素 D
+T250	Drug 2063 2068	维生素 D
+T251	Drug 2111 2116	维生素 D
+T252	Drug 2158 2159;2160 2164	维 生素 D
+T253	Drug 2188 2189;2190 2194	维 生素 D
+T254	Drug 2216 2221	维生素 D
+T255	Drug 2242 2247	维生素 D
+T256	Drug 3478 3483	维生素 D
+T257	Drug 3619 3624	维生素 D
+T258	Drug 3632 3637	维生素 D
+T259	Drug 3777 3782	维生素 D
+T260	Drug 3808 3813	维生素 D
+T261	Drug 3872 3877	维生素 D
+T262	Drug 4115 4120	维生素 D
+T263	Test 4301 4306	维生素 D
+T264	Test 4356 4358;4359 4362	维生 素 D
+T265	Test 4399 4401;4402 4405	维生 素 D
+T266	Test 4464 4469	维生素 D
+T267	Test 4535 4540	维生素 D
+T268	Drug 4716 4721	维生素 D
+T269	Drug 5162 5167	维生素 D
+T270	Disease 5930 5938	维生素 D 缺乏
+T271	Test 6252 6257	维生素 D
+T272	Test 6321 6326	维生素 D
+T273	Reason 1276 1288	内皮细胞功能紊乱炎症反应
+T274	Reason 1289 1297	脂质斑块破裂脱落
+T275	Anatomy 1387 1390	心血管
+T276	Anatomy 1581 1583	皮肤
+T277	Anatomy 1510 1512	皮肤
+T278	Anatomy 2032 2034	皮肤
+T279	Anatomy 2076 2078	肠道
+T280	Anatomy 2090 2092	肠道
+T281	Anatomy 2343 2347	血管内皮
+T282	Test 2642 2648	内皮细胞功能
+T283	Anatomy 2823 2827	血管内皮
+T284	Anatomy 2856 2860	血管内皮
+T285	Disease 3026 3030	动脉硬化
+T286	Test 3057 3063	抗纤维化因子
+T287	Disease 3068 3072	动脉硬化
+T288	Disease 3109 3113	动脉硬化
+T289	Disease 3235 3239	动脉硬化
+T290	Disease 3300 3304	动脉硬化
+T291	Disease 3399 3400;3401 3404	动 脉硬化
+T292	Disease 3519 3522;3523 3527	维生素 D 缺乏
+T293	Disease 4150 4155	心血管事件
+T294	Disease 5492 5500	维生素 D 缺乏
+T295	Disease 5604 5611;5612 5613	维生素 D 缺 乏
+T296	Disease 5681 5689	维生素 D 不足
+T297	Test 6157 6162	维生素 D
+T298	Disease 6181 6184;6185 6189	维生素 D 缺乏
+T299	Disease 6221 6229	维生素 D 缺乏
+T300	Anatomy 6337 6342	心血管系统
+T301	Anatomy 6364 6367	心血管
+T302	Reason 6301 6302;6303 6308	动 脉粥样硬化
+T303	Test 4974 4980	血清甘油三酯
+T304	Test 2295 2299;2300 2303	活性维生 素 D
+T305	Drug 3702 3707	维生素 D
+T306	Drug 6382 6387	维生素 D
+T307	Drug 6396 6401	维生素 D
+T308	Symptom 985 989;990 991	胰岛素抵 抗
+T309	Reason 1112 1120	维生素 D 缺乏
+T310	Reason 1318 1327	维生素 D 的缺乏
+T311	Test 1551 1557	前体 VD3
+T312	Anatomy 1604 1606;1607 1615	维生 素 D 结合蛋白
+T313	Anatomy 1643 1653	[25(OH)D3]
+T314	Anatomy 1662 1670	25(OH)D3
+T315	Test 1703 1711	25(OH)D3
+T316	Anatomy 1719 1729	维生素 D 结合蛋白
+T317	Anatomy 1738 1741;1742 1746	肾小管 上皮细胞
+T318	Anatomy 1751 1757	1α-羟化酶
+T319	Test 1765 1775;1776 1780	1,25-二羟基维生 素 D3
+T320	Test 1782 1794	1,25(OH) 2D3
+T321	Anatomy 1811 1814;1815 1819	维生素 D 受体
+T322	Anatomy 1820 1823	VDR
+T323	Anatomy 1856 1862	1α-羟化酶
+T324	Anatomy 2281 2287	1α-羟化酶
+T325	Test 2671 2680;2681 2685	血小板内皮细胞黏附 分子-1
+T326	Anatomy 2687 2696	细胞间黏附分子-1
+T327	Test 2719 2724	白细胞介素
+T328	Test 2726 2728	IL
+T329	Anatomy 2741 2745;2746 2748	核因子- κB
+T330	Anatomy 2749 2754	NF-κB
+T331	Anatomy 2919 2920;2921 2930	胰 岛素样生长因子-1
+T332	Anatomy 2932 2944	成纤维细胞生长因子-23
+T333	Test 3267 3275	肿瘤坏死因子-α
+T334	Test 3276 3281	TNF-α
+T335	Anatomy 3309 3312	Th2
+T336	Anatomy 3641 3647;3648 3652	肾素-血管紧 张素系统
+T337	Reason 3852 3857	胰岛素抵抗
+T338	Test 4565 4574	血 25(OH)D
+T339	Test 4632 4641	血 25(OH)D
+T340	Test 4654 4663	血 25(OH)D
+T341	Test_Value 4793 4814	低于平均值(46. 8 nmol / L)
+T342	Test 4900 4910	25(OH)D 水平
+T343	Test 5087 5096	血 25(OH)D
+T344	Test 5179 5188	血 25(OH)D
+T345	Test 5237 5250	血 25(OH) D 水平
+T346	Test 5323 5332	血 25(OH)D
+T347	Test 5362 5369	25(OH)D
+T348	Test 5452 5459	25(OH)D
+T349	Test 5506 5515	血 25(OH)D
+T350	Disease 5527 5537	维生素 D 严重缺乏
+T351	Test 5571 5578	25(OH)D
+T352	Test_Value 5578 5589	<12 ng / ml
+T353	Test_Value 5590 5602	<30 nmol / L
+T354	Test 5640 5650	25 ( OH) D
+T355	Test_Value 5651 5663	< 20 ng / ml
+T356	Test_Value 5666 5670;5671 5679	< 50 nmol / L
+T357	Test 5715 5724	血 25(OH)D
+T358	Test_Value 5725 5742	20 ~ < 30 ng / ml
+T359	Test_Value 5744 5762	50 ~ < 75 nmol / L
+T360	Test 5773 5774;5775 5782	血 25(OH)D
+T361	Test 6062 6071	血 25(OH)D
+T362	Test_Value 6071 6081	>30 ng / m
+T363	Reason 6295 6300	胰岛素抵抗
+R1	Test_Disease Arg1:T76 Arg2:T17
+R2	Test_Disease Arg1:T77 Arg2:T17
+R3	Test_Disease Arg1:T148 Arg2:T19
+R4	Test_Disease Arg1:T147 Arg2:T19
+R5	Test_Disease Arg1:T146 Arg2:T19
+R6	Test_Disease Arg1:T171 Arg2:T172
+R7	Test_Disease Arg1:T11 Arg2:T172
+R8	Test_Disease Arg1:T12 Arg2:T172
+R9	Test_Disease Arg1:T173 Arg2:T172
+R10	Test_Disease Arg1:T174 Arg2:T175
+R11	Test_Disease Arg1:T176 Arg2:T175
+R12	Test_Disease Arg1:T181 Arg2:T25
+R13	Test_Disease Arg1:T180 Arg2:T25
+R14	Test_Disease Arg1:T179 Arg2:T25
+R15	Test_Disease Arg1:T27 Arg2:T25
+R16	Test_Disease Arg1:T347 Arg2:T25
+R17	Test_Disease Arg1:T348 Arg2:T26
+R18	Anatomy_Disease Arg1:T226 Arg2:T285
+R19	Test_Disease Arg1:T227 Arg2:T285
+R20	Anatomy_Disease Arg1:T225 Arg2:T285
+R21	Drug_Disease Arg1:T48 Arg2:T285
+R22	Drug_Disease Arg1:T49 Arg2:T287
+R23	Anatomy_Disease Arg1:T119 Arg2:T287
+R24	Test_Disease Arg1:T286 Arg2:T287
+R25	Drug_Disease Arg1:T50 Arg2:T288
+R26	Anatomy_Disease Arg1:T120 Arg2:T288
+R27	Anatomy_Disease Arg1:T129 Arg2:T289
+R28	Anatomy_Disease Arg1:T128 Arg2:T289
+R29	Anatomy_Disease Arg1:T127 Arg2:T289
+R30	Anatomy_Disease Arg1:T126 Arg2:T289
+R31	Anatomy_Disease Arg1:T125 Arg2:T289
+R32	Anatomy_Disease Arg1:T124 Arg2:T289
+R33	Anatomy_Disease Arg1:T123 Arg2:T289
+R34	Anatomy_Disease Arg1:T122 Arg2:T289
+R35	Anatomy_Disease Arg1:T121 Arg2:T289
+R36	Test_Disease Arg1:T133 Arg2:T290
+R37	Test_Disease Arg1:T132 Arg2:T290
+R38	Anatomy_Disease Arg1:T335 Arg2:T290
+R39	Test_Disease Arg1:T334 Arg2:T290
+R40	Test_Disease Arg1:T333 Arg2:T290
+R41	Test_Disease Arg1:T131 Arg2:T290
+R42	Test_Disease Arg1:T228 Arg2:T290
+R43	Anatomy_Disease Arg1:T130 Arg2:T290
+R44	Test_Disease Arg1:T134 Arg2:T290
+R45	Test_Disease Arg1:T135 Arg2:T290
+R46	Test_Disease Arg1:T136 Arg2:T290
+R47	Anatomy_Disease Arg1:T137 Arg2:T290
+R48	Anatomy_Disease Arg1:T139 Arg2:T291
+R49	Anatomy_Disease Arg1:T140 Arg2:T291
+R50	Anatomy_Disease Arg1:T141 Arg2:T291
+R51	Test_Disease Arg1:T263 Arg2:T162
+R52	Test_Disease Arg1:T265 Arg2:T164
+R53	Test_Disease Arg1:T264 Arg2:T164
+R54	Test_Disease Arg1:T266 Arg2:T165
+R55	Test_Disease Arg1:T267 Arg2:T166
+R56	Test_Disease Arg1:T351 Arg2:T350
+R57	Test_Disease Arg1:T354 Arg2:T295
+R58	Test_Disease Arg1:T297 Arg2:T298
+R59	Test_Disease Arg1:T271 Arg2:T191
+R60	Anatomy_Disease Arg1:T301 Arg2:T192
+R61	Drug_Disease Arg1:T28 Arg2:T59
+R62	Drug_Disease Arg1:T29 Arg2:T60
+R63	Drug_Disease Arg1:T242 Arg2:T61
+R64	Drug_Disease Arg1:T243 Arg2:T62
+R65	Drug_Disease Arg1:T245 Arg2:T64
+R66	Drug_Disease Arg1:T244 Arg2:T64
+R67	Anatomy_Disease Arg1:T66 Arg2:T16
+R68	Anatomy_Disease Arg1:T67 Arg2:T16
+R69	Anatomy_Disease Arg1:T68 Arg2:T16
+R70	Anatomy_Disease Arg1:T69 Arg2:T16
+R71	Anatomy_Disease Arg1:T70 Arg2:T16
+R72	Anatomy_Disease Arg1:T71 Arg2:T16
+R73	Anatomy_Disease Arg1:T72 Arg2:T16
+R74	Anatomy_Disease Arg1:T73 Arg2:T16
+R75	Anatomy_Disease Arg1:T74 Arg2:T16
+R76	Anatomy_Disease Arg1:T75 Arg2:T16
+R77	Drug_Disease Arg1:T254 Arg2:T18
+R78	Anatomy_Disease Arg1:T118 Arg2:T285
+R79	Drug_Disease Arg1:T47 Arg2:T285
+R80	Drug_Disease Arg1:T52 Arg2:T291
+R81	Anatomy_Disease Arg1:T138 Arg2:T291
+R82	Test_Disease Arg1:T142 Arg2:T291
+R83	Anatomy_Disease Arg1:T143 Arg2:T291
+R84	Test_Disease Arg1:T144 Arg2:T291
+R85	Anatomy_Disease Arg1:T229 Arg2:T291
+R86	Drug_Disease Arg1:T256 Arg2:T292
+R87	Test_Disease Arg1:T230 Arg2:T292
+R88	Test_Disease Arg1:T145 Arg2:T292
+R89	Anatomy_Disease Arg1:T336 Arg2:T19
+R90	Drug_Disease Arg1:T258 Arg2:T19
+R91	Drug_Disease Arg1:T257 Arg2:T19
+R92	Test_Disease Arg1:T153 Arg2:T154
+R93	Drug_Disease Arg1:T54 Arg2:T154
+R94	Drug_Disease Arg1:T55 Arg2:T293
+R95	Drug_Disease Arg1:T262 Arg2:T155
+R96	Test_Disease Arg1:T263 Arg2:T163
+R97	Test_Disease Arg1:T338 Arg2:T168
+R98	Drug_Disease Arg1:T268 Arg2:T172
+R99	Test_Disease Arg1:T344 Arg2:T20
+R100	Test_Disease Arg1:T345 Arg2:T24
+R101	Test_Disease Arg1:T205 Arg2:T25
+R102	Test_Disease Arg1:T346 Arg2:T25
+R103	Test_Disease Arg1:T349 Arg2:T294
+R104	Test_Disease Arg1:T357 Arg2:T296
+R105	Test_Disease Arg1:T360 Arg2:T185
+R106	Drug_Disease Arg1:T307 Arg2:T192
+R107	Drug_Disease Arg1:T306 Arg2:T192
+R108	Anatomy_Disease Arg1:T300 Arg2:T192
+R109	Test_Disease Arg1:T272 Arg2:T192
+R110	Drug_Disease Arg1:T49 Arg2:T285
+R111	Anatomy_Disease Arg1:T119 Arg2:T285
+R112	Test_Disease Arg1:T286 Arg2:T285
+R113	Drug_Disease Arg1:T32 Arg2:T15
+R114	Anatomy_Disease Arg1:T66 Arg2:T65
+R115	Anatomy_Disease Arg1:T67 Arg2:T65
+R116	Anatomy_Disease Arg1:T68 Arg2:T65
+R117	Anatomy_Disease Arg1:T69 Arg2:T65
+R118	Anatomy_Disease Arg1:T70 Arg2:T65
+R119	Anatomy_Disease Arg1:T71 Arg2:T65
+R120	Anatomy_Disease Arg1:T72 Arg2:T65
+R121	Anatomy_Disease Arg1:T73 Arg2:T65
+R122	Anatomy_Disease Arg1:T70 Arg2:T65
+R123	Anatomy_Disease Arg1:T71 Arg2:T65
+R124	Anatomy_Disease Arg1:T275 Arg2:T17
+R125	Drug_Disease Arg1:T51 Arg2:T289
+R126	Test_Disease Arg1:T173 Arg2:T175
+R127	Test_Disease Arg1:T344 Arg2:T23
+R128	Anatomy_Disease Arg1:T208 Arg2:T185
+R129	Test_Disease Arg1:T297 Arg2:T189

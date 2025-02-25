@@ -1,0 +1,311 @@
+T1	Test 4133 4136	尿素氮
+T2	Test 4588 4591	尿素氮
+T3	Drug 0 6	穿虎痛风合剂
+T4	Disease 8 16	急性痛风性关节炎
+T5	Disease 80 88	急性痛风性关节炎
+T6	Drug 107 113	穿虎痛风合剂
+T7	Drug 115 119	秋水仙碱
+T8	Drug 145 149	秋水仙碱
+T9	Drug 236 240	秋水仙碱
+T10	Test 276 279	血尿酸
+T11	Test 280 285	谷丙转氨酶
+T12	Test 287 292	谷草转氨酶
+T13	Test 293 295	肌酐
+T14	Drug 307 311	秋水仙碱
+T15	Drug 333 339	穿虎痛风合剂
+T16	Disease 341 343;344 350	急性 痛风性关节炎
+T17	Drug 356 360	秋水仙碱
+T18	Disease 378 380	痛风
+T19	Disease 1748 1750	痛风
+T20	Drug 1759 1763	秋水仙碱
+T21	Disease 1765 1773	急性痛风性关节炎
+T22	Disease 1834 1842	急性痛风性关节炎
+T23	Disease 1960 1966;1967 1969	急性痛风性关 节炎
+T24	Drug 1992 1996	秋水仙碱
+T25	Disease 2113 2121	急性痛风性关节炎
+T26	Drug 2298 2304	穿虎痛风合剂
+T27	Amount 2314 2320	250 ml
+T28	Frequency 2328 2335	2 次 / d
+T29	Duration 2357 2361	10 d
+T30	Drug 2363 2367	秋水仙碱
+T31	Drug 2370 2374	秋水仙碱
+T32	Amount 2387 2390	1 片
+T33	Frequency 2391 2398	2 次 / d
+T34	Duration 2403 2406	3 d
+T35	Amount 2412 2415	1 片
+T36	Frequency 2416 2423	1 次 / d
+T37	Drug 2487 2491	白藜芦醇
+T38	Duration 2542 2546	10 d
+T39	Frequency 2531 2538	2 次 / d
+T40	Drug 2555 2559	碳酸氢钠
+T41	Amount 2560 2566	1. 0 g
+T42	Frequency 2567 2574	3 次 / d
+T43	Amount 2585 2590	60 mg
+T44	Frequency 2591 2598	1 次 / d
+T45	Duration 2621 2625	10 d
+T46	Disease 2639 2647	急性痛风性关节炎
+T47	Test_Value 2676 2679	0 分
+T48	Test_Value 2686 2689	3 分
+T49	Test_Value 2706 2709	6 分
+T50	Test_Value 2726 2729	9 分
+T51	Test 2732 2738	关节肿胀积分
+T52	Test_Value 2757 2760	0 分
+T53	Test_Value 2785 2788	1 分
+T54	Test_Value 2822 2825	2 分
+T55	Test_Value 2863 2866	3 分
+T56	Symptom 2778 2784	关节积液少量
+T57	Symptom 2739 2745;2746 2750	皮肤纹理、骨 突无改变
+T58	Symptom 2751 2756	关节无积液
+T59	Symptom 2807 2814	骨突标志不明显
+T60	Symptom 2815 2821	关节积液中等
+T61	Symptom 2843 2849	骨突标志消失
+T62	Symptom 2850 2855	关节积液多
+T63	Symptom 2856 2862	影响功能活动
+T64	Test_Value 2883 2886	0 分
+T65	Test_Value 2903 2906	1 分
+T66	Test_Value 2930 2933	2 分
+T67	Test_Value 2952 2955	3 分
+T68	Symptom 2876 2882	关节活动自由
+T69	Symptom 2887 2891	活动受限
+T70	Symptom 2907 2913	活动明显受限
+T71	Symptom 2934 2941	活动时疼痛难忍
+T72	Test 2970 2973	肝功能
+T73	Test 2974 2977	肾功能
+T74	Test 2978 2981	血尿酸
+T75	SideEff 3188 3191;3192 3195	大便次 数增多
+T76	Drug 3248 3252	秋水仙碱
+T77	Level 3260 3262	严重
+T78	SideEff 3262 3264	腹泻
+T79	SideEff 3268 3272	肝功受损
+T80	Drug 3317 3321	秋水仙碱
+T81	Drug 3375 3379	秋水仙碱
+T82	Test 3606 3615	关节疼痛及肿胀评分
+T83	Disease 3668 3670	死亡
+T84	Drug 3680 3684	秋水仙碱
+T85	SideEff 3715 3721	大便次数增多
+T86	SideEff 3725 3727	恶心
+T87	Test 4089 4096	血清谷丙转氨酶
+T88	Test 4097 4102	谷草转氨酶
+T89	Test 4103 4105	肌酐
+T90	Test 4106 4108	尿酸
+T91	Drug 4114 4118	秋水仙碱
+T92	Disease 4183 4185	痛风
+T93	Disease 4211 4213	痛风
+T94	Disease 4258 4259;4260 4264	高 尿酸血症
+T95	Disease 4265 4267	痛风
+T96	Symptom 4272 4276	关节肿胀
+T97	Disease 4284 4287;4288 4290	脂代谢 紊乱
+T98	Disease 4291 4294	糖尿病
+T99	Disease 4334 4336	痛风
+T100	Disease 4337 4342	高尿酸血症
+T101	Drug 4377 4381	秋水仙碱
+T102	Disease 4385 4393	急性痛风性关节炎
+T103	SideEff 4409 4414	胃肠道反应
+T104	SideEff 4415 4417	腹痛
+T105	SideEff 4418 4420	腹泻
+T106	SideEff 4421 4424	水样便
+T107	SideEff 4438 4442	骨髓抑制
+T108	SideEff 4443 4449	肝肾功能损害
+T109	SideEff 4451 4453	致畸
+T110	SideEff 4454 4456	脱发
+T111	Drug 4464 4466;4467 4469	秋水 仙碱
+T112	Disease 4500 4502	痛风
+T113	Disease 4516 4518	痛风
+T114	Disease 4869 4871	痛风
+T115	Drug 4973 4979	穿虎痛风合剂
+T116	Drug 5215 5219	白藜芦醇
+T117	Drug 5370 5376	穿虎痛风合剂
+T118	Disease 5380 5388	急性痛风性关节炎
+T119	Drug 5397 5401	秋水仙碱
+T120	Drug 5405 5411	穿虎痛风合剂
+T121	Test 5414 5416;5417 5418	血尿 酸
+T122	Anatomy 5429 5439	尿酸盐阴离子转运蛋白
+T123	Test 5454 5459	谷丙转氨酶
+T124	Test 5460 5462	肌酐
+T125	Drug 5484 5490	穿虎痛风合剂
+T126	Disease 5500 5501;5502 5509	急 性痛风性关节炎
+T127	Test 4827 4832	谷丙转氨酶
+T128	Test 4817 4822	谷草转氨酶
+T129	Test 4565 4568	AST
+T130	Test 4813 4816	AST
+T131	Test 4576 4579	ALT
+T132	Test 4823 4826	ALT
+T133	Test 4617 4619	尿酸
+T134	Disease 4311 4316	代谢综合征
+T135	Anatomy 5351 5354;5355 5358	血管内 皮细胞
+T136	Disease 4295 4300	心血管疾病
+T137	Disease 4859 4861	痛风
+T138	Duration 130 134	10 d
+T139	Disease 1790 1793	关节炎
+T140	Drug 2347 2351	秋水仙碱
+T141	Level 2681 2683	轻度
+T142	Level 2690 2692	中度
+T143	Level 2710 2712	重度
+T144	Symptom 2692 2694	压痛
+T145	Symptom 2683 2685	压痛
+T146	Symptom 2712 2713;2714 2715	压 痛
+T147	Symptom 2761 2767	皮肤纹理变浅
+T148	Symptom 2768 2775;2776 2777	附近骨突清晰可 见
+T149	Disease 4304 4310	心脑血管疾病
+T150	Disease 4318 4322	肾脏疾病
+T151	Test 4603 4605	肌酐
+T152	Disease 382 385	关节炎
+T153	Drug 2446 2449	绿原酸
+T154	Amount 2450 2464	205. 6 μg / ml
+T155	Drug 2467 2470	马钱苷
+T156	Amount 2471 2483	36. 2 μg / m
+T157	Amount 2492 2506	149. 2 μg / ml
+T158	Symptom 2696 2700	影响睡眠
+T159	Symptom 2716 2720	日夜持续
+T160	Symptom 2721 2725	痛不可触
+T161	Symptom 2701 2705	尚能忍受
+T162	Symptom 2893 2898;2899 2902	仍可从事正 常活动
+T163	Symptom 2914 2922	不能从事一般活动
+T164	Symptom 2924 2929	能生活自理
+T165	Symptom 2942 2951	卧床,生活不能自理
+T166	Test 3765 3779	关节疼痛、肿胀及活动受限评分
+T167	Drug 3865 3869	秋水仙碱
+T168	Drug 4534 4538	秋水仙碱
+T169	Anatomy 4872 4873	脾
+T170	Anatomy 4873 4874	肾
+T171	Anatomy 4892 4893	脾
+T172	Anatomy 4893 4894	肾
+T173	Anatomy 4897 4898	脾
+T174	Anatomy 4908 4909	肾
+T175	Drug 5007 5010	穿山龙
+T176	Drug 4981 4984	穿山龙
+T177	Drug 4988 4990	虎杖
+T178	Drug 4991 4994	薏苡仁
+T179	Drug 5034 5036	虎杖
+T180	Anatomy 5017 5018	肝
+T181	Anatomy 5045 5046	胆
+T182	Anatomy 5019 5020	肺
+T183	Anatomy 5043 5044	肝
+T184	Drug 5070 5073	薏苡仁
+T185	Anatomy 5083 5084	脾
+T186	Anatomy 5085 5086	胃
+T187	Anatomy 5087 5088	肺
+T188	Anatomy 5155 5156	肺
+T189	Anatomy 5158 5159	肺
+T190	Anatomy 5166 5167	脾
+T191	Anatomy 5172 5173	胃
+T192	Anatomy 5168 5169	胃
+T193	Anatomy 5176 5177	脾
+T194	Drug 5220 5223	绿原酸
+T195	Drug 5224 5227	马钱苷
+T196	Test_Value 4110 4111;4112 4113	下 降
+T197	Duration 186 190	3 个月
+T198	Duration 2129 2132	1 年
+T199	Duration 2634 2638	3 个月
+T200	Test_Value 5412 5414	降低
+T201	Anatomy 5269 5272	白细胞
+T202	Test 5281 5285;5286 5287	白细胞介 素
+T203	Test 5288 5290	IL
+T204	Test 5300 5305	IL-1β
+T205	Drug 1826 1832	穿虎痛风合剂
+T206	Disease 1894 1899;1900 1903	急性痛风性 关节炎
+T207	Drug 2336 2343	秋水仙碱模拟片
+T208	Drug 2425 2434	穿虎痛风合剂模拟剂
+T209	Amount 2435 2441	250 ml
+T210	Drug 2512 2518	穿虎痛风合剂
+T211	Drug 2575 2576;2577 2580	依 托考昔
+T212	Drug 2581 2584	安康信
+T213	Test 2664 2671	淤关节疼痛评分
+T214	Symptom 2672 2675	无压痛
+T215	Symptom 2789 2797	皮肤纹理基本消失
+T216	Symptom 2798 2805	肿胀与骨突相平
+T217	Symptom 2826 2834	皮肤纹理完全消失
+T218	Symptom 2835 2837;2838 2842	肿胀 高出骨突
+T219	Symptom 2868 2875	盂关节活动受限
+T220	SideEff 3671 3674;3675 3677	消化道 出血
+T221	Test 4539 4543	肝肾功能
+T222	Reason 5343 5348	胰岛素抵抗
+T223	Test 5448 5453	谷草转氨酶
+T224	Test 3655 3658	血尿酸
+R1	Drug_Disease Arg1:T205 Arg2:T22
+R2	Frequency_Drug Arg1:T28 Arg2:T26
+R3	Duration_Drug Arg1:T34 Arg2:T31
+R4	Amount_Drug Arg1:T35 Arg2:T31
+R5	Frequency_Drug Arg1:T36 Arg2:T31
+R6	Anatomy_Disease Arg1:T169 Arg2:T114
+R7	Anatomy_Disease Arg1:T170 Arg2:T114
+R8	Symptom_Disease Arg1:T96 Arg2:T94
+R9	Drug_Disease Arg1:T3 Arg2:T4
+R10	Drug_Disease Arg1:T6 Arg2:T5
+R11	Drug_Disease Arg1:T7 Arg2:T5
+R12	Duration_Drug Arg1:T138 Arg2:T7
+R13	Duration_Drug Arg1:T197 Arg2:T8
+R14	Drug_Disease Arg1:T15 Arg2:T16
+R15	Drug_Disease Arg1:T14 Arg2:T16
+R16	Test_Disease Arg1:T13 Arg2:T16
+R17	Test_Disease Arg1:T12 Arg2:T16
+R18	Test_Disease Arg1:T11 Arg2:T16
+R19	Test_Disease Arg1:T10 Arg2:T16
+R20	Drug_Disease Arg1:T17 Arg2:T16
+R21	Symptom_Disease Arg1:T96 Arg2:T95
+R22	Drug_Disease Arg1:T125 Arg2:T126
+R23	Test_Disease Arg1:T124 Arg2:T118
+R24	Test_Disease Arg1:T123 Arg2:T118
+R25	Drug_Disease Arg1:T117 Arg2:T118
+R26	Drug_Disease Arg1:T119 Arg2:T118
+R27	Drug_Disease Arg1:T120 Arg2:T118
+R28	Test_Disease Arg1:T121 Arg2:T118
+R29	Drug_Disease Arg1:T101 Arg2:T102
+R30	Test_Disease Arg1:T224 Arg2:T83
+R31	Amount_Drug Arg1:T43 Arg2:T211
+R32	Frequency_Drug Arg1:T44 Arg2:T211
+R33	Duration_Drug Arg1:T45 Arg2:T211
+R34	Duration_Drug Arg1:T199 Arg2:T211
+R35	Drug_Disease Arg1:T211 Arg2:T46
+R36	Frequency_Drug Arg1:T42 Arg2:T211
+R37	Amount_Drug Arg1:T41 Arg2:T40
+R38	Duration_Drug Arg1:T38 Arg2:T40
+R39	Frequency_Drug Arg1:T39 Arg2:T40
+R40	Amount_Drug Arg1:T209 Arg2:T208
+R41	Frequency_Drug Arg1:T36 Arg2:T208
+R42	Amount_Drug Arg1:T35 Arg2:T208
+R43	Duration_Drug Arg1:T34 Arg2:T208
+R44	Amount_Drug Arg1:T32 Arg2:T31
+R45	Frequency_Drug Arg1:T33 Arg2:T31
+R46	Duration_Drug Arg1:T29 Arg2:T207
+R47	Frequency_Drug Arg1:T28 Arg2:T207
+R48	Amount_Drug Arg1:T27 Arg2:T26
+R49	Drug_Disease Arg1:T24 Arg2:T23
+R50	Drug_Disease Arg1:T20 Arg2:T21
+R51	SideEff-Drug Arg1:T79 Arg2:T76
+R52	SideEff-Drug Arg1:T78 Arg2:T76
+R53	SideEff-Drug Arg1:T85 Arg2:T84
+R54	SideEff-Drug Arg1:T86 Arg2:T84
+R55	SideEff-Drug Arg1:T110 Arg2:T111
+R56	SideEff-Drug Arg1:T108 Arg2:T111
+R57	SideEff-Drug Arg1:T109 Arg2:T111
+R58	SideEff-Drug Arg1:T107 Arg2:T111
+R59	SideEff-Drug Arg1:T103 Arg2:T101
+R60	SideEff-Drug Arg1:T104 Arg2:T101
+R61	SideEff-Drug Arg1:T105 Arg2:T101
+R62	SideEff-Drug Arg1:T106 Arg2:T101
+R63	Test_Disease Arg1:T213 Arg2:T46
+R64	Drug_Disease Arg1:T115 Arg2:T114
+R65	Test_Disease Arg1:T82 Arg2:T83
+R66	Duration_Drug Arg1:T138 Arg2:T6
+R67	Drug_Disease Arg1:T20 Arg2:T139
+R68	Drug_Disease Arg1:T24 Arg2:T206
+R69	Duration_Drug Arg1:T29 Arg2:T140
+R70	Amount_Drug Arg1:T43 Arg2:T212
+R71	Frequency_Drug Arg1:T44 Arg2:T212
+R72	Symptom_Disease Arg1:T214 Arg2:T46
+R73	Symptom_Disease Arg1:T145 Arg2:T46
+R74	Symptom_Disease Arg1:T144 Arg2:T46
+R75	Symptom_Disease Arg1:T158 Arg2:T46
+R76	Symptom_Disease Arg1:T161 Arg2:T46
+R77	Symptom_Disease Arg1:T146 Arg2:T46
+R78	Symptom_Disease Arg1:T159 Arg2:T46
+R79	Symptom_Disease Arg1:T146 Arg2:T46
+R80	Symptom_Disease Arg1:T160 Arg2:T46
+R81	Symptom_Disease Arg1:T57 Arg2:T46
+R82	Symptom_Disease Arg1:T58 Arg2:T46
+R83	Symptom_Disease Arg1:T147 Arg2:T46
+R84	Symptom_Disease Arg1:T148 Arg2:T46
+R85	Symptom_Disease Arg1:T56 Arg2:T46
+R86	Anatomy_Disease Arg1:T122 Arg2:T118
+R87	Test_Disease Arg1:T223 Arg2:T118

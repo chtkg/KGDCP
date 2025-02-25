@@ -1,0 +1,404 @@
+T1	Test 7366 7370	空腹血糖
+T2	Test 7432 7436	空腹血糖
+T3	Anatomy 0 4	棕色脂肪
+T4	Disease 57 60	糖尿病
+T5	Anatomy 82 88	棕色脂肪细胞
+T6	Disease 992 995	糖尿病
+T7	Disease 1061 1064	糖尿病
+T8	Anatomy 1190 1194	棕色脂肪
+T9	Anatomy 1203 1207	棕色脂肪
+T10	Test 1258 1264	PET-CT
+T11	Anatomy 1293 1296	腹股沟
+T12	Disease 1348 1351	糖尿病
+T13	Disease 1352 1354	肥胖
+T14	Anatomy 1376 1382	棕色脂肪细胞
+T15	Anatomy 1416 1421	UCP-1
+T16	Anatomy 1509 1521	PPAR-γ 辅活化因子
+T17	Anatomy 1524 1530	PGC-1α
+T18	Anatomy 1536 1543	PRDM-16
+T19	Anatomy 1545 1552	PRDM-16
+T20	Anatomy 1595 1599	棕色脂肪
+T21	Anatomy 1613 1617	白色脂肪
+T22	Anatomy 1673 1679	PPAR-γ
+T23	Anatomy 1681 1683;1684 1686	脂肪 细胞
+T24	Anatomy 1766 1767;1768 1769	胰 岛
+T25	Disease 1774 1777	脂肪肝
+T26	Test 1778 1780	血糖
+T27	Anatomy 1813 1817	棕色脂肪
+T28	Disease 1844 1847	糖尿病
+T29	Disease 1848 1850	肥胖
+T30	Anatomy 1863 1869	白色脂肪细胞
+T31	Anatomy 1899 1904	UCP-1
+T32	Anatomy 1940 1946	白色脂肪细胞
+T33	Disease 1963 1965	肥胖
+T34	Anatomy 1974 1978	白色脂肪
+T35	Disease 2012 2015	糖尿病
+T36	Disease 2056 2058	肥胖
+T37	Disease 2059 2062	糖尿病
+T38	Anatomy 2100 2106	棕色脂肪细胞
+T39	Anatomy 2155 2162	PRDM-16
+T40	Anatomy 2201 2206	骨骼肌细胞
+T41	Anatomy 2243 2248	骨骼肌细胞
+T42	Anatomy 2255 2261	棕色脂肪细胞
+T43	Anatomy 2265 2268	骨骼肌
+T44	Anatomy 2318 2325	骨骼肌前体细胞
+T45	Anatomy 2338 2342	脂肪细胞
+T46	Anatomy 2365 2371	PPAR-α
+T47	Anatomy 2381 2384	aP2
+T48	Anatomy 2386 2388;2389 2396	未分 化蛋白 CUP
+T49	Anatomy 2433 2437	棕色脂肪
+T50	Anatomy 2450 2455	cig30
+T51	Anatomy 2456 2461	cidea
+T52	Anatomy 2462 2467	UCP-1
+T53	Anatomy 2470 2476	PGC-1α
+T54	Anatomy 2479 2484	Cig30
+T55	Anatomy 2487 2493	Elovl3
+T56	Anatomy 2554 2559	cidea
+T57	Disease 2616 2618	肥胖
+T58	Anatomy 2625 2626;2627 2631	骨 骼肌细胞
+T59	Anatomy 2638 2644	棕色脂肪细胞
+T60	Drug 2702 2713	β-肾上腺能受体激动剂
+T61	Anatomy 2724 2730	白色脂肪细胞
+T62	Anatomy 2759 2764	UCP-1
+T63	Anatomy 2806 2812	白色脂肪细胞
+T64	Anatomy 2816 2822	棕色脂肪细胞
+T65	Anatomy 2831 2837	棕色脂肪细胞
+T66	Anatomy 2839 2844	UCP-1
+T67	Anatomy 2855 2861	白色脂肪细胞
+T68	Anatomy 2862 2868	棕色脂肪细胞
+T69	Anatomy 2881 2887	米色脂肪细胞
+T70	Test 2946 2952	去甲肾上腺素
+T71	Test 2953 2957	肾上腺素
+T72	Test 2960 2964;2965 2966	甲状腺激 素
+T73	Anatomy 2980 2984	脂肪细胞
+T74	Anatomy 3003 3007	脂肪细胞
+T75	Anatomy 3064 3070	白色脂肪细胞
+T76	Anatomy 3092 3098	米色脂肪细胞
+T77	Anatomy 3136 3140	棕色脂肪
+T78	Anatomy 3185 3188	腹股沟
+T79	Anatomy 3237 3244	腹股沟脂肪细胞
+T80	Anatomy 3284 3291	附睾处脂肪细胞
+T81	Anatomy 3346 3352	皮下脂肪细胞
+T82	Anatomy 3384 3389;3390 3391	棕色脂肪细 胞
+T83	Test 3506 3508	血糖
+T84	Anatomy 3594 3598	白色脂肪
+T85	Anatomy 3646 3652	棕色脂肪细胞
+T86	Anatomy 3653 3659	米色脂肪细胞
+T87	Anatomy 3768 3772	棕色脂肪
+T88	Anatomy 3780 3784	白色脂肪
+T89	Anatomy 3807 3812;3813 3814	白色脂肪细 胞
+T90	Anatomy 3818 3824	白色脂肪细胞
+T91	Anatomy 3931 3937	PGC-1α
+T92	Anatomy 3949 3953	肝脏细胞
+T93	Disease 3955 3958	脂肪肝
+T94	Anatomy 3985 3991	PGC-1α
+T95	Anatomy 4079 4082	三头肌
+T96	Anatomy 4087 4093	PGC-1α
+T97	Anatomy 4221 4227	PGC-1α
+T98	Anatomy 4274 4280	PGC-1α
+T99	Anatomy 4657 4663	PGC-1α
+T100	Anatomy 4739 4745	PGC-1α
+T101	Anatomy 4762 4768	PGC-1α
+T102	Anatomy 4778 4784	白色脂肪细胞
+T103	Anatomy 4797 4803	皮下脂肪细胞
+T104	Anatomy 4806 4811	UCP-1
+T105	Anatomy 4840 4844	肌肉细胞
+T106	Anatomy 4874 4877	肌细胞
+T107	Anatomy 4878 4884	皮下脂肪细胞
+T108	Anatomy 4911 4917	PGC-1α
+T109	Anatomy 4958 4964	皮下脂肪细胞
+T110	Anatomy 5121 5126	UCP-1
+T111	Anatomy 5116 5120	脂肪细胞
+T112	Anatomy 5150 5156	皮下脂肪细胞
+T113	Anatomy 5146 5149	肌细胞
+T114	Anatomy 5346 5349	骨骼肌
+T115	Test 5475 5478	胰岛素
+T116	Test 5493 5497	胰升糖素
+T117	Anatomy 5577 5582	Fndc5
+T118	Anatomy 5585 5592;5593 5594	原始皮下脂肪细 胞
+T119	Anatomy 5604 5609	BMP-7
+T120	Anatomy 5610 5615	Fndc5
+T121	Anatomy 5618 5622	脂肪细胞
+T122	Anatomy 5647 5651	脂肪细胞
+T123	Anatomy 5749 5755	白色脂肪细胞
+T124	Anatomy 5756 5760	棕色细胞
+T125	Anatomy 5786 5792	棕色脂肪细胞
+T126	Anatomy 5802 5807	UCP-1
+T127	Anatomy 5865 5870	BMP-4
+T128	Anatomy 5871 5876	BMP-7
+T129	Anatomy 5877 5883	FGF-21
+T130	Anatomy 5886 5889	CNP
+T131	Anatomy 5900 5905	UCP-1
+T132	Anatomy 5943 5948	Fndc5
+T133	Anatomy 6007 6012	UCP-1
+T134	Anatomy 6021 6027	白色脂肪细胞
+T135	Anatomy 6130 6135	Fndc5
+T136	Anatomy 6341 6349	皮下脂肪细胞受体
+T137	Test 6413 6418	空腹胰岛素
+T138	Test 6426 6428	血糖
+T139	Test 6469 6472	胰岛素
+T140	Disease 6547 6549;6550 6551	糖尿 病
+T141	Disease 6552 6554	肥胖
+T142	Anatomy 6624 6625	心
+T143	Anatomy 6626 6627	肝
+T144	Anatomy 6628 6629	脑
+T145	Disease 6647 6651	爱默氏病
+T146	Disease 6652 6657	帕金森氏病
+T147	Anatomy 6805 6811	Irisin
+T148	Anatomy 6921 6927	Irisin
+T149	Anatomy 7125 7129	股四头肌
+T150	Test 7323 7328;7329 7331	血浆空腹葡 萄糖
+T151	Test 7334 7339	空腹胰岛素
+T152	Test 7371 7376	空腹胰岛素
+T153	Test 7437 7442	空腹胰岛素
+T154	Anatomy 7507 7512	Fndc5
+T155	Anatomy 7520 7526	PGC-1α
+T156	Anatomy 7587 7593	Irisin
+T157	Anatomy 7627 7633	Irisin
+T158	Anatomy 7640 7646	米色脂肪细胞
+T159	Anatomy 7647 7653	Irisin
+T160	Anatomy 7846 7852	Irisin
+T161	Anatomy 7902 7908	Irisin
+T162	Anatomy 7953 7959	Irisin
+T163	Disease 7961 7963	肥胖
+T164	Anatomy 8045 8051	白色脂肪细胞
+T165	Anatomy 8080 8084	棕色脂肪
+T166	Anatomy 8104 8110	Irisin
+T167	Anatomy 5048 5052	脂肪细胞
+T168	Anatomy 4374 4377	ROS
+T169	Anatomy 535 538	BAT
+T170	Anatomy 382 385	WAT
+T171	Anatomy 798 801	WAT
+T172	Test 5212 5215	PCR
+T173	Test 3545 3547	血糖
+T174	Test 923 929	Irisin
+T175	Disease 61 66	代谢性疾病
+T176	Anatomy 140 144	白色脂肪
+T177	Anatomy 146 150	棕色脂肪
+T178	Disease 13 18	代谢性疾病
+T179	Disease 1077 1089	微小血管和大中血管并发症
+T180	Anatomy 1557 1563	PR 结构域
+T181	Level 1797 1800	明显的
+T182	Anatomy 1911 1913	皮下
+T183	Anatomy 1914 1918	内脏器官
+T184	Test 2190 2196	免疫组化染色
+T185	Anatomy 2524 2530	冷诱导糖蛋白
+T186	Amount 2698 2701	高强度
+T187	Test 3226 3232	免疫组化染色
+T188	Test_Value 3277 3279	阳性
+T189	Test_Value 3318 3320	阴性
+T190	Anatomy 3397 3402	米色冶脂肪
+T191	Drug 3457 3460	葡萄糖
+T192	Anatomy 3523 3538	a P2-PRDM-16 基因
+T193	Anatomy 3867 3870	微血管
+T194	Anatomy 3871 3875	肌红蛋白
+T195	Anatomy 5245 5250	Fndc5
+T196	Anatomy 5252 5253;5254 5266	3 型纤维连接蛋白2蛋白 5
+T197	Anatomy 6996 7005	Irisin-Fc
+T198	Anatomy 7028 7037	Fc-Irisin
+T199	Anatomy 7222 7229;7230 7232	Irisin- Fc
+T200	Drug 7292 7301	Irisin-FC
+T201	Drug 7304 7313	FC-irisin
+T202	Amount 7282 7284;7285 7287	80 μg
+T203	Drug 7352 7361	Irisin-Fc
+T204	Drug 7385 7394	Fc-Irisin
+T205	Drug 7408 7417	Fc-Irisin
+T206	Drug 7457 7466	Irisin-Fc
+T207	Anatomy 7666 7675	Irisin-Fc
+T208	Disease 7968 7973	代谢性疾病
+T209	Anatomy 2232 2237	骨骼肌细胞
+T210	Anatomy 2496 2505	极长链脂肪酸延长酶
+T211	Anatomy 2562 2572;2573 2587	细胞死亡 DNA 片 段化因子 a 样效应因子 A
+T212	Anatomy 2932 2936	交感神经
+T213	Anatomy 3022 3027	FoxC2
+T214	Anatomy 3028 3033	SRC-1
+T215	Anatomy 3034 3038	TIF2
+T216	Anatomy 3039 3044	TBX15
+T217	Anatomy 3045 3049	TFAM
+T218	Anatomy 3078 3080;3081 3085	间质 细胞前体
+T219	Anatomy 3245 3248;3249 3250	皮下脂 肪
+T220	Anatomy 3293 3297	内脏脂肪
+T221	Anatomy 3359 3363	内脏脂肪
+T222	Anatomy 3555 3567	a P2-PRDM-16
+T223	Anatomy 3970 3971;3972 3973	肝 脏
+T224	Anatomy 4030 4036	PGC-1α
+T225	Anatomy 4130 4136	PGC-1α
+T226	Anatomy 4295 4300	NRF-1
+T227	Anatomy 4302 4307	NRF-2
+T228	Anatomy 4310 4315	ERR-a
+T229	Anatomy 4329 4334;4335 4336	AMP 激 酶
+T230	Disease 4386 4390	肌肉萎缩
+T231	Anatomy 4531 4535	肌肉细胞
+T232	Anatomy 4902 4905	肌细胞
+T233	Anatomy 4994 4997	肌细胞
+T234	Anatomy 5319 5321	心脏
+T235	Anatomy 5322 5328	中枢神经系统
+T236	Anatomy 6293 6298	Fndc5
+T237	Anatomy 6305 6308	肝细胞
+T238	Anatomy 6637 6638	脑
+T239	Anatomy 7045 7048	hFc
+T240	Anatomy 7173 7176	hFC
+T241	Anatomy 7860 7865	FNDC5
+T242	Anatomy 8073 8075	肩岬
+T243	Anatomy 40 44	白色脂肪
+T244	Anatomy 94 98	白色脂肪
+T245	Anatomy 1279 1283	肩胛下区
+T246	Anatomy 1284 1289	颈部大血管
+T247	Anatomy 1497 1503	棕色脂肪细胞
+T248	Anatomy 1403 1408	解耦联蛋白
+T249	Anatomy 1409 1414	UCP-1
+T250	Anatomy 1636 1645	脂质 PPAR-γ
+T251	Anatomy 1756 1760	棕色脂肪
+T252	Anatomy 1722 1737	脂肪特异性 PPAR-γ 基因
+T253	Test 1781 1786	血浆胰岛素
+T254	Reason 1800 1805	胰岛素抵抗
+T255	Anatomy 1984 1990	内脏白色脂肪
+T256	Reason 1996 1997;1998 2002	胰 岛素抵抗
+T257	Anatomy 2036 2040	白色脂肪
+T258	Anatomy 2124 2134	PRDM-16 基因
+T259	Anatomy 2142 2145;2146 2151	原代棕 色脂肪细胞
+T260	Anatomy 2212 2220	原代棕色脂肪细胞
+T261	Anatomy 2286 2296	PRDM-16 基因
+T262	Anatomy 2299 2306	PRDM-16
+T263	Anatomy 2535 2541	棕色脂肪组织
+T264	Anatomy 2596 2600;2601 2603	棕色脂肪 组织
+T265	Anatomy 3150 3162;3163 3165	a P2-PRDM-16 基因
+T266	Anatomy 3193 3199	白色脂肪细胞
+T267	Anatomy 3189 3191	附睾
+T268	Anatomy 3204 3209	UCP-1
+T269	Anatomy 3212 3219	PRDM-16
+T270	Test 3261 3266	UCP-1
+T271	Test 3269 3276	PRDM-16
+T272	Test 3302 3307	UCP-1
+T273	Test 3310 3317	PRDM-16
+T274	Anatomy 3677 3683	米色脂肪细胞
+T275	Anatomy 3699 3711;3712 3717	过氧化物酶增殖体受体 γ 辅活化因子
+T276	Anatomy 3718 3724	PGC-1α
+T277	Anatomy 4004 4010	米色脂肪细胞
+T278	Anatomy 4244 4255	PGC-1α mRNA
+T279	Anatomy 4478 4487	PGC-1α 基因
+T280	Anatomy 4539 4547;4548 4549	PGC-1α 基 因
+T281	Anatomy 4829 4838	PGC-1α 基因
+T282	Anatomy 4851 4857	皮下脂肪组织
+T283	Anatomy 4925 4934	PGC-1α 基因
+T284	Anatomy 4937 4946	PGC-1α 蛋白
+T285	Anatomy 5010 5019	PGC-1α 基因
+T286	Anatomy 5071 5080	PGC-1α 基因
+T287	Anatomy 5096 5105	PGC-1α 基因
+T288	Anatomy 5561 5568	骨形成蛋白 7
+T289	Anatomy 5569 5574	BMP-7
+T290	Anatomy 5626 5637	UCP-1α mRNA
+T291	Anatomy 5655 5668	编码极长链脂肪酸延长酶基因
+T292	Anatomy 5669 5675	Elovl3
+T293	Anatomy 5677 5681;5682 5707	诱导细胞 死亡 DNA 片段化因子 a 样效应因子 A 基因
+T294	Anatomy 5708 5713	cidea
+T295	Anatomy 5737 5743	Irisin
+T296	Anatomy 5772 5778	Irisin
+T297	Treatment 5844 5855	白色脂肪细胞“棕色化冶
+T298	Anatomy 6046 6050	脂肪细胞
+T299	Anatomy 6186 6192	Irisin
+T300	Test 6274 6280	Irisin
+T301	Anatomy 6317 6323	Irisin
+T302	Anatomy 6324 6330	Irisin
+T303	Anatomy 6351 6361	UCP-1 mRNA
+T304	Anatomy 6457 6463	Irisin
+T305	Anatomy 6395 6401	Irisin
+T306	Anatomy 6506 6515	Irisin 蛋白
+T307	Anatomy 6526 6534	皮下白色脂肪细胞
+T308	Anatomy 6584 6590	Irisin
+T309	Anatomy 6698 6704	Irisin
+T310	Anatomy 6974 6980	皮下脂肪细胞
+T311	Anatomy 6981 6989	UCP-1 蛋白
+T312	Anatomy 7010 7018	UCP-1 蛋白
+T313	Anatomy 7192 7195;7196 7199	股四头 肌组织
+T314	Drug 7288 7291	hFC
+T315	Drug 7397 7400	hFc
+T316	Drug 7420 7423	hFc
+T317	Anatomy 7469 7475	Irisin
+T318	Anatomy 7599 7605	白色脂肪组织
+T319	Anatomy 7701 7706	FNDC5
+T320	Anatomy 7708 7714	Irisin
+T321	Anatomy 7766 7776	FNDC5 mRNA
+T322	Anatomy 8023 8028	FNDC5
+T323	Anatomy 8031 8037	Irisin
+T324	Anatomy 3071 3077	脂肪细胞前体
+T325	Anatomy 5414 5420	Irisin
+T326	Anatomy 7550 7556	Irisin
+T327	Anatomy 7822 7828	Irisin
+T328	Anatomy 7925 7931	Irisin
+R1	Anatomy_Disease Arg1:T3 Arg2:T178
+R2	Anatomy_Disease Arg1:T27 Arg2:T29
+R3	Anatomy_Disease Arg1:T264 Arg2:T57
+R4	Amount_Drug Arg1:T202 Arg2:T314
+R5	Amount_Drug Arg1:T202 Arg2:T200
+R6	Amount_Drug Arg1:T202 Arg2:T201
+R7	Anatomy_Disease Arg1:T162 Arg2:T208
+R8	Anatomy_Disease Arg1:T243 Arg2:T4
+R9	Anatomy_Disease Arg1:T5 Arg2:T4
+R10	Anatomy_Disease Arg1:T244 Arg2:T4
+R11	Anatomy_Disease Arg1:T27 Arg2:T28
+R12	Anatomy_Disease Arg1:T30 Arg2:T33
+R13	Anatomy_Disease Arg1:T32 Arg2:T33
+R14	Anatomy_Disease Arg1:T34 Arg2:T33
+R15	Anatomy_Disease Arg1:T255 Arg2:T33
+R16	Anatomy_Disease Arg1:T257 Arg2:T35
+R17	Anatomy_Disease Arg1:T58 Arg2:T57
+R18	Anatomy_Disease Arg1:T92 Arg2:T93
+R19	Anatomy_Disease Arg1:T223 Arg2:T93
+R20	Anatomy_Disease Arg1:T162 Arg2:T163
+R21	Anatomy_Disease Arg1:T31 Arg2:T33
+R22	Anatomy_Disease Arg1:T182 Arg2:T33
+R23	Anatomy_Disease Arg1:T183 Arg2:T33
+R24	Anatomy_Disease Arg1:T59 Arg2:T57
+R25	Anatomy_Disease Arg1:T211 Arg2:T57
+R26	Anatomy_Disease Arg1:T56 Arg2:T57
+R27	Anatomy_Disease Arg1:T307 Arg2:T140
+R28	Anatomy_Disease Arg1:T306 Arg2:T140
+R29	Test_Disease Arg1:T139 Arg2:T140
+R30	Anatomy_Disease Arg1:T304 Arg2:T140
+R31	Anatomy_Disease Arg1:T309 Arg2:T145
+R32	Anatomy_Disease Arg1:T309 Arg2:T146
+R33	Anatomy_Disease Arg1:T168 Arg2:T230
+R34	Anatomy_Disease Arg1:T24 Arg2:T25
+R35	Anatomy_Disease Arg1:T251 Arg2:T25
+R36	Test_Disease Arg1:T26 Arg2:T25
+R37	Anatomy_Disease Arg1:T30 Arg2:T29
+R38	Anatomy_Disease Arg1:T91 Arg2:T93
+R39	Anatomy_Disease Arg1:T308 Arg2:T141
+R40	Anatomy_Disease Arg1:T328 Arg2:T163
+R41	Anatomy_Disease Arg1:T243 Arg2:T175
+R42	Anatomy_Disease Arg1:T5 Arg2:T175
+R43	Anatomy_Disease Arg1:T244 Arg2:T175
+R44	Anatomy_Disease Arg1:T245 Arg2:T12
+R45	Anatomy_Disease Arg1:T246 Arg2:T12
+R46	Test_Disease Arg1:T10 Arg2:T12
+R47	Anatomy_Disease Arg1:T11 Arg2:T12
+R48	Test_Disease Arg1:T10 Arg2:T13
+R49	Anatomy_Disease Arg1:T245 Arg2:T13
+R50	Anatomy_Disease Arg1:T246 Arg2:T13
+R51	Anatomy_Disease Arg1:T252 Arg2:T25
+R52	Anatomy_Disease Arg1:T30 Arg2:T28
+R53	Anatomy_Disease Arg1:T31 Arg2:T28
+R54	Anatomy_Disease Arg1:T31 Arg2:T29
+R55	Anatomy_Disease Arg1:T182 Arg2:T28
+R56	Anatomy_Disease Arg1:T182 Arg2:T29
+R57	Anatomy_Disease Arg1:T183 Arg2:T28
+R58	Anatomy_Disease Arg1:T183 Arg2:T29
+R59	Anatomy_Disease Arg1:T34 Arg2:T35
+R60	Anatomy_Disease Arg1:T255 Arg2:T35
+R61	Anatomy_Disease Arg1:T257 Arg2:T36
+R62	Anatomy_Disease Arg1:T257 Arg2:T37
+R63	Amount_Drug Arg1:T186 Arg2:T60
+R64	Anatomy_Disease Arg1:T97 Arg2:T230
+R65	Anatomy_Disease Arg1:T278 Arg2:T230
+R66	Anatomy_Disease Arg1:T98 Arg2:T230
+R67	Anatomy_Disease Arg1:T226 Arg2:T230
+R68	Anatomy_Disease Arg1:T227 Arg2:T230
+R69	Anatomy_Disease Arg1:T228 Arg2:T230
+R70	Anatomy_Disease Arg1:T229 Arg2:T230
+R71	Anatomy_Disease Arg1:T306 Arg2:T141
+R72	Anatomy_Disease Arg1:T307 Arg2:T141
+R73	Anatomy_Disease Arg1:T308 Arg2:T140
+R74	Anatomy_Disease Arg1:T161 Arg2:T163
+R75	Anatomy_Disease Arg1:T161 Arg2:T208
+R76	Anatomy_Disease Arg1:T328 Arg2:T208

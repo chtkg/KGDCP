@@ -1,0 +1,447 @@
+T1	Test 3519 3524	HDL-C
+T2	Test 4218 4223	HDL-C
+T3	Test 4403 4408	HDL-C
+T4	Test 5206 5211	HDL-C
+T5	Test 5699 5704	HDL-C
+T6	Test 6171 6176	HDL-C
+T7	Test 7140 7145	HDL-C
+T8	Test 7696 7701	HDL-C
+T9	Test 8682 8687	HDL-C
+T10	Test 9204 9209	HDL-C
+T11	Test 4439 4444	LDL-C
+T12	Test 5223 5228	LDL-C
+T13	Test 5753 5758	LDL-C
+T14	Test 6522 6527	LDL-C
+T15	Test 7194 7199	LDL-C
+T16	Test 7281 7286	LDL-C
+T17	Test 7518 7523	LDL-C
+T18	Test 7702 7707	LDL-C
+T19	Test 8688 8693	LDL-C
+T20	Test 8836 8841	LDL-C
+T21	Test 9210 9215	LDL-C
+T22	Test 593 597	空腹血糖
+T23	Test 3479 3483	空腹血糖
+T24	Test 4632 4636	空腹血糖
+T25	Test 4872 4876	空腹血糖
+T26	Test 6068 6072	空腹血糖
+T27	Test 7507 7511	空腹血糖
+T28	Test 7680 7684	空腹血糖
+T29	Test 8825 8829	空腹血糖
+T30	Test 9043 9047	空腹血糖
+T31	Test 9188 9190;9191 9193	空腹 血糖
+T32	Disease 181 190	非酒精性脂肪性肝病
+T33	Test 221 226	红细胞压积
+T34	Disease 227 236	非酒精性脂肪性肝病
+T35	Disease 435 440	NAFLD
+T36	Test 454 459	红细胞压积
+T37	Test 473 476	HCT
+T38	Test_Value 476 482;483 488	≤0. 49 L / L
+T39	Test 493 496	HCT
+T40	Test_Value 496 508	>0. 49 L / L
+T41	Disease 528 533	NAFLD
+T42	Test 557 562	谷草转氨酶
+T43	Test 563 567	甘油三酯
+T44	Test 568 572	总胆固醇
+T45	Test 573 582	高密度脂蛋白胆固醇
+T46	Test 583 592	低密度脂蛋白胆固醇
+T47	Disease 624 629	NAFLD
+T48	Test 719 722	HCT
+T49	Disease 730 735	NAFLD
+T50	Test 750 755	红细胞压积
+T51	Disease 757 762	NAFLD
+T52	Disease 791 796	NAFLD
+T53	Disease 810 819	非酒精性脂肪性肝病
+T54	Disease 2552 2557	NAFLD
+T55	Test 2568 2571	HCT
+T56	Disease 2576 2581	NAFLD
+T57	Test 2618 2621	HCT
+T58	Disease 2631 2636	NAFLD
+T59	Test 2683 2686	HCT
+T60	Disease 2689 2694	NAFLD
+T61	Disease 2813 2816	脂肪肝
+T62	Disease 2817 2824	慢性病毒性肝炎
+T63	Disease 2833 2840	自身免疫性肝病
+T64	Disease 2847 2852	药物性肝病
+T65	Test 3123 3125	体重
+T66	Test 3126 3128	身高
+T67	Test 3129 3131	腰围
+T68	Test 3133 3136	腰臀比
+T69	Test 3222 3225	腰臀比
+T70	Test 3320 3324	体重指数
+T71	Test 3373 3376	收缩压
+T72	Test 3377 3380	舒张压
+T73	Test 3484 3491	血清谷丙转氨酶
+T74	Test 3492 3497	谷草转氨酶
+T75	Test 3498 3501;3502 3503	总胆固 醇
+T76	Test 3504 3508	甘油三酯
+T77	Test 3509 3518	高密度脂蛋白胆固醇
+T78	Test 3549 3552	HCT
+T79	Test 3553 3556	红细胞
+T80	Test 3557 3560	白细胞
+T81	Test 3679 3682	HCT
+T82	Test 3703 3706	HCT
+T83	Test_Value 3706 3718	≤0. 49 L / L
+T84	Test 3736 3739	HCT
+T85	Test_Value 3739 3751	>0. 49 L / L
+T86	Disease 3778 3783	NAFLD
+T87	Disease 3799 3804	NAFLD
+T88	Disease 3839 3845	弥漫性脂肪肝
+T89	Test 4139 4141	体重
+T90	Test 4142 4146	体重指数
+T91	Test 4147 4150	舒张压
+T92	Test 4151 4153;4154 4156	甘油 三酯
+T93	Test 4157 4163	谷氨酰转肽酶
+T94	Test 4164 4169	谷草转氨酶
+T95	Test 4170 4175	谷丙转氨酶
+T96	Test 4212 4217	血清白蛋白
+T97	Test 4292 4295	HCT
+T98	Test 4311 4313	身高
+T99	Test 4333 4335	体重
+T100	Test 4356 4359	舒张压
+T101	Test 4379 4383	甘油三酯
+T102	Test 4428 4432;4433 4438	低密度脂 蛋白胆固醇
+T103	Test 4465 4470	谷丙转氨酶
+T104	Test 4489 4494	谷草转氨酶
+T105	Test 4512 4513;4514 4518	血 清白蛋白
+T106	Test 4538 4543	血清总蛋白
+T107	Test 4565 4571	谷氨酰转肽酶
+T108	Test 4620 4622	体重
+T109	Test 4623 4627	体重指数
+T110	Test 4628 4631	舒张压
+T111	Disease 7349 7354	NAFLD
+T112	Disease 7390 7395	NAFLD
+T113	Disease 7435 7440	NAFLD
+T114	Disease 7491 7496	NAFLD
+T115	Test 7502 7506	体重指数
+T116	Test 7512 7517	谷丙转氨酶
+T117	Test 7524 7527	HCT
+T118	Test 7529 7533	总白蛋白
+T119	Test 7534 7540	谷氨酰转肽酶
+T120	Disease 7548 7553	NAFLD
+T121	Test 7587 7590	HCT
+T122	Disease 7593 7598	NAFLD
+T123	Test 7619 7622	HCT
+T124	Disease 7632 7637	NAFLD
+T125	Test 7675 7679	体重指数
+T126	Test 7685 7689	甘油三酯
+T127	Test 7690 7694	总胆固醇
+T128	Test 7709 7714	谷丙转氨酶
+T129	Test 7716 7721	谷草转氨酶
+T130	Disease 7726 7731	NAFLD
+T131	Disease 7804 7805;7806 7807	血 栓
+T132	Disease 7821 7825	高脂血症
+T133	Anatomy 7845 7848	红细胞
+T134	Anatomy 7849 7852	白细胞
+T135	Anatomy 7853 7856	血小板
+T136	Anatomy 7860 7862;7863 7864	红细 胞
+T137	Anatomy 7891 7894	红细胞
+T138	Test 7910 7913	HCT
+T139	Test 7949 7952	HCT
+T140	Disease 7960 7967	镰状细胞性贫血
+T141	Disease 7972 7973;7974 7977	高 脂血症
+T142	Disease 7982 7988	红细胞增多症
+T143	Test 8010 8015	红细胞压积
+T144	Test 8033 8038	红细胞压积
+T145	Disease 8057 8060	脂肪肝
+T146	Test 8080 8083	HCT
+T147	Test 8101 8104	HCT
+T148	Anatomy 8124 8126;8127 8128	肝细 胞
+T149	Disease 8157 8162	NAFLD
+T150	Disease 8197 8202	NAFLD
+T151	Disease 8251 8256	NAFLD
+T152	Test 8270 8275	血清铁蛋白
+T153	Test 8280 8285	红细胞计数
+T154	Test 8286 8290	血红蛋白
+T155	Test 8291 8296	红细胞压积
+T156	Disease 8317 8322	NAFLD
+T157	Disease 8337 8343	单纯性脂肪肝
+T158	Disease 8344 8352	非酒精性脂肪肝炎
+T159	Disease 8380 8385	NAFLD
+T160	Disease 8399 8403	肝纤维化
+T161	Disease 8404 8406;8407 8408	肝硬 化
+T162	Disease 8409 8414	终末期肝病
+T163	Disease 8416 8420	肝纤维化
+T164	Disease 8481 8486	NAFLD
+T165	Disease 8502 8507	NAFLD
+T166	Test 8533 8535	体重
+T167	Test 8536 8538;8539 8541	体重 指数
+T168	Test 8542 8545	舒张压
+T169	Test 8546 8550	甘油三酯
+T170	Test 8551 8557	谷氨酰转肽酶
+T171	Test 8558 8563	谷草转氨酶
+T172	Test 8565 8570	谷丙转氨酶
+T173	Test 8591 8594	HCT
+T174	Test 8624 8627	HCT
+T175	Test 8658 8661	HCT
+T176	Test 8669 8671	体重
+T177	Test 8672 8675	舒张压
+T178	Test 8676 8679;8680 8681	甘油三 酯
+T179	Test 8696 8699	HCT
+T180	Test 8717 8718;8719 8723	谷 草转氨酶
+T181	Test 8724 8729	谷丙转氨酶
+T182	Test 8742 8745	HCT
+T183	Test 8759 8762	HCT
+T184	Test 8813 8815	体重
+T185	Test 8816 8820	体重指数
+T186	Test 8821 8824	舒张压
+T187	Test 8831 8835	甘油三酯
+T188	Test 8842 8847	谷丙转氨酶
+T189	Test 8848 8854	谷氨酰转肽酶
+T190	Test 8869 8872	HCT
+T191	Disease 8885 8890	NAFLD
+T192	Disease 8927 8932	NAFLD
+T193	Test 8960 8963	HCT
+T194	Disease 8972 8977	NAFLD
+T195	Disease 9001 9006	NAFLD
+T196	Test 9014 9017	HCT
+T197	Disease 9026 9031	NAFLD
+T198	Test 9038 9042	体重指数
+T199	Test 9056 9059	HCT
+T200	Disease 9062 9067	NAFLD
+T201	Test 9096 9099	HCT
+T202	Disease 9102 9107	NAFLD
+T203	Test 9128 9131	HCT
+T204	Disease 9140 9145	NAFLD
+T205	Test 9183 9187	体重指数
+T206	Test 9194 9198	甘油三酯
+T207	Test 9199 9203	总胆固醇
+T208	Test 9216 9220;9221 9222	谷丙转氨 酶
+T209	Test 9223 9228	谷草转氨酶
+T210	Disease 9232 9237	NAFLD
+T211	Test 9252 9255	HCT
+T212	Disease 9258 9263	NAFLD
+T213	Test 9279 9282	HCT
+T214	Test 9326 9329	HCT
+T215	Test_Value 9286 9297	0. 49 L / L
+T216	Test_Value 9353 9364	0. 49 L / L
+T217	Test 9442 9447	红细胞压积
+T218	Disease 9451 9456	NAFLD
+T219	Disease 9500 9505	NAFLD
+T220	Test 5705 5714	高密度脂蛋白胆固醇
+T221	Test 7146 7155	高密度脂蛋白胆固醇
+T222	Test 5759 5768	低密度脂蛋白胆固醇
+T223	Test 7200 7209	低密度脂蛋白胆固醇
+T224	Test 5240 5245	谷丙转氨酶
+T225	Test 6539 6544	谷丙转氨酶
+T226	Test 7287 7292	谷丙转氨酶
+T227	Test 5279 5284	谷草转氨酶
+T228	Test 6578 6583	谷草转氨酶
+T229	Test 4911 4915	总胆固醇
+T230	Test 6107 6111	总胆固醇
+T231	Test 4805 4809	体重指数
+T232	Test 6001 6005	体重指数
+T233	Test 4836 4839	舒张压
+T234	Test 6032 6035	舒张压
+T235	Test 3201 3203	腰围
+T236	Test 3227 3229	腰围
+T237	Test 3204 3206	臀围
+T238	Test 3231 3233	臀围
+T239	Test 4945 4949	甘油三酯
+T240	Test 6141 6145	甘油三酯
+T241	Test 7276 7280	甘油三酯
+T242	Test 3332 3334	身高
+T243	Test 4775 4777	身高
+T244	Test 3165 3167	体重
+T245	Test 4790 4792	体重
+T246	Test 5986 5988	体重
+T247	Test 3327 3328;3329 3330	体 重
+T248	Test 303 308	红细胞压积
+T249	Test 321 324	HCT
+T250	Disease 370 375	NAFLD
+T251	Disease 326 335	非酒精性脂肪性肝病
+T252	Disease 2484 2486	肝病
+T253	Disease 2459 2464	NAFLD
+T254	Disease 2413 2421;2422 2423	非酒精性脂肪性肝 病
+T255	Test 2546 2549	HCT
+T256	Test 2527 2532	红细胞压积
+T257	Disease 2856 2858	肝病
+T258	Test 3638 3642;3643 3646	肝右叶最 大斜径
+T259	Test 3647 3651	脾脏长径
+T260	Test 3652 3657	脾脏的厚度
+T261	Test 3629 3637	肝脏脂肪变性程度
+T262	Test 7777 7780	血粘度
+T263	Test 7792 7795	血粘度
+T264	Test_Value 7795 7797	升高
+T265	Disease 7811 7813	炎症
+T266	Disease 7814 7820	心脑血管疾病
+T267	Test 7879 7882	血粘度
+T268	Test 7895 7898	血粘度
+T269	Test 8065 8068	血粘度
+T270	Test 8110 8113	血粘度
+T271	Disease 9533 9538;9539 9540	心脑血管疾 病
+T272	Test 821 826	红细胞压积
+T273	Test 3313 3316	体脂率
+T274	Test 4136 4138	年龄
+T275	Disease 8149 8154	铁代谢紊乱
+T276	Disease 8225 8230	铁代谢紊乱
+T277	Anatomy 8457 8461	星状细胞
+T278	Test 8530 8532	年龄
+T279	Reason 9491 9497	代谢危险因素
+T280	Test_Value 7782 7784	升高
+T281	Symptom 8129 8133	糖元减少
+T282	Symptom 8134 8140	脂肪堆积增多
+T283	Test_Value 8764 8766	升高
+T284	Test_Value 9447 9449	增高
+T285	Treatment 2825 2830;2831 2832	全胃肠外营 养
+T286	Anatomy 3180 3182	髂嵴
+T287	Anatomy 3183 3189	第 12 肋
+T288	Anatomy 3207 3209	臀部
+T289	Anatomy 3209 3211	骨盆
+T290	Anatomy 3384 3386	心脏
+T291	Test 3575 3578	B 超
+T292	Test 3824 3827;3828 3829	腹部超 声
+T293	Test 4029 4032	HCT
+T294	Test 7293 7299	谷氨酰转肽酶
+T295	Test 7300 7303	HCT
+T296	Test 8085 8088	血粘度
+T297	Test_Value 8105 8107	升高
+T298	Test_Value 8113 8115	升高
+T299	Level 8420 8422	早期
+T300	Disease 8016 8020	心血管病
+T301	Reason 8433 8436	纤维化
+T302	Disease 9521 9525	肝纤维化
+T303	Test_Value 3863 3866	明亮肝
+T304	Test_Value 3879 3881;3882 3890	肝内 管道结构显示不清
+T305	Anatomy 8039 8042	心血管
+T306	Test 548 553;554 556	血清谷丙转 氨酶
+T307	Test 3581 3585	肝脏超声
+T308	Test 3600 3603	B 超
+T309	Test_Value 3849 3854;3855 3861	肝脏近场回 声弥漫性增强
+T310	Test_Value 3869 3875	回声强于肾脏
+T311	Test_Value 3894 3904	肝脏远场回声逐渐衰减
+T312	Disease 8208 8215	肝细胞脂肪变性
+T313	Test_Value 9387 9395;9396 9401	高于 0. 49 L / L
+T314	Reason 9486 9489	HCT
+T315	Test 8748 8753	肝代谢指标
+T316	Symptom 8769 8773;8774 8776	肝代谢的 异常
+R1	Test_Disease Arg1:T55 Arg2:T56
+R2	Test_Disease Arg1:T115 Arg2:T120
+R3	Test_Disease Arg1:T27 Arg2:T120
+R4	Test_Disease Arg1:T116 Arg2:T120
+R5	Test_Disease Arg1:T17 Arg2:T120
+R6	Test_Disease Arg1:T117 Arg2:T120
+R7	Test_Disease Arg1:T118 Arg2:T120
+R8	Test_Disease Arg1:T119 Arg2:T120
+R9	Test_Disease Arg1:T139 Arg2:T141
+R10	Test_Disease Arg1:T139 Arg2:T142
+R11	Test_Disease Arg1:T193 Arg2:T194
+R12	Test_Disease Arg1:T217 Arg2:T218
+R13	Test_Disease Arg1:T33 Arg2:T34
+R14	Test_Disease Arg1:T249 Arg2:T251
+R15	Test_Disease Arg1:T248 Arg2:T251
+R16	Test_Disease Arg1:T36 Arg2:T35
+R17	Test_Disease Arg1:T37 Arg2:T35
+R18	Test_Disease Arg1:T39 Arg2:T35
+R19	Test_Disease Arg1:T42 Arg2:T41
+R20	Test_Disease Arg1:T43 Arg2:T41
+R21	Test_Disease Arg1:T44 Arg2:T41
+R22	Test_Disease Arg1:T45 Arg2:T41
+R23	Test_Disease Arg1:T46 Arg2:T41
+R24	Test_Disease Arg1:T22 Arg2:T41
+R25	Test_Disease Arg1:T48 Arg2:T49
+R26	Test_Disease Arg1:T50 Arg2:T51
+R27	Test_Disease Arg1:T256 Arg2:T54
+R28	Test_Disease Arg1:T255 Arg2:T54
+R29	Test_Disease Arg1:T57 Arg2:T58
+R30	Test_Disease Arg1:T59 Arg2:T60
+R31	Test_Disease Arg1:T292 Arg2:T87
+R32	Test_Disease Arg1:T121 Arg2:T122
+R33	Test_Disease Arg1:T123 Arg2:T124
+R34	Test_Disease Arg1:T125 Arg2:T124
+R35	Test_Disease Arg1:T28 Arg2:T124
+R36	Test_Disease Arg1:T126 Arg2:T124
+R37	Test_Disease Arg1:T127 Arg2:T124
+R38	Test_Disease Arg1:T8 Arg2:T124
+R39	Test_Disease Arg1:T18 Arg2:T124
+R40	Test_Disease Arg1:T128 Arg2:T124
+R41	Test_Disease Arg1:T129 Arg2:T124
+R42	Test_Disease Arg1:T139 Arg2:T140
+R43	Test_Disease Arg1:T143 Arg2:T300
+R44	Test_Disease Arg1:T144 Arg2:T300
+R45	Test_Disease Arg1:T269 Arg2:T145
+R46	Test_Disease Arg1:T146 Arg2:T145
+R47	Test_Disease Arg1:T296 Arg2:T145
+R48	Anatomy_Disease Arg1:T148 Arg2:T145
+R49	Test_Disease Arg1:T152 Arg2:T151
+R50	Test_Disease Arg1:T153 Arg2:T151
+R51	Test_Disease Arg1:T154 Arg2:T151
+R52	Test_Disease Arg1:T155 Arg2:T151
+R53	Test_Disease Arg1:T166 Arg2:T165
+R54	Test_Disease Arg1:T167 Arg2:T165
+R55	Test_Disease Arg1:T168 Arg2:T165
+R56	Test_Disease Arg1:T169 Arg2:T165
+R57	Test_Disease Arg1:T170 Arg2:T165
+R58	Test_Disease Arg1:T171 Arg2:T165
+R59	Test_Disease Arg1:T172 Arg2:T165
+R60	Test_Disease Arg1:T190 Arg2:T191
+R61	Test_Disease Arg1:T189 Arg2:T191
+R62	Test_Disease Arg1:T188 Arg2:T191
+R63	Test_Disease Arg1:T20 Arg2:T191
+R64	Test_Disease Arg1:T187 Arg2:T191
+R65	Test_Disease Arg1:T29 Arg2:T191
+R66	Test_Disease Arg1:T186 Arg2:T191
+R67	Test_Disease Arg1:T185 Arg2:T191
+R68	Test_Disease Arg1:T184 Arg2:T191
+R69	Test_Disease Arg1:T196 Arg2:T197
+R70	Test_Disease Arg1:T198 Arg2:T197
+R71	Test_Disease Arg1:T30 Arg2:T197
+R72	Test_Disease Arg1:T199 Arg2:T200
+R73	Test_Disease Arg1:T201 Arg2:T202
+R74	Test_Disease Arg1:T203 Arg2:T204
+R75	Test_Disease Arg1:T205 Arg2:T204
+R76	Test_Disease Arg1:T31 Arg2:T204
+R77	Test_Disease Arg1:T206 Arg2:T204
+R78	Test_Disease Arg1:T207 Arg2:T204
+R79	Test_Disease Arg1:T10 Arg2:T204
+R80	Test_Disease Arg1:T21 Arg2:T204
+R81	Test_Disease Arg1:T208 Arg2:T204
+R82	Test_Disease Arg1:T209 Arg2:T204
+R83	Test_Disease Arg1:T211 Arg2:T212
+R84	Test_Disease Arg1:T213 Arg2:T212
+R85	Test_Disease Arg1:T263 Arg2:T131
+R86	Anatomy_Disease Arg1:T305 Arg2:T300
+R87	Test_Disease Arg1:T306 Arg2:T41
+R88	Test_Disease Arg1:T84 Arg2:T86
+R89	Test_Disease Arg1:T82 Arg2:T86
+R90	Test_Disease Arg1:T81 Arg2:T86
+R91	Test_Disease Arg1:T263 Arg2:T265
+R92	Test_Disease Arg1:T263 Arg2:T266
+R93	Test_Disease Arg1:T263 Arg2:T132
+R94	Test_Disease Arg1:T147 Arg2:T145
+R95	Test_Disease Arg1:T270 Arg2:T145
+R96	Symptom_Disease Arg1:T281 Arg2:T145
+R97	Symptom_Disease Arg1:T282 Arg2:T145
+R98	Test_Disease Arg1:T214 Arg2:T212
+R99	Test_Disease Arg1:T48 Arg2:T47
+R100	Test_Disease Arg1:T256 Arg2:T253
+R101	Test_Disease Arg1:T55 Arg2:T54
+R102	Test_Disease Arg1:T115 Arg2:T114
+R103	Test_Disease Arg1:T27 Arg2:T114
+R104	Test_Disease Arg1:T116 Arg2:T114
+R105	Test_Disease Arg1:T17 Arg2:T114
+R106	Test_Disease Arg1:T117 Arg2:T114
+R107	Test_Disease Arg1:T118 Arg2:T114
+R108	Test_Disease Arg1:T119 Arg2:T114
+R109	Test_Disease Arg1:T193 Arg2:T192
+R110	Test_Disease Arg1:T209 Arg2:T210
+R111	Test_Disease Arg1:T248 Arg2:T250
+R112	Test_Disease Arg1:T249 Arg2:T250
+R113	Test_Disease Arg1:T50 Arg2:T52
+R114	Test_Disease Arg1:T292 Arg2:T86
+R115	Test_Disease Arg1:T292 Arg2:T88
+R116	Test_Disease Arg1:T125 Arg2:T130
+R117	Test_Disease Arg1:T28 Arg2:T130
+R118	Test_Disease Arg1:T126 Arg2:T130
+R119	Test_Disease Arg1:T127 Arg2:T130
+R120	Test_Disease Arg1:T8 Arg2:T130
+R121	Test_Disease Arg1:T18 Arg2:T130
+R122	Test_Disease Arg1:T128 Arg2:T130
+R123	Test_Disease Arg1:T129 Arg2:T130
+R124	Test_Disease Arg1:T262 Arg2:T131
+R125	Test_Disease Arg1:T262 Arg2:T265
+R126	Test_Disease Arg1:T262 Arg2:T266
+R127	Test_Disease Arg1:T262 Arg2:T132
+R128	Test_Disease Arg1:T196 Arg2:T195
+R129	Test_Disease Arg1:T217 Arg2:T219
+R130	Test_Disease Arg1:T217 Arg2:T302
+R131	Test_Disease Arg1:T217 Arg2:T271

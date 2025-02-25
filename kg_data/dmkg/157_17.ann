@@ -1,0 +1,628 @@
+T1	Test 3185 3189	空腹血糖
+T2	Test 5066 5070	空腹血糖
+T3	Test 4001 4008	IGFBP-3
+T4	Test 4027 4034	IGFBP-3
+T5	Test 5893 5900	IGFBP-3
+T6	Test 6857 6864	IGFBP-3
+T7	Test 7327 7334	IGFBP-3
+T8	Test 5086 5091	空腹胰岛素
+T9	Disease 2060 2064	前列腺癌
+T10	Disease 2056 2059	乳腺癌
+T11	Drug 7434 7435;7436 7440	糖 皮质激素
+T12	Drug 7475 7480	糖皮质激素
+T13	Test 263 268	血清胰岛素
+T14	Test 290 295	血清胰岛素
+T15	Test 357 362	血清胰岛素
+T16	Test 4015 4020	IGF-I
+T17	Test 5625 5630	IGF-I
+T18	Test 5887 5892	IGF-I
+T19	Test 5969 5974	IGF-I
+T20	Test 6379 6384	IGF-I
+T21	Test 6827 6832	IGF-I
+T22	Test 6881 6886	IGF-I
+T23	Test 7487 7492	IGF-I
+T24	Test 2627 2629	血糖
+T25	Test 3222 3224	血糖
+T26	Test 3309 3311	血糖
+T27	Test 4232 4234	血糖
+T28	Test 6775 6777	血糖
+T29	Test 7295 7297	血糖
+T30	Test 7536 7538	血糖
+T31	Test 7632 7634	血糖
+T32	Test 7980 7982	血糖
+T33	Test 8008 8010	血糖
+T34	Disease 184 194	巨大胸膜孤立性纤维瘤
+T35	Disease 235 239	SFTP
+T36	Disease 90 97	非胰岛细胞肿瘤
+T37	Disease 313 317	SFTP
+T38	Anatomy 308 310	右肺
+T39	Operation 323 328	右肺全切术
+T40	Disease 383 394	非胰岛细胞肿瘤性低血糖
+T41	Disease 1767 1773	胸膜纤维肉瘤
+T42	Level 1812 1814	严重
+T43	Disease 1825 1841	Doege-Potter 综合征
+T44	Disease 1852 1856	胰外肿瘤
+T45	Disease 1873 1884	非胰岛细胞肿瘤性低血糖
+T46	Disease 1922 1927	NICTH
+T47	Disease 1955 1959	胰外肿瘤
+T48	Test 1974 1979	血浆胰岛素
+T49	Disease 1994 2001	腹膜后纤维肉瘤
+T50	Disease 2002 2006	肝细胞瘤
+T51	Disease 2007 2010;2011 2013	胃肠道 肿瘤
+T52	Disease 2014 2017	间皮瘤
+T53	Disease 2018 2024	肾上腺皮质癌
+T54	Disease 2025 2030	肾上腺样瘤
+T55	Disease 2065 2068	淋巴瘤
+T56	Disease 2084 2090	营养性低血糖
+T57	Disease 2121 2126	NICTH
+T58	Disease 2143 2148	NICTH
+T59	Test 2197 2203	胰岛素样多肽
+T60	Disease 2207 2211	胰外肿瘤
+T61	Disease 2242 2247	NICTH
+T62	Disease 2315 2320	NICTH
+T63	Disease 2353 2361	胸膜孤立性纤维瘤
+T64	Disease 2363 2371;2372 2376	非胰岛细胞肿瘤源 性低血糖
+T65	Duration 2469 2473	3 个月
+T66	Symptom 2483 2485	头晕
+T67	Symptom 2486 2488	胸闷
+T68	Symptom 2489 2491	出汗
+T69	Symptom 2496 2500	意识不清
+T70	Symptom 2501 2503	躁动
+T71	Symptom 2504 2506	谵妄
+T72	Symptom 2507 2511	胡言乱语
+T73	Symptom 2537 2542	无四肢抽搐
+T74	Symptom 2606 2609	尿失禁
+T75	Duration 2589 2597;2598 2601	20 min ~ 1 h
+T76	Test_Value 2631 2644	1. 5 mmol / L
+T77	Symptom 2689 2691	胸闷
+T78	Symptom 2692 2694	心悸
+T79	Symptom 2695 2700	全身出冷汗
+T80	Symptom 2730 2733	食欲差
+T81	Symptom 2734 2736;2737 2740	记忆 力下降
+T82	Symptom 2748 2751	无浮肿
+T83	Symptom 2752 2757	无明显消瘦
+T84	Disease 2819 2822	高血压
+T85	Disease 2823 2826	糖尿病
+T86	Disease 2843 2847	胰岛素瘤
+T87	Test 2861 2863	体温
+T88	Test_Value 2864 2870	37. 5℃
+T89	Test 2871 2873	心率
+T90	Test_Value 2874 2884	82 次 / min
+T91	Test 2885 2887	呼吸
+T92	Test_Value 2888 2898	20 次 / min
+T93	Test 2900 2902	血压
+T94	Test_Value 2903 2916	130 / 80 mmHg
+T95	Symptom 2939 2942	精神差
+T96	Symptom 2936 2938	神清
+T97	Symptom 2943 2946;2947 2948	发育正 常
+T98	Symptom 2949 2954	营养中下等
+T99	Symptom 2955 2959	消瘦体型
+T100	Symptom 2960 2970	全身浅表淋巴结未扪及
+T101	Symptom 2971 2975;2976 2979	皮肤黏膜 无黄染
+T102	Symptom 2980 2984	头型正常
+T103	Symptom 2985 2990	巩膜无黄染
+T104	Symptom 2991 2997	球结膜无充血
+T105	Symptom 2998 3004	副鼻窦无压痛
+T106	Symptom 3006 3015	外耳道无异常分泌物
+T107	Symptom 3016 3022	乳突部无压痛
+T108	Symptom 3023 3028	咽部无充血
+T109	Symptom 3030 3032	颈软
+T110	Symptom 3033 3035;3036 3038	气管 居中
+T111	Symptom 3039 3047	双侧甲状腺无肿大
+T112	Symptom 3048 3053	胸廓无畸形
+T113	Symptom 3054 3062	两侧呼吸运动相等
+T114	Symptom 3063 3064;3065 3070	右 肺呼吸音低
+T115	Symptom 3071 3076	无干湿啰音
+T116	Symptom 3078 3083	心界无扩大
+T117	Test 3084 3086	心率
+T118	Test_Value 3087 3097	80 次 / min
+T119	Symptom 3098 3100	律齐
+T120	Symptom 3102 3110	未闻及病理性杂音
+T121	Symptom 3112 3114	腹软
+T122	Symptom 3115 3118	无压痛
+T123	Symptom 3119 3125	肝脾肋下未及
+T124	Symptom 3126 3132	腹水征(-)
+T125	Symptom 3134 3140	双下肢无浮肿
+T126	Symptom 3141 3151	双侧足背动脉搏动正常
+T127	Symptom 3152 3158	生理反射存在
+T128	Symptom 3159 3162;3163 3167	病理反 射(-)
+T129	Test_Value 3225 3239	2. 01 mmol / L
+T130	Test 3240 3243	胰岛素
+T131	Test_Value 3243 3248;3249 3257	<0. 1 μIU / ml
+T132	Test 3287 3299	口服 75g 葡萄糖耐量
+T133	Test 3301 3308	胰岛素释放试验
+T134	Test 3405 3410	胰 岛 素
+T135	Test 3496 3499	肝功能
+T136	Test 3509 3516	血 CA125
+T137	Test_Value 3499 3501	正常
+T138	Test_Value 3517 3519;3520 3526	16 U / ml
+T139	Test 3545 3552	血 CA199
+T140	Test_Value 3553 3561	5 U / ml
+T141	Test_Value 3575 3584	8 ng / ml
+T142	Test 3590 3595	血 AFP
+T143	Test_Value 3596 3607	<10 ng / ml
+T144	Test 3614 3620	空腹 C 肽
+T145	Test_Value 3621 3626;3627 3634	0. 09 pg / ml
+T146	Test 3649 3658	餐后 2h C 肽
+T147	Test_Value 3659 3672	2. 33 pg / ml
+T148	Test 3674 3676	胸片
+T149	Test_Value 3677 3681;3682 3687	右侧胸腔 内巨大肿块
+T150	Test_Value 3738 3742	密度不均
+T151	Test_Value 3763 3764;3765 3770	局 部胸膜增厚
+T152	Test_Value 3771 3779	右侧胸腔少量积液
+T153	Test_Value 3780 3790	余肺野未见异常密度影
+T154	Test_Value 3831 3840;3841 3843	纵隔内未见增大的淋 巴结
+T155	Test_Value 3845 3853	纵隔内血管影正常
+T156	Test_Value 3855 3867	肝脏右叶可疑小片状密度影
+T157	Test_Value 3868 3870;3871 3877	胰腺 形态大小正常
+T158	Test_Value 3878 3885	未见异常密度影
+T159	Test 3926 3928	GH
+T160	Test 3929 3932	胰岛素
+T161	Test 3933 3937	胰岛素原
+T162	Test 3938 3940	PI
+T163	Test 3978 3983	IGF-2
+T164	Test 3984 3998	胰岛素样生长因子结合蛋白 3
+T165	Test 4021 4026	IGF-2
+T166	Symptom 4216 4220	意识不清
+T167	Disease 4257 4268	Whipple 三联症
+T168	Disease 4276 4280	低血糖症
+T169	Disease 4298 4302	胰岛素瘤
+T170	Test 4317 4322	血浆胰岛素
+T171	Test 4330 4337	葡萄糖耐量试验
+T172	Test 4339 4340;4341 4343	胰 岛素
+T173	Test 4354 4357	胰岛素
+T174	Test 4370 4373	胰岛素
+T175	Test 4406 4409	胰岛素
+T176	Test 4426 4428	PI
+T177	Test 4494 4504	CT 定位下胸腔穿刺
+T178	Disease 4507 4515	肺内纤维性间皮瘤
+T179	Test 4598 4602	CD57
+T180	Test 4532 4538	HBME-1
+T181	Test 4545 4549	CD34
+T182	Test 4556 4561	钙网膜蛋白
+T183	Test 4578 4587	甲状腺转录因子-1
+T184	Test 4607 4608;4609 4612	波 形蛋白
+T185	Test_Value 4622 4623	+
+T186	Test 4626 4636	神经元特异性烯醇化酶
+T187	Test 4637 4640	NSE
+T188	Test 4645 4650	S-100
+T189	Test_Value 4652 4653	+
+T190	Test 4659 4664	上皮膜抗原
+T191	Test 4665 4668	EMA
+T192	Test 4687 4690	突触素
+T193	Test 4692 4695	SYN
+T194	Test 4700 4706	嗜铬颗粒蛋白
+T195	Test 4707 4710	CHG
+T196	Test 4715 4718	胰岛素
+T197	Test 4723 4726	胃泌素
+T198	Test 4731 4734;4735 4736	胰升糖 素
+T199	Test 4741 4744	CK7
+T200	Test 4749 4752	CK8
+T201	Test 4756 4763	平滑肌肌动蛋白
+T202	Test 4764 4767	MSA
+T203	Test 4772 4777	MyoD1
+T204	Disease 4793 4800	肺内纤维性肿瘤
+T205	Disease 4828 4829;4830 4841	右 胸腔胸膜冶孤立性纤维瘤
+T206	Test 4872 4880	Vimentin
+T207	Test 4886 4890	CD34
+T208	Test 4895 4898	p53
+T209	Test 4908 4913	MIB-1
+T210	Test 4920 4923	胰岛素
+T211	Test 4932 4936	生长抑素
+T212	Test 4941 4946	S-100
+T213	Test 4951 4956	MIC-2
+T214	Test 4966 4972	HBME-1
+T215	Test 4978 4985	Calrtin
+T216	Test 4991 4994	EMA
+T217	Test_Value 4882 4883	+
+T218	Test_Value 4891 4892	+
+T219	Test_Value 4900 4904	+<3%
+T220	Test_Value 4914 4918	+<1%
+T221	Test_Value 4924 4925	+
+T222	Test_Value 4937 4938	+
+T223	Test_Value 4947 4948	+
+T224	Test_Value 4958 4959	+
+T225	Test 5016 5023	Cam5. 2
+T226	Test 5027 5030	CK8
+T227	Test 5035 5038	NSE
+T228	Test 5042 5045	CHG
+T229	Test 5050 5053	Syn
+T230	Test_Value 5071 5085	5. 42 mmol / L
+T231	Test_Value 5092 5105	2. 1 μIU / ml
+T232	Test 5106 5114;5115 5116	餐后 2 h 血 糖
+T233	Test_Value 5117 5131	8. 17 mmol / L
+T234	Test 5133 5136	胰岛素
+T235	Test_Value 5137 5151	15. 9 μIU / ml
+T236	Disease 5188 5193	NICTH
+T237	Disease 5206 5211	NICTH
+T238	Test 5251 5254	胰岛素
+T239	Disease 5291 5295	胰外肿瘤
+T240	Disease 5336 5342	间质组织肿瘤
+T241	Disease 5343 5349	上皮组织肿瘤
+T242	Anatomy 5358 5362	间质细胞
+T243	Anatomy 5351 5354	胸腹部
+T244	Disease 5405 5411	上皮组织肿瘤
+T245	Disease 5446 5447;5448 5453	肾 上腺皮质癌
+T246	Disease 5475 5480	肺支气管癌
+T247	Disease 5482 5485	卵巢癌
+T248	Disease 5486 5491	消化道类癌
+T249	Disease 5492 5499	血管外皮细胞瘤
+T250	Disease 5520 5525	NICTH
+T251	Test 5632 5637	IGF-2
+T252	Test 5616 5622	胰岛素样物质
+T253	Anatomy 5557 5561	自主神经
+T254	Anatomy 5571 5572;5573 5576	迷 走神经
+T255	Test 5652 5657	IGF-2
+T256	Test 5694 5697	胰岛素
+T257	Test 5659 5667	胰岛素样生长因子
+T258	Test 5706 5711	IGF-2
+T259	Test 5734 5737	胰岛素
+T260	Anatomy 5756 5761	胰岛素受体
+T261	Anatomy 5764 5769	胰岛素受体
+T262	Anatomy 5779 5786	IGF-2受体
+T263	Test 5794 5797	胰岛素
+T264	Anatomy 5770 5774;5775 5778	IGF- I受体
+T265	Test 5802 5807	IGF-2
+T266	Anatomy 5821 5823	肌肉
+T267	Anatomy 5824 5826	脂肪
+T268	Test 5850 5853	胰岛素
+T269	Test 5860 5865	IGF-2
+T270	Anatomy 5870 5872	垂体
+T271	Test 5873 5875	GH
+T272	Anatomy 5884 5886	肝脏
+T273	Test 5991 5995	IGFs
+T274	Test 6005 6009	IGFs
+T275	Test 6015 6018	胰岛素
+T276	Disease 6026 6031	NICTH
+T277	Test 6050 6055	IGF-2
+T278	Level 6084 6086	严重
+T279	Test 6109 6114	IGF-2
+T280	Test 6139 6144	IGF-2
+T281	Level 6149 6151	轻度
+T282	Test_Value 6151 6153	升高
+T283	Test 6162 6164	GH
+T284	Test 6206 6208	GH
+T285	Test 6221 6226	IGF-2
+T286	Anatomy 6232 6234	垂体
+T287	Test 6235 6237	GH
+T288	Test 6252 6257	IGF-2
+T289	Disease 6271 6276	NICTH
+T290	Disease 6321 6326	NICTH
+T291	Test 6296 6309	IGF-2 / IGF-I
+T292	Test 6344 6357	IGF-2 / IGF-I
+T293	Disease 6368 6373	NICTH
+T294	Test_Value 6389 6391	下降
+T295	Test_Value 6406 6415	大于 10 : 1
+T296	Test 6392 6405	IGF-2 / IGF-I
+T297	Test 6435 6437	GH
+T298	Test 6438 6441	IGF
+T299	Test 6462 6475	IGF-2 / IGF-I
+T300	Test_Value 6479 6484	16. 8
+T301	Disease 6495 6499	胰岛素瘤
+T302	Test_Value 6535 6539	4. 1
+T303	Disease 6542 6546	胰岛素瘤
+T304	Test 6587 6600	IGF-2 / IGF-I
+T305	Disease 6602 6607	NICTH
+T306	Disease 6619 6624	NICTH
+T307	Disease 6728 6730	肝癌
+T308	Drug 7442 7446	rhGH
+T309	Test 7499 7504	IGF-2
+T310	Test 7542 7547	血浆胰岛素
+T311	Test 7549 7552	C 肽
+T312	Disease 7577 7582	NICTH
+T313	Drug 7592 7596	rhGH
+T314	Disease 7658 7663	NICTH
+T315	Test 7667 7672	血浆胰岛素
+T316	Test 7683 7688	血浆胰岛素
+T317	Drug 7699 7704	氯甲苯噻嗪
+T318	Drug 7695 7698	二氮嗪
+T319	Disease 7738 7743	NICTH
+T320	Drug 7711 7714	奥曲肽
+T321	Disease 7754 7757	低血糖
+T322	Disease 7849 7852	低血糖
+T323	Disease 7867 7870	低血糖
+T324	Disease 7927 7930	低血糖
+T325	Disease 8031 8034	低血糖
+T326	Disease 8039 8042	低血糖
+T327	Test 8056 8059	胰岛素
+T328	Test 8060 8061;8062 8063	C 肽
+T329	Test 8064 8068	胰岛素原
+T330	Drug 8110 8116	胰岛素促泌剂
+T331	Test 8179 8182	胰岛素
+T332	Test 8184 8187	C 肽
+T333	Disease 8205 8211	高胰岛素血症
+T334	Disease 8221 8226	NICTH
+T335	Disease 8307 8313	高胰岛素血症
+T336	Anatomy 8314 8317	胸腹腔
+T337	Disease 8327 8332	NICTH
+T338	Duration 332 335	2 年
+T339	Disease 404 412	胸膜孤立性纤维瘤
+T340	Anatomy 414 423	胰岛素样生长因子2
+T341	Duration 1801 1804	3 年
+T342	Symptom 1805 1807;1808 1810	肿瘤 复发
+T343	Treatment 1783 1789	手术切除肿瘤
+T344	Level 2098 2101	严重的
+T345	Disease 2041 2045	恶性肿瘤
+T346	Disease 2074 2078	恶性肿瘤
+T347	Reason 2157 2161	肿瘤消耗
+T348	Frequency 2545 2547;2548 2562	每隔 6 ~ 8 d 发作 1 次
+T349	Treatment 4240 4242	服糖
+T350	Level 4245 4249	可获缓解
+T351	Test_Value 4325 4329	显著降低
+T352	Test 4344 4347	葡萄糖
+T353	Test_Value 4433 4437	显著降低
+T354	Test 4439 4442	葡萄糖
+T355	Test 4516 4518;4519 4521	免疫 组化
+T356	Test_Value 4539 4543	( -)
+T357	Disease 4783 4786	间皮瘤
+T358	Disease 5363 5367	巨大肿瘤
+T359	Disease 5611 5613	肿瘤
+T360	Disease 5584 5586	肿瘤
+T361	Test 5588 5591	葡萄糖
+T362	Test_Value 5720 5732	100 nmol / L
+T363	Anatomy 5816 5820	肿瘤组织
+T364	Test 5832 5835	葡萄糖
+T365	Anatomy 5912 5940	IGFI-IGFBP-酸不稳定亚单位(ALs)三元复合物
+T366	Disease 6215 6217	肿瘤
+T367	Test_Value 6360 6365	3 : 1
+T368	Disease 6700 6704	良性肿瘤
+T369	Disease 6711 6715	恶性肿瘤
+T370	Disease 6720 6727	上皮来源的肿瘤
+T371	Drug 7452 7455	葡萄糖
+T372	Test_Value 7672 7674	偏低
+T373	Symptom 7816 7822	神经精神症状
+T374	Reason 8016 8018	药物
+T375	Reason 8019 8023	严重疾病
+T376	Reason 8024 8028	激素缺乏
+T377	Test 8166 8170	饥饿试验
+T378	Disease 8319 8321	肿瘤
+T379	Disease 8342 8344	肿瘤
+T380	Test_Value 364 366	降低
+T381	Test_Value 3262 3284	0. 56 ~ 3. 73 μIU / ml
+T382	Test_Value 3327 3332	2. 06
+T383	Test_Value 3340 3345	6. 99
+T384	Test_Value 3353 3358	7. 25
+T385	Test_Value 3368 3373	6. 46
+T386	Test_Value 3383 3388	2. 29
+T387	Test_Value 3398 3403	2. 20
+T388	Test_Value 3427 3431	1. 0
+T389	Test_Value 3439 3443	5. 5
+T390	Test_Value 3451 3455	7. 9
+T391	Test_Value 3464 3468	4. 3
+T392	Test_Value 3477 3481	1. 8
+T393	Test_Value 3490 3494	1. 0
+T394	Test_Value 3530 3540	<34 U / ml
+T395	Test_Value 3564 3567	<30
+T396	Test_Value 3585 3588	<15
+T397	Test_Value 3608 3611	<10
+T398	Test_Value 3635 3647	2. 1 ~ 30. 8
+T399	Test 4587 4593	(TTF-1
+T400	Test 7514 7519	IGF-2
+T401	Anatomy 4522 4531	I550 肿瘤细胞
+T402	Anatomy 4862 4871	1624 肿瘤细胞
+T403	Duration 6512 6516	2 个月
+T404	Symptom 2758 2762	二便正常
+T405	Level 5427 5429	晚期
+T406	Anatomy 6067 6071	血管内皮
+T407	Test 3569 3570;3571 3574	血 CEA
+T408	Disease 99 102	低血糖
+T409	Disease 4400 4403	低血糖
+T410	Disease 5285 5288	低血糖
+T411	Anatomy 244 253	胰岛素样生长因子2
+T412	Symptom 256 262	发作性低血糖
+T413	Test_Value 269 273	明显降低
+T414	Symptom 283 289	发作性低血糖
+T415	Test_Value 297 301	明显降低
+T416	Disease 341 344	低血糖
+T417	Symptom 350 356	发作性低血糖
+T418	Disease 425 436	非胰岛细胞肿瘤性低血糖
+T419	Disease 1776 1777;1778 1781	低 血糖症
+T420	Symptom 1791 1794	低血糖
+T421	Disease 1814 1818	低血糖症
+T422	Symptom 1858 1861	低血糖
+T423	Symptom 1966 1969	低血糖
+T424	Symptom 2050 2053	低血糖
+T425	Symptom 2105 2108	低血糖
+T426	Symptom 2213 2216	低血糖
+T427	Symptom 2267 2270	低血糖
+T428	Symptom 2292 2295	低血糖
+T429	Test 2414 2422	血清 IGF-2
+T430	Duration 2515 2523	约 20 min
+T431	Symptom 2530 2533	无恶心
+T432	Symptom 2534 2536	呕吐
+T433	Disease 2649 2652	低血糖
+T434	Duration 2706 2714	约 30 min
+T435	Symptom 2741 2744	无发烧
+T436	Symptom 2745 2747	咳嗽
+T437	Symptom 2789 2794	胸腔内肿块
+T438	Test_Value 3193 3198	1. 98
+T439	Test_Value 3200 3214	1. 51 mmol / L
+T440	Symptom 3216 3221	低血糖发作
+T441	Test 3694 3707	胸腹部 CT(平扫+增强)
+T442	Test_Value 3708 3714;3715 3737	右胸巨大肿块 9. 0 cm×12. 5 cm×13 cm
+T443	Test 3743 3751	增强后 CT 值
+T444	Test_Value 3752 3762	25 ~ 64 Hu
+T445	Test_Value 3822 3830	气管支气管影正常
+T446	Test 3942 3950	胰岛素样生长因子
+T447	Test 3951 3954	IGF
+T448	Symptom 4207 4214	发作性头晕出汗
+T449	Test_Value 4235 4239	明显降低
+T450	Symptom 4287 4292	空腹低血糖
+T451	Test 4453 4455;4456 4460	胰岛 细胞功能
+T452	Test_Value 4552 4553	+
+T453	Test 4673 4682	AE1 / AE3
+T454	Operation 4809 4815	右全肺切除术
+T455	Test 5000 5009	AE1 / AE3
+T456	Symptom 5164 5165;5166 5168	低 血糖
+T457	Disease 5194 5202	胸膜孤立性纤维瘤
+T458	Symptom 5223 5233	反复发作的空腹低血糖
+T459	Test 5237 5239;5240 5241	胰岛 素
+T460	Disease 5265 5269;5270 5274	胸腹腔内 巨大肿瘤
+T461	Test_Value 5243 5245	正常
+T462	Test_Value 5248 5250	降低
+T463	Symptom 5414 5415;5416 5418	低 血糖
+T464	Disease 5432 5436	肝细胞癌
+T465	Disease 5461 5465	胆管肿瘤
+T466	Anatomy 5459 5460	胰
+T467	Symptom 5528 5531	低血糖
+T468	Test 5680 5683	胰岛素
+T469	Symptom 6086 6089	低血糖
+T470	Symptom 6186 6189	低血糖
+T471	Test_Value 6261 6263	正常
+T472	Level 6264 6266	轻度
+T473	Test_Value 6266 6268	升高
+T474	Test 6517 6532	IGF-2 / IGF-I比值
+T475	Symptom 7420 7425	低血糖症状
+T476	Symptom 7466 7467;7468 7470	低 血糖
+T477	Drug 7604 7614	IGF-2三体复合物
+T478	Symptom 7768 7773	低血糖症状
+T479	Symptom 7787 7791	低血糖症
+T480	Symptom 7802 7806;7807 7808	低血糖症 状
+T481	Disease 7836 7840	低血糖症
+T482	Symptom 8050 8055	低血糖发作
+T483	Disease 8080 8084	低血糖症
+T484	Symptom 8137 8142	低血糖发作
+T485	Symptom 8172 8174;8175 8176	低血 糖
+T486	Symptom 8153 8162	自发性的低血糖发作
+T487	Disease 8245 8249	低血糖症
+T488	Symptom 8292 8297	低血糖症状
+R1	Test_Disease Arg1:T24 Arg2:T433
+R2	Symptom_Disease Arg1:T74 Arg2:T433
+R3	Test_Disease Arg1:T87 Arg2:T86
+R4	Test_Disease Arg1:T89 Arg2:T86
+R5	Test_Disease Arg1:T91 Arg2:T86
+R6	Test_Disease Arg1:T93 Arg2:T86
+R7	Test_Disease Arg1:T27 Arg2:T167
+R8	Test_Disease Arg1:T175 Arg2:T409
+R9	Test_Disease Arg1:T174 Arg2:T409
+R10	Test_Disease Arg1:T176 Arg2:T409
+R11	Test_Disease Arg1:T177 Arg2:T178
+R12	Test_Disease Arg1:T275 Arg2:T276
+R13	Test_Disease Arg1:T274 Arg2:T276
+R14	Test_Disease Arg1:T277 Arg2:T276
+R15	Test_Disease Arg1:T288 Arg2:T289
+R16	Test_Disease Arg1:T292 Arg2:T293
+R17	Test_Disease Arg1:T20 Arg2:T293
+R18	Test_Disease Arg1:T296 Arg2:T293
+R19	Test_Disease Arg1:T291 Arg2:T290
+R20	Test_Disease Arg1:T299 Arg2:T301
+R21	Test_Disease Arg1:T304 Arg2:T305
+R22	Test_Disease Arg1:T30 Arg2:T312
+R23	Test_Disease Arg1:T310 Arg2:T312
+R24	Test_Disease Arg1:T311 Arg2:T312
+R25	Test_Disease Arg1:T315 Arg2:T314
+R26	Test_Disease Arg1:T316 Arg2:T314
+R27	Drug_Disease Arg1:T318 Arg2:T314
+R28	Drug_Disease Arg1:T317 Arg2:T314
+R29	Drug_Disease Arg1:T320 Arg2:T319
+R30	Anatomy_Disease Arg1:T336 Arg2:T378
+R31	Anatomy_Disease Arg1:T38 Arg2:T37
+R32	Anatomy_Disease Arg1:T243 Arg2:T241
+R33	Anatomy_Disease Arg1:T242 Arg2:T241
+R34	Symptom_Disease Arg1:T412 Arg2:T34
+R35	Test_Disease Arg1:T13 Arg2:T34
+R36	Symptom_Disease Arg1:T414 Arg2:T37
+R37	Test_Disease Arg1:T14 Arg2:T37
+R38	Symptom_Disease Arg1:T417 Arg2:T40
+R39	Test_Disease Arg1:T15 Arg2:T40
+R40	Symptom_Disease Arg1:T342 Arg2:T43
+R41	Symptom_Disease Arg1:T420 Arg2:T43
+R42	Symptom_Disease Arg1:T422 Arg2:T44
+R43	Symptom_Disease Arg1:T423 Arg2:T47
+R44	Test_Disease Arg1:T48 Arg2:T47
+R45	Symptom_Disease Arg1:T425 Arg2:T57
+R46	Test_Disease Arg1:T59 Arg2:T60
+R47	Symptom_Disease Arg1:T426 Arg2:T60
+R48	Symptom_Disease Arg1:T427 Arg2:T61
+R49	Symptom_Disease Arg1:T428 Arg2:T61
+R50	Symptom_Disease Arg1:T448 Arg2:T167
+R51	Symptom_Disease Arg1:T166 Arg2:T167
+R52	Symptom_Disease Arg1:T450 Arg2:T169
+R53	Test_Disease Arg1:T173 Arg2:T409
+R54	Test_Disease Arg1:T354 Arg2:T409
+R55	Test_Disease Arg1:T451 Arg2:T409
+R56	Test_Disease Arg1:T352 Arg2:T409
+R57	Test_Disease Arg1:T172 Arg2:T409
+R58	Test_Disease Arg1:T171 Arg2:T409
+R59	Test_Disease Arg1:T170 Arg2:T409
+R60	Test_Disease Arg1:T459 Arg2:T237
+R61	Symptom_Disease Arg1:T458 Arg2:T237
+R62	Test_Disease Arg1:T238 Arg2:T237
+R63	Symptom_Disease Arg1:T463 Arg2:T244
+R64	Symptom_Disease Arg1:T467 Arg2:T250
+R65	Anatomy_Disease Arg1:T253 Arg2:T250
+R66	Anatomy_Disease Arg1:T254 Arg2:T250
+R67	Test_Disease Arg1:T361 Arg2:T360
+R68	Test_Disease Arg1:T252 Arg2:T359
+R69	Test_Disease Arg1:T17 Arg2:T359
+R70	Test_Disease Arg1:T251 Arg2:T359
+R71	Anatomy_Disease Arg1:T406 Arg2:T276
+R72	Symptom_Disease Arg1:T469 Arg2:T276
+R73	Test_Disease Arg1:T284 Arg2:T366
+R74	Test_Disease Arg1:T285 Arg2:T366
+R75	Anatomy_Disease Arg1:T286 Arg2:T366
+R76	Test_Disease Arg1:T287 Arg2:T366
+R77	Test_Disease Arg1:T298 Arg2:T301
+R78	Test_Disease Arg1:T297 Arg2:T301
+R79	Test_Disease Arg1:T474 Arg2:T303
+R80	Test_Disease Arg1:T400 Arg2:T312
+R81	Test_Disease Arg1:T309 Arg2:T312
+R82	Test_Disease Arg1:T23 Arg2:T312
+R83	Drug_Disease Arg1:T12 Arg2:T312
+R84	Symptom_Disease Arg1:T478 Arg2:T321
+R85	Symptom_Disease Arg1:T479 Arg2:T321
+R86	Symptom_Disease Arg1:T480 Arg2:T321
+R87	Symptom_Disease Arg1:T373 Arg2:T321
+R88	Symptom_Disease Arg1:T482 Arg2:T326
+R89	Test_Disease Arg1:T327 Arg2:T326
+R90	Test_Disease Arg1:T328 Arg2:T326
+R91	Test_Disease Arg1:T329 Arg2:T326
+R92	Test_Disease Arg1:T332 Arg2:T333
+R93	Test_Disease Arg1:T331 Arg2:T333
+R94	Symptom_Disease Arg1:T485 Arg2:T333
+R95	Test_Disease Arg1:T377 Arg2:T333
+R96	Symptom_Disease Arg1:T486 Arg2:T333
+R97	Symptom_Disease Arg1:T484 Arg2:T333
+R98	Symptom_Disease Arg1:T488 Arg2:T335
+R99	Anatomy_Disease Arg1:T336 Arg2:T335
+R100	Anatomy_Disease Arg1:T411 Arg2:T34
+R101	Anatomy_Disease Arg1:T411 Arg2:T35
+R102	Symptom_Disease Arg1:T412 Arg2:T35
+R103	Test_Disease Arg1:T13 Arg2:T35
+R104	Symptom_Disease Arg1:T420 Arg2:T419
+R105	Symptom_Disease Arg1:T342 Arg2:T41
+R106	Symptom_Disease Arg1:T424 Arg2:T345
+R107	Symptom_Disease Arg1:T425 Arg2:T56
+R108	Test_Disease Arg1:T429 Arg2:T64
+R109	Test_Disease Arg1:T429 Arg2:T63
+R110	Symptom_Disease Arg1:T77 Arg2:T433
+R111	Symptom_Disease Arg1:T78 Arg2:T433
+R112	Symptom_Disease Arg1:T79 Arg2:T433
+R113	Treatment_Disease Arg1:T349 Arg2:T167
+R114	Symptom_Disease Arg1:T448 Arg2:T168
+R115	Symptom_Disease Arg1:T166 Arg2:T168
+R116	Test_Disease Arg1:T27 Arg2:T168
+R117	Treatment_Disease Arg1:T349 Arg2:T168
+R118	Anatomy_Disease Arg1:T402 Arg2:T205
+R119	Symptom_Disease Arg1:T458 Arg2:T236
+R120	Test_Disease Arg1:T459 Arg2:T236
+R121	Test_Disease Arg1:T238 Arg2:T236
+R122	Symptom_Disease Arg1:T458 Arg2:T457
+R123	Test_Disease Arg1:T459 Arg2:T457
+R124	Test_Disease Arg1:T238 Arg2:T457
+R125	Anatomy_Disease Arg1:T243 Arg2:T358
+R126	Anatomy_Disease Arg1:T242 Arg2:T358
+R127	Symptom_Disease Arg1:T463 Arg2:T464
+R128	Symptom_Disease Arg1:T463 Arg2:T245
+R129	Symptom_Disease Arg1:T463 Arg2:T465
+R130	Symptom_Disease Arg1:T463 Arg2:T246
+R131	Symptom_Disease Arg1:T463 Arg2:T247
+R132	Symptom_Disease Arg1:T463 Arg2:T248
+R133	Symptom_Disease Arg1:T463 Arg2:T249
+R134	Test_Disease Arg1:T273 Arg2:T276
+R135	Test_Disease Arg1:T19 Arg2:T276
+R136	Test_Disease Arg1:T31 Arg2:T314
+R137	Drug_Disease Arg1:T477 Arg2:T314
+R138	Drug_Disease Arg1:T313 Arg2:T314
+R139	Anatomy_Disease Arg1:T336 Arg2:T337
+R140	Anatomy_Disease Arg1:T336 Arg2:T379

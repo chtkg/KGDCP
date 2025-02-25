@@ -1,0 +1,425 @@
+T1	Test 7032 7037	HDL-C
+T2	Test 7379 7384	HDL-C
+T3	Test 7049 7054	LDL-C
+T4	Test 7432 7437	LDL-C
+T5	Test 7066 7070	空腹血糖
+T6	Test 7385 7394	高密度脂蛋白胆固醇
+T7	Test 7438 7447	低密度脂蛋白胆固醇
+T8	Test 6769 6773	总胆固醇
+T9	Test 565 569	体重指数
+T10	Test 6667 6671	体重指数
+T11	Test 7705 7709	体重指数
+T12	Test 6698 6701	收缩压
+T13	Test 6733 6736	舒张压
+T14	Test 7500 7507	胰岛素抵抗指数
+T15	Test 7149 7156	HOMA-IR
+T16	Test 7485 7492	HOMA-IR
+T17	Test 6803 6807	甘油三酯
+T18	Test 7105 7109	餐后血糖
+T19	Drug 31 36	糖皮质激素
+T20	Drug 113 118	糖皮质激素
+T21	Disease 166 180	ACTH 非依赖性库欣综合征
+T22	Disease 186 193	肾上腺皮质腺瘤
+T23	Drug 231 236	糖皮质激素
+T24	Drug 273 278	醋酸可的松
+T25	Test 473 477	ACTH
+T26	Test 480 483	皮质醇
+T27	Test 514 518	ACTH
+T28	Test 570 572	血压
+T29	Test 573 575	血糖
+T30	Test 576 578	血脂
+T31	Drug 613 618	醋酸可的松
+T32	Drug 707 712	糖皮质激素
+T33	Disease 3304 3309	库欣综合征
+T34	Anatomy 3404 3409	肾上腺皮质
+T35	Test 3414 3419	糖皮质激素
+T36	Symptom 3424 3429	向心性肥胖
+T37	Symptom 3430 3433	满月脸
+T38	Symptom 3435 3440	多血质外貌
+T39	Symptom 3441 3443	紫纹
+T40	Symptom 3444 3447	高血压
+T41	Symptom 3448 3454	继发性糖尿病
+T42	Symptom 3455 3459	骨质疏松
+T43	Operation 3566 3574	肾上腺腺瘤切除术
+T44	Disease 3579 3586	肾上腺皮质腺瘤
+T45	Test 3593 3596	皮质醇
+T46	Anatomy 3657 3667	垂体 ACTH 细胞
+T47	Disease 3724 3733	肾上腺皮质功能不全
+T48	Anatomy 3748 3753	HPA 轴
+T49	Duration 3763 3772	6 ~ 18 个月
+T50	Disease 3780 3794	ACTH 非依赖性库欣综合征
+T51	Drug 3798 3801;3802 3804	糖皮质 激素
+T52	Drug 3849 3854	糖皮质激素
+T53	Disease 3907 3916	肾上腺皮质功能不全
+T54	Symptom 3923 3925	乏力
+T55	Symptom 3926 3928	低热
+T56	Symptom 3929 3933	心动过速
+T57	Symptom 3934 3940	体位性低血压
+T58	Operation 4100 4108;4109 4113	单侧肾上腺皮质腺 瘤切除术
+T59	Disease 4115 4129	ACTH 非依赖性库欣综合征
+T60	Drug 4137 4142	糖皮质激素
+T61	Disease 4212 4226	ACTH 非依赖性库欣综合征
+T62	Operation 4228 4229;4230 4237	肾 上腺腺瘤切除术
+T63	Disease 4243 4250	肾上腺皮质腺瘤
+T64	Disease 4304 4306	死亡
+T65	Drug 4331 4336	醋酸可的松
+T66	Drug 4347 4350	酮康唑
+T67	Disease 4369 4374	库欣综合征
+T68	Test 4416 4420	ACTH
+T69	Operation 4455 4463	肾上腺腺瘤切除术
+T70	Disease 4473 4480	肾上腺皮质腺瘤
+T71	Operation 4504 4510;4511 4513	肾上腺腺瘤切 除术
+T72	Drug 4527 4532	氢化可的松
+T73	Method 4532 4534	静脉
+T74	Drug 4550 4555	醋酸可的松
+T75	Method 4548 4550	口服
+T76	Amount 4570 4578	37. 5 mg
+T77	Drug 4590 4595	糖皮质激素
+T78	Test 4683 4695	8 : 00 血清皮质醇
+T79	Disease 4708 4717	肾上腺皮质功能不全
+T80	Disease 4744 4749	库欣综合征
+T81	Disease 4821 4826	库欣综合征
+T82	Test 4837 4842	血尿皮质醇
+T83	Test 4877 4889	8 : 00 血清皮质醇
+T84	Disease 5278 5292	ACTH 非依赖性库欣综合征
+T85	Drug 5425 5430	醋酸可的松
+T86	Drug 5538 5543	醋酸可的松
+T87	Drug 5716 5721	糖皮质激素
+T88	Test 6066 6078	8 : 00 血清皮质醇
+T89	Test 6080 6084	ACTH
+T90	Test 6096 6100	ACTH
+T91	Test 6164 6176	8 : 00 血清皮质醇
+T92	Test 6260 6265	血清皮质醇
+T93	Amount 6541 6546	50 mg
+T94	Drug 7595 7600	氢化可的松
+T95	Drug 7629 7632	可的松
+T96	Disease 7695 7700	库欣综合征
+T97	Test 7710 7712	血压
+T98	Test 7713 7715	血脂
+T99	Test 7716 7717;7718 7719	血 糖
+T100	Disease 7871 7876	库欣综合征
+T101	Test 7877 7880	皮质醇
+T102	Test 7891 7894	皮质醇
+T103	Anatomy 7897 7902	HPA 轴
+T104	Anatomy 7907 7909	垂体
+T105	Test 7913 7917	ACTH
+T106	Anatomy 7927 7930	肾上腺
+T107	Disease 7984 7988;7989 7990	高分泌腺 瘤
+T108	Test 7992 7996	血皮质醇
+T109	Test 7998 8002	ACTH
+T110	Test 8013 8016;8017 8018	血皮质 醇
+T111	Test 8027 8031	ACTH
+T112	Test 8032 8036	ACTH
+T113	Anatomy 8050 8053	肾上腺
+T114	Test 8069 8070;8071 8075	血 清皮质醇
+T115	Test 8081 8085	ACTH
+T116	Drug 8113 8118	糖皮质激素
+T117	Disease 8122 8131	肾上腺皮质功能不全
+T118	Anatomy 8147 8150	肾上腺
+T119	Drug 8152 8157	糖皮质激素
+T120	Method 8185 8187	静脉
+T121	Method 8191 8192;8193 8194	口 服
+T122	Disease 8288 8301;8302 8303	ACTH 非依赖性库欣综合 征
+T123	Operation 8306 8316	单侧肾上腺腺瘤切除术
+T124	Drug 8331 8336	氢化可的松
+T125	Method 8336 8338	静脉
+T126	Drug 8350 8351;8352 8356	醋 酸可的松
+T127	Method 8356 8358	口服
+T128	Test 8383 8390	肾上腺皮质激素
+T129	Disease 8402 8416	ACTH 非依赖性库欣综合征
+T130	Drug 8420 8421;8422 8426	醋 酸可的松
+T131	Test 8568 8577	ACTH 兴奋试验
+T132	Drug 8670 8674;8675 8676	糖皮质激 素
+T133	Test 8692 8699	24 hUFC
+T134	Amount 8600 8610	20 ~ 30 mg
+T135	Drug 8611 8616	氢化可的松
+T136	Test 8631 8638	24 hUFC
+T137	Test 8653 8660	24 hUFC
+T138	Drug 8829 8834	糖皮质激素
+T139	Disease 8856 8865	肾上腺皮质功能不全
+T140	Disease 8921 8926	库欣综合征
+T141	Test 8984 8985;8986 8990	糖 皮质激素
+T142	Test 9073 9077	血皮质醇
+T143	Disease 9112 9116;9117 9119	高皮质醇 血症
+T144	Test 9133 9136	皮质醇
+T145	Disease 9152 9158	高皮质醇血症
+T146	Disease 9204 9213	肾上腺皮质功能不全
+T147	Anatomy 9243 9248	HPA 轴
+T148	Anatomy 9457 9460	肾上腺
+T149	Anatomy 9463 9466;9467 9471	糖皮质 激素受体
+T150	Anatomy 9473 9480	ACTH 受体
+T151	Test 9490 9494	ACTH
+T152	Anatomy 9500 9506	类固醇合成酶
+T153	Anatomy 9526 9531	肾上腺皮质
+T154	Test 9533 9536	皮质醇
+T155	Disease 9552 9557	库欣综合征
+T156	Disease 9557 9562	肾上腺腺瘤
+T157	Anatomy 9565 9568	肾上腺
+T158	Anatomy 9600 9603	肾上腺
+T159	Anatomy 9608 9615	ACTH 受体
+T160	Test 9638 9642	ACTH
+T161	Disease 9689 9694	库欣综合征
+T162	Drug 9697 9702	糖皮质激素
+T163	Drug 9719 9721;9722 9725	糖皮 质激素
+T164	Drug 9785 9790	糖皮质激素
+T165	Drug 5651 5656	醋酸可的松
+T166	Drug 6502 6507	醋酸可的松
+T167	Drug 8223 8228	醋酸可的松
+T168	Drug 9280 9282;9283 9286	醋酸 可的松
+T169	Drug 9419 9424	醋酸可的松
+T170	Amount 312 329	(8. 12 ± 5. 07) g
+T171	Reason 433 437	发病年龄
+T172	Test 347 351	发病年龄
+T173	Duration 491 495	9 个月
+T174	Disease 681 695	ACTH 非依赖性库欣综合征
+T175	Operation 697 705	肾上腺腺瘤切除术
+T176	Anatomy 718 726;727 730	下丘脑-垂体-肾 上腺轴
+T177	Anatomy 3677 3682	HPA 轴
+T178	Disease 3692 3694	腺瘤
+T179	Test 5571 5575	发病年龄
+T180	Drug 5713 5715	GC
+T181	Reason 6014 6018	发病年龄
+T182	Test_Value 6122 6147	(103. 59 ±17. 47) pg / ml
+T183	Test_Value 6269 6277;6278 6292	10. 51 ± 3. 08) μg / dl
+T184	Amount 7600 7604	静脉点滴
+T185	Duration 7748 7771	4. 5 个月(3. 3 ~ 6. 5 个月)
+T186	Anatomy 7942 7947	HPA 轴
+T187	Anatomy 8096 8101	HPA 轴
+T188	Anatomy 8580 8585	HPA 轴
+T189	Anatomy 8726 8731	HPA 轴
+T190	Duration 9183 9190	4. 5 个月
+T191	Anatomy 9350 9355	HPA 轴
+T192	Test 9373 9377	发病年龄
+T193	Anatomy 9383 9388	HPA 轴
+T194	Reason 9710 9714	起病年龄
+T195	Drug 440 443	可的松
+T196	Test_Value 4900 4917	7 ~ 22. 6 μg / dl
+T197	Test 4918 4925	24 hUFC
+T198	Test_Value 4933 4937;4938 4951	21 ~ 111 μg / 24 h
+T199	Test_Value 5015 5030	12 ~ 78 pg / ml
+T200	Duration 5441 5446	12 个月
+T201	Duration 5447 5456	6 ~ 15 个月
+T202	Amount 5467 5475;5476 5485	(8. 12 ± 5. 07) mg
+T203	Disease 8141 8143;8144 8147	库欣 综合征
+T204	Method 8176 8178	术中
+T205	Method 8179 8181	术后
+T206	Duration 8247 8255	8 ~ 12 h
+T207	Method 8318 8320	术中
+T208	Method 8321 8323	术后
+T209	Duration 8324 8327	3 d
+T210	Disease 15 29	ACTH 非依赖性库欣综合征
+T211	Disease 97 111	ACTH 非依赖性库欣综合征
+T212	Duration 286 291	12 个月
+T213	Test 501 508	肾上腺皮质功能
+T214	SideEff 548 555	激素撤退综合征
+T215	SideEff 557 564	库欣综合征体征
+T216	Disease 595 609	ACTH 非依赖性库欣综合征
+T217	SideEff 661 668	激素撤退综合征
+T219	Anatomy 3341 3344	下丘脑
+T220	Anatomy 3345 3347	垂体
+T221	Anatomy 3348 3351	肾上腺
+T222	Test 3474 3482	促肾上腺皮质激素
+T223	Test 3514 3518	ACTH
+T224	Disease 3523 3526;3527 3529	库欣综 合征
+T225	Reason 3548 3555	单侧肾上腺腺瘤
+T226	Anatomy 3598 3600;3601 3616	下丘 脑促肾上腺皮质激素释放激素细胞
+T227	Anatomy 3652 3656	CRH)
+T228	Test 3702 3707	肾上腺功能
+T229	Drug 3740 3745	糖皮质激素
+T230	SideEff 3862 3869	激素撤退综合征
+T231	Drug 3961 3966	糖皮质激素
+T232	SideEff 3981 3989	医源性库欣综合征
+T233	SideEff 3990 3994	骨质疏松
+T234	SideEff 3999 4000;4001 4005	心 血管事件
+T235	SideEff 4013 4019	糖脂代谢紊乱
+T236	Drug 4043 4048	糖皮质激素
+T237	Disease 4293 4298	库欣综合征
+T238	Level 4290 4293	亚临床
+T239	Test_Value 4440 4441;4442 4451	单 侧肾上腺实质性占位
+T240	Test 4611 4615;4616 4622	24 h 尿游离皮质醇
+T241	Test 4651 4658	24 hUFC
+T242	Test 4956 4960	ACTH
+T243	Test 6225 6232	肾上腺皮质功能
+T244	SideEff 6460 6463;6464 6468	激素撤 退综合征
+T245	SideEff 6485 6487	低热
+T246	SideEff 6488 6490	恶心
+T247	SideEff 6491 6493	呕吐
+T248	SideEff 6494 6498	心动过速
+T249	SideEff 7640 7644;7645 7648	激素撤退 综合征
+T250	SideEff 7652 7659	激素撤退综合征
+T251	SideEff 7773 7776	高血压
+T252	SideEff 7803 7807	高脂血症
+T253	SideEff 7829 7834	糖代谢异常
+T254	Disease 7861 7868	单侧肾上腺腺瘤
+T255	Drug 8216 8217;8218 8222	氢 化可的松
+T256	Duration 8433 8438	12 个月
+T257	Duration 8439 8448	6 ~ 15 个月
+T258	SideEff 8759 8762;8763 8767	激素撤 退综合征
+T259	SideEff 8793 8797;8798 8801	激素撤退 综合征
+T260	SideEff 8816 8822;8823 8824	激素撤退综合 征
+T261	SideEff 8870 8871;8872 8873	恶 心
+T262	SideEff 8874 8876	呕吐
+T263	SideEff 8877 8881	体重减轻
+T264	SideEff 8882 8888	关节肌肉酸痛
+T265	SideEff 8930 8935;8936 8938	激素撤退综 合征
+T266	SideEff 8945 8952	激素撤退综合征
+T267	SideEff 9015 9022	激素撤退综合征
+T268	Test 9028 9035	白细胞介素 6
+T269	Test 9052 9056	IL-6
+T270	Level 9201 9203	轻微
+T271	Anatomy 9572 9578;9579 9585	ACTH 受 体 mRNA
+T272	Anatomy 9630 9632;9633 9636	肾上 腺组织
+T273	SideEff 9765 9770;9771 9773	激素撤退综 合征
+T218	Disease 3330 3334;3335 3337	皮质醇增 多症
+R1	Amount_Drug Arg1:T170 Arg2:T24
+R2	Drug_Disease Arg1:T229 Arg2:T47
+R3	SideEff-Drug Arg1:T232 Arg2:T231
+R4	SideEff-Drug Arg1:T233 Arg2:T231
+R5	SideEff-Drug Arg1:T234 Arg2:T231
+R6	SideEff-Drug Arg1:T235 Arg2:T231
+R7	Amount_Drug Arg1:T184 Arg2:T94
+R8	Anatomy_Disease Arg1:T187 Arg2:T117
+R9	SideEff-Drug Arg1:T260 Arg2:T138
+R10	SideEff-Drug Arg1:T261 Arg2:T138
+R11	SideEff-Drug Arg1:T262 Arg2:T138
+R12	SideEff-Drug Arg1:T263 Arg2:T138
+R13	SideEff-Drug Arg1:T264 Arg2:T138
+R14	Anatomy_Disease Arg1:T271 Arg2:T156
+R15	Drug_Disease Arg1:T162 Arg2:T161
+R16	SideEff-Drug Arg1:T273 Arg2:T164
+R17	Duration_Drug Arg1:T212 Arg2:T24
+R18	Drug_Disease Arg1:T31 Arg2:T216
+R19	Anatomy_Disease Arg1:T34 Arg2:T33
+R20	Test_Disease Arg1:T223 Arg2:T224
+R21	Test_Disease Arg1:T222 Arg2:T224
+R22	Test_Disease Arg1:T45 Arg2:T44
+R23	Anatomy_Disease Arg1:T226 Arg2:T44
+R24	Anatomy_Disease Arg1:T227 Arg2:T44
+R25	Test_Disease Arg1:T228 Arg2:T44
+R26	Anatomy_Disease Arg1:T48 Arg2:T47
+R27	Symptom_Disease Arg1:T54 Arg2:T53
+R28	Symptom_Disease Arg1:T55 Arg2:T53
+R29	Symptom_Disease Arg1:T56 Arg2:T53
+R30	Symptom_Disease Arg1:T57 Arg2:T53
+R31	Drug_Disease Arg1:T60 Arg2:T59
+R32	Test_Disease Arg1:T68 Arg2:T67
+R33	Method_Drug Arg1:T73 Arg2:T72
+R34	Method_Drug Arg1:T75 Arg2:T74
+R35	Amount_Drug Arg1:T76 Arg2:T74
+R36	Test_Disease Arg1:T78 Arg2:T79
+R37	Duration_Drug Arg1:T201 Arg2:T85
+R38	Duration_Drug Arg1:T200 Arg2:T85
+R39	Amount_Drug Arg1:T202 Arg2:T85
+R40	Test_Disease Arg1:T11 Arg2:T96
+R41	Test_Disease Arg1:T97 Arg2:T96
+R42	Test_Disease Arg1:T98 Arg2:T96
+R43	Test_Disease Arg1:T99 Arg2:T96
+R44	Test_Disease Arg1:T101 Arg2:T100
+R45	Test_Disease Arg1:T102 Arg2:T100
+R46	Anatomy_Disease Arg1:T103 Arg2:T100
+R47	Anatomy_Disease Arg1:T104 Arg2:T100
+R48	Test_Disease Arg1:T108 Arg2:T107
+R49	Test_Disease Arg1:T109 Arg2:T107
+R50	Test_Disease Arg1:T110 Arg2:T107
+R51	Test_Disease Arg1:T111 Arg2:T107
+R52	Test_Disease Arg1:T112 Arg2:T107
+R53	Drug_Disease Arg1:T116 Arg2:T117
+R54	Anatomy_Disease Arg1:T118 Arg2:T203
+R55	Method_Drug Arg1:T121 Arg2:T119
+R56	Method_Drug Arg1:T120 Arg2:T119
+R57	Duration_Drug Arg1:T206 Arg2:T167
+R58	Method_Drug Arg1:T207 Arg2:T124
+R59	Method_Drug Arg1:T208 Arg2:T124
+R60	Duration_Drug Arg1:T209 Arg2:T124
+R61	Method_Drug Arg1:T125 Arg2:T124
+R62	Method_Drug Arg1:T127 Arg2:T126
+R63	Test_Disease Arg1:T128 Arg2:T129
+R64	Drug_Disease Arg1:T124 Arg2:T122
+R65	Drug_Disease Arg1:T130 Arg2:T129
+R66	Duration_Drug Arg1:T256 Arg2:T130
+R67	Duration_Drug Arg1:T257 Arg2:T130
+R68	Amount_Drug Arg1:T134 Arg2:T135
+R69	Test_Disease Arg1:T142 Arg2:T143
+R70	Test_Disease Arg1:T144 Arg2:T145
+R71	Anatomy_Disease Arg1:T147 Arg2:T146
+R72	Test_Disease Arg1:T154 Arg2:T155
+R73	Anatomy_Disease Arg1:T153 Arg2:T155
+R74	Anatomy_Disease Arg1:T157 Arg2:T156
+R75	Drug_Disease Arg1:T163 Arg2:T161
+R76	Drug_Disease Arg1:T20 Arg2:T211
+R77	Drug_Disease Arg1:T23 Arg2:T22
+R78	Anatomy_Disease Arg1:T219 Arg2:T33
+R79	Anatomy_Disease Arg1:T220 Arg2:T33
+R80	Anatomy_Disease Arg1:T221 Arg2:T33
+R81	Anatomy_Disease Arg1:T46 Arg2:T44
+R82	Drug_Disease Arg1:T51 Arg2:T50
+R83	Test_Disease Arg1:T105 Arg2:T100
+R84	Drug_Disease Arg1:T119 Arg2:T203
+R85	Drug_Disease Arg1:T19 Arg2:T210
+R86	Test_Disease Arg1:T35 Arg2:T33
+R87	Symptom_Disease Arg1:T36 Arg2:T33
+R88	Symptom_Disease Arg1:T37 Arg2:T33
+R89	Symptom_Disease Arg1:T38 Arg2:T33
+R90	Symptom_Disease Arg1:T39 Arg2:T33
+R91	Symptom_Disease Arg1:T40 Arg2:T33
+R92	Symptom_Disease Arg1:T41 Arg2:T33
+R93	Symptom_Disease Arg1:T42 Arg2:T33
+R94	Anatomy_Disease Arg1:T177 Arg2:T44
+R95	Duration_Drug Arg1:T49 Arg2:T229
+R96	SideEff-Drug Arg1:T249 Arg2:T95
+R97	SideEff-Drug Arg1:T250 Arg2:T95
+R98	Anatomy_Disease Arg1:T106 Arg2:T100
+R99	Anatomy_Disease Arg1:T113 Arg2:T107
+R100	Test_Disease Arg1:T114 Arg2:T117
+R101	Test_Disease Arg1:T115 Arg2:T117
+R102	Method_Drug Arg1:T204 Arg2:T119
+R103	Method_Drug Arg1:T205 Arg2:T119
+R104	Duration_Drug Arg1:T206 Arg2:T255
+R105	Drug_Disease Arg1:T126 Arg2:T122
+R106	Drug_Disease Arg1:T124 Arg2:T122
+R107	Drug_Disease Arg1:T168 Arg2:T146
+R108	Anatomy_Disease Arg1:T191 Arg2:T146
+R109	Anatomy_Disease Arg1:T158 Arg2:T156
+R110	Anatomy_Disease Arg1:T159 Arg2:T156
+R111	Anatomy_Disease Arg1:T272 Arg2:T156
+R112	Test_Disease Arg1:T160 Arg2:T156
+R113	Test_Disease Arg1:T228 Arg2:T47
+R114	Drug_Disease Arg1:T23 Arg2:T21
+R115	SideEff-Drug Arg1:T214 Arg2:T195
+R116	SideEff-Drug Arg1:T215 Arg2:T195
+R117	SideEff-Drug Arg1:T217 Arg2:T31
+R118	Anatomy_Disease Arg1:T219 Arg2:T218
+R119	Anatomy_Disease Arg1:T220 Arg2:T218
+R120	Anatomy_Disease Arg1:T221 Arg2:T218
+R121	Anatomy_Disease Arg1:T34 Arg2:T218
+R122	Anatomy_Disease Arg1:T177 Arg2:T178
+R123	Anatomy_Disease Arg1:T227 Arg2:T178
+R124	Anatomy_Disease Arg1:T46 Arg2:T178
+R125	SideEff-Drug Arg1:T230 Arg2:T52
+R126	Drug_Disease Arg1:T236 Arg2:T59
+R127	Test_Disease Arg1:T241 Arg2:T79
+R128	Test_Disease Arg1:T240 Arg2:T79
+R129	Drug_Disease Arg1:T77 Arg2:T79
+R130	SideEff-Drug Arg1:T244 Arg2:T166
+R131	SideEff-Drug Arg1:T245 Arg2:T166
+R132	SideEff-Drug Arg1:T246 Arg2:T166
+R133	SideEff-Drug Arg1:T248 Arg2:T166
+R134	Amount_Drug Arg1:T93 Arg2:T166
+R135	Amount_Drug Arg1:T184 Arg2:T95
+R136	SideEff-Drug Arg1:T249 Arg2:T94
+R137	SideEff-Drug Arg1:T250 Arg2:T94
+R138	Test_Disease Arg1:T101 Arg2:T254
+R139	Test_Disease Arg1:T102 Arg2:T254
+R140	Anatomy_Disease Arg1:T103 Arg2:T254
+R141	Anatomy_Disease Arg1:T104 Arg2:T254
+R142	Test_Disease Arg1:T105 Arg2:T254
+R143	Anatomy_Disease Arg1:T106 Arg2:T254
+R144	Anatomy_Disease Arg1:T186 Arg2:T107
+R145	Drug_Disease Arg1:T138 Arg2:T139
+R146	Drug_Disease Arg1:T138 Arg2:T140
+R147	Anatomy_Disease Arg1:T271 Arg2:T155
+R148	Anatomy_Disease Arg1:T157 Arg2:T155
+R149	Anatomy_Disease Arg1:T158 Arg2:T155
+R150	Anatomy_Disease Arg1:T159 Arg2:T155
+R151	Anatomy_Disease Arg1:T272 Arg2:T155
+R152	Test_Disease Arg1:T160 Arg2:T155

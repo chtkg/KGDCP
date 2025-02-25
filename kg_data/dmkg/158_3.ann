@@ -1,0 +1,858 @@
+T1	Disease 878 884	2 型糖尿病
+T2	Disease 1414 1420	2 型糖尿病
+T3	Disease 1529 1535	2 型糖尿病
+T4	Disease 3702 3708	2 型糖尿病
+T5	Disease 5106 5109;5110 5113	2 型 糖尿病
+T6	Disease 10472 10478	2 型糖尿病
+T7	Disease 20340 20346	2 型糖尿病
+T8	Disease 22341 22347	2 型糖尿病
+T9	Test 6676 6681	HBA1C
+T10	Test 8911 8916	HBA1C
+T11	Test 11121 11126	HBA1C
+T12	Test 12151 12156	HBA1C
+T13	Test 17668 17673	HBA1C
+T14	Test 18979 18984	HBA1C
+T15	Test 19745 19750	HBA1C
+T16	Test 20163 20168	HBA1C
+T17	Test 6870 6875	HDL-C
+T18	Test 12264 12269	HDL-C
+T19	Test 6816 6821	LDL-C
+T20	Test 9014 9019	LDL-C
+T21	Test 12237 12242	LDL-C
+T22	Disease 2245 2249	T2DM
+T23	Test 5326 5330	空腹血糖
+T24	Test 2351 2354	FPG
+T25	Test 6763 6765	TC
+T26	Test 8942 8944	TC
+T27	Test 22066 22068	TC
+T28	Test 6735 6737	TG
+T29	Test 8323 8325	TG
+T30	Test 8930 8932	TG
+T31	Test 6823 6832	高密度脂蛋白胆固醇
+T32	Test 12253 12257;12258 12263	高密度脂 蛋白胆固醇
+T33	Test 6767 6768;6769 6777	低 密度脂蛋白胆固醇
+T34	Test 12226 12230;12231 12236	低密度脂 蛋白胆固醇
+T35	Test 6739 6743	总胆固醇
+T36	Test 7722 7726	总胆固醇
+T37	Test 12193 12197	总胆固醇
+T38	Test 6184 6185;6186 6189	体 重指数
+T39	Test 11413 11417	体重指数
+T40	Test 17428 17432	体重指数
+T41	Test 18837 18839;18840 18842	体重 指数
+T42	Test 7734 7737	收缩压
+T43	Test 12080 12083	收缩压
+T44	Test 8895 8898	舒张压
+T45	Test 12115 12118	舒张压
+T46	Test 1190 1193	腰臀比
+T47	Test 1218 1221	腰臀比
+T48	Test 1346 1349	腰臀比
+T49	Test 1537 1540	腰臀比
+T50	Test 3851 3854	腰臀比
+T51	Test 5073 5076	腰臀比
+T52	Test 6421 6424	腰臀比
+T53	Test 8038 8041	腰臀比
+T54	Test 8094 8097	腰臀比
+T55	Test 8123 8126	腰臀比
+T56	Test 8151 8154	腰臀比
+T57	Test 8172 8175	腰臀比
+T58	Test 8189 8192	腰臀比
+T59	Test 8217 8220	腰臀比
+T60	Test 8245 8248	腰臀比
+T61	Test 8426 8429	腰臀比
+T62	Test 8543 8546	腰臀比
+T63	Test 8676 8679	腰臀比
+T64	Test 8708 8711	腰臀比
+T65	Test 8754 8757	腰臀比
+T66	Test 8791 8794	腰臀比
+T67	Test 8830 8833	腰臀比
+T68	Test 8959 8962	腰臀比
+T69	Test 8988 8991	腰臀比
+T70	Test 9021 9024	腰臀比
+T71	Test 9092 9095	腰臀比
+T72	Test 9127 9130	腰臀比
+T73	Test 9175 9178	腰臀比
+T74	Test 9246 9249	腰臀比
+T75	Test 9261 9264	腰臀比
+T76	Test 9305 9306;9307 9309	腰 臀比
+T77	Test 9338 9341	腰臀比
+T78	Test 9528 9531	腰臀比
+T79	Test 9709 9712	腰臀比
+T80	Test 9797 9800	腰臀比
+T81	Test 10055 10058	腰臀比
+T82	Test 10483 10486	腰臀比
+T83	Test 10695 10698	腰臀比
+T84	Test 10741 10744	腰臀比
+T85	Test 10772 10775	腰臀比
+T86	Test 10957 10960	腰臀比
+T87	Test 10991 10994	腰臀比
+T88	Test 11144 11147	腰臀比
+T89	Test 11170 11173	腰臀比
+T90	Test 14069 14072	腰臀比
+T91	Test 14973 14976	腰臀比
+T92	Test 17898 17901	腰臀比
+T93	Test 19141 19144	腰臀比
+T94	Test 19306 19307;19308 19310	腰 臀比
+T95	Test 19366 19369	腰臀比
+T96	Test 19484 19487	腰臀比
+T97	Test 19536 19539	腰臀比
+T98	Test 19801 19804	腰臀比
+T99	Test 19882 19885	腰臀比
+T100	Test 19934 19937	腰臀比
+T101	Test 20218 20221	腰臀比
+T102	Test 20389 20392	腰臀比
+T103	Test 20482 20485	腰臀比
+T104	Test 20586 20589	腰臀比
+T105	Test 20627 20630	腰臀比
+T106	Test 21036 21039	腰臀比
+T107	Test 21124 21127	腰臀比
+T108	Test 21329 21332	腰臀比
+T109	Test 21388 21391	腰臀比
+T110	Test 21878 21881	腰臀比
+T111	Test 21933 21936	腰臀比
+T112	Test 21989 21992	腰臀比
+T113	Test 22101 22104	腰臀比
+T114	Test 3848 3850	腰围
+T115	Test 6247 6249	腰围
+T116	Test 6292 6294	腰围
+T117	Test 6454 6456	腰围
+T118	Test 8812 8814	腰围
+T119	Test 8846 8848	腰围
+T120	Test 11432 11434	腰围
+T121	Test 4024 4026	臀围
+T122	Test 6053 6055	臀围
+T123	Test 6354 6356	臀围
+T124	Test 6458 6460	臀围
+T125	Test 8815 8817	臀围
+T126	Test 8849 8851	臀围
+T127	Test 11460 11462	臀围
+T128	Disease 16778 16785	颈动脉粥样硬化
+T129	Disease 10415 10418;10419 10422	动脉粥 样硬化
+T130	Disease 19045 19051	动脉粥样硬化
+T131	Disease 5716 5719	脑卒中
+T132	Test 2691 2694	ABI
+T133	Test 3100 3103	ABI
+T134	Test 3413 3416	ABI
+T135	Test 4229 4232	ABI
+T136	Test 7278 7281	ABI
+T137	Test 7538 7541	ABI
+T138	Test 7815 7818	ABI
+T139	Test 7828 7831	ABI
+T140	Test 8338 8341	ABI
+T141	Test 8443 8446	ABI
+T142	Test 10274 10277	ABI
+T143	Test 15686 15689	ABI
+T144	Test 21406 21409	ABI
+T145	Test 21475 21478	ABI
+T146	Test 6207 6210	BMI
+T147	Test 6225 6228	BMI
+T148	Test 8808 8811	BMI
+T149	Test 8842 8845	BMI
+T150	Test 11418 11421	BMI
+T151	Test 19132 19135	BMI
+T152	Test 19794 19797	BMI
+T153	Test 20211 20214	BMI
+T154	Test 20677 20680	BMI
+T155	Test 20740 20743	BMI
+T156	Test 20831 20834	BMI
+T157	Test 21023 21026	BMI
+T158	Test 21071 21074	BMI
+T159	Test 21101 21104	BMI
+T160	Test 21129 21132	BMI
+T161	Test 21186 21189	BMI
+T162	Test 6043 6045	身高
+T163	Test 6066 6068	身高
+T164	Test 6136 6138	身高
+T165	Test 6160 6162	身高
+T166	Test 6216 6218	身高
+T167	Test 6237 6239	身高
+T168	Test 6046 6048	体重
+T169	Test 6069 6071	体重
+T170	Test 6138 6140	体重
+T171	Test 6164 6166	体重
+T172	Test 6170 6172	体重
+T173	Test 6212 6214	体重
+T174	Test 6229 6231	体重
+T175	Test 21503 21505	体重
+T176	Disease 3802 3807	心血管疾病
+T177	Disease 3821 3826	心血管疾病
+T178	Disease 3939 3944	心血管疾病
+T179	Disease 3974 3979	心血管疾病
+T180	Disease 4073 4078	心血管疾病
+T181	Disease 4337 4342	心血管疾病
+T182	Disease 4530 4535	心血管疾病
+T183	Disease 4787 4792	心血管疾病
+T184	Disease 4875 4880	心血管疾病
+T185	Disease 10379 10384	心血管疾病
+T186	Disease 13065 13070	心血管疾病
+T187	Disease 13111 13116	心血管疾病
+T188	Disease 18025 18030	心血管疾病
+T189	Disease 18402 18407	心血管疾病
+T190	Test 2661 2665	CIMT
+T191	Test 3063 3067	CIMT
+T192	Test 3398 3402	CIMT
+T193	Test 4195 4199	CIMT
+T194	Test 4470 4474	CIMT
+T195	Test 7219 7223	CIMT
+T196	Test 7227 7231	CIMT
+T197	Test 7239 7243	CIMT
+T198	Test 7768 7772	CIMT
+T199	Test 7778 7782	CIMT
+T200	Test 8326 8330	CIMT
+T201	Test 8431 8435	CIMT
+T202	Test 15137 15141	CIMT
+T203	Test 20645 20649	CIMT
+T204	Test 20730 20734	CIMT
+T205	Test 20818 20822	CIMT
+T206	Test 20952 20956	CIMT
+T207	Test 20978 20982	CIMT
+T208	Test 21107 21111	CIMT
+T209	Test 21194 21198	CIMT
+T210	Test 21301 21305	CIMT
+T211	Test 21951 21955	CIMT
+T212	Test 6715 6719	三酰甘油
+T213	Test 12162 12166	三酰甘油
+T214	Disease 5023 5026	冠心病
+T215	Disease 5708 5711	冠心病
+T216	Test 8881 8883;8884 8885	收缩 压
+T217	Test 8077 8079;8080 8081	腰臀 比
+T218	Test 10839 10841;10842 10843	腰臀 比
+T219	Test 11240 11242;11243 11244	腰臀 比
+T220	Test 12043 12045;12046 12047	腰臀 比
+T221	Test 12897 12899;12900 12901	腰臀 比
+T222	Test 13555 13557;13558 13559	腰臀 比
+T223	Test 984 986	血糖
+T224	Test 3926 3928	血糖
+T225	Test 5310 5312	血糖
+T226	Test 20519 20521	血糖
+T227	Test 6049 6050;6051 6052	腰 围
+T228	Test 7959 7963	血管超声
+T229	Disease 768 771	糖尿病
+T230	Disease 892 901	糖尿病大血管并发症
+T231	Disease 980 983	糖尿病
+T232	Disease 990 993	糖尿病
+T233	Test_Value 1003 1019	超过 7. 0 mmol / L
+T234	Test_Value 1036 1053	超过 11. 1 mmol / L
+T235	Test 1094 1103	颈动脉内中膜层厚度
+T236	Test 1104 1113	臂踝脉搏波传导速度
+T237	Test 1114 1118	踝臂指数
+T238	Test 1119 1124	颈动脉斑块
+T239	Test 1085 1092	大血管功能检测
+T240	Test 1354 1363	颈动脉内中膜层厚度
+T241	Test 1364 1370	踝臂指数异常
+T242	Test 1371 1374;1375 1382	高臂踝 脉搏波传导速度
+T243	Disease 1383 1392	颈动脉粥样硬化斑块
+T244	Anatomy 1458 1462	腹部脂肪
+T245	Disease 1468 1470;1471 1472	糖尿 病
+T246	Disease 1504 1513	颈动脉粥样硬化斑块
+T247	Disease 3690 3693;3694 3695	高脂血 症
+T248	Disease 3696 3699	高血糖
+T249	Disease 3709 3714	高尿酸血症
+T250	Anatomy 3735 3739	皮下脂肪
+T251	Anatomy 3816 3820	内脏脂肪
+T252	Test 3857 3859	CT
+T253	Disease 3873 3876	高血压
+T254	Disease 3877 3880	心绞痛
+T255	Disease 3881 3885	心肌梗死
+T256	Disease 3886 3888	卒中
+T257	Test 3920 3922	血压
+T258	Anatomy 3934 3938	内脏脂肪
+T259	Test 3923 3925	血脂
+T260	Anatomy 3967 3969;3970 3972	皮下 脂肪
+T261	Disease 4027 4032	脂代谢异常
+T262	Anatomy 4047 4051	皮下脂肪
+T263	Disease 4068 4069;4070 4072	糖 尿病
+T264	Disease 4097 4100	糖尿病
+T265	Anatomy 4104 4110	腹部内脏脂肪
+T266	Test 4151 4157;4158 4162	超声颈动脉内 中膜厚度
+T267	Test 4201 4203;4204 4206	踝臂 指数
+T268	Test 4234 4243	臂踝脉搏波传导速度
+T269	Test 4281 4286	baPWV
+T270	Test 4288 4291;4292 4294	颈动脉 斑块
+T271	Test 4315 4320	B 型超声
+T272	Test 4324 4332	颈动脉内中膜厚度
+T273	Disease 4343 4345;4346 4348	心肌 梗死
+T274	Disease 4349 4351	卒中
+T275	Test 4360 4364	踝臂指数
+T276	Disease 4388 4394	急性心肌梗死
+T277	Disease 4395 4397	卒中
+T278	Test 4411 4420	臂踝脉搏波传导速度
+T279	Disease 4459 4462	糖尿病
+T280	Test 4477 4482	baPWV
+T281	Test 4850 4853	胆固醇
+T282	Disease 5016 5022	非致死性心梗
+T283	Disease 5006 5011	ASCVD
+T284	Disease 5029 5031	死亡
+T285	Anatomy 5082 5083;5084 5087	腹 部脂肪
+T286	Disease 5046 5056	粥样硬化性心血管疾病
+T287	Disease 5278 5281	糖尿病
+T288	Disease 5286 5289	糖尿病
+T289	Disease 5316 5319	糖尿病
+T290	Test_Value 5330 5346	超过 7. 0 mmol / L
+T291	Test_Value 5363 5380	超过 11. 1 mmol / L
+T292	Disease 5422 5424;5425 5426	糖尿 病
+T293	Level 5445 5447	严重
+T294	Disease 5447 5451;5452 5454	肝肾功能 衰竭
+T295	Disease 5474 5476	中风
+T296	Disease 5478 5482	心肌梗死
+T297	Disease 5553 5556	糖尿病
+T298	Disease 5699 5700;5701 5703	高 血压
+T299	Disease 5704 5707	糖尿病
+T300	Disease 5712 5715	高血脂
+T301	Disease 5720 5724	肝肾疾病
+T302	Disease 5884 5885;5886 5888	糖 尿病
+T303	Disease 5928 5931	糖尿病
+T304	Disease 5935 5936;5937 5939	糖 尿病
+T305	Disease 5955 5959	肾脏疾病
+T306	Test 6058 6060	血压
+T307	Test 6318 6320	WC
+T308	Test 6376 6378	HC
+T309	Test 6568 6570	血压
+T310	Test 6603 6605	血压
+T311	Test 6711 6713	血脂
+T312	Test 6937 6944	颈动脉血管超声
+T313	Anatomy 7052 7056	颈总动脉
+T314	Anatomy 7087 7091	颈总动脉
+T315	Anatomy 7096 7100	颈内动脉
+T316	Anatomy 7111 7115	颈总动脉
+T317	Anatomy 7153 7157	颈总动脉
+T318	Anatomy 7173 7174;7175 7178	颈 总动脉
+T319	Test 7253 7262	臂踝脉搏波传导速度
+T320	Test 7272 7276	踝臂指数
+T321	Test 7264 7269	baPWV
+T322	Test 7421 7430	臂踝脉搏波传导速度
+T323	Test 7469 7474	baPWV
+T324	Test 7509 7513	踝臂指数
+T325	Test 7727 7733	高密度胆固醇
+T326	Test_Value 7782 7783;7784 7791	≥ 0. 7 mm
+T327	Test_Value 7818 7819;7820 7825	≥ 1. 30
+T328	Test_Value 7831 7837	≤0. 90
+T329	Test 7850 7855	baPWV
+T330	Test 7859 7864	baPWV
+T331	Test_Value 7864 7876	≥1997 cm / s
+T332	Test 8331 8336	baPWV
+T333	Test 8436 8441	baPWV
+T334	Test 9046 9055	颈动脉内中膜层厚度
+T335	Test 9069 9078	臂踝脉搏波传导速度
+T336	Disease 9196 9199	糖尿病
+T337	Disease 9214 9217	糖尿病
+T338	Disease 9223 9226	糖尿病
+T339	Disease 9272 9275	糖尿病
+T340	Disease 9296 9299	糖尿病
+T341	Test 9318 9320	血压
+T342	Disease 9354 9357	糖尿病
+T343	Disease 9372 9375	糖尿病
+T344	Disease 9417 9426	颈动脉粥样硬化斑块
+T345	Disease 9509 9510;9511 9515	颈 动脉斑块
+T346	Disease 9589 9594	颈动脉斑块
+T347	Disease 10668 10671	糖尿病
+T348	Disease 10690 10693	糖尿病
+T349	Disease 10926 10929	糖尿病
+T350	Disease 10949 10952	高血压
+T351	Test 11137 11139	血脂
+T352	Disease 19327 19332	颈动脉斑块
+T353	Disease 19361 19364	糖尿病
+T354	Disease 19722 19725	糖尿病
+T355	Disease 20141 20144	糖尿病
+T356	Disease 20384 20387	糖尿病
+T357	Anatomy 20546 20550	腹部脂肪
+T358	Disease 20573 20575	肥胖
+T359	Test 20590 20599	颈动脉内中膜层厚度
+T360	Test 20696 20705	颈动脉内中膜层厚度
+T361	Anatomy 20723 20727	内脏脂肪
+T362	Test_Value 20743 20744;20745 20755	≥ 23 kg / m2
+T363	Anatomy 20769 20773	腹部脂肪
+T364	Anatomy 20812 20816	腹内脂肪
+T365	Disease 20845 20848	糖尿病
+T366	Disease 20927 20930	糖尿病
+T367	Anatomy 20965 20971	腹部皮下脂肪
+T368	Anatomy 20996 20999;21000 21001	皮下脂 肪
+T369	Disease 21031 21034	糖尿病
+T370	Anatomy 21180 21184	腹部脂肪
+T371	Anatomy 21295 21299	腹内脂肪
+T372	Anatomy 21342 21346	腹部脂肪
+T373	Anatomy 21359 21364;21365 21366	腹部皮下脂 肪
+T374	Disease 21383 21386	糖尿病
+T375	Test 21413 21418	baPWV
+T376	Test 21467 21470	PWV
+T377	Disease 21420 21426;21427 21430	颈动脉粥样硬 化斑块
+T378	Test 21527 21532	baPWV
+T379	Disease 21553 21556	糖尿病
+T380	Anatomy 21560 21563;21564 21565	腹部脂 肪
+T381	Test 21575 21580	baPWV
+T382	Anatomy 21609 21613	腹部脂肪
+T383	Test 21659 21662	胆固醇
+T384	Test 21665 21667	血压
+T385	Anatomy 21716 21722	腹部皮下脂肪
+T386	Disease 21728 21730;21731 21734	主动 脉钙化
+T387	Disease 21614 21618	动脉斑块
+T388	Disease 21647 21651	动脉斑块
+T389	Anatomy 21779 21783	腹部脂肪
+T390	Disease 21784 21785;21786 21789	冠 脉斑块
+T391	Disease 21823 21828	主动脉斑块
+T392	Anatomy 21814 21817;21818 21821	外周皮 下脂肪
+T393	Disease 21863 21866;21867 21868	粥样斑 块
+T394	Disease 21896 21901	颈动脉斑块
+T395	Disease 21937 21940;21941 21943	颈动脉 斑块
+T396	Disease 21852 21861	颈动脉粥样硬化斑块
+T397	Test 22061 22063	血压
+T398	Test 22105 22107	血压
+T399	Test 22108 22111	胆固醇
+T400	Disease 22167 22169;22170 22171	糖尿 病
+T401	Anatomy 22175 22179	腹部脂肪
+T402	Disease 22216 22218;22219 22220	糖尿 病
+T403	Anatomy 22200 22204	腹部脂肪
+T404	Disease 22321 22324	糖尿病
+T405	Anatomy 22359 22363	腹部脂肪
+T406	Anatomy 22426 22430	腹部脂肪
+T407	Anatomy 22476 22480	腹部脂肪
+T408	Disease 22491 22494	糖尿病
+T409	Disease 778 784	大血管并发症
+T410	Disease 1542 1548	大血管并发症
+T411	Disease 3626 3631	代谢性疾病
+T412	Disease 3685 3689	代谢异常
+T413	Disease 4121 4127	大血管并发症
+T414	Test_Value 4364 4369	偏高或偏低
+T415	Test 4550 4553	胆固醇
+T416	Disease 4561 4562;4563 4568	高 胆固醇血症
+T417	Test 4838 4840	年龄
+T418	Test 4841 4843	性别
+T419	Disease 5128 5133;5134 5135	大血管并发 症
+T420	Disease 5437 5441	恶性肿瘤
+T421	Disease 5725 5727	肿瘤
+T422	Drug 5917 5920	胰岛素
+T423	Test 7715 7717	年龄
+T424	Test 7718 7720	性别
+T425	Test 8716 8718	年龄
+T426	Test 8719 8721	性别
+T427	Test 8722 8726	饮酒比例
+T428	Test 9321 9324	糖代谢
+T429	Test 9325 9328	脂代谢
+T430	Test 9329 9331;9332 9334	血管 功能
+T431	Disease 9359 9365	大血管并发症
+T432	Disease 9377 9383	大血管并发症
+T433	Test 9822 9830	踝脉搏波传导速度
+T434	Disease 9833 9838	颈动脉斑块
+T435	Test_Value 9830 9832	升高
+T436	Disease 10678 10684	大血管并发症
+T437	Disease 10699 10705	大血管并发症
+T438	Test 10728 10730	年龄
+T439	Test 10731 10733	性别
+T440	Test_Value 10745 10747	增高
+T441	Test_Value 10961 10963	升高
+T442	Test 20355 20362	大血管功能指标
+T443	Test 22049 22051	年龄
+T444	Test 22052 22054	性别
+T445	Disease 22415 22421	大血管并发症
+T446	Test 1144 1155	ASCVD 心血管风险
+T447	Test 1157 1173	Framingham 心血管风险
+T448	Test 1198 1207	十年心血管事件风险
+T449	Test 1232 1234;1235 1242	十年 心血管事件风险
+T450	Test 1253 1266	ASCVD 心血管风险评估
+T451	Test 1303 1313;1314 1321	Framingham 心血管风险评估
+T452	Test 4821 4824	FRS
+T453	Test 4897 4900	FRS
+T454	Test 4944 4951	心血管风险量表
+T455	Test 5144 5147	FRS
+T456	Test 6445 6448	WHR
+T457	Test 6491 6493	血压
+T458	Test 7309 7316	脉搏波传导速度
+T459	Anatomy 7373 7376	肘关节
+T460	Anatomy 7393 7396	踝关节
+T461	Test 7411 7415;7416 7419	脉搏波传 导速度
+T462	Test 7656 7659	FRS
+T463	Test 7684 7700	ASCVD risk score
+T464	Test 7910 7913	FRS
+T465	Test 7916 7921	ASCVD
+T466	Test_Value 7922 7923;7924 7927	≥ 20%
+T467	Test_Value 8081 8087	<0. 89
+T468	Test_Value 8126 8141	在 0. 93 ~ 0. 96
+T469	Test_Value 8099 8112	0. 89 ~ 0. 93
+T470	Test_Value 8154 8155;8156 8161	≥ 0. 96
+T471	Test_Value 8175 8181	<0. 86
+T472	Test_Value 8194 8207	0. 86 ~ 0. 89
+T473	Test_Value 8222 8229;8230 8235	0. 89 ~ 0. 93
+T474	Test_Value 8248 8254	≥0. 93
+T475	Test 8868 8870	血压
+T476	Test 9105 9109	踝臂指数
+T477	Disease 5296 5298;5299 5300	糖尿 病
+T478	Disease 9427 9437	十年心血管事件高风险
+T479	Test 9637 9640	FRS
+T480	Disease 9644 9654	十年心血管事件高风险
+T481	Test 9669 9679	ASCVD 危险评分
+T482	Disease 9682 9690;9691 9693	十年心血管事件高 风险
+T483	Test 9723 9726	FRS
+T484	Test 9741 9751	ASCVD 危险评分
+T485	Test 19393 19408;19409 19414	Framingham risk score
+T486	Test 19414 19418	(FRS
+T487	Test 19426 19442	ASCVD risk score
+T488	Test 19453 19454;19455 19464	十 年心血管事件的风险
+T489	Test_Value 19471 19475	≥20%
+T490	Test 19488 19497	十年心血管事件风险
+T491	Test 19549 19552	FRS
+T492	Test 19824 19827	FRS
+T493	Test 19887 19892;19893 19897	ASCVD 危险评分
+T494	Test 19959 19969	ASCVD 危险评分
+T495	Test 20241 20251	ASCVD 危险评分
+T496	Test 20363 20372	十年心血管事件风险
+T497	Disease 20460 20471	十年心血管事件的高风险
+T498	Test 20491 20500	十年心血管事件风险
+T499	Test 20632 20642	CT 测量的内脏脂肪
+T500	Test 20878 20880	超声
+T501	Anatomy 21680 21684	冠脉斑块
+T502	Test 21847 21849	超声
+T503	Disease 21993 22003	十年心血管事件高风险
+T504	Test 22026 22029	FRS
+T505	Test 22032 22042	ASCVD 风险量表
+T506	Test 22432 22435	FRS
+T507	Test 22438 22448	ASCVD 危险评分
+T508	Anatomy 773 775	脂肪
+T509	Anatomy 1425 1427	脂肪
+T510	Anatomy 3621 3623	脂肪
+T511	Anatomy 3725 3727	四肢
+T512	Disease 4493 4498	心血管事件
+T513	Anatomy 4914 4917	心血管
+T514	Anatomy 5093 5095	脂肪
+T515	Anatomy 5116 5118	脂肪
+T516	Disease 5164 5169	心血管事件
+T517	Disease 5466 5471	心血管事件
+T518	Test 5494 5501	大血管功能检测
+T519	Anatomy 5528 5531	心血管
+T520	Anatomy 5951 5954	心血管
+T521	Anatomy 9768 9771	心血管
+T522	Anatomy 10673 10675	脂肪
+T523	Anatomy 19370 19373	心血管
+T524	Anatomy 19900 19903	心血管
+T525	Anatomy 19973 19976	心血管
+T526	Anatomy 20254 20257	心血管
+T527	Anatomy 20349 20351	脂肪
+T528	Anatomy 22180 22183	心血管
+T529	Anatomy 22223 22226	心血管
+T530	Anatomy 22496 22499	心血管
+T531	Test 8977 8986	HDL-C 胆固醇
+T532	Test 997 1003	清晨空腹血糖
+T533	Test 8448 8462	颈动脉粥样硬化斑块的患病风险
+T534	Disease 9110 9119	颈动脉粥样硬化斑块
+T535	Disease 20429 20436	颈动脉粥样硬化
+T536	Disease 22401 22406;22407 22409	颈动脉粥样 硬化
+T537	Disease 7805 7811	ABI 异常
+T538	Test 9476 9479	ABI
+T539	Test 9582 9585	ABI
+T540	Disease 19311 19317	异常 ABI
+T541	Disease 21586 21592	ABI 异常
+T542	Test 1133 1142	十年心血管疾病风险
+T543	Test 7588 7599	未来十年心血管疾病风险
+T544	Disease 7891 7894;7895 7903	十年心 血管疾病风险增高
+T545	Test 9162 9171	十年心血管疾病风险
+T546	Test 22451 22460;22461 22464	十年心血管疾病患病 高风险
+T547	Disease 7796 7803	CIMT 升高
+T548	Test 9456 9460	CIMT
+T549	Test 9539 9543	CIMT
+T550	Test 10749 10753	CIMT
+T551	Disease 10785 10792	CIMT 增厚
+T552	Disease 10853 10860	CIMT 增厚
+T553	Test 10967 10971	CIMT
+T554	Disease 11010 11017	CIMT 增厚
+T555	Test 11149 11153	CIMT
+T556	Disease 19165 19172	CIMT 增厚
+T557	Test 1022 1029	葡萄糖耐量试验
+T558	Test 1030 1036	2 h 血糖
+T559	Test 1474 1482	颈动脉内中膜厚度
+T560	Test 1492 1501	臂踝脉搏波传导速度
+T561	Test 1485 1491	踝臂指数异常
+T562	Anatomy 3651 3655	内脏脂肪
+T563	Anatomy 3648 3650	腹部
+T564	Reason 3797 3801	代谢异常
+T565	Test 3863 3865;3866 3870	腹部 内脏脂肪
+T566	Reason 4373 4379	外周血管狭窄
+T567	Reason 4431 4437	外周血管硬化
+T568	Anatomy 4955 4958	心血管
+T569	Disease 5039 5045	非致死性卒中
+T570	Disease 5150 5155	ASCVD
+T571	Test 5349 5356	葡萄糖耐量试验
+T572	Test 5357 5360;5361 5363	2 h 血糖
+T573	Disease 5390 5393	糖尿病
+T574	Anatomy 7073 7079	右侧颈总动脉
+T575	Anatomy 7137 7143	右侧颈总动脉
+T576	Anatomy 7212 7218	左侧颈总动脉
+T577	Test 7548 7550	血压
+T578	Anatomy 7546 7548	踝部
+T579	Anatomy 7552 7553;7554 7556	肱 动脉
+T580	Test 7556 7558	血压
+T581	Test 7881 7886	baPWV
+T582	Test_Value 7887 7889	增高
+T583	Test 8342 8347	糖尿病病程
+T584	Test 9238 9243	糖尿病病程
+T585	Test 9386 9390;9391 9394	颈动脉内 中膜层
+T586	Test 9397 9406	臂踝脉搏波传导速度
+T587	Test 9409 9413	踝臂指数
+T588	Test_Value 9394 9396	增厚
+T589	Test_Value 9406 9408	增高
+T590	Test_Value 9413 9414;9415 9416	异 常
+T591	Test_Value 9461 9463	增厚
+T592	Test 9491 9496	baPWV
+T593	Test_Value 9480 9482	异常
+T594	Test_Value 9497 9499	升高
+T595	Test_Value 9544 9546	增厚
+T596	Test 9573 9578	baPWV
+T597	Test_Value 9579 9581	增高
+T598	Test_Value 9586 9588	异常
+T599	Test_Value 10754 10756	增厚
+T600	Test_Value 10972 10973;10974 10975	增 厚
+T601	Test 11130 11131;11132 11136	糖 尿病病程
+T602	Test_Value 11154 11156	增厚
+T603	Disease 19318 19326	baPWV 增加
+T604	Test 19753 19758	糖尿病病程
+T605	Test 20172 20177	糖尿病病程
+T606	Test 20396 20403;20404 20406	颈动脉内中膜层 厚度
+T607	Test 20418 20427	臂踝脉搏波传导速度
+T608	Test 20411 20415	踝臂指数
+T609	Test 20513 20518	糖尿病病程
+T610	Test 20683 20691;20692 20694	B 超诊断的内脏 脂肪
+T611	Anatomy 20774 20777;20778 20779	全身脂 肪
+T612	Test 20885 20894	腹部内脏脂肪的含量
+T613	Test 20896 20903	颈动脉内中膜层
+T614	Test_Value 20903 20905	增厚
+T615	Test 20939 20941	CT
+T616	Anatomy 20946 20950	内脏脂肪
+T617	Test 21043 21052	颈动脉内中膜层厚度
+T618	Anatomy 21486 21490	腹内脂肪
+T619	Test 21513 21515	CT
+T620	Anatomy 21519 21525	腹部内脏脂肪
+T621	Test 21635 21637	CT
+T622	Anatomy 21641 21644;21645 21646	内脏脂 肪
+T623	Test 22071 22078	HDL 胆固醇
+T624	Test 22373 22380	颈动脉内中膜层
+T625	Test 22386 22390	踝臂指数
+T626	Test 22391 22398	脉搏波传导速度
+R1	Test_Disease Arg1:T223 Arg2:T231
+R2	Test_Disease Arg1:T532 Arg2:T232
+R3	Test_Disease Arg1:T242 Arg2:T243
+R4	Test_Disease Arg1:T242 Arg2:T243
+R5	Test_Disease Arg1:T241 Arg2:T243
+R6	Test_Disease Arg1:T240 Arg2:T243
+R7	Test_Disease Arg1:T48 Arg2:T243
+R8	Anatomy_Disease Arg1:T562 Arg2:T247
+R9	Anatomy_Disease Arg1:T563 Arg2:T247
+R10	Test_Disease Arg1:T565 Arg2:T253
+R11	Test_Disease Arg1:T252 Arg2:T253
+R12	Test_Disease Arg1:T50 Arg2:T253
+R13	Test_Disease Arg1:T114 Arg2:T253
+R14	Test_Disease Arg1:T224 Arg2:T178
+R15	Test_Disease Arg1:T259 Arg2:T178
+R16	Test_Disease Arg1:T257 Arg2:T178
+R17	Anatomy_Disease Arg1:T258 Arg2:T178
+R18	Anatomy_Disease Arg1:T260 Arg2:T179
+R19	Test_Disease Arg1:T121 Arg2:T261
+R20	Anatomy_Disease Arg1:T262 Arg2:T261
+R21	Anatomy_Disease Arg1:T265 Arg2:T264
+R22	Test_Disease Arg1:T272 Arg2:T181
+R23	Test_Disease Arg1:T271 Arg2:T181
+R24	Test_Disease Arg1:T275 Arg2:T276
+R25	Test_Disease Arg1:T278 Arg2:T277
+R26	Test_Disease Arg1:T194 Arg2:T279
+R27	Test_Disease Arg1:T280 Arg2:T279
+R28	Test_Disease Arg1:T452 Arg2:T183
+R29	Test_Disease Arg1:T281 Arg2:T184
+R30	Test_Disease Arg1:T454 Arg2:T283
+R31	Test_Disease Arg1:T51 Arg2:T286
+R32	Anatomy_Disease Arg1:T285 Arg2:T286
+R33	Test_Disease Arg1:T455 Arg2:T570
+R34	Test_Disease Arg1:T225 Arg2:T289
+R35	Test_Disease Arg1:T23 Arg2:T289
+R36	Test_Disease Arg1:T476 Arg2:T534
+R37	Test_Disease Arg1:T72 Arg2:T534
+R38	Test_Disease Arg1:T464 Arg2:T544
+R39	Test_Disease Arg1:T465 Arg2:T544
+R40	Test_Disease Arg1:T139 Arg2:T537
+R41	Test_Disease Arg1:T138 Arg2:T537
+R42	Test_Disease Arg1:T198 Arg2:T547
+R43	Test_Disease Arg1:T199 Arg2:T547
+R44	Test_Disease Arg1:T584 Arg2:T337
+R45	Test_Disease Arg1:T74 Arg2:T338
+R46	Test_Disease Arg1:T73 Arg2:T336
+R47	Test_Disease Arg1:T545 Arg2:T336
+R48	Test_Disease Arg1:T75 Arg2:T339
+R49	Test_Disease Arg1:T76 Arg2:T340
+R50	Test_Disease Arg1:T341 Arg2:T340
+R51	Test_Disease Arg1:T77 Arg2:T340
+R52	Test_Disease Arg1:T479 Arg2:T480
+R53	Test_Disease Arg1:T481 Arg2:T482
+R54	Test_Disease Arg1:T83 Arg2:T348
+R55	Test_Disease Arg1:T85 Arg2:T551
+R56	Test_Disease Arg1:T218 Arg2:T552
+R57	Test_Disease Arg1:T86 Arg2:T350
+R58	Test_Disease Arg1:T87 Arg2:T554
+R59	Test_Disease Arg1:T93 Arg2:T556
+R60	Test_Disease Arg1:T151 Arg2:T556
+R61	Test_Disease Arg1:T94 Arg2:T540
+R62	Test_Disease Arg1:T95 Arg2:T353
+R63	Test_Disease Arg1:T485 Arg2:T353
+R64	Test_Disease Arg1:T486 Arg2:T353
+R65	Test_Disease Arg1:T487 Arg2:T353
+R66	Test_Disease Arg1:T15 Arg2:T354
+R67	Test_Disease Arg1:T604 Arg2:T354
+R68	Test_Disease Arg1:T16 Arg2:T355
+R69	Test_Disease Arg1:T496 Arg2:T7
+R70	Test_Disease Arg1:T102 Arg2:T356
+R71	Test_Disease Arg1:T104 Arg2:T358
+R72	Test_Disease Arg1:T359 Arg2:T358
+R73	Test_Disease Arg1:T500 Arg2:T365
+R74	Test_Disease Arg1:T206 Arg2:T366
+R75	Test_Disease Arg1:T157 Arg2:T369
+R76	Test_Disease Arg1:T106 Arg2:T369
+R77	Test_Disease Arg1:T109 Arg2:T374
+R78	Test_Disease Arg1:T144 Arg2:T377
+R79	Test_Disease Arg1:T375 Arg2:T377
+R80	Anatomy_Disease Arg1:T380 Arg2:T379
+R81	Test_Disease Arg1:T381 Arg2:T541
+R82	Anatomy_Disease Arg1:T382 Arg2:T387
+R83	Test_Disease Arg1:T383 Arg2:T388
+R84	Test_Disease Arg1:T384 Arg2:T388
+R85	Anatomy_Disease Arg1:T501 Arg2:T388
+R86	Anatomy_Disease Arg1:T385 Arg2:T386
+R87	Anatomy_Disease Arg1:T389 Arg2:T390
+R88	Anatomy_Disease Arg1:T392 Arg2:T391
+R89	Test_Disease Arg1:T502 Arg2:T396
+R90	Test_Disease Arg1:T110 Arg2:T393
+R91	Test_Disease Arg1:T111 Arg2:T395
+R92	Test_Disease Arg1:T211 Arg2:T395
+R93	Test_Disease Arg1:T112 Arg2:T503
+R94	Anatomy_Disease Arg1:T401 Arg2:T400
+R95	Anatomy_Disease Arg1:T403 Arg2:T402
+R96	Anatomy_Disease Arg1:T405 Arg2:T8
+R97	Anatomy_Disease Arg1:T407 Arg2:T408
+R98	Anatomy_Disease Arg1:T508 Arg2:T229
+R99	Anatomy_Disease Arg1:T509 Arg2:T2
+R100	Anatomy_Disease Arg1:T244 Arg2:T245
+R101	Test_Disease Arg1:T453 Arg2:T184
+R102	Anatomy_Disease Arg1:T513 Arg2:T184
+R103	Anatomy_Disease Arg1:T568 Arg2:T283
+R104	Anatomy_Disease Arg1:T514 Arg2:T5
+R105	Anatomy_Disease Arg1:T515 Arg2:T5
+R106	Test_Disease Arg1:T518 Arg2:T296
+R107	Anatomy_Disease Arg1:T519 Arg2:T296
+R108	Anatomy_Disease Arg1:T520 Arg2:T305
+R109	Anatomy_Disease Arg1:T522 Arg2:T347
+R110	Anatomy_Disease Arg1:T523 Arg2:T353
+R111	Anatomy_Disease Arg1:T527 Arg2:T7
+R112	Anatomy_Disease Arg1:T528 Arg2:T400
+R113	Anatomy_Disease Arg1:T529 Arg2:T402
+R114	Anatomy_Disease Arg1:T530 Arg2:T408
+R115	Test_Disease Arg1:T557 Arg2:T232
+R116	Test_Disease Arg1:T558 Arg2:T232
+R117	Test_Disease Arg1:T239 Arg2:T232
+R118	Test_Disease Arg1:T235 Arg2:T232
+R119	Test_Disease Arg1:T236 Arg2:T232
+R120	Test_Disease Arg1:T237 Arg2:T232
+R121	Test_Disease Arg1:T238 Arg2:T232
+R122	Test_Disease Arg1:T542 Arg2:T232
+R123	Test_Disease Arg1:T446 Arg2:T232
+R124	Test_Disease Arg1:T447 Arg2:T232
+R125	Test_Disease Arg1:T559 Arg2:T245
+R126	Test_Disease Arg1:T561 Arg2:T245
+R127	Test_Disease Arg1:T560 Arg2:T245
+R128	Anatomy_Disease Arg1:T510 Arg2:T411
+R129	Anatomy_Disease Arg1:T251 Arg2:T177
+R130	Test_Disease Arg1:T275 Arg2:T277
+R131	Test_Disease Arg1:T415 Arg2:T416
+R132	Test_Disease Arg1:T417 Arg2:T184
+R133	Test_Disease Arg1:T418 Arg2:T184
+R134	Test_Disease Arg1:T571 Arg2:T289
+R135	Test_Disease Arg1:T572 Arg2:T289
+R136	Drug_Disease Arg1:T422 Arg2:T303
+R137	Test_Disease Arg1:T329 Arg2:T537
+R138	Test_Disease Arg1:T330 Arg2:T537
+R139	Test_Disease Arg1:T581 Arg2:T537
+R140	Test_Disease Arg1:T428 Arg2:T340
+R141	Test_Disease Arg1:T429 Arg2:T340
+R142	Test_Disease Arg1:T430 Arg2:T340
+R143	Test_Disease Arg1:T585 Arg2:T343
+R144	Test_Disease Arg1:T586 Arg2:T343
+R145	Test_Disease Arg1:T587 Arg2:T343
+R146	Anatomy_Disease Arg1:T522 Arg2:T436
+R147	Test_Disease Arg1:T550 Arg2:T551
+R148	Test_Disease Arg1:T84 Arg2:T551
+R149	Test_Disease Arg1:T439 Arg2:T551
+R150	Test_Disease Arg1:T438 Arg2:T551
+R151	Test_Disease Arg1:T553 Arg2:T350
+R152	Test_Disease Arg1:T488 Arg2:T353
+R153	Test_Disease Arg1:T96 Arg2:T353
+R154	Test_Disease Arg1:T490 Arg2:T353
+R155	Test_Disease Arg1:T152 Arg2:T354
+R156	Test_Disease Arg1:T98 Arg2:T354
+R157	Test_Disease Arg1:T492 Arg2:T354
+R158	Test_Disease Arg1:T605 Arg2:T355
+R159	Test_Disease Arg1:T153 Arg2:T355
+R160	Test_Disease Arg1:T101 Arg2:T355
+R161	Test_Disease Arg1:T495 Arg2:T355
+R162	Anatomy_Disease Arg1:T526 Arg2:T355
+R163	Test_Disease Arg1:T442 Arg2:T7
+R164	Test_Disease Arg1:T606 Arg2:T356
+R165	Test_Disease Arg1:T608 Arg2:T356
+R166	Test_Disease Arg1:T607 Arg2:T356
+R167	Test_Disease Arg1:T105 Arg2:T358
+R168	Test_Disease Arg1:T499 Arg2:T358
+R169	Test_Disease Arg1:T203 Arg2:T358
+R170	Test_Disease Arg1:T156 Arg2:T365
+R171	Test_Disease Arg1:T205 Arg2:T365
+R172	Anatomy_Disease Arg1:T364 Arg2:T365
+R173	Test_Disease Arg1:T612 Arg2:T365
+R174	Test_Disease Arg1:T615 Arg2:T366
+R175	Anatomy_Disease Arg1:T616 Arg2:T366
+R176	Anatomy_Disease Arg1:T367 Arg2:T366
+R177	Test_Disease Arg1:T207 Arg2:T366
+R178	Anatomy_Disease Arg1:T368 Arg2:T366
+R179	Test_Disease Arg1:T617 Arg2:T369
+R180	Test_Disease Arg1:T158 Arg2:T369
+R181	Test_Disease Arg1:T159 Arg2:T369
+R182	Test_Disease Arg1:T208 Arg2:T369
+R183	Test_Disease Arg1:T107 Arg2:T369
+R184	Test_Disease Arg1:T160 Arg2:T369
+R185	Test_Disease Arg1:T621 Arg2:T388
+R186	Anatomy_Disease Arg1:T622 Arg2:T388
+R187	Test_Disease Arg1:T624 Arg2:T8
+R188	Test_Disease Arg1:T625 Arg2:T8
+R189	Test_Disease Arg1:T626 Arg2:T8
+R190	Test_Disease Arg1:T546 Arg2:T408
+R191	Test_Disease Arg1:T507 Arg2:T408
+R192	Test_Disease Arg1:T506 Arg2:T408
+R193	Anatomy_Disease Arg1:T406 Arg2:T408
+R194	Test_Disease Arg1:T455 Arg2:T5
+R195	Test_Disease Arg1:T79 Arg2:T482
+R196	Test_Disease Arg1:T103 Arg2:T497
+R197	Anatomy_Disease Arg1:T357 Arg2:T358
+R198	Anatomy_Disease Arg1:T508 Arg2:T409
+R199	Anatomy_Disease Arg1:T562 Arg2:T412
+R200	Anatomy_Disease Arg1:T563 Arg2:T412
+R201	Anatomy_Disease Arg1:T563 Arg2:T248
+R202	Anatomy_Disease Arg1:T562 Arg2:T248
+R203	Anatomy_Disease Arg1:T563 Arg2:T4
+R204	Anatomy_Disease Arg1:T562 Arg2:T4
+R205	Anatomy_Disease Arg1:T563 Arg2:T249
+R206	Anatomy_Disease Arg1:T562 Arg2:T249
+R207	Test_Disease Arg1:T114 Arg2:T254
+R208	Test_Disease Arg1:T50 Arg2:T254
+R209	Test_Disease Arg1:T252 Arg2:T254
+R210	Test_Disease Arg1:T565 Arg2:T254
+R211	Test_Disease Arg1:T114 Arg2:T255
+R212	Test_Disease Arg1:T50 Arg2:T255
+R213	Test_Disease Arg1:T252 Arg2:T255
+R214	Test_Disease Arg1:T565 Arg2:T255
+R215	Test_Disease Arg1:T114 Arg2:T256
+R216	Test_Disease Arg1:T50 Arg2:T256
+R217	Test_Disease Arg1:T252 Arg2:T256
+R218	Test_Disease Arg1:T565 Arg2:T256
+R219	Anatomy_Disease Arg1:T265 Arg2:T413
+R220	Test_Disease Arg1:T271 Arg2:T273
+R221	Test_Disease Arg1:T272 Arg2:T273
+R222	Test_Disease Arg1:T271 Arg2:T274
+R223	Test_Disease Arg1:T272 Arg2:T274
+R224	Test_Disease Arg1:T194 Arg2:T512
+R225	Test_Disease Arg1:T280 Arg2:T512
+R226	Test_Disease Arg1:T585 Arg2:T432
+R227	Test_Disease Arg1:T586 Arg2:T432
+R228	Test_Disease Arg1:T587 Arg2:T432
+R229	Test_Disease Arg1:T83 Arg2:T437
+R230	Test_Disease Arg1:T94 Arg2:T603
+R231	Test_Disease Arg1:T94 Arg2:T352
+R232	Test_Disease Arg1:T613 Arg2:T365

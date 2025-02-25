@@ -1,0 +1,427 @@
+T1	Disease 7988 7998	亚临床甲状腺功能减退
+T2	Test 3 8	甲状腺功能
+T3	Test 257 262	甲状腺功能
+T4	Test 597 602	甲状腺功能
+T5	Test 2698 2703	甲状腺功能
+T6	Test 2713 2718	甲状腺功能
+T7	Test 2943 2948	甲状腺功能
+T8	Test 3440 3445	甲状腺功能
+T9	Test 3551 3556	甲状腺功能
+T10	Test 3564 3569	甲状腺功能
+T11	Test 3669 3674	甲状腺功能
+T12	Test 3706 3711	甲状腺功能
+T13	Test 3748 3753	甲状腺功能
+T14	Test 4065 4070	甲状腺功能
+T15	Test 5289 5294	甲状腺功能
+T16	Test 5312 5317	甲状腺功能
+T17	Test 5559 5564	甲状腺功能
+T18	Test 5891 5896	甲状腺功能
+T19	Test 6408 6410;6411 6414	甲状 腺功能
+T20	Test 6765 6770	甲状腺功能
+T21	Test 6998 7003	甲状腺功能
+T22	Test 7221 7226	甲状腺功能
+T23	Test 7327 7332	甲状腺功能
+T24	Test 7697 7702	甲状腺功能
+T25	Test 7903 7908	甲状腺功能
+T26	Test 8093 8098	甲状腺功能
+T27	Test 8185 8190	甲状腺功能
+T28	Test 8331 8336	甲状腺功能
+T29	Test 8400 8405	甲状腺功能
+T30	Test 8634 8639	甲状腺功能
+T31	Test 8766 8771	甲状腺功能
+T32	Test 8971 8976	甲状腺功能
+T33	Test 9071 9076	甲状腺功能
+T34	Test 9162 9167	甲状腺功能
+T35	Test 9339 9344	甲状腺功能
+T36	Test 9363 9368	甲状腺功能
+T37	Test 9401 9406	甲状腺功能
+T38	Test 9419 9424	甲状腺功能
+T39	Test 9549 9560	妊娠期特异性甲状腺功能
+T40	Test 10970 10975	甲状腺功能
+T41	Test 271 274	TSH
+T42	Test 1448 1451	TSH
+T43	Test 3046 3049	TSH
+T44	Test 3455 3458	TSH
+T45	Test 3793 3796	TSH
+T46	Test 4129 4132	TSH
+T47	Test 4193 4196	TSH
+T48	Test 4213 4216	TSH
+T49	Test 4234 4237	TSH
+T50	Test 4261 4264	TSH
+T51	Test 4305 4308	TSH
+T52	Test 5371 5374	TSH
+T53	Test 5392 5395	TSH
+T54	Test 9733 9736	TSH
+T55	Test 9794 9797	TSH
+T56	Test 9849 9852	TSH
+T57	Test 9860 9863	TSH
+T58	Test 10901 10904	TSH
+T59	Test 11055 11058	TSH
+T60	Test 11572 11575	TSH
+T61	Test 267 270	FT4
+T62	Test 1443 1446	FT4
+T63	Test 3059 3062	FT4
+T64	Test 3451 3454	FT4
+T65	Test 3789 3792	FT4
+T66	Test 4161 4164	FT4
+T67	Test 4224 4227	FT4
+T68	Test 4244 4247	FT4
+T69	Test 4272 4275	FT4
+T70	Test 4312 4315	FT4
+T71	Test 5399 5402	FT4
+T72	Test 9711 9714	FT4
+T73	Test 10911 10914	FT4
+T74	Test 11590 11593	FT4
+T75	Test 6618 6620	体重
+T76	Test 276 286	甲状腺过氧化物酶抗体
+T77	Test 2560 2570	甲状腺过氧化物酶抗体
+T78	Test 2571 2576	TPOAb
+T79	Test 3461 3466	TPOAb
+T80	Test 3797 3802	TPOAb
+T81	Test 4375 4380	TPOAb
+T82	Test 10022 10027	TPOAb
+T83	Test 10084 10089	TPOAb
+T84	Test 10231 10236	TPOAb
+T85	Test 11533 11538	TPOAb
+T86	Test 263 266	TT4
+T87	Test 1438 1441	TT4
+T88	Test 3031 3034	TT4
+T89	Test 3446 3449	TT4
+T90	Test 3785 3788	TT4
+T91	Test 9578 9581	TT4
+T92	Test 9623 9626	TT4
+T93	Test 9650 9653	TT4
+T94	Test 9698 9701	TT4
+T95	Disease 164 169	甲状腺疾病
+T96	Disease 177 182	甲状腺疾病
+T97	Disease 311 319	妊娠期甲状腺疾病
+T98	Disease 324 331	甲状腺功能亢进
+T99	Disease 332 334	甲亢
+T100	Disease 357 364	甲状腺功能减退
+T101	Disease 365 367	甲减
+T102	Disease 391 400	单纯低甲状腺素血症
+T103	Disease 415 419	胎盘早剥
+T104	Disease 460 466	妊娠期糖尿病
+T105	Disease 509 511	早产
+T106	Disease 553 561	妊娠期甲状腺疾病
+T107	Disease 569 573	胎盘早剥
+T108	Disease 574 580	妊娠期糖尿病
+T109	Disease 581 583	早产
+T110	Disease 2430 2438	妊娠期甲状腺疾病
+T111	Disease 2505 2507	甲减
+T112	Test_Value 2577 2579	阴性
+T113	Disease 2614 2621	低甲状腺素血症
+T114	Disease 2622 2624	甲减
+T115	Disease 2638 2647	单纯低甲状腺素血症
+T116	Disease 2747 2753;2754 2757	单纯低甲状腺 素血症
+T117	Disease 2857 2865	妊娠期甲状腺疾病
+T118	Disease 3501 3503	甲减
+T119	Drug 3516 3522	左旋甲状腺素
+T120	Disease 3530 3532	甲亢
+T121	Drug 3538 3544	丙基硫氧嘧啶
+T122	Disease 3624 3629	甲状腺疾病
+T123	Disease 3686 3691	甲状腺疾病
+T124	Disease 3969 3977	妊娠期甲状腺疾病
+T125	Disease 4089 4092;4093 4095	妊娠期 甲减
+T126	Disease 4102 4104	甲亢
+T127	Disease 4111 4118	低甲状腺素血症
+T128	Disease 4125 4127	甲减
+T129	Test_Value 4196 4206	>10 mU / L
+T130	Disease 4231 4233	甲亢
+T131	Disease 4287 4294;4295 4296	妊娠期甲亢综合 征
+T132	Disease 4297 4304	低甲状腺素血症
+T133	Disease 4332 4341	单纯低甲状腺素血症
+T134	Test 4343 4350	甲状腺自身抗体
+T135	Test_Value 4350 4351;4352 4353	阴 性
+T136	Disease 4354 4361	低甲状腺素血症
+T137	Test 4363 4370	甲状腺自身抗体
+T138	Test_Value 4370 4372	阳性
+T139	Disease 5271 5279	妊娠期甲状腺疾病
+T140	Test 5356 5359;5360 5366	人绒毛 膜促性腺激素
+T141	Disease 5453 5458	甲状腺疾病
+T142	Disease 5331 5332;5333 5337	甲 状腺疾病
+T143	Disease 5475 5480	甲状腺疾病
+T144	Disease 5503 5505	甲减
+T145	Disease 5523 5524;5525 5526	甲 亢
+T146	Disease 5543 5552	单纯低甲状腺素血症
+T147	Disease 5625 5630	甲状腺疾病
+T148	Disease 5650 5654	胎盘早剥
+T149	Disease 6346 6351	亚临床甲减
+T150	Disease 6401 6406	甲状腺疾病
+T151	Disease 9229 9231	流产
+T152	Disease 9232 9234;9235 9239	低出 生体重儿
+T153	Disease 9240 9243	巨大儿
+T154	Disease 9244 9249	新生儿窒息
+T155	Disease 9250 9252	畸形
+T156	Disease 9264 9272	妊娠期高血压疾病
+T157	Disease 9274 9280	足月胎膜早破
+T158	Disease 9282 9287;9288 9290	未足月胎膜 早破
+T159	Disease 9291 9299	胎儿宫内生长受限
+T160	Disease 9300 9304	羊水过多
+T161	Disease 9305 9309	羊水过少
+T162	Test 9677 9686	甲状腺素结合球蛋白
+T163	Test 9783 9792	人绒毛膜促性腺激素
+T164	Anatomy 9810 9815	甲状腺细胞
+T165	Anatomy 9816 9822	TSH 受体
+T166	Test 9830 9832;9833 9836	甲状 腺激素
+T167	Disease 9897 9902	甲状腺疾病
+T168	Disease 9908 9910	甲减
+T169	Disease 9934 9936	甲亢
+T170	Disease 9959 9960;9961 9969	单 纯低甲状腺素血症
+T171	Disease 9982 9987	甲状腺疾病
+T172	Disease 10013 10015	甲减
+T173	Test_Value 10028 10030	阳性
+T174	Disease 10074 10076	甲减
+T175	Test_Value 10090 10092	阳性
+T176	Disease 10141 10143	甲减
+T177	Test_Value 10237 10239	阳性
+T178	Disease 10279 10284	甲状腺疾病
+T179	Disease 10395 10400	甲状腺疾病
+T180	Disease 10443 10445	早产
+T181	Disease 10447 10449	甲亢
+T182	Disease 10450 10454	胎盘早剥
+T183	Disease 10465 10471	妊娠期糖尿病
+T184	Disease 10523 10525	流产
+T185	Disease 10526 10528;10529 10531	低体 重儿
+T186	Disease 10532 10535	巨大儿
+T187	Disease 10536 10541	新生儿窒息
+T188	Disease 10542 10544	畸形
+T189	Disease 10556 10564	妊娠期高血压疾病
+T190	Disease 10565 10571	足月胎膜早破
+T191	Disease 10572 10578;10579 10580	未足月胎膜早 破
+T192	Disease 10581 10589	胎儿宫内生长受限
+T193	Disease 10590 10594	羊水过多
+T194	Disease 10595 10599	羊水过少
+T195	Disease 10762 10764	流产
+T196	Disease 10774 10775;10776 10777	早 产
+T197	Disease 10778 10782	先兆子痫
+T198	Disease 10783 10789	重度子痫前期
+T199	Disease 10790 10796	妊娠期糖尿病
+T200	Disease 10855 10857	流产
+T201	Disease 10858 10860	死胎
+T202	Disease 10882 10884	流产
+T203	Disease 10885 10886;10887 10888	死 胎
+T204	Disease 10990 10992	早产
+T205	Drug 11041 11047	左旋甲状腺素
+T206	Test 11115 11119	甲状腺素
+T207	Disease 11140 11147	低甲状腺素血症
+T208	Disease 11183 11186;11187 11191	低甲状 腺素血症
+T209	Disease 11240 11245;11246 11248	低甲状腺素 血症
+T210	Disease 11282 11289	低甲状腺素血症
+T211	Disease 11324 11325;11326 11332	低 甲状腺素血症
+T212	Disease 11431 11438	低甲状腺素血症
+T213	Disease 11524 11531	低甲状腺素血症
+T214	Disease 11542 11544	早产
+T215	Test_Value 11539 11541	阳性
+T216	Disease 11556 11559;11560 11566	单纯低 甲状腺素血症
+T217	Disease 11616 11625	单纯低甲状腺素血症
+T218	Disease 11660 11668	妊娠期甲状腺疾病
+T219	Disease 11687 11689	甲亢
+T220	Disease 11690 11694	胎盘早剥
+T221	Disease 11706 11712	妊娠期糖尿病
+T222	Disease 11723 11725	早产
+T223	Test 4897 4902	甲状腺功能
+T224	Test 5005 5010	甲状腺功能
+T225	Test 5106 5111	甲状腺功能
+T226	Test 5152 5157	甲状腺功能
+T227	Test 6029 6034	甲状腺功能
+T228	Test 6157 6162	甲状腺功能
+T229	Test 6217 6222	甲状腺功能
+T230	Disease 2472 2474;2475 2479	不良 妊娠结局
+T231	Disease 2542 2548	不良妊娠结局
+T232	Disease 2669 2675	不良妊娠结局
+T233	Disease 9310 9312;9313 9317	不良 妊娠结局
+T234	Disease 9535 9536;9537 9542	不 良妊娠结局
+T235	Disease 10600 10603;10604 10607	不良妊 娠结局
+T236	Disease 10670 10676	不良妊娠结局
+T237	Disease 10730 10736	不良妊娠结局
+T238	Disease 10797 10800;10801 10804	不良妊 娠结局
+T239	Disease 11671 11676;11677 11678	不良妊娠结 局
+T240	Disease 11734 11740	不良妊娠结局
+T241	Disease 2912 2917	甲状腺疾病
+T242	Disease 4635 4640	甲状腺疾病
+T243	Disease 4728 4733	甲状腺疾病
+T244	Disease 4769 4774	甲状腺疾病
+T245	Disease 5687 5692	甲状腺疾病
+T246	Disease 6470 6475	甲状腺疾病
+T247	Disease 8394 8399	甲状腺疾病
+T248	Test 5585 5587	年龄
+T249	Test 5589 5591	孕次
+T250	Test 5592 5594	产次
+T251	Disease 6294 6299	亚临床甲亢
+T252	Disease 6300 6306	妊娠期糖尿病
+T253	Disease 6352 6354	早产
+T254	Disease 6441 6443	早产
+T255	Disease 6444 6450	妊娠期糖尿病
+T256	Disease 6451 6455	胎盘早剥
+T257	Disease 11075 11077	早产
+T258	Disease 11261 11268;11269 11270	精神运动功能延 迟
+T259	Test_Value 4216 4223	>P97. 5
+T260	Test_Value 4228 4230	正常
+T261	Test_Value 4237 4243	<P2. 5
+T262	Test_Value 4264 4265;4266 4271	< P2. 5
+T263	Test_Value 4247 4254	>P97. 5
+T264	Test_Value 4309 4311	正常
+T265	Test_Value 5396 5398	下降
+T266	Test_Value 5403 5405	正常
+T267	Test_Value 9590 9615	74. 53 ~ 190. 59 nmol / L
+T268	Test_Value 10905 10907	升高
+T269	Test_Value 10915 10917	下降
+T270	Disease 5050 5060	亚临床甲状腺功能减退
+T271	Disease 6085 6095	亚临床甲状腺功能减退
+T272	Disease 7099 7109	亚临床甲状腺功能减退
+T273	Disease 8860 8870	亚临床甲状腺功能减退
+T274	Disease 104 111	甲状腺功能异常
+T275	Disease 10294 10301	甲状腺功能异常
+T276	Disease 10328 10330;10331 10336	甲状 腺功能异常
+T277	Disease 10362 10369	甲状腺功能异常
+T278	Disease 10489 10496	甲状腺功能异常
+T279	Disease 10515 10522	甲状腺功能异常
+T280	Disease 10635 10642	甲状腺功能异常
+T281	Level 343 346	亚临床
+T282	Disease 346 348	甲亢
+T283	Level 377 380	亚临床
+T284	Disease 380 382	甲减
+T285	Level 410 412	临床
+T286	Disease 412 414	甲亢
+T287	Level 454 457	亚临床
+T288	Disease 457 459	甲亢
+T289	Level 502 505	亚临床
+T290	Disease 506 508	甲减
+T291	Disease 2446 2448;2449 2454	甲状 腺功能亢进
+T292	Disease 2455 2457	甲亢
+T293	Disease 2459 2466	甲状腺功能减退
+T294	Disease 2467 2469	甲减
+T295	Disease 2498 2501;2502 2504	妊娠期 甲亢
+T296	Level 2533 2536	亚临床
+T297	Disease 2536 2538	甲减
+T298	Level 2581 2584	亚临床
+T299	Disease 2584 2586	甲减
+T300	Level 2593 2596	亚临床
+T301	Disease 2596 2598	甲减
+T302	Level 2741 2744	亚临床
+T303	Disease 2744 2746	甲减
+T304	Level 3504 3507	亚临床
+T305	Disease 3508 3510	甲减
+T306	Disease 3609 3614	甲状腺疾病
+T307	Disease 4017 4024	产后甲状腺疾病
+T308	Level 4096 4099	亚临床
+T309	Disease 4099 4101	甲减
+T310	Level 4105 4108	亚临床
+T311	Disease 4108 4110	甲亢
+T312	Level 4207 4210	亚临床
+T313	Disease 4210 4212	甲减
+T314	Level 4255 4258	亚临床
+T315	Disease 4258 4260	甲亢
+T316	Disease 4282 4284	甲亢
+T317	Level 5511 5514	亚临床
+T318	Disease 5514 5516	甲减
+T319	Level 5532 5535	亚临床
+T320	Disease 5535 5537	甲亢
+T321	Level 5644 5646	临床
+T322	Disease 5646 5647;5648 5649	甲 亢
+T323	Test 9660 9666;9667 9672	甲状腺素结合 球蛋白浓度
+T324	Test 9769 9776;9777 9779	人绒毛膜促性腺 激素
+T325	Level 9919 9920;9921 9923	亚 临床
+T326	Disease 9923 9925	甲减
+T327	Level 9945 9948	亚临床
+T328	Disease 9948 9950	甲亢
+T329	Level 10016 10019	亚临床
+T330	Disease 10019 10021	甲减
+T331	Level 10077 10080	亚临床
+T332	Disease 10080 10082	甲减
+T333	Disease 10162 10163;10164 10168	复 发性流产
+T334	Level 10437 10440	亚临床
+T335	Disease 10440 10442	甲减
+T336	Level 10459 10462	亚临床
+T337	Disease 10462 10464	甲亢
+T338	Level 10662 10665	亚临床
+T339	Disease 10665 10667	甲减
+T340	Level 10723 10725;10726 10727	亚临 床
+T341	Disease 10727 10729	甲减
+T342	Level 10754 10757	亚临床
+T343	Disease 10757 10759	甲减
+T344	Disease 10768 10773	新生儿死亡
+T345	Level 10928 10931	亚临床
+T346	Disease 10931 10933	甲减
+T347	Level 10984 10987	亚临床
+T348	Disease 10987 10989	甲减
+T349	Disease 10998 11002	自发早产
+T350	Level 11029 11032	亚临床
+T351	Disease 11032 11034	甲减
+T352	Level 11069 11072	亚临床
+T353	Disease 11072 11074	甲减
+T354	Level 11699 11701;11702 11703	亚临 床
+T355	Disease 11703 11705	甲亢
+T356	Level 11717 11720	亚临床
+T357	Disease 11720 11722	甲减
+R1	Test_Disease Arg1:T77 Arg2:T297
+R2	Test_Disease Arg1:T78 Arg2:T297
+R3	Drug_Disease Arg1:T119 Arg2:T305
+R4	Drug_Disease Arg1:T121 Arg2:T120
+R5	Test_Disease Arg1:T9 Arg2:T120
+R6	Test_Disease Arg1:T11 Arg2:T123
+R7	Test_Disease Arg1:T12 Arg2:T123
+R8	Test_Disease Arg1:T14 Arg2:T307
+R9	Test_Disease Arg1:T46 Arg2:T128
+R10	Test_Disease Arg1:T66 Arg2:T128
+R11	Test_Disease Arg1:T47 Arg2:T128
+R12	Test_Disease Arg1:T49 Arg2:T130
+R13	Test_Disease Arg1:T68 Arg2:T130
+R14	Test_Disease Arg1:T69 Arg2:T315
+R15	Test_Disease Arg1:T67 Arg2:T313
+R16	Test_Disease Arg1:T48 Arg2:T313
+R17	Test_Disease Arg1:T50 Arg2:T315
+R18	Test_Disease Arg1:T51 Arg2:T132
+R19	Test_Disease Arg1:T70 Arg2:T132
+R20	Test_Disease Arg1:T134 Arg2:T133
+R21	Test_Disease Arg1:T137 Arg2:T136
+R22	Test_Disease Arg1:T81 Arg2:T136
+R23	Test_Disease Arg1:T16 Arg2:T142
+R24	Test_Disease Arg1:T140 Arg2:T142
+R25	Test_Disease Arg1:T52 Arg2:T142
+R26	Test_Disease Arg1:T82 Arg2:T330
+R27	Test_Disease Arg1:T83 Arg2:T332
+R28	Test_Disease Arg1:T58 Arg2:T346
+R29	Test_Disease Arg1:T73 Arg2:T346
+R30	Test_Disease Arg1:T40 Arg2:T348
+R31	Drug_Disease Arg1:T205 Arg2:T351
+R32	Test_Disease Arg1:T59 Arg2:T351
+R33	Test_Disease Arg1:T206 Arg2:T207
+R34	Test_Disease Arg1:T85 Arg2:T214
+R35	Test_Disease Arg1:T60 Arg2:T216
+R36	Test_Disease Arg1:T74 Arg2:T216
+R37	Test_Disease Arg1:T5 Arg2:T303
+R38	Test_Disease Arg1:T6 Arg2:T303
+R39	Test_Disease Arg1:T6 Arg2:T116
+R40	Test_Disease Arg1:T5 Arg2:T116
+R41	Test_Disease Arg1:T79 Arg2:T118
+R42	Test_Disease Arg1:T44 Arg2:T118
+R43	Test_Disease Arg1:T64 Arg2:T118
+R44	Test_Disease Arg1:T89 Arg2:T118
+R45	Test_Disease Arg1:T8 Arg2:T118
+R46	Test_Disease Arg1:T10 Arg2:T120
+R47	Test_Disease Arg1:T13 Arg2:T123
+R48	Test_Disease Arg1:T15 Arg2:T142
+R49	Test_Disease Arg1:T53 Arg2:T142
+R50	Test_Disease Arg1:T71 Arg2:T142
+R51	Test_Disease Arg1:T84 Arg2:T178
+R52	Test_Disease Arg1:T47 Arg2:T313
+R53	Test_Disease Arg1:T68 Arg2:T315
+R54	Test_Disease Arg1:T69 Arg2:T316
+R55	Test_Disease Arg1:T15 Arg2:T139
+R56	Test_Disease Arg1:T17 Arg2:T146
+R57	Test_Disease Arg1:T58 Arg2:T203
+R58	Test_Disease Arg1:T73 Arg2:T203
+R59	Test_Disease Arg1:T17 Arg2:T320
+R60	Test_Disease Arg1:T17 Arg2:T145
+R61	Test_Disease Arg1:T17 Arg2:T318
+R62	Test_Disease Arg1:T17 Arg2:T144
+R63	Test_Disease Arg1:T17 Arg2:T143
+R64	Test_Disease Arg1:T19 Arg2:T150
+R65	Test_Disease Arg1:T83 Arg2:T174
+R66	Test_Disease Arg1:T84 Arg2:T176
+R67	Drug_Disease Arg1:T205 Arg2:T353
+R68	Test_Disease Arg1:T59 Arg2:T353
+R69	Drug_Disease Arg1:T205 Arg2:T257
+R70	Test_Disease Arg1:T59 Arg2:T257

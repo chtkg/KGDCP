@@ -1,0 +1,844 @@
+T1	Test 8277 8286	高密度脂蛋白胆固醇
+T2	Test 8264 8273	低密度脂蛋白胆固醇
+T3	Test 8253 8257	总胆固醇
+T4	Disease 8349 8355	动脉粥样硬化
+T5	Disease 8422 8426;8427 8429	动脉粥样 硬化
+T6	Test 190 195	甲状腺功能
+T7	Test 2796 2801	甲状腺功能
+T8	Test 2824 2829	甲状腺功能
+T9	Test 2858 2863	甲状腺功能
+T10	Test 3112 3117	甲状腺功能
+T11	Test 3898 3903	甲状腺功能
+T12	Test 4606 4611	甲状腺功能
+T13	Test 5274 5276;5277 5280	甲状 腺功能
+T14	Test 5534 5539	甲状腺功能
+T15	Test 6640 6641;6642 6646	甲 状腺功能
+T16	Test 6665 6670	甲状腺功能
+T17	Test 6689 6694	甲状腺功能
+T18	Test 7727 7732	甲状腺功能
+T19	Test 8645 8647;8648 8651	甲状 腺功能
+T20	Test 9633 9638	甲状腺功能
+T21	Test 9906 9911	甲状腺功能
+T22	Test 9991 9996	甲状腺功能
+T23	Test 10011 10016	甲状腺功能
+T24	Test 10057 10062	甲状腺功能
+T25	Test 10140 10145	甲状腺功能
+T26	Anatomy 3741 3745	活性氧簇
+T27	Test 8258 8262	甘油三酯
+T28	Test 143 146	TSH
+T29	Test 220 223	TSH
+T30	Test 303 306	TSH
+T31	Test 345 348	TSH
+T32	Test 1170 1173	TSH
+T33	Test 1329 1332	TSH
+T34	Test 1779 1782	TSH
+T35	Test 1855 1858	TSH
+T36	Test 2342 2345	TSH
+T37	Test 2849 2852	TSH
+T38	Test 2941 2944	TSH
+T39	Test 2971 2974	TSH
+T40	Test 3026 3029	TSH
+T41	Test 3143 3146	TSH
+T42	Test 3272 3275	TSH
+T43	Test 3552 3555	TSH
+T44	Test 3581 3584	TSH
+T45	Test 3611 3614	TSH
+T46	Test 3637 3640	TSH
+T47	Test 3751 3754	TSH
+T48	Test 3779 3782	TSH
+T49	Test 3799 3802	TSH
+T50	Test 3813 3816	TSH
+T51	Test 3851 3854	TSH
+T52	Test 3977 3980	TSH
+T53	Test 6886 6889	TSH
+T54	Test 6961 6964	TSH
+T55	Test 6997 7000	TSH
+T56	Test 7915 7918	TSH
+T57	Test 7959 7962	TSH
+T58	Test 8312 8315	TSH
+T59	Test 9426 9429	TSH
+T60	Test 9461 9464	TSH
+T61	Test 9511 9514	TSH
+T62	Test 9543 9546	TSH
+T63	Test 9733 9736	TSH
+T64	Test 10039 10042	TSH
+T65	Test 3174 3177	FT4
+T66	Test 3363 3366	FT4
+T67	Test 3373 3376	FT4
+T68	Test 3456 3459	FT4
+T69	Test 3983 3986	FT4
+T70	Test 6216 6219	FT4
+T71	Test 9718 9721	FT4
+T72	Test 9860 9863	FT4
+T73	Test 3441 3444	FT3
+T74	Test 9708 9711	FT3
+T75	Test 9856 9859	FT3
+T76	Test 9273 9283	甲状腺过氧化物酶抗体
+T77	Test 3315 3320	TPOAb
+T78	Test 4937 4940	心电图
+T79	Disease 96 103	甲状腺功能减退
+T80	Disease 104 111	甲状腺功能亢进
+T81	Test 136 142	促甲状腺激素
+T82	Test_Value 306 316	<10 mU / L
+T83	Test_Value 348 358	<10 mU / L
+T84	Disease 2208 2210	甲亢
+T85	Disease 2212 2219	甲状腺功能减低
+T86	Disease 2220 2222	甲减
+T87	Disease 2247 2249	甲减
+T88	Anatomy 2256 2259	甲状腺
+T89	Anatomy 2264 2267	甲状腺
+T90	Test 2335 2341	促甲状腺激素
+T91	Disease 2448 2450	甲减
+T92	Disease 2637 2639	甲亢
+T93	Drug 2642 2646	甲状腺素
+T94	Disease 2667 2671	骨质疏松
+T95	Test 2873 2878	甲状腺激素
+T96	Test 2900 2906	抗甲状腺抗体
+T97	Disease 3232 3235	亚甲减
+T98	Test 3468 3471	rT3
+T99	Test 3487 3492	甲状腺激素
+T100	Test 3659 3664	甲状腺激素
+T101	Test 3676 3681	甲状腺激素
+T102	Test 3945 3947	T3
+T103	Test 3954 3957	rT3
+T104	Test 4005 4010	甲状腺激素
+T105	Test 4036 4040;4041 4042	甲状腺功 能
+T106	Disease 4088 4096;4097 4099	自身免疫性甲状腺 疾病
+T107	Disease 4435 4437	甲亢
+T108	Disease 4463 4471	Graves 病
+T109	Disease 4472 4481	毒性结节性甲状腺肿
+T110	Drug 4510 4513	胺碘酮
+T111	Drug 4569 4572	胺碘酮
+T112	Drug 4631 4634	胺碘酮
+T113	Disease 4635 4637	甲亢
+T114	Test 4670 4675	甲状腺激素
+T115	Disease 4698 4700	甲亢
+T116	Symptom 4714 4717	突眼征
+T117	Disease 4735 4740	淡漠型甲亢
+T118	Symptom 4747 4749	纳差
+T119	Symptom 4750 4755	消耗性表现
+T120	Disease 4764 4766	骨折
+T121	Disease 4786 4788	房颤
+T122	Disease 4789 4791;4792 4794	心力 衰竭
+T123	Disease 4800 4802	甲亢
+T124	Disease 4843 4847	心房扑动
+T125	Test 4849 4852	心室率
+T126	Drug 4854 4859	洋地黄制剂
+T127	Drug 4864 4868	洋地黄类
+T128	Disease 4879 4883	心力衰竭
+T129	Disease 4885 4888	心绞痛
+T130	Anatomy 4891 4895	冠状动脉
+T131	Test 4908 4910	脉压
+T132	Test 4912 4914	血脂
+T133	Symptom 4951 4956	进行性消瘦
+T134	Symptom 4957 4959	腹泻
+T135	Symptom 4960 4961;4962 4963	焦 虑
+T136	Symptom 4964 4966	抑郁
+T137	Symptom 4967 4969	失眠
+T138	Disease 4972 4974	甲亢
+T139	Disease 4991 4993	甲亢
+T140	Disease 5065 5067	甲亢
+T141	Test 5105 5107	T4
+T142	Disease 5134 5136	死亡
+T143	Disease 5174 5176	房颤
+T144	Test_Value 5213 5226	<0. 1 mIU / L
+T145	Disease 5232 5234	房颤
+T146	Disease 5288 5290	房颤
+T147	Disease 5601 5603	痴呆
+T148	Disease 5610 5611;5612 5616	老 年痴呆症
+T149	Level 5708 5710	轻度
+T150	Disease 5710 5716	认知功能障碍
+T151	Disease 5764 5767	MCL
+T152	Disease 5769 5771	痴呆
+T153	Disease 5857 5863	认知功能障碍
+T154	Disease 5867 5870	MCL
+T155	Disease 5872 5874	痴呆
+T156	Disease 5900 5902	甲亢
+T157	Drug 5908 5911;5912 5915	抗甲状 腺药物
+T158	Treatment 5919 5933	放射性碘( 131 I)治疗
+T159	Disease 5967 5969	甲亢
+T160	Disease 5988 5990	甲亢
+T161	Test 6078 6083	甲状腺激素
+T162	Anatomy 6095 6097	心脏
+T163	Disease 6104 6108	甲亢危象
+T164	Symptom 6133 6135	高热
+T165	Symptom 6136 6138	大汗
+T166	Symptom 6139 6143	心动过速
+T167	Test_Value 6145 6149;6150 6157	>140 次 / min
+T168	Symptom 6159 6161	烦躁
+T169	Symptom 6162 6164	焦虑
+T170	Symptom 6168 6170	呕吐
+T171	Symptom 6171 6173	腹泻
+T172	Disease 6205 6207	甲亢
+T173	Level 6203 6205	严重
+T174	Disease 6258 6260	房颤
+T175	Disease 6261 6263	心衰
+T176	Disease 6264 6269	肺动脉高压
+T177	Disease 6271 6274	肾衰竭
+T178	Disease 6287 6290	糖尿病
+T179	Disease 6275 6276;6277 6278	感 染
+T180	Disease 6279 6281	创伤
+T181	Disease 6315 6328	老年重症 Graves 病
+T182	Drug 6333 6339	抗甲状腺药物
+T183	Disease 6387 6389	甲亢
+T184	Drug 6399 6404;6405 6406	抗甲状腺药 物
+T185	Drug 6406 6411	丙硫氧嘧啶
+T186	Test 6437 6438;6439 6443	甲 状腺激素
+T187	Anatomy 6450 6452	心脏
+T188	Drug 6467 6468;6469 6474	β 受体阻滞剂
+T189	Test 6478 6480	心率
+T190	Disease 6508 6510	甲亢
+T191	Disease 6514 6517	CHF
+T192	Drug 6522 6525	地高辛
+T193	Disease 6531 6533	甲亢
+T194	Drug 6535 6538	地高辛
+T195	Test 6562 6568	肾小球滤过率
+T196	Disease 6581 6583	甲亢
+T197	Symptom 6591 6593	心悸
+T198	Test 6608 6613	甲状腺激素
+T199	Disease 6734 6736	甲亢
+T200	Disease 6755 6758	高血压
+T201	Disease 6760 6763	CHF
+T202	Disease 6901 6903	甲亢
+T203	Disease 6920 6927	骨质疏松性骨折
+T204	Test_Value 6964 6977	<0. 1 mIU / L
+T205	Disease 7021 7023	甲亢
+T206	Symptom 7038 7042	体重减轻
+T207	Test 7100 7102	心率
+T208	Test 7115 7121	左室质量指数
+T209	Test 7122 7126;7127 7128	室间隔厚 度
+T210	Test 7129 7138	舒张期左室后壁厚度
+T211	Disease 7168 7170	甲减
+T212	Disease 7330 7332	甲减
+T213	Disease 7363 7365	死亡
+T214	Drug 7382 7386	甲状腺素
+T215	Disease 7472 7474	甲减
+T216	Reason 7564 7575	慢性淋巴细胞性甲状腺炎
+T217	Reason 7580 7583	碘过量
+T218	Reason 7584 7591	甲状腺治疗损伤
+T219	Reason 7606 7608	药物
+T220	Drug 7635 7638	胺碘酮
+T221	Drug 7647 7650	胺碘酮
+T222	Disease 7651 7653	甲减
+T223	Drug 7690 7693	胺碘酮
+T224	Disease 7694 7696	甲减
+T225	Disease 7698 7699;7700 7701	甲 亢
+T226	Drug 7721 7724	胺碘酮
+T227	Drug 7756 7759	胺碘酮
+T228	Disease 7760 7762	甲减
+T229	Drug 7818 7821	胺碘酮
+T230	Disease 7822 7824	甲减
+T231	Disease 8019 8021	甲减
+T232	Disease 8127 8133	缺血性心脏病
+T233	Test 8171 8177;8178 8179	甲状腺自身抗 体
+T234	Drug 8191 8196	甲状腺激素
+T235	Test_Value 8317 8322;8323 8329	大于 10 mU / L
+T236	Reason 8393 8397;8398 8399	亚临床甲 减
+T237	Reason 8400 8406	高胆固醇血症
+T238	Reason 8407 8410	高血压
+T239	Reason 8414 8417	糖尿病
+T240	Disease 8430 8434	心肌梗塞
+T241	Reason 8411 8413	吸烟
+T242	Drug 8667 8672	甲状腺制剂
+T243	Disease 8693 8696	冠心病
+T244	Disease 8697 8699	心衰
+T245	Disease 8701 8706	心血管死亡
+T246	Disease 8733 8735	痴呆
+T247	Disease 8754 8760	认知功能障碍
+T248	Disease 8866 8871	老年痴呆症
+T249	SideEff 9157 9161	心律失常
+T250	SideEff 9162 9165;9166 9167	精神症 状
+T251	SideEff 9151 9156	心绞痛发作
+T252	Drug 9196 9202	左旋甲状腺素
+T253	Test_Value 9248 9258	>10 mU / L
+T254	Test_Value 9283 9285	阳性
+T255	Symptom 9289 9294;9295 9296	血脂代谢紊 乱
+T256	Test_Value 9307 9321	4 ~ 10 mIU / L
+T257	Test 9333 9334;9335 9341	甲 状腺自身抗体
+T258	Test_Value 9341 9343	阳性
+T259	Test_Value 9366 9379	4 ~ 10 mU / L
+T260	Test_Value 9471 9483	3 ~ 4 mU / L
+T261	Test_Value 9520 9532	4 ~ 6 mU / L
+T262	Test_Value 9546 9556	<10 mU / L
+T263	Drug 9567 9571	甲状腺素
+T264	Test 9694 9701	血清甲状腺激素
+T265	Test 9651 9652;9653 9657	甲 状腺功能
+T266	Test 9723 9725	T4
+T267	Test 9713 9715	T3
+T268	Test 9745 9748	rT3
+T269	Test 9781 9783	T3
+T270	Disease 9811 9814	ESS
+T271	Disease 9887 9890	ESS
+T272	Disease 9921 9924	ESS
+T273	Disease 10288 10293	老年综合征
+T274	Symptom 10294 10298	认知障碍
+T275	Symptom 10299 10303	运动障碍
+T276	Symptom 10309 10310;10311 10314	排 尿障碍
+T277	Symptom 10315 10319	代谢紊乱
+T278	Symptom 10320 10324	消化障碍
+T279	Symptom 10325 10329	睡眠障碍
+T280	Symptom 10330 10332	衰弱
+T281	Disease 6913 6918	心血管疾病
+T282	Drug 6413 6416	MMI
+T283	Test 3188 3191	TT3
+T284	Test 2461 2465;2466 2467	血清学检 查
+T285	Disease 3224 3226	死亡
+T286	Disease 3227 3229	死亡
+T287	Disease 3516 3518	死亡
+T288	Disease 3934 3941	慢性消耗性疾病
+T289	Drug 4505 4509	含碘药物
+T290	Drug 4869 4872	利尿剂
+T291	Disease 5028 5030	死亡
+T292	Disease 5163 5165	死亡
+T293	Drug 6482 6485	利尿剂
+T294	Test 6883 6885	年龄
+T295	Reason 7592 7594	手术
+T296	Reason 7595 7599	131碘
+T297	Reason 7600 7603	外照射
+T298	Drug 7630 7634	含碘药物
+T299	Disease 8505 8507	死亡
+T300	Disease 8537 8539	死亡
+T301	Test 8954 8964	Barthel 指数
+T302	Level 9603 9606	严重的
+T303	Reason 9618 9620	创伤
+T304	Reason 9621 9623	禁食
+T305	Disease 9790 9795	心血管死亡
+T306	Disease 10233 10238	老年综合征
+T307	Level 2518 2521	亚临床
+T308	Test_Value 3323 3325	阳性
+T309	Test_Value 3650 3652	升高
+T310	Test_Value 3587 3589	增高
+T311	Test_Value 3617 3619	增高
+T312	Test_Value 3672 3674	下降
+T313	Level 3670 3672	轻度
+T314	Test 3689 3694	基础代谢率
+T315	Test_Value 3683 3685	下降
+T316	Test_Value 3694 3695;3696 3697	降 低
+T317	Test_Value 3950 3952	下降
+T318	Disease 4342 4344	甲亢
+T319	Test_Value 4611 4613	正常
+T320	Disease 5022 5027	脑血管疾病
+T321	Test_Value 5280 5282	正常
+T322	Test 5596 5600	认知功能
+T323	Test 5697 5701	认知功能
+T324	Disease 5718 5721	MCL
+T325	Test 5734 5738	认知功能
+T326	Disease 5949 5951	甲亢
+T327	Treatment 6068 6076	131 I 治疗
+T328	Level 7284 7287	亚临床
+T329	Level 7490 7492	临床
+T330	Level 7505 7507	临床
+T331	Symptom 8243 8249	脂质代谢紊乱
+T332	Test_Value 8274 8276	升高
+T333	Test_Value 8287 8289	降低
+T334	Symptom 8342 8348	脂质代谢紊乱
+T335	Test 8728 8732	认知功能
+T336	Test_Value 9715 9717	降低
+T337	Test_Value 9725 9727	正常
+T338	Test_Value 9728 9730	降低
+T339	Test_Value 9751 9753	升高
+T340	Level 9748 9750	明显
+T341	Level 10066 10069	亚临床
+T342	Symptom 10333 10337	多重用药
+T343	Test_Value 3783 3785	增加
+T344	Test_Value 3805 3807	增高
+T345	Test_Value 3756 3758	增加
+T346	Test_Value 3857 3859	增高
+T347	Test_Value 3960 3962	升高
+T348	Test_Value 3991 3993	下降
+T349	Test_Value 4910 4911	大
+T350	Test_Value 4914 4916	正常
+T351	Test_Value 4917 4919	偏低
+T352	Disease 2612 2617	心血管事件
+T353	Disease 5128 5133	心血管事件
+T354	Disease 5157 5162	心血管事件
+T355	Anatomy 5358 5361	心血管
+T356	Disease 5364 5366	死亡
+T357	Disease 5448 5450	死亡
+T358	Disease 5756 5760	认知损害
+T359	Disease 6250 6256	心血管并发症
+T360	Test 7082 7087	心血管功能
+T361	Disease 7355 7360	心血管事件
+T362	Disease 8382 8387	心血管事件
+T363	Disease 8388 8390	死亡
+T364	Disease 8533 8537	心血管病
+T365	Level 320 323	亚临床
+T366	Disease 324 332	甲状腺功能减退症
+T367	Level 8736 8739	亚临床
+T368	Disease 8739 8743;8744 8748	甲状腺功 能减退症
+T369	Level 8942 8945	亚临床
+T370	Disease 8945 8952	甲状腺功能减退
+T371	Disease 58 65	甲状腺功能异常
+T372	Disease 160 169	老年甲状腺功能异常
+T373	Disease 2163 2168;2169 2171	甲状腺功能 异常
+T374	Disease 2359 2366	甲状腺功能异常
+T375	Disease 2384 2395	亚临床型甲状腺功能异常
+T376	Disease 2495 2505	临床型甲状腺功能异常
+T377	Disease 2566 2577	亚临床型甲状腺功能异常
+T378	Disease 2724 2733	老年甲状腺功能异常
+T379	Disease 2765 2773;2774 2775	老年甲状腺功能异 常
+T380	Disease 4115 4122	甲状腺功能异常
+T381	Disease 4218 4225	甲状腺功能异常
+T382	Disease 4248 4255	甲状腺功能异常
+T383	Disease 7159 7166	甲状腺功能异常
+T384	Disease 10069 10076	甲状腺功能异常
+T385	Disease 10176 10183	甲状腺功能异常
+T386	Test 2907 2913	血清 TSH
+T387	Test 5082 5088	血清 TSH
+T388	Test 5181 5187	血清 TSH
+T389	Test 5203 5204;5205 5210	血 清 TSH
+T390	Test 5788 5794	血清 TSH
+T391	Test 5843 5844;5845 5850	血 清 TSH
+T392	Test 7069 7075	血清 TSH
+T393	Test 8079 8085	血清 TSH
+T394	Test 8161 8167	血清 TSH
+T395	Test 9242 9248	血清 TSH
+T396	Test 9300 9306	血清 TSH
+T397	Test 9357 9363	血清 TSH
+T398	Test 8093 8099	血清 FT4
+T399	Level 270 273	亚临床
+T400	Disease 273 281	甲状腺功能亢进症
+T401	Drug 375 378;379 380	甲状腺 素
+T402	Disease 398 406	甲状腺功能亢进症
+T403	Disease 408 416	甲状腺功能亢进症
+T404	Disease 423 431	甲状腺功能减退症
+T405	Disease 433 438;439 442	甲状腺功能 减退症
+T406	Disease 241 249	甲状腺功能亢进症
+T407	Level 239 241	临床
+T408	Level 250 252	临床
+T409	Disease 252 260	甲状腺功能减退症
+T410	Level 2198 2200	临床
+T411	Disease 2200 2207	甲状腺功能亢进
+T412	Level 2241 2244	亚临床
+T413	Disease 2244 2246	甲亢
+T414	Disease 2184 2194	临床型甲状腺功能异常
+T415	Disease 2227 2238	亚临床型甲状腺功能异常
+T416	Disease 2273 2282;2283 2284	非甲状腺性病态综合 征
+T417	Disease 2309 2312	ESS
+T418	Disease 2445 2447	甲亢
+T419	Level 2442 2445	亚临床
+T420	Level 3050 3053	亚临床
+T421	Disease 3053 3055	甲减
+T422	Level 3508 3511	亚临床
+T423	Disease 3511 3513	甲亢
+T424	Level 4159 4161	临床
+T425	Disease 4161 4163	甲亢
+T426	Level 4174 4177	亚临床
+T427	Disease 4177 4179	甲亢
+T428	Level 4187 4189	临床
+T429	Disease 4189 4191	甲减
+T430	Level 4199 4200;4201 4203	亚 临床
+T431	Disease 4203 4205	甲减
+T432	Disease 4275 4279	老年甲亢
+T433	Disease 4269 4274	老年人甲亢
+T434	Disease 4381 4385	老年甲亢
+T435	Disease 4399 4404	老年人甲亢
+T436	Disease 4523 4525	甲亢
+T437	Disease 4655 4659	老年甲亢
+T438	Symptom 4708 4713	甲状腺肿大
+T439	Level 4725 4727	轻型
+T440	Level 4728 4731	不典型
+T441	Disease 4731 4733	甲亢
+T442	Disease 4758 4762	骨质疏松
+T443	Disease 4820 4828	老年甲亢性心脏病
+T444	Disease 4833 4842	阵发性或持续性房颤
+T445	Disease 4931 4933;4934 4936	心脏 扩大
+T446	Disease 5013 5017	老年甲亢
+T447	Disease 5041 5046;5047 5049	室上性心律 失常
+T448	Level 5059 5062	亚临床
+T449	Disease 5062 5064	甲亢
+T450	Test 5098 5103	游离 T3
+T451	Level 5122 5125	亚临床
+T452	Disease 5125 5127	甲亢
+T453	Level 5151 5154	亚临床
+T454	Disease 5154 5156	甲亢
+T455	Level 5266 5269	亚临床
+T456	Disease 5269 5271	甲亢
+T457	Level 5334 5337	亚临床
+T458	Disease 5337 5339	甲亢
+T459	Level 5393 5396	亚临床
+T460	Disease 5396 5397;5398 5399	甲 亢
+T461	Level 5440 5443	亚临床
+T462	Disease 5443 5445	甲亢
+T463	Level 5506 5509	亚临床
+T464	Disease 5509 5511	甲亢
+T465	Level 5524 5527	亚临床
+T466	Disease 5528 5530	甲亢
+T467	Level 5590 5593	亚临床
+T468	Disease 5593 5595	甲亢
+T469	Level 5604 5607	亚临床
+T470	Disease 5607 5609	甲亢
+T471	Test 5804 5811	血清游离 T4
+T472	Disease 5887 5891	老年甲亢
+T473	Drug 5940 5945;5946 5947	抗甲状腺药 物
+T474	Treatment 5980 5985	131 I
+T475	Disease 6010 6013;6014 6015	老年甲 亢
+T476	Treatment 6023 6028	131 I
+T477	Disease 6049 6053	老年甲亢
+T478	Treatment 6059 6064	131 I
+T479	Treatment 6120 6128	131 I 治疗
+T480	Level 6165 6167	严重
+T481	Anatomy 6292 6295	脑血管
+T482	Anatomy 6296 6298	肺部
+T483	Treatment 6305 6313	131 I 治疗
+T484	Drug 6339 6342;6343 6344	甲巯咪 唑
+T485	Drug 6345 6348	MMI
+T486	Treatment 6367 6372	131 I
+T487	Drug 6421 6426	复方碘溶液
+T488	Drug 6428 6434	ugol 液
+T489	Disease 6487 6494	慢性充血性心衰
+T490	Disease 6496 6499	CHF
+T491	SideEff 6574 6579	洋地黄中毒
+T492	Symptom 6594 6601	快速型心律失常
+T493	Disease 6622 6624	房颤
+T494	Disease 6684 6686	房颤
+T495	Disease 6697 6699	房颤
+T496	Disease 6739 6741	房颤
+T497	Anatomy 6764 6766	左房
+T498	Disease 6793 6795	房颤
+T499	Disease 6810 6812	甲亢
+T500	Level 6807 6810	亚临床
+T501	Level 6815 6817	临床
+T502	Disease 6817 6819	甲亢
+T503	Level 6856 6859	亚临床
+T504	Disease 6859 6860;6861 6862	甲 亢
+T505	Test_Value 6984 6996	0. 1 mIU / L
+T506	Test_Value 7001 7014	≤0. 5 mIU / L
+T507	Symptom 7029 7031	房颤
+T508	Symptom 7043 7047	骨质疏松
+T509	Test 7108 7114	室性早搏数量
+T510	Disease 7146 7157	老年人甲状腺功能减退症
+T511	Level 7184 7187	亚临床
+T512	Disease 7187 7189	甲减
+T513	Level 7263 7266	亚临床
+T514	Disease 7266 7268	甲减
+T515	Level 7315 7318	亚临床
+T516	Disease 7318 7320	甲减
+T517	Disease 7455 7459	老年甲减
+T518	Level 7493 7496	亚临床
+T519	Disease 7496 7498	甲减
+T520	Level 7509 7512	亚临床
+T521	Disease 7512 7514	甲亢
+T522	Level 7526 7528	临床
+T523	Disease 7528 7530	甲减
+T524	Level 7538 7541	亚临床
+T525	Disease 7541 7542;7543 7544	甲 减
+T526	Reason 7609 7611;7612 7613	胺碘 酮
+T527	Reason 7614 7615	锂
+T528	Reason 7616 7621	α-干扰素
+T529	Level 7935 7938	亚临床
+T530	Disease 7938 7940	甲减
+T531	Level 7979 7982	亚临床
+T532	Disease 7982 7984	甲减
+T533	Disease 8006 8010	老年甲减
+T534	Level 8049 8052	亚临床
+T535	Disease 8052 8054	甲减
+T536	Level 8103 8106	亚临床
+T537	Disease 8106 8108	甲减
+T538	Level 8120 8122	临床
+T539	Disease 8122 8124	甲减
+T540	Level 8139 8142	亚临床
+T541	Disease 8142 8144	甲减
+T542	Level 8148 8150	临床
+T543	Disease 8150 8152	甲减
+T544	Level 8204 8206;8207 8208	亚临 床
+T545	Disease 8208 8210	甲减
+T546	Level 8213 8215	临床
+T547	Disease 8215 8217	甲减
+T548	Level 8231 8234	亚临床
+T549	Disease 8235 8237	甲减
+T550	Level 8334 8337	亚临床
+T551	Disease 8337 8339	甲减
+T552	Level 8376 8378	临床
+T553	Disease 8378 8380	甲减
+T554	Level 8499 8502	亚临床
+T555	Disease 8502 8504	甲减
+T556	Level 8523 8526	亚临床
+T557	Disease 8526 8527;8528 8529	甲 减
+T558	Level 8633 8636	亚临床
+T559	Disease 8636 8638	甲减
+T560	Level 8684 8687	亚临床
+T561	Disease 8687 8689	甲减
+T562	Level 8722 8725	亚临床
+T563	Disease 8725 8727	甲减
+T564	Level 8818 8821	亚临床
+T565	Disease 8821 8823	甲减
+T566	Level 8878 8881	亚临床
+T567	Disease 8881 8883	甲减
+T568	Level 8885 8887	轻度
+T569	Disease 8887 8891;8892 8894	认知功能 障碍
+T570	Level 8824 8826	轻度
+T571	Disease 8827 8833	认知功能障碍
+T572	Level 8908 8911	亚临床
+T573	Disease 8911 8913	甲减
+T574	Level 9001 9003;9004 9005	亚临 床
+T575	Disease 9005 9007	甲减
+T576	Level 9018 9021	亚临床
+T577	Disease 9021 9023	甲减
+T578	Disease 9057 9061	老年甲减
+T579	Level 9065 9067	临床
+T580	Disease 9067 9069	甲减
+T581	Drug 9078 9080;9081 9085	左旋 甲状腺素
+T582	Level 9182 9185	亚临床
+T583	Disease 9185 9187	甲减
+T584	Disease 9583 9593	非甲状腺性病态综合征
+T585	Disease 9594 9597	ESS
+T586	Reason 9606 9617	急性或慢性非甲状腺疾病
+T587	Drug 9932 9937	甲状腺激素
+T588	Anatomy 10385 10388	甲状腺
+T589	Anatomy 10154 10157	甲状腺
+T590	Anatomy 10215 10218	甲状腺
+T591	Disease 10304 10308	心血管病
+T592	Anatomy 10256 10259	甲状腺
+R1	Test_Disease Arg1:T28 Arg2:T372
+R2	Test_Disease Arg1:T81 Arg2:T372
+R3	Test_Disease Arg1:T29 Arg2:T372
+R4	Test_Disease Arg1:T30 Arg2:T400
+R5	Test_Disease Arg1:T31 Arg2:T366
+R6	Anatomy_Disease Arg1:T88 Arg2:T416
+R7	Anatomy_Disease Arg1:T89 Arg2:T416
+R8	Test_Disease Arg1:T90 Arg2:T374
+R9	Test_Disease Arg1:T36 Arg2:T374
+R10	Drug_Disease Arg1:T93 Arg2:T92
+R11	Test_Disease Arg1:T40 Arg2:T421
+R12	Test_Disease Arg1:T42 Arg2:T97
+R13	Test_Disease Arg1:T99 Arg2:T423
+R14	Drug_Disease Arg1:T110 Arg2:T436
+R15	Drug_Disease Arg1:T111 Arg2:T436
+R16	Drug_Disease Arg1:T112 Arg2:T113
+R17	Symptom_Disease Arg1:T116 Arg2:T441
+R18	Symptom_Disease Arg1:T438 Arg2:T441
+R19	Symptom_Disease Arg1:T118 Arg2:T117
+R20	Symptom_Disease Arg1:T119 Arg2:T442
+R21	Drug_Disease Arg1:T126 Arg2:T124
+R22	Test_Disease Arg1:T125 Arg2:T124
+R23	Drug_Disease Arg1:T127 Arg2:T128
+R24	Anatomy_Disease Arg1:T130 Arg2:T129
+R25	Test_Disease Arg1:T132 Arg2:T445
+R26	Test_Disease Arg1:T131 Arg2:T445
+R27	Test_Disease Arg1:T78 Arg2:T445
+R28	Symptom_Disease Arg1:T133 Arg2:T445
+R29	Symptom_Disease Arg1:T134 Arg2:T445
+R30	Symptom_Disease Arg1:T135 Arg2:T445
+R31	Symptom_Disease Arg1:T136 Arg2:T445
+R32	Symptom_Disease Arg1:T137 Arg2:T445
+R33	Test_Disease Arg1:T387 Arg2:T140
+R34	Test_Disease Arg1:T450 Arg2:T449
+R35	Test_Disease Arg1:T141 Arg2:T140
+R36	Test_Disease Arg1:T388 Arg2:T143
+R37	Test_Disease Arg1:T389 Arg2:T143
+R38	Test_Disease Arg1:T13 Arg2:T456
+R39	Test_Disease Arg1:T14 Arg2:T466
+R40	Test_Disease Arg1:T322 Arg2:T468
+R41	Test_Disease Arg1:T323 Arg2:T150
+R42	Test_Disease Arg1:T325 Arg2:T324
+R43	Test_Disease Arg1:T391 Arg2:T153
+R44	Drug_Disease Arg1:T157 Arg2:T156
+R45	Treatment_Disease Arg1:T158 Arg2:T156
+R46	Drug_Disease Arg1:T473 Arg2:T326
+R47	Anatomy_Disease Arg1:T162 Arg2:T163
+R48	Treatment_Disease Arg1:T479 Arg2:T163
+R49	Test_Disease Arg1:T70 Arg2:T172
+R50	Treatment_Disease Arg1:T483 Arg2:T172
+R51	Drug_Disease Arg1:T182 Arg2:T181
+R52	Drug_Disease Arg1:T484 Arg2:T181
+R53	Drug_Disease Arg1:T485 Arg2:T181
+R54	Drug_Disease Arg1:T184 Arg2:T183
+R55	Drug_Disease Arg1:T185 Arg2:T183
+R56	Drug_Disease Arg1:T282 Arg2:T183
+R57	Drug_Disease Arg1:T487 Arg2:T183
+R58	Test_Disease Arg1:T186 Arg2:T183
+R59	Drug_Disease Arg1:T488 Arg2:T183
+R60	Test_Disease Arg1:T189 Arg2:T489
+R61	Drug_Disease Arg1:T192 Arg2:T191
+R62	Drug_Disease Arg1:T194 Arg2:T193
+R63	Test_Disease Arg1:T195 Arg2:T193
+R64	Symptom_Disease Arg1:T197 Arg2:T196
+R65	Symptom_Disease Arg1:T492 Arg2:T196
+R66	Anatomy_Disease Arg1:T497 Arg2:T201
+R67	Test_Disease Arg1:T53 Arg2:T202
+R68	Drug_Disease Arg1:T220 Arg2:T222
+R69	Drug_Disease Arg1:T221 Arg2:T222
+R70	Drug_Disease Arg1:T223 Arg2:T224
+R71	Drug_Disease Arg1:T226 Arg2:T225
+R72	Test_Disease Arg1:T18 Arg2:T225
+R73	Drug_Disease Arg1:T227 Arg2:T228
+R74	Drug_Disease Arg1:T229 Arg2:T230
+R75	Test_Disease Arg1:T398 Arg2:T535
+R76	Test_Disease Arg1:T394 Arg2:T543
+R77	Test_Disease Arg1:T233 Arg2:T543
+R78	Drug_Disease Arg1:T234 Arg2:T545
+R79	Symptom_Disease Arg1:T331 Arg2:T549
+R80	Test_Disease Arg1:T3 Arg2:T549
+R81	Test_Disease Arg1:T27 Arg2:T549
+R82	Test_Disease Arg1:T2 Arg2:T549
+R83	Test_Disease Arg1:T1 Arg2:T549
+R84	Symptom_Disease Arg1:T334 Arg2:T551
+R85	Test_Disease Arg1:T19 Arg2:T559
+R86	Drug_Disease Arg1:T242 Arg2:T559
+R87	Test_Disease Arg1:T335 Arg2:T563
+R88	Drug_Disease Arg1:T581 Arg2:T580
+R89	Drug_Disease Arg1:T252 Arg2:T583
+R90	Test_Disease Arg1:T20 Arg2:T584
+R91	Test_Disease Arg1:T72 Arg2:T271
+R92	Test_Disease Arg1:T75 Arg2:T271
+R93	Test_Disease Arg1:T21 Arg2:T271
+R94	Drug_Disease Arg1:T587 Arg2:T272
+R95	Test_Disease Arg1:T64 Arg2:T384
+R96	Anatomy_Disease Arg1:T589 Arg2:T385
+R97	Anatomy_Disease Arg1:T590 Arg2:T385
+R98	Anatomy_Disease Arg1:T592 Arg2:T273
+R99	Symptom_Disease Arg1:T274 Arg2:T273
+R100	Symptom_Disease Arg1:T275 Arg2:T273
+R101	Symptom_Disease Arg1:T276 Arg2:T273
+R102	Symptom_Disease Arg1:T277 Arg2:T273
+R103	Symptom_Disease Arg1:T278 Arg2:T273
+R104	Symptom_Disease Arg1:T279 Arg2:T273
+R105	Symptom_Disease Arg1:T280 Arg2:T273
+R106	Symptom_Disease Arg1:T342 Arg2:T273
+R107	Anatomy_Disease Arg1:T355 Arg2:T356
+R108	Anatomy_Disease Arg1:T481 Arg2:T178
+R109	Anatomy_Disease Arg1:T482 Arg2:T178
+R110	Drug_Disease Arg1:T214 Arg2:T213
+R111	Test_Disease Arg1:T57 Arg2:T530
+R112	Test_Disease Arg1:T56 Arg2:T530
+R113	Test_Disease Arg1:T393 Arg2:T535
+R114	Test_Disease Arg1:T6 Arg2:T372
+R115	Drug_Disease Arg1:T401 Arg2:T366
+R116	Test_Disease Arg1:T284 Arg2:T91
+R117	Test_Disease Arg1:T284 Arg2:T418
+R118	Test_Disease Arg1:T39 Arg2:T421
+R119	Test_Disease Arg1:T38 Arg2:T421
+R120	Test_Disease Arg1:T386 Arg2:T421
+R121	Test_Disease Arg1:T283 Arg2:T97
+R122	Test_Disease Arg1:T10 Arg2:T97
+R123	Test_Disease Arg1:T41 Arg2:T97
+R124	Test_Disease Arg1:T65 Arg2:T97
+R125	Test_Disease Arg1:T77 Arg2:T97
+R126	Test_Disease Arg1:T66 Arg2:T97
+R127	Test_Disease Arg1:T67 Arg2:T97
+R128	Test_Disease Arg1:T73 Arg2:T97
+R129	Test_Disease Arg1:T68 Arg2:T97
+R130	Test_Disease Arg1:T98 Arg2:T97
+R131	Test_Disease Arg1:T43 Arg2:T423
+R132	Test_Disease Arg1:T44 Arg2:T423
+R133	Test_Disease Arg1:T45 Arg2:T423
+R134	Test_Disease Arg1:T102 Arg2:T288
+R135	Test_Disease Arg1:T103 Arg2:T288
+R136	Test_Disease Arg1:T52 Arg2:T288
+R137	Test_Disease Arg1:T69 Arg2:T288
+R138	Test_Disease Arg1:T104 Arg2:T288
+R139	Drug_Disease Arg1:T289 Arg2:T436
+R140	Test_Disease Arg1:T12 Arg2:T113
+R141	Test_Disease Arg1:T114 Arg2:T437
+R142	Drug_Disease Arg1:T290 Arg2:T128
+R143	Treatment_Disease Arg1:T474 Arg2:T160
+R144	Treatment_Disease Arg1:T476 Arg2:T475
+R145	Treatment_Disease Arg1:T478 Arg2:T477
+R146	Treatment_Disease Arg1:T327 Arg2:T477
+R147	Test_Disease Arg1:T161 Arg2:T477
+R148	Symptom_Disease Arg1:T164 Arg2:T163
+R149	Symptom_Disease Arg1:T165 Arg2:T163
+R150	Symptom_Disease Arg1:T166 Arg2:T163
+R151	Symptom_Disease Arg1:T168 Arg2:T163
+R152	Symptom_Disease Arg1:T169 Arg2:T163
+R153	Symptom_Disease Arg1:T170 Arg2:T163
+R154	Symptom_Disease Arg1:T171 Arg2:T163
+R155	Treatment_Disease Arg1:T486 Arg2:T181
+R156	Anatomy_Disease Arg1:T187 Arg2:T489
+R157	Drug_Disease Arg1:T188 Arg2:T489
+R158	Drug_Disease Arg1:T293 Arg2:T489
+R159	SideEff-Drug Arg1:T491 Arg2:T194
+R160	Test_Disease Arg1:T198 Arg2:T196
+R161	Test_Disease Arg1:T15 Arg2:T196
+R162	Test_Disease Arg1:T16 Arg2:T196
+R163	Test_Disease Arg1:T17 Arg2:T196
+R164	Test_Disease Arg1:T294 Arg2:T202
+R165	Test_Disease Arg1:T55 Arg2:T205
+R166	Test_Disease Arg1:T54 Arg2:T205
+R167	Drug_Disease Arg1:T298 Arg2:T222
+R168	Test_Disease Arg1:T58 Arg2:T549
+R169	Test_Disease Arg1:T301 Arg2:T370
+R170	SideEff-Drug Arg1:T251 Arg2:T581
+R171	SideEff-Drug Arg1:T249 Arg2:T581
+R172	SideEff-Drug Arg1:T250 Arg2:T581
+R173	Test_Disease Arg1:T395 Arg2:T583
+R174	Test_Disease Arg1:T76 Arg2:T583
+R175	Symptom_Disease Arg1:T255 Arg2:T583
+R176	Test_Disease Arg1:T396 Arg2:T583
+R177	Test_Disease Arg1:T257 Arg2:T583
+R178	Test_Disease Arg1:T265 Arg2:T584
+R179	Test_Disease Arg1:T264 Arg2:T584
+R180	Test_Disease Arg1:T269 Arg2:T305
+R181	Test_Disease Arg1:T24 Arg2:T384
+R182	Test_Disease Arg1:T23 Arg2:T384
+R183	Test_Disease Arg1:T22 Arg2:T384
+R184	Test_Disease Arg1:T25 Arg2:T385
+R185	Test_Disease Arg1:T195 Arg2:T196
+R186	Symptom_Disease Arg1:T507 Arg2:T205
+R187	Symptom_Disease Arg1:T206 Arg2:T205
+R188	Test_Disease Arg1:T30 Arg2:T406
+R189	Test_Disease Arg1:T30 Arg2:T409
+R190	Anatomy_Disease Arg1:T89 Arg2:T417
+R191	Anatomy_Disease Arg1:T88 Arg2:T417
+R192	Test_Disease Arg1:T90 Arg2:T375
+R193	Test_Disease Arg1:T36 Arg2:T375
+R194	Test_Disease Arg1:T73 Arg2:T423
+R195	Test_Disease Arg1:T68 Arg2:T423
+R196	Test_Disease Arg1:T98 Arg2:T423
+R197	Test_Disease Arg1:T105 Arg2:T106
+R198	Drug_Disease Arg1:T111 Arg2:T113
+R199	Symptom_Disease Arg1:T119 Arg2:T117
+R200	Test_Disease Arg1:T387 Arg2:T449
+R201	Test_Disease Arg1:T450 Arg2:T140
+R202	Test_Disease Arg1:T141 Arg2:T449
+R203	Test_Disease Arg1:T388 Arg2:T145
+R204	Test_Disease Arg1:T389 Arg2:T145
+R205	Test_Disease Arg1:T13 Arg2:T146
+R206	Anatomy_Disease Arg1:T355 Arg2:T458
+R207	Test_Disease Arg1:T322 Arg2:T147
+R208	Test_Disease Arg1:T322 Arg2:T470
+R209	Test_Disease Arg1:T322 Arg2:T148
+R210	Test_Disease Arg1:T323 Arg2:T324
+R211	Test_Disease Arg1:T325 Arg2:T150
+R212	Test_Disease Arg1:T325 Arg2:T358
+R213	Test_Disease Arg1:T325 Arg2:T151
+R214	Test_Disease Arg1:T325 Arg2:T152
+R215	Test_Disease Arg1:T390 Arg2:T153
+R216	Test_Disease Arg1:T471 Arg2:T153
+R217	Test_Disease Arg1:T390 Arg2:T154
+R218	Test_Disease Arg1:T471 Arg2:T154
+R219	Test_Disease Arg1:T391 Arg2:T154
+R220	Test_Disease Arg1:T390 Arg2:T155
+R221	Test_Disease Arg1:T471 Arg2:T155
+R222	Test_Disease Arg1:T391 Arg2:T155
+R223	Drug_Disease Arg1:T473 Arg2:T159
+R224	Treatment_Disease Arg1:T327 Arg2:T163
+R225	Test_Disease Arg1:T161 Arg2:T163
+R226	Drug_Disease Arg1:T192 Arg2:T190
+R227	Test_Disease Arg1:T198 Arg2:T493
+R228	Test_Disease Arg1:T15 Arg2:T493
+R229	Symptom_Disease Arg1:T508 Arg2:T205
+R230	Drug_Disease Arg1:T214 Arg2:T516
+R231	Drug_Disease Arg1:T214 Arg2:T212
+R232	Drug_Disease Arg1:T214 Arg2:T361
+R233	Drug_Disease Arg1:T223 Arg2:T225
+R234	Drug_Disease Arg1:T226 Arg2:T224
+R235	Test_Disease Arg1:T18 Arg2:T224
+R236	Test_Disease Arg1:T57 Arg2:T532
+R237	Test_Disease Arg1:T393 Arg2:T231
+R238	Test_Disease Arg1:T393 Arg2:T533
+R239	Test_Disease Arg1:T398 Arg2:T533
+R240	Test_Disease Arg1:T398 Arg2:T231
+R241	Test_Disease Arg1:T394 Arg2:T541
+R242	Test_Disease Arg1:T233 Arg2:T541
+R243	Drug_Disease Arg1:T234 Arg2:T547
+R244	Symptom_Disease Arg1:T334 Arg2:T4
+R245	Test_Disease Arg1:T19 Arg2:T561
+R246	Drug_Disease Arg1:T242 Arg2:T561
+R247	Drug_Disease Arg1:T242 Arg2:T243
+R248	Drug_Disease Arg1:T242 Arg2:T244
+R249	Drug_Disease Arg1:T242 Arg2:T245
+R250	Test_Disease Arg1:T335 Arg2:T246
+R251	Drug_Disease Arg1:T581 Arg2:T578
+R252	Anatomy_Disease Arg1:T590 Arg2:T306

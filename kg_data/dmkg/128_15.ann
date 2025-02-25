@@ -1,0 +1,522 @@
+T1	Disease 3435 3441	2 型糖尿病
+T2	Disease 3591 3597	2 型糖尿病
+T3	Disease 3726 3732	2 型糖尿病
+T4	Disease 4380 4386	2 型糖尿病
+T5	Disease 4544 4550	2 型糖尿病
+T6	Disease 4683 4689	2 型糖尿病
+T7	Disease 4712 4718	2 型糖尿病
+T8	Disease 4939 4945	2 型糖尿病
+T9	Disease 4977 4983	2 型糖尿病
+T10	Disease 4420 4425	糖尿病肾病
+T11	Drug 3045 3050	磺脲类药物
+T12	Drug 3271 3273;3274 3277	磺脲 类药物
+T13	Drug 3349 3354	磺脲类药物
+T14	Drug 3392 3397	磺脲类药物
+T15	Drug 3451 3456	磺脲类药物
+T16	Drug 3568 3573	磺脲类药物
+T17	Drug 3792 3797	磺脲类药物
+T18	Drug 5606 5611	磺脲类药物
+T19	Test 2651 2656	HBA1C
+T20	Drug 3512 3516	格列喹酮
+T21	Drug 3355 3359	格列齐特
+T22	Drug 3361 3365	格列吡嗪
+T23	Drug 257 261	二甲双胍
+T24	Drug 2989 2993	二甲双胍
+T25	Drug 3578 3582	二甲双胍
+T26	Drug 3583 3587	二甲双胍
+T27	Drug 3708 3712	二甲双胍
+T28	Drug 3805 3809	二甲双胍
+T29	Drug 3872 3876	二甲双胍
+T30	Drug 3969 3973	二甲双胍
+T31	Drug 3975 3979	二甲双胍
+T32	Drug 5568 5572	二甲双胍
+T33	Test 2777 2781	空腹血糖
+T34	Test 3529 3532	肾功能
+T35	Disease 94 97	糖尿病
+T36	Disease 126 129	糖尿病
+T37	Disease 163 170	慢性心血管疾病
+T38	Drug 262 269	胰岛素促分泌剂
+T39	Drug 270 273	磺脲类
+T40	Drug 274 278	非磺脲类
+T41	Drug 280 290	α-葡萄糖苷酶抑制剂
+T42	Drug 291 297	噻唑烷二酮类
+T43	Drug 299 306;307 308	DPP4 抑制 剂
+T44	Disease 1248 1251	糖尿病
+T45	Disease 1568 1571	糖尿病
+T46	Disease 1598 1603	老年糖尿病
+T47	Disease 1629 1632	糖尿病
+T48	Disease 1658 1661	糖尿病
+T49	Disease 1685 1686;1687 1689	糖 尿病
+T50	Disease 1716 1719	糖尿病
+T51	Disease 1749 1752	糖尿病
+T52	Disease 1817 1820	糖尿病
+T53	Disease 1898 1900;1901 1902	糖尿 病
+T54	Disease 1906 1909	糖尿病
+T55	Disease 1379 1384	老年糖尿病
+T56	Disease 41 46	老年糖尿病
+T57	Disease 139 144	老年糖尿病
+T58	Disease 1221 1226	老年糖尿病
+T59	Disease 1271 1276	老年糖尿病
+T60	Disease 1348 1353	老年糖尿病
+T61	Disease 1933 1938	老年糖尿病
+T62	Disease 1945 1950	老年糖尿病
+T63	Symptom 1983 1985	头晕
+T64	Symptom 1986 1990	夜尿增多
+T65	Disease 2034 2035;2036 2040	酮 症酸中毒
+T66	Disease 2041 2046	高渗性昏迷
+T67	Disease 2078 2083	老年糖尿病
+T68	Disease 2011 2016	老年糖尿病
+T69	Disease 2094 2097	糖尿病
+T70	Disease 2111 2116	老年糖尿病
+T71	Test 2200 2204	肝肾功能
+T72	Disease 2363 2366	高血压
+T73	Disease 2367 2370	冠心病
+T74	Disease 2444 2447	糖尿病
+T75	Disease 2511 2516	老年糖尿病
+T76	Disease 2489 2493;2494 2495	老年糖尿 病
+T77	Test 2527 2529	血糖
+T78	Disease 2544 2549	老年糖尿病
+T79	Test 2551 2553	血糖
+T80	Disease 2614 2617	CVD
+T81	Disease 2642 2645;2646 2648	老年糖 尿病
+T82	Test_Value 2661 2664	<7%
+T83	Disease 2672 2677	老年糖尿病
+T84	Disease 2685 2688	糖尿病
+T85	Test 2696 2698	血糖
+T86	Test 2732 2734	血糖
+T87	Disease 2756 2761	老年糖尿病
+T88	Test 2763 2765	血糖
+T89	Test 2809 2810;2811 2819	餐 后 2 h 血糖
+T90	Drug 2870 2875	拜阿司匹林
+T91	Disease 2890 2895	老年糖尿病
+T92	Test 2902 2904	血糖
+T93	Disease 2925 2930	老年糖尿病
+T94	Drug 3013 3019	噻唑烷二酮类
+T95	Drug 3020 3030	α-葡萄糖苷酶抑制剂
+T96	Drug 3032 3040	DPP4 抑制剂
+T97	Drug 3051 3054	磺脲类
+T98	Anatomy 3080 3087	胰岛 β 细胞
+T99	Disease 3176 3181	老年糖尿病
+T100	Drug 3187 3190	磺脲类
+T101	Drug 3397 3401	格列美脲
+T102	Drug 3456 3460	格列本脲
+T103	Test 3471 3475	肝肾功能
+T104	Level 3526 3529	轻中度
+T105	Level 3545 3549	中度以上
+T106	Disease 3718 3723	糖耐量受损
+T107	Disease 3740 3743	糖尿病
+T108	Disease 3778 3785	颈动脉粥样硬化
+T109	Disease 3825 3833	肥胖型老年糖尿病
+T110	Test 3893 3895	乳酸
+T111	Disease 3913 3918	肾功能不全
+T112	Disease 3919 3923	肝脏疾病
+T113	Disease 3924 3926;3927 3929	心力 衰竭
+T114	Disease 3938 3941	糖尿病
+T115	SideEff 3988 3990	恶心
+T116	SideEff 3991 3993	腹泻
+T117	Drug 4008 4018	α-葡萄糖苷酶抑制剂
+T118	Drug 4019 4029	α-葡萄糖苷酶抑制剂
+T119	Anatomy 4049 4056	α-葡萄糖苷酶
+T120	Anatomy 4071 4073	小肠
+T121	Symptom 4100 4105	餐后高血糖
+T122	Drug 4115 4125	α-葡萄糖苷酶抑制剂
+T123	Reason 4141 4146	胰岛素抵抗
+T124	Disease 4151 4153;4154 4155	糖尿 病
+T125	Drug 4173 4183	α-葡萄糖苷酶抑制剂
+T126	Reason 4191 4196	胰岛素抵抗
+T127	Test 4205 4207	血糖
+T128	Test 4222 4228	胰岛素敏感性
+T129	Test 4249 4254	GLP-1
+T130	Test 4261 4267	促胰岛素激素
+T131	Test 4271 4272;4273 4275	胰 岛素
+T132	Drug 4288 4298	α-葡萄糖苷酶抑制剂
+T133	Drug 4321 4325	格列奈类
+T134	Drug 4326 4330	格列奈类
+T135	Drug 4332 4342	非磺脲类胰岛素促泌剂
+T136	Drug 4346 4350	瑞格列奈
+T137	Drug 4351 4355	那格列奈
+T138	SideEff 4389 4392	低血糖
+T139	SideEff 4397 4401	体重增加
+T140	Drug 4406 4410	瑞格列奈
+T141	Anatomy 4411 4412	肾
+T142	Drug 4439 4445	胰岛素增敏剂
+T143	Test 4490 4493	胰岛素
+T144	Anatomy 4498 4499;4500 4503	脂 肪组织
+T145	Anatomy 4504 4507	骨骼肌
+T146	Anatomy 4508 4510	肝脏
+T147	Reason 4524 4527;4528 4530	胰岛素 抵抗
+T148	Test 4577 4580	胰岛素
+T149	Test 4589 4591	血糖
+T150	Anatomy 4618 4625	胰腺 β 细胞
+T151	Test 4634 4636	血糖
+T152	Test 4640 4643	胰岛素
+T153	Anatomy 4649 4651	胰腺
+T154	Test 4655 4658	胰岛素
+T155	Drug 4672 4675;4676 4679	胰岛素 增敏剂
+T156	SideEff 4693 4696	低血糖
+T157	Drug 4722 4728	噻唑烷二酮类
+T158	Disease 4743 4745	骨折
+T159	Drug 4753 4762	DPP-4 抑制剂
+T160	Drug 4763 4772	DPP-4 抑制剂
+T161	Disease 4786 4791	老年糖尿病
+T162	Drug 4802 4810	DPP4 抑制剂
+T163	Test 4822 4827	GLP-1
+T164	Anatomy 4834 4838	β 细胞
+T165	Anatomy 4840 4844	α 细胞
+T166	Test 4860 4863	胰岛素
+T167	Test 4869 4873	胰升糖素
+T168	Test 4891 4893	血糖
+T169	Test 4897 4902	GLP-1
+T170	Anatomy 4907 4909;4910 4914	胰岛 β 细胞
+T171	Drug 4918 4927	DPP-4 抑制剂
+T172	Test 4951 4953	血糖
+T173	Drug 5001 5005	维格列汀
+T174	Disease 5008 5013	糖耐量受损
+T175	Test 5034 5035;5036 5039	肠 促胰素
+T176	Test 5044 5047	胰岛素
+T177	Test 5052 5056	胰升糖素
+T178	Test 5070 5074	餐后血糖
+T179	Drug 5025 5029	维格列汀
+T180	Disease 5115 5118	糖尿病
+T181	Disease 5140 5145	老年糖尿病
+T182	Drug 5154 5158;5159 5162	DPP4 抑制剂
+T183	Test 5164 5166	血糖
+T184	Drug 5208 5217	DPP-4 抑制剂
+T185	Disease 5219 5224	老年糖尿病
+T186	Drug 5294 5297	磺脲类
+T187	Drug 5303 5311	DPP4 抑制剂
+T188	Duration 5316 5320	32 周
+T189	Level 5395 5397	轻度
+T190	Test 5407 5409;5410 5411	肾功 能
+T191	Drug 5440 5449	DPP-4 抑制剂
+T192	SideEff 5452 5454	恶心
+T193	SideEff 5455 5457	呕吐
+T194	SideEff 5458 5460	腹泻
+T195	Disease 5473 5478	老年糖尿病
+T196	Test 5496 5498;5499 5501	肝肾 功能
+T197	Disease 5549 5554	老年糖尿病
+T198	Drug 5573 5583	α-葡萄糖苷酶抑制剂
+T199	Disease 5590 5595	老年糖尿病
+T200	Drug 5627 5636	DPP-4 抑制剂
+T201	Disease 5642 5644;5645 5648	老年 糖尿病
+T202	Disease 5657 5662	老年糖尿病
+T203	Test 5681 5683	血糖
+T204	Test 5703 5705	血糖
+T205	Disease 5722 5725	糖尿病
+T206	Disease 5745 5750	老年糖尿病
+T207	Disease 5778 5783	老年糖尿病
+T208	Test 3818 3820	体重
+T209	Test 5267 5269	体重
+T210	Test 3632 3635	FBG
+T211	Test 3199 3201	血糖
+T212	Test 3303 3305	血糖
+T213	Test 3333 3335	血糖
+T214	Disease 322 325	糖尿病
+T215	Disease 1590 1593	糖尿病
+T216	Disease 2053 2062	大血管和微血管疾病
+T217	SideEff 2179 2181	摔倒
+T218	Drug 2132 2135;2136 2141	长效口 服降糖药物
+T219	Symptom 2290 2293	胃口差
+T220	Symptom 2294 2301	不规律饮食习惯
+T221	Disease 2536 2539	糖尿病
+T222	Disease 2610 2612	死亡
+T223	Disease 2747 2750	糖尿病
+T224	Test 3141 3144	胰岛素
+T225	Level 3216 3219	严重的
+T226	Level 3238 3241	严重的
+T227	Test 3654 3657	葡萄糖
+T228	Test 3682 3685	葡萄糖
+T229	SideEff 3947 3954;3955 3956	胃肠道的不良反 应
+T230	Level 1719 1721	前期
+T231	Level 1820 1822	前期
+T232	Level 1909 1911	前期
+T233	Drug 3322 3325	磺脲类
+T234	Frequency 3374 3378	每日一次
+T235	Anatomy 3519 3521	肝脏
+T236	Test 3697 3700	PBG
+T237	Anatomy 4483 4488	PPARγ
+T238	Disease 5125 5126;5127 5129	糖 尿病
+T239	Drug 5298 5300	双胍
+T240	Drug 5312 5314	双胍
+T241	Test_Value 5411 5413	正常
+T242	Disease 2224 2229	肾功能受损
+T243	Disease 5397 5402	肾功能不全
+T244	Symptom 174 177	低血糖
+T245	SideEff 338 342	低血糖症
+T246	Disease 183 188	老年糖尿病
+T247	SideEff 2123 2126	低血糖
+T248	SideEff 2182 2184	骨折
+T249	SideEff 2159 2162	低血糖
+T250	Level 2156 2158	严重
+T251	SideEff 2257 2260	低血糖
+T252	Symptom 2282 2284	抑郁
+T253	Symptom 2285 2289	认知障碍
+T254	Symptom 2318 2321	低血糖
+T255	Symptom 2340 2343	低血糖
+T256	Symptom 2575 2580	高血糖症状
+T257	Symptom 2581 2586	急性高血糖
+T258	Test_Value 2781 2795	<7. 8 mmol / L
+T259	Test_Value 2796 2807	140 mg / dl
+T260	Test_Value 2819 2834	<11. 1 mmol / L
+T261	Test_Value 2835 2846	200 mg / dl
+T262	Symptom 2852 2855	低血糖
+T263	Drug 2994 3000;3001 3002	胰岛素促分泌 剂
+T264	Drug 3003 3006	磺脲类
+T265	Drug 3007 3011	非磺脲类
+T266	SideEff 3210 3214	体重增加
+T267	SideEff 3219 3224	低血糖事件
+T268	SideEff 3241 3242;3243 3250	致 死性低血糖事件
+T269	SideEff 3382 3385	低血糖
+T270	SideEff 3421 3424	低血糖
+T271	SideEff 3502 3504;3505 3508	低血 糖反应
+T272	Disease 3549 3555	肝肾功能受损
+T273	Test 3672 3675	胰岛素
+T274	SideEff 3854 3857	低血糖
+T275	SideEff 3879 3884	乳酸酸中毒
+T276	Anatomy 4039 4043	小肠绒毛
+T277	SideEff 4128 4131	低血糖
+T278	Disease 4302 4307;4308 4309	2 型糖尿 病
+T279	Test 4360 4363	胰岛素
+T280	Drug 4446 4452	噻唑烷二酮类
+T281	Drug 4453 4458	TZD 类
+T282	Anatomy 4472 4477	PPARγ
+T283	Test 4598 4604	内源性胰岛素
+T284	Anatomy 4734 4735	心
+T285	Anatomy 4736 4737	肝
+T286	Test 4738 4739;4740 4742	肾 功能
+T287	Disease 5061 5064;5065 5067	糖耐量 受损
+T288	Test 5084 5090	β 细胞功能
+T289	SideEff 5181 5184	低血糖
+T290	Drug 5198 5201	磺脲类
+T291	SideEff 5237 5240	低血糖
+T292	SideEff 5323 5327	体重增加
+T293	Symptom 5507 5510	低血糖
+T294	SideEff 5620 5623	低血糖
+T295	Symptom 5712 5715	低血糖
+R1	Symptom_Disease Arg1:T244 Arg2:T57
+R2	SideEff-Drug Arg1:T249 Arg2:T218
+R3	SideEff-Drug Arg1:T217 Arg2:T218
+R4	SideEff-Drug Arg1:T248 Arg2:T218
+R5	SideEff-Drug Arg1:T247 Arg2:T218
+R6	Drug_Disease Arg1:T218 Arg2:T70
+R7	Symptom_Disease Arg1:T256 Arg2:T78
+R8	Symptom_Disease Arg1:T257 Arg2:T78
+R9	SideEff-Drug Arg1:T266 Arg2:T100
+R10	SideEff-Drug Arg1:T267 Arg2:T100
+R11	SideEff-Drug Arg1:T269 Arg2:T21
+R12	SideEff-Drug Arg1:T269 Arg2:T22
+R13	SideEff-Drug Arg1:T269 Arg2:T13
+R14	SideEff-Drug Arg1:T270 Arg2:T101
+R15	SideEff-Drug Arg1:T270 Arg2:T14
+R16	SideEff-Drug Arg1:T271 Arg2:T102
+R17	Drug_Disease Arg1:T101 Arg2:T1
+R18	Drug_Disease Arg1:T27 Arg2:T3
+R19	SideEff-Drug Arg1:T274 Arg2:T28
+R20	SideEff-Drug Arg1:T275 Arg2:T29
+R21	SideEff-Drug Arg1:T229 Arg2:T30
+R22	SideEff-Drug Arg1:T277 Arg2:T122
+R23	Drug_Disease Arg1:T132 Arg2:T278
+R24	Drug_Disease Arg1:T140 Arg2:T10
+R25	Drug_Disease Arg1:T160 Arg2:T161
+R26	Test_Disease Arg1:T172 Arg2:T8
+R27	Test_Disease Arg1:T178 Arg2:T287
+R28	SideEff-Drug Arg1:T289 Arg2:T182
+R29	Drug_Disease Arg1:T184 Arg2:T185
+R30	SideEff-Drug Arg1:T291 Arg2:T184
+R31	Duration_Drug Arg1:T188 Arg2:T187
+R32	Duration_Drug Arg1:T188 Arg2:T186
+R33	Drug_Disease Arg1:T32 Arg2:T199
+R34	Drug_Disease Arg1:T198 Arg2:T199
+R35	SideEff-Drug Arg1:T294 Arg2:T18
+R36	Drug_Disease Arg1:T200 Arg2:T201
+R37	Test_Disease Arg1:T203 Arg2:T202
+R38	Symptom_Disease Arg1:T63 Arg2:T62
+R39	Symptom_Disease Arg1:T64 Arg2:T62
+R40	Test_Disease Arg1:T79 Arg2:T78
+R41	Test_Disease Arg1:T19 Arg2:T81
+R42	Test_Disease Arg1:T85 Arg2:T84
+R43	Test_Disease Arg1:T86 Arg2:T84
+R44	Test_Disease Arg1:T88 Arg2:T87
+R45	Test_Disease Arg1:T33 Arg2:T87
+R46	Test_Disease Arg1:T92 Arg2:T91
+R47	Drug_Disease Arg1:T100 Arg2:T99
+R48	Test_Disease Arg1:T211 Arg2:T99
+R49	Frequency_Drug Arg1:T234 Arg2:T22
+R50	Drug_Disease Arg1:T15 Arg2:T1
+R51	Drug_Disease Arg1:T102 Arg2:T1
+R52	Drug_Disease Arg1:T26 Arg2:T2
+R53	Drug_Disease Arg1:T25 Arg2:T2
+R54	Drug_Disease Arg1:T27 Arg2:T106
+R55	Test_Disease Arg1:T208 Arg2:T109
+R56	Drug_Disease Arg1:T30 Arg2:T114
+R57	Drug_Disease Arg1:T31 Arg2:T114
+R58	Drug_Disease Arg1:T125 Arg2:T124
+R59	Drug_Disease Arg1:T142 Arg2:T5
+R60	Drug_Disease Arg1:T280 Arg2:T5
+R61	Test_Disease Arg1:T148 Arg2:T5
+R62	Test_Disease Arg1:T283 Arg2:T5
+R63	Test_Disease Arg1:T149 Arg2:T5
+R64	Drug_Disease Arg1:T155 Arg2:T6
+R65	Drug_Disease Arg1:T157 Arg2:T7
+R66	Anatomy_Disease Arg1:T284 Arg2:T7
+R67	Anatomy_Disease Arg1:T285 Arg2:T7
+R68	Test_Disease Arg1:T286 Arg2:T7
+R69	Drug_Disease Arg1:T162 Arg2:T161
+R70	Drug_Disease Arg1:T171 Arg2:T8
+R71	Drug_Disease Arg1:T173 Arg2:T174
+R72	Drug_Disease Arg1:T179 Arg2:T174
+R73	Test_Disease Arg1:T175 Arg2:T174
+R74	Drug_Disease Arg1:T182 Arg2:T181
+R75	Test_Disease Arg1:T183 Arg2:T181
+R76	Duration_Drug Arg1:T188 Arg2:T240
+R77	Test_Disease Arg1:T190 Arg2:T243
+R78	Test_Disease Arg1:T196 Arg2:T195
+R79	Drug_Disease Arg1:T18 Arg2:T199
+R80	SideEff-Drug Arg1:T115 Arg2:T31
+R81	SideEff-Drug Arg1:T116 Arg2:T31
+R82	Anatomy_Disease Arg1:T141 Arg2:T10
+R83	SideEff-Drug Arg1:T156 Arg2:T155
+R84	SideEff-Drug Arg1:T292 Arg2:T240
+R85	SideEff-Drug Arg1:T192 Arg2:T191
+R86	SideEff-Drug Arg1:T193 Arg2:T191
+R87	SideEff-Drug Arg1:T194 Arg2:T191
+R88	Drug_Disease Arg1:T23 Arg2:T246
+R89	Drug_Disease Arg1:T38 Arg2:T246
+R90	Drug_Disease Arg1:T39 Arg2:T246
+R91	Drug_Disease Arg1:T40 Arg2:T246
+R92	Drug_Disease Arg1:T41 Arg2:T246
+R93	Drug_Disease Arg1:T42 Arg2:T246
+R94	Drug_Disease Arg1:T43 Arg2:T246
+R95	Test_Disease Arg1:T71 Arg2:T242
+R96	Test_Disease Arg1:T89 Arg2:T87
+R97	Symptom_Disease Arg1:T262 Arg2:T87
+R98	Drug_Disease Arg1:T90 Arg2:T87
+R99	Drug_Disease Arg1:T24 Arg2:T93
+R100	Drug_Disease Arg1:T263 Arg2:T93
+R101	Drug_Disease Arg1:T264 Arg2:T93
+R102	Drug_Disease Arg1:T265 Arg2:T93
+R103	Drug_Disease Arg1:T94 Arg2:T93
+R104	Drug_Disease Arg1:T95 Arg2:T93
+R105	Drug_Disease Arg1:T96 Arg2:T93
+R106	Test_Disease Arg1:T224 Arg2:T99
+R107	Anatomy_Disease Arg1:T98 Arg2:T99
+R108	Drug_Disease Arg1:T97 Arg2:T99
+R109	Drug_Disease Arg1:T11 Arg2:T99
+R110	SideEff-Drug Arg1:T268 Arg2:T100
+R111	Drug_Disease Arg1:T12 Arg2:T99
+R112	Test_Disease Arg1:T212 Arg2:T99
+R113	Frequency_Drug Arg1:T234 Arg2:T21
+R114	Frequency_Drug Arg1:T234 Arg2:T13
+R115	Test_Disease Arg1:T103 Arg2:T1
+R116	Test_Disease Arg1:T34 Arg2:T272
+R117	Test_Disease Arg1:T210 Arg2:T2
+R118	Test_Disease Arg1:T227 Arg2:T2
+R119	Test_Disease Arg1:T273 Arg2:T2
+R120	Test_Disease Arg1:T228 Arg2:T2
+R121	Test_Disease Arg1:T236 Arg2:T2
+R122	Drug_Disease Arg1:T27 Arg2:T107
+R123	Drug_Disease Arg1:T17 Arg2:T107
+R124	Test_Disease Arg1:T127 Arg2:T124
+R125	Test_Disease Arg1:T128 Arg2:T124
+R126	Test_Disease Arg1:T129 Arg2:T124
+R127	Test_Disease Arg1:T130 Arg2:T124
+R128	Test_Disease Arg1:T131 Arg2:T124
+R129	Test_Disease Arg1:T279 Arg2:T4
+R130	Drug_Disease Arg1:T137 Arg2:T4
+R131	Drug_Disease Arg1:T136 Arg2:T4
+R132	Drug_Disease Arg1:T135 Arg2:T4
+R133	Drug_Disease Arg1:T134 Arg2:T4
+R134	Drug_Disease Arg1:T133 Arg2:T4
+R135	SideEff-Drug Arg1:T138 Arg2:T133
+R136	SideEff-Drug Arg1:T139 Arg2:T133
+R137	Drug_Disease Arg1:T281 Arg2:T5
+R138	Anatomy_Disease Arg1:T282 Arg2:T5
+R139	Anatomy_Disease Arg1:T237 Arg2:T5
+R140	Test_Disease Arg1:T143 Arg2:T5
+R141	Anatomy_Disease Arg1:T144 Arg2:T5
+R142	Anatomy_Disease Arg1:T145 Arg2:T5
+R143	Anatomy_Disease Arg1:T146 Arg2:T5
+R144	Anatomy_Disease Arg1:T150 Arg2:T5
+R145	Test_Disease Arg1:T154 Arg2:T6
+R146	Test_Disease Arg1:T151 Arg2:T6
+R147	Test_Disease Arg1:T152 Arg2:T6
+R148	Anatomy_Disease Arg1:T153 Arg2:T6
+R149	Drug_Disease Arg1:T159 Arg2:T161
+R150	Test_Disease Arg1:T163 Arg2:T161
+R151	Anatomy_Disease Arg1:T164 Arg2:T161
+R152	Anatomy_Disease Arg1:T165 Arg2:T161
+R153	Test_Disease Arg1:T166 Arg2:T161
+R154	Test_Disease Arg1:T167 Arg2:T161
+R155	Test_Disease Arg1:T168 Arg2:T161
+R156	Test_Disease Arg1:T169 Arg2:T161
+R157	Anatomy_Disease Arg1:T170 Arg2:T161
+R158	Test_Disease Arg1:T176 Arg2:T174
+R159	Test_Disease Arg1:T177 Arg2:T174
+R160	Test_Disease Arg1:T288 Arg2:T287
+R161	Drug_Disease Arg1:T290 Arg2:T185
+R162	Test_Disease Arg1:T209 Arg2:T185
+R163	Duration_Drug Arg1:T188 Arg2:T239
+R164	SideEff-Drug Arg1:T292 Arg2:T187
+R165	SideEff-Drug Arg1:T292 Arg2:T239
+R166	SideEff-Drug Arg1:T292 Arg2:T186
+R167	Symptom_Disease Arg1:T293 Arg2:T195
+R168	Test_Disease Arg1:T204 Arg2:T202
+R169	Symptom_Disease Arg1:T295 Arg2:T202
+R170	Drug_Disease Arg1:T16 Arg2:T272
+R171	Drug_Disease Arg1:T28 Arg2:T108
+R172	Drug_Disease Arg1:T17 Arg2:T108
+R173	Test_Disease Arg1:T172 Arg2:T9
+R174	Drug_Disease Arg1:T140 Arg2:T4
+R175	Symptom_Disease Arg1:T244 Arg2:T246
+R176	Symptom_Disease Arg1:T252 Arg2:T242
+R177	Symptom_Disease Arg1:T253 Arg2:T242
+R178	SideEff-Drug Arg1:T251 Arg2:T218
+R179	Symptom_Disease Arg1:T219 Arg2:T242
+R180	Symptom_Disease Arg1:T220 Arg2:T242
+R181	Symptom_Disease Arg1:T254 Arg2:T242
+R182	Symptom_Disease Arg1:T255 Arg2:T242
+R183	Test_Disease Arg1:T79 Arg2:T221
+R184	Test_Disease Arg1:T19 Arg2:T83
+R185	Test_Disease Arg1:T85 Arg2:T83
+R186	Test_Disease Arg1:T86 Arg2:T83
+R187	Test_Disease Arg1:T92 Arg2:T93
+R188	SideEff-Drug Arg1:T266 Arg2:T12
+R189	SideEff-Drug Arg1:T267 Arg2:T12
+R190	SideEff-Drug Arg1:T268 Arg2:T12
+R191	Drug_Disease Arg1:T14 Arg2:T1
+R192	SideEff-Drug Arg1:T271 Arg2:T15
+R193	Drug_Disease Arg1:T20 Arg2:T272
+R194	Anatomy_Disease Arg1:T235 Arg2:T272
+R195	Drug_Disease Arg1:T27 Arg2:T108
+R196	Drug_Disease Arg1:T17 Arg2:T3
+R197	Drug_Disease Arg1:T17 Arg2:T106
+R198	Drug_Disease Arg1:T28 Arg2:T109
+R199	Drug_Disease Arg1:T28 Arg2:T106
+R200	Drug_Disease Arg1:T28 Arg2:T107
+R201	Drug_Disease Arg1:T28 Arg2:T3
+R202	Drug_Disease Arg1:T30 Arg2:T111
+R203	Drug_Disease Arg1:T30 Arg2:T112
+R204	Drug_Disease Arg1:T30 Arg2:T113
+R205	Drug_Disease Arg1:T122 Arg2:T124
+R206	SideEff-Drug Arg1:T138 Arg2:T134
+R207	SideEff-Drug Arg1:T138 Arg2:T135
+R208	SideEff-Drug Arg1:T138 Arg2:T136
+R209	SideEff-Drug Arg1:T138 Arg2:T137
+R210	SideEff-Drug Arg1:T139 Arg2:T134
+R211	SideEff-Drug Arg1:T139 Arg2:T135
+R212	SideEff-Drug Arg1:T139 Arg2:T136
+R213	SideEff-Drug Arg1:T139 Arg2:T137
+R214	SideEff-Drug Arg1:T291 Arg2:T290
+R215	Test_Disease Arg1:T196 Arg2:T197
+R216	Symptom_Disease Arg1:T293 Arg2:T197
+R217	SideEff-Drug Arg1:T294 Arg2:T200
+R218	Drug_Disease Arg1:T18 Arg2:T201
+R219	Test_Disease Arg1:T203 Arg2:T205
+R220	Test_Disease Arg1:T204 Arg2:T205
+R221	Symptom_Disease Arg1:T295 Arg2:T205
+R222	Test_Disease Arg1:T203 Arg2:T206
+R223	Test_Disease Arg1:T204 Arg2:T206
+R224	Symptom_Disease Arg1:T295 Arg2:T206
+R225	Test_Disease Arg1:T203 Arg2:T207
+R226	Test_Disease Arg1:T204 Arg2:T207
+R227	Symptom_Disease Arg1:T295 Arg2:T207

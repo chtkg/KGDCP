@@ -1,0 +1,341 @@
+T1	Disease 2254 2260	1 型糖尿病
+T2	Disease 2633 2638	糖尿病肾病
+T3	Test 1133 1138	HBA1C
+T4	Test 2590 2595	HBA1C
+T5	Test 1113 1117	空腹血糖
+T6	Disease 13 17	腰肌梗死
+T7	Disease 309 315	糖尿病肌梗死
+T8	Disease 316 319	糖尿病
+T9	Test 346 348	血糖
+T10	Disease 358 362;363 367	慢性微血 管并发症
+T11	Symptom 374 387	突发性局部肌肉组织疼痛肿胀
+T12	Anatomy 417 419;420 422	股四 头肌
+T13	Anatomy 423 426	腓肠肌
+T14	Anatomy 427 431	下肢肌肉
+T15	Anatomy 433 437	上肢肌肉
+T16	Anatomy 456 461	腰背部肌肉
+T17	Disease 486 490	腰肌梗死
+T18	Disease 505 509;510 512	糖尿病肌 梗死
+T19	Symptom 547 552	双下肢无力
+T20	Symptom 553 557	小便困难
+T21	Duration 558 563	10 余天
+T22	Symptom 650 652	尿频
+T23	Test 658 660	血糖
+T24	Symptom 680 684	意识障碍
+T25	Symptom 685 687	躁动
+T26	Disease 698 705;706 707	糖尿病酮症酸中 毒
+T27	Duration 714 717	1 d
+T28	Test 733 735	体温
+T29	Test_Value 737 748	37℃ ~38. 5℃
+T30	Symptom 753 757	排尿困难
+T31	Symptom 758 763	双下肢无力
+T32	Symptom 799 801	疼痛
+T33	Test 848 850	体温
+T34	Test_Value 851 857	38. 2℃
+T35	Symptom 862 865	精神差
+T36	Symptom 907 912	局部皮温高
+T37	Symptom 917 921	压痛明显
+T38	Symptom 928 935	双下肢感觉减退
+T39	Symptom 936 942;943 944	会阴区感觉减 退
+T40	Symptom 955 964	肛门括约肌张力稍低
+T41	Symptom 966 972;973 982	双侧伸屈髋、 伸曲膝肌力 4 级
+T42	Symptom 983 993	双足背伸肌力 3 级
+T43	Symptom 994 1004	双足跖屈肌力 2 级
+T44	Symptom 1005 1007;1008 1017	双拇 趾背伸肌力 3 级
+T45	Test 1037 1038;1039 1040	体 温
+T46	Test_Value 1042 1057	37. 0℃ ~ 37. 6℃
+T47	Symptom 1059 1063	腰背疼痛
+T48	Test_Value 1118 1132	14. 5 mmol / L
+T49	Test_Value 1139 1145	12. 9%
+T50	Test_Value 1153 1155	阳性
+T51	Test 1156 1159	血常规
+T52	Test 1160 1165	白细胞计数
+T53	Test_Value 1166 1180	12. 18×109 / L
+T54	Test 1181 1183	血沉
+T55	Test_Value 1184 1193	80 mm / h
+T56	Test 1194 1195;1196 1200	C 反应蛋白
+T57	Test_Value 1201 1214	40. 10 mg / L
+T58	Test 1215 1219	肌酸激酶
+T59	Test_Value 1220 1232	381. 5 U / L
+T60	Test 1255 1260	乳酸脱氢酶
+T61	Test_Value 1261 1270	268 U / L
+T62	Test 1287 1290	尿蛋白
+T63	Test_Value 1291 1296;1297 1305	0. 35 g / 24 h
+T64	Test 1326 1332	结核菌素试验
+T65	Test 1336 1343	腰椎磁共振成像
+T66	Test 1627 1633	抗酸杆菌染色
+T67	Test 1621 1622;1623 1626	细 菌培养
+T68	Test 1634 1638	细菌涂片
+T69	Test_Value 1642 1644	阴性
+T70	Test 1800 1802	体温
+T71	Test 1811 1813	血糖
+T72	Disease 1877 1880	糖尿病
+T73	Disease 1918 1922	肌肉梗死
+T74	Disease 1931 1937	糖尿病肌梗死
+T75	Disease 2005 2008	糖尿病
+T76	Disease 2066 2072	糖尿病肌梗死
+T77	Disease 2108 2114	糖尿病肌梗死
+T78	Disease 2115 2118;2119 2125	糖尿病 微血管并发症
+T79	Disease 2129 2132	糖尿病
+T80	Anatomy 2208 2212	肌肉组织
+T81	Disease 2266 2269	糖尿病
+T82	Disease 2282 2291	1 型糖尿病肌梗死
+T83	Reason 2318 2325	缺血再灌注损伤
+T84	Disease 2326 2329;2330 2333	糖尿病 肌梗死
+T85	Reason 2391 2398	缺血再灌注损伤
+T86	Reason 2399 2404	微血栓形成
+T87	Reason 2414 2426	一氧化氮与过氧化物的失衡
+T88	Test 2435 2441	肿瘤坏死因子
+T89	Test 2443 2450	血小板活化因子
+T90	Reason 2480 2484	组织水肿
+T91	Disease 2511 2520	糖尿病微血管并发症
+T92	Disease 2544 2550	糖尿病肌梗死
+T93	Disease 2582 2583;2584 2586	糖 尿病
+T94	Test 2603 2605	血糖
+T95	Test 2614 2618;2619 2622	24 h 尿蛋白
+T96	Disease 2682 2688	新诊断糖尿病
+T97	Disease 2702 2703;2704 2706	肌 梗死
+T98	Disease 2713 2719	糖尿病肌梗死
+T99	Symptom 2728 2737	受损肌肉的突然疼痛
+T100	Symptom 2739 2741	肿胀
+T101	Symptom 2744 2751	皮下可触及包块
+T102	Symptom 2776 2778	发热
+T103	Disease 2789 2791	感染
+T104	Symptom 2769 2771	发热
+T105	Anatomy 2797 2801	股四头肌
+T106	Disease 2802 2808	糖尿病肌梗死
+T107	Anatomy 2817 2820	腓肠肌
+T108	Anatomy 2822 2824;2825 2827	上肢 肌肉
+T109	Anatomy 2841 2843	腰肌
+T110	Test 2918 2920	血沉
+T111	Test 2927 2932	白细胞计数
+T112	Disease 2939 2941	感染
+T113	Test 2947 2950	白细胞
+T114	Test 2979 2983	肌酸激酶
+T115	Disease 2997 3003	糖尿病肌梗死
+T116	Test 3030 3033	磁共振
+T117	Disease 3048 3050;3051 3055	糖尿 病肌梗死
+T118	Test 3056 3061	增强磁共振
+T119	Disease 3135 3139	肌肉脓肿
+T120	Disease 3146 3153	软组织蜂窝织炎
+T121	Disease 3140 3142;3143 3145	肌肉 肿瘤
+T122	Disease 3190 3196	糖尿病肌梗死
+T123	Disease 3204 3206	脓肿
+T124	Disease 3215 3218	肌梗死
+T125	Test 3276 3280	肌肉活检
+T126	Disease 3289 3295	糖尿病肌梗死
+T127	Test 3359 3361	血糖
+T128	Drug 3377 3381	阿司匹林
+T129	Drug 3382 3386	硝苯地平
+T130	Drug 3387 3390	潘生丁
+T131	Symptom 3539 3543	下肢无力
+T132	Test 3559 3561	血糖
+T133	Anatomy 3597 3599	脊髓
+T134	Symptom 3646 3650	下肢无力
+T135	Symptom 3652 3656	小便困难
+T136	Disease 3672 3678	糖尿病肌梗死
+T137	Disease 3713 3716	糖尿病
+T138	Test 3720 3722	血糖
+T139	Disease 3757 3761	肌肉梗死
+T140	Disease 3819 3825;3826 3829	糖尿病大血管 并发症
+T141	Disease 3845 3851	糖尿病肌梗死
+T142	Test 3876 3878	血糖
+T143	Disease 3890 3893	糖尿病
+T144	Disease 3932 3935	糖尿病
+T145	Symptom 3950 3951;3952 3953	肿 胀
+T146	Disease 3975 3978	肌梗死
+T147	Disease 4045 4047	脓肿
+T148	Disease 4048 4052	脓性肌炎
+T149	Disease 4053 4057	肌肉肿瘤
+T150	Symptom 620 627	一过性站立不稳
+T151	Test_Value 1332 1335	(-)
+T152	Disease 2201 2202;2203 2207	微 血管病变
+T153	Reason 2245 2251	自身免疫反应
+T154	Reason 2272 2278	自身免疫反应
+T155	Anatomy 2793 2795	大腿
+T156	Disease 3207 3209	肿瘤
+T157	Drug 3394 3398	非甾体类
+T158	Reason 3588 3594	坏死组织水肿
+T159	Level 3857 3860	严重的
+T160	Symptom 858 861	神志清
+T161	Symptom 922 926	无波动感
+T162	Symptom 946 954	双下肢肌张力正常
+T163	Test_Value 1237 1244;1245 1250	5 ~ 200 U / L
+T164	Test_Value 1271 1285	90 ~ 240 U / L
+T165	Test_Value 1306 1324	0 ~ 0. 15 g / 24 h
+T166	Test_Value 1348 1370	胸 12-腰 5 水平肌肉软组织广泛异常信号
+T167	Test_Value 1371 1379;1380 1387	T1 加权像呈等 信号及略低信号
+T168	Test_Value 1388 1398	T2 加权像呈高信号
+T169	Test 1425 1433	四肢神经传导速度
+T170	Reason 1656 1663	肌纤维变性坏死
+T171	Reason 1664 1676	中性粒细胞和淋巴细胞浸润
+T172	Reason 1677 1679;1680 1692	间质 小血管壁增厚伴玻璃样变性
+T173	Reason 1693 1700	中性粒细胞浸润
+T174	Reason 1708 1714	透明血栓形成
+T175	Anatomy 1701 1705	毛细血管
+T176	Reason 1720 1728	急慢性炎细胞浸润
+T177	Reason 1729 1733	脓肿形成
+T178	Reason 1734 1735;1736 1737	坏 死
+T179	Reason 1738 1744	肉芽组织增生
+T180	Test_Value 2648 2650	降低
+T181	Level 2951 2954	轻中度
+T182	Test_Value 2954 2956	升高
+T183	Test_Value 2921 2923	正常
+T184	Test_Value 2924 2926	偏快
+T185	Test_Value 2933 2935	正常
+T186	Test_Value 2984 2986	正常
+T187	Test_Value 2989 2991	升高
+T188	Level 2987 2989	轻度
+T189	Test_Value 3226 3230;3231 3241	边界清楚 的低回声区或无回声区
+T190	Test_Value 3247 3257;3258 3259	超声波线性穿过病变区 域
+T191	Anatomy 412 414	肌肉
+T192	Reason 463 465	梗死
+T193	Anatomy 866 867	心
+T194	Anatomy 867 868	肺
+T195	Anatomy 868 870	腹部
+T196	Symptom 914 916	质软
+T197	Anatomy 1715 1719	纤维组织
+T198	Reason 2134 2143	微血管内皮功能障碍
+T199	Reason 2145 2146;2147 2150	血 栓形成
+T200	Reason 2155 2159	炎症反应
+T201	Reason 2162 2173	局部组织损伤及缺血坏死
+T202	Anatomy 2185 2189	肌肉组织
+T203	Reason 2346 2352	内皮功能异常
+T204	Reason 2355 2357;2358 2363	小动 脉舒张障碍
+T205	Reason 2374 2380	一氧化氮减少
+T206	Reason 2381 2385;2386 2389	纤溶系统 的激活
+T207	Anatomy 2408 2412	内皮细胞
+T208	Reason 2428 2434	炎症介质生成
+T209	Reason 2455 2464	黏附因子的合成增加
+T210	Reason 2466 2469;2470 2471	炎症反 应
+T211	Reason 2473 2477	炎症反应
+T212	Reason 2489 2497;2498 2500	局部的缺血损伤及 坏死
+T213	Test_Value 2651 2655	传导减慢
+T214	Anatomy 2870 2872	肌肉
+T215	Anatomy 2970 2971;2972 2973	肌 肉
+T216	Test_Value 3065 3079	病变部位 T2 加权像高信号
+T217	Test_Value 3081 3095	T1 加权像的等信号或低信号
+T218	Reason 3106 3108	水肿
+T219	Reason 3109 3110;3111 3114	炎 性反应
+T220	Reason 3115 3117	出血
+T221	Disease 3467 3470	肌梗死
+T222	Disease 3493 3495	脓肿
+T223	Disease 3563 3565	感染
+T224	Anatomy 3635 3638	腰背部
+T225	Anatomy 3751 3753	肌肉
+T226	Test_Value 4000 4009;4010 4016	病变部位 T2 加 权像呈高信号
+T227	Test_Value 4018 4033	T1 加权像呈等信号或低信号者
+T228	Disease 8 11	糖尿病
+T229	Test 339 344	糖尿病病程
+T230	Disease 480 481;482 484	糖 尿病
+T231	Symptom 613 617	腰部扭伤
+T232	Symptom 728 732	间断发热
+T233	Symptom 786 791	右背部肿物
+T234	Anatomy 878 881	腰背部
+T235	Symptom 1032 1036	间断发热
+T236	Test 1149 1150;1151 1152	酮 体
+T237	Test_Value 1409 1412;1413 1424	腰椎椎 体及附件内多发异常信号
+T238	Test_Value 1434 1440;1441 1445	双侧腓总神经 波幅降低
+T239	Test_Value 1446 1462	左侧腓总、双侧胫神经传导速度减慢
+T240	Anatomy 1475 1477	腰部
+T241	Disease 1747 1754	糖尿病性肌梗死
+T242	Disease 1755 1763;1764 1765	周围软组织蜂窝织 炎
+T243	Test 1818 1819;1820 1823	下 肢肌力
+T244	Test_Value 1824 1827	4 级
+T245	Disease 1881 1887;1888 1889	腰背部肌肉梗 死
+T246	Disease 1890 1892	感染
+T247	Reason 2032 2051	血糖控制不佳合并有微血管和大血管并发症
+T248	Reason 2221 2224	血管炎
+T249	Anatomy 2505 2510	抗磷脂抗体
+T250	Symptom 2660 2666	周围神经受损
+T251	Anatomy 2639 2645	下肢胫腓神经
+T252	Symptom 2889 2895	双侧肌肉受累
+T253	Reason 3098 3100	梗死
+T254	Test 3161 3163	超声
+T255	Test 3184 3186	超声
+T256	Disease 3621 3622;3623 3626	腰 肌梗死
+T257	Disease 3627 3629	感染
+T258	Disease 3860 3865;3866 3867	糖尿病并发 症
+T259	Symptom 3944 3949	突发性疼痛
+T260	Anatomy 3941 3943	肌肉
+T261	Symptom 3954 3961	无明显感染征象
+T262	Test 3991 3996	磁共振增强
+R1	Test_Disease Arg1:T229 Arg2:T8
+R2	Test_Disease Arg1:T9 Arg2:T8
+R3	Symptom_Disease Arg1:T11 Arg2:T7
+R4	Anatomy_Disease Arg1:T249 Arg2:T91
+R5	Test_Disease Arg1:T4 Arg2:T93
+R6	Test_Disease Arg1:T94 Arg2:T93
+R7	Test_Disease Arg1:T95 Arg2:T2
+R8	Symptom_Disease Arg1:T99 Arg2:T98
+R9	Symptom_Disease Arg1:T100 Arg2:T98
+R10	Symptom_Disease Arg1:T101 Arg2:T98
+R11	Symptom_Disease Arg1:T104 Arg2:T103
+R12	Symptom_Disease Arg1:T102 Arg2:T103
+R13	Anatomy_Disease Arg1:T105 Arg2:T106
+R14	Anatomy_Disease Arg1:T107 Arg2:T106
+R15	Anatomy_Disease Arg1:T108 Arg2:T106
+R16	Test_Disease Arg1:T111 Arg2:T112
+R17	Test_Disease Arg1:T110 Arg2:T112
+R18	Test_Disease Arg1:T113 Arg2:T112
+R19	Test_Disease Arg1:T114 Arg2:T115
+R20	Test_Disease Arg1:T116 Arg2:T117
+R21	Test_Disease Arg1:T255 Arg2:T122
+R22	Test_Disease Arg1:T132 Arg2:T256
+R23	Symptom_Disease Arg1:T131 Arg2:T256
+R24	Anatomy_Disease Arg1:T133 Arg2:T256
+R25	Symptom_Disease Arg1:T135 Arg2:T256
+R26	Symptom_Disease Arg1:T134 Arg2:T256
+R27	Test_Disease Arg1:T138 Arg2:T137
+R28	Anatomy_Disease Arg1:T225 Arg2:T139
+R29	Anatomy_Disease Arg1:T260 Arg2:T144
+R30	Symptom_Disease Arg1:T259 Arg2:T144
+R31	Symptom_Disease Arg1:T145 Arg2:T144
+R32	Test_Disease Arg1:T254 Arg2:T120
+R33	Test_Disease Arg1:T125 Arg2:T122
+R34	Anatomy_Disease Arg1:T197 Arg2:T242
+R35	Anatomy_Disease Arg1:T175 Arg2:T242
+R36	Test_Disease Arg1:T243 Arg2:T72
+R37	Test_Disease Arg1:T71 Arg2:T72
+R38	Test_Disease Arg1:T70 Arg2:T72
+R39	Anatomy_Disease Arg1:T202 Arg2:T152
+R40	Anatomy_Disease Arg1:T80 Arg2:T152
+R41	Anatomy_Disease Arg1:T109 Arg2:T106
+R42	Anatomy_Disease Arg1:T214 Arg2:T106
+R43	Symptom_Disease Arg1:T252 Arg2:T106
+R44	Anatomy_Disease Arg1:T215 Arg2:T115
+R45	Test_Disease Arg1:T118 Arg2:T117
+R46	Anatomy_Disease Arg1:T224 Arg2:T256
+R47	Test_Disease Arg1:T142 Arg2:T141
+R48	Symptom_Disease Arg1:T261 Arg2:T144
+R49	Test_Disease Arg1:T262 Arg2:T146
+R50	Symptom_Disease Arg1:T25 Arg2:T26
+R51	Symptom_Disease Arg1:T24 Arg2:T26
+R52	Test_Disease Arg1:T132 Arg2:T223
+R53	Symptom_Disease Arg1:T131 Arg2:T223
+R54	Symptom_Disease Arg1:T135 Arg2:T136
+R55	Symptom_Disease Arg1:T134 Arg2:T136
+R56	Test_Disease Arg1:T125 Arg2:T126
+R57	Test_Disease Arg1:T229 Arg2:T7
+R58	Test_Disease Arg1:T9 Arg2:T7
+R59	Anatomy_Disease Arg1:T191 Arg2:T7
+R60	Anatomy_Disease Arg1:T12 Arg2:T7
+R61	Test_Disease Arg1:T23 Arg2:T26
+R62	Symptom_Disease Arg1:T22 Arg2:T26
+R63	Anatomy_Disease Arg1:T197 Arg2:T241
+R64	Anatomy_Disease Arg1:T175 Arg2:T241
+R65	Anatomy_Disease Arg1:T249 Arg2:T92
+R66	Anatomy_Disease Arg1:T155 Arg2:T106
+R67	Test_Disease Arg1:T255 Arg2:T123
+R68	Test_Disease Arg1:T255 Arg2:T156
+R69	Test_Disease Arg1:T255 Arg2:T124
+R70	Test_Disease Arg1:T127 Arg2:T126
+R71	Anatomy_Disease Arg1:T133 Arg2:T257
+R72	Anatomy_Disease Arg1:T224 Arg2:T136
+R73	Symptom_Disease Arg1:T259 Arg2:T146
+R74	Anatomy_Disease Arg1:T260 Arg2:T146
+R75	Symptom_Disease Arg1:T145 Arg2:T146
+R76	Symptom_Disease Arg1:T261 Arg2:T146
+R77	Test_Disease Arg1:T262 Arg2:T147
+R78	Test_Disease Arg1:T262 Arg2:T148
+R79	Test_Disease Arg1:T262 Arg2:T149

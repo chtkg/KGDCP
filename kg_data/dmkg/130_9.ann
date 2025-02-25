@@ -1,0 +1,692 @@
+T1	Disease 6437 6443	2 型糖尿病
+T2	Disease 11422 11428	2 型糖尿病
+T3	Test 290 295	HDL-C
+T4	Test 622 627	HDL-C
+T5	Test 2186 2191	HDL-C
+T6	Test 3365 3370	HDL-C
+T7	Test 4062 4067	HDL-C
+T8	Test 6054 6059	HDL-C
+T9	Test 6508 6513	HDL-C
+T10	Test 6696 6701	HDL-C
+T11	Test 8047 8052	HDL-C
+T12	Test 8411 8416	HDL-C
+T13	Test 9299 9304	HDL-C
+T14	Test 9318 9323	HDL-C
+T15	Test 9941 9946	HDL-C
+T16	Test 10371 10376	HDL-C
+T17	Test 10480 10485	HDL-C
+T18	Test 10936 10941	HDL-C
+T19	Test 13539 13544	HDL-C
+T20	Test 13648 13653	HDL-C
+T21	Test 11156 11161	LDL-C
+T22	Test 266 270	空腹血糖
+T23	Test 6183 6187	空腹血糖
+T24	Test 6351 6355	空腹血糖
+T25	Test 6358 6362	空腹血糖
+T26	Test 6781 6785	空腹血糖
+T27	Test 11151 11153	TC
+T28	Test 280 289	高密度脂蛋白胆固醇
+T29	Test 6044 6053	高密度脂蛋白胆固醇
+T30	Test 8417 8424;8425 8427	高密度脂蛋白胆 固醇
+T31	Test 9947 9956	高密度脂蛋白胆固醇
+T32	Test 275 279	总胆固醇
+T33	Test 525 526;527 530	总 胆固醇
+T34	Test 6038 6042	总胆固醇
+T35	Test 9265 9269	总胆固醇
+T36	Test 10140 10144	总胆固醇
+T37	Test 10254 10258	总胆固醇
+T38	Test 10981 10983;10984 10986	总胆 固醇
+T39	Test 11042 11046	总胆固醇
+T40	Test 13640 13641;13642 13645	总 胆固醇
+T41	Test 306 310	体重指数
+T42	Test 6097 6101	体重指数
+T43	Test 9901 9905	体重指数
+T44	Test 12321 12325	体重指数
+T45	Test 6453 6456	收缩压
+T46	Test 8899 8902	收缩压
+T47	Test 10716 10719	收缩压
+T48	Test 6484 6487	舒张压
+T49	Test 8863 8866	舒张压
+T50	Test 10709 10710;10711 10713	舒 张压
+T51	Test 258 260	腰围
+T52	Test 746 748	腰围
+T53	Test 1219 1221	腰围
+T54	Test 5924 5926	腰围
+T55	Test 6280 6282	腰围
+T56	Test 6292 6294	腰围
+T57	Test 6635 6637	腰围
+T58	Test 6646 6648	腰围
+T59	Test 8807 8809	腰围
+T60	Test 8835 8837	腰围
+T61	Test 10316 10318	腰围
+T62	Test 12778 12780	腰围
+T63	Test 13128 13130	腰围
+T64	Test 13856 13858	腰围
+T65	Test 12350 12351;12352 12360	口 服葡萄糖耐量试验
+T66	Test 10009 10016	胰岛素抵抗指数
+T67	Test 361 368	HOMA-IR
+T68	Test 2380 2387	HOMA-IR
+T69	Test 4234 4241	HOMA-IR
+T70	Test 6166 6173	HOMA-IR
+T71	Test 6837 6844	HOMA-IR
+T72	Test 9426 9433	HOMA-IR
+T73	Test 9994 10001	HOMA-IR
+T74	Disease 70 72;73 76	代谢 综合征
+T75	Disease 175 180	代谢综合征
+T76	Disease 238 240	TS
+T77	Disease 439 444	代谢综合征
+T78	Disease 572 577	代谢综合征
+T79	Disease 1061 1063;1064 1067	代谢 综合征
+T80	Disease 1072 1077	代谢综合征
+T81	Disease 1187 1192	代谢综合征
+T82	Disease 1272 1277	代谢综合征
+T83	Disease 5519 5524	代谢综合征
+T84	Disease 5567 5572	代谢综合征
+T85	Disease 5625 5630	代谢综合征
+T86	Disease 6224 6229	代谢综合征
+T87	Disease 6315 6318;6319 6321	代谢综 合征
+T88	Disease 6882 6884;6885 6888	代谢 综合征
+T89	Disease 6893 6898	代谢综合征
+T90	Disease 6920 6925	代谢综合征
+T91	Disease 6954 6959	代谢综合征
+T92	Disease 6990 6993;6994 6996	代谢综 合征
+T93	Disease 7036 7041	代谢综合征
+T94	Disease 7410 7415	代谢综合征
+T95	Disease 7416 7421	代谢综合征
+T96	Disease 7473 7478	代谢综合征
+T97	Disease 7505 7510	代谢综合征
+T98	Disease 7539 7544	代谢综合征
+T99	Disease 7863 7868	代谢综合征
+T100	Disease 8181 8186	代谢综合征
+T101	Disease 9795 9800	代谢综合征
+T102	Disease 10287 10292	代谢综合征
+T103	Disease 10415 10420	代谢综合征
+T104	Disease 10447 10452	代谢综合征
+T105	Disease 11677 11682	代谢综合征
+T106	Disease 11707 11712	代谢综合征
+T107	Disease 11836 11838;11839 11842	代谢 综合征
+T108	Disease 11865 11868;11869 11871	代谢综 合征
+T109	Disease 11925 11930	代谢综合征
+T110	Disease 11975 11980	代谢综合征
+T111	Disease 12000 12001;12002 12006	代 谢综合征
+T112	Disease 12026 12031	代谢综合征
+T113	Disease 12066 12071	代谢综合征
+T114	Disease 12171 12176	代谢综合征
+T115	Disease 12213 12216;12217 12219	代谢综 合征
+T116	Disease 12458 12463	代谢综合征
+T117	Disease 12563 12568	代谢综合征
+T118	Disease 12623 12628	代谢综合征
+T119	Disease 12848 12853	代谢综合征
+T120	Disease 13088 13093	代谢综合征
+T121	Disease 13155 13160	代谢综合征
+T122	Disease 13704 13709	代谢综合征
+T123	Disease 13714 13719	代谢综合征
+T124	Disease 13831 13836	代谢综合征
+T125	Test 6177 6182	空腹胰岛素
+T126	Test 6808 6813	空腹胰岛素
+T127	Test 297 298;299 302	甘 油三酯
+T128	Test 540 544	甘油三酯
+T129	Test 755 759	甘油三酯
+T130	Test 6061 6065	甘油三酯
+T131	Test 6557 6561	甘油三酯
+T132	Test 9345 9349	甘油三酯
+T133	Test 10154 10158	甘油三酯
+T134	Test 10326 10330	甘油三酯
+T135	Test 10996 11000	甘油三酯
+T136	Test 11146 11150	甘油三酯
+T137	Test 311 314	BMI
+T138	Test 734 737	BMI
+T139	Test 1222 1225	BMI
+T140	Test 2266 2269	BMI
+T141	Test 2272 2275	BMI
+T142	Test 3734 3737	BMI
+T143	Test 5066 5069	BMI
+T144	Test 6104 6107	BMI
+T145	Test 6611 6614	BMI
+T146	Test 6624 6627	BMI
+T147	Test 8785 8788	BMI
+T148	Test 9897 9900	BMI
+T149	Test 10303 10306	BMI
+T150	Test 12467 12470	BMI
+T151	Test 12571 12574	BMI
+T152	Test 12608 12611	BMI
+T153	Test 12656 12659	BMI
+T154	Test 12719 12722	BMI
+T155	Test 12937 12940	BMI
+T156	Test 13131 13134	BMI
+T157	Test 13867 13870	BMI
+T158	Test 255 257	身高
+T159	Test 5921 5923	身高
+T160	Test 8837 8839	身高
+T161	Test 252 254	体重
+T162	Test 5918 5920	体重
+T163	Test 11360 11362	体重
+T164	Test 12823 12825	体重
+T165	Test 12930 12932	体重
+T166	Test 13414 13416	体重
+T167	Test 13916 13918	体重
+T168	Disease 58 68	Turner 综合征
+T169	Disease 203 205	TS
+T171	Test 261 263	血压
+T172	Test 271 274	胰岛素
+T173	Test 316 323	BMI-SDS
+T174	Test 330 334	WHtR
+T175	Disease 592 597	中央型肥胖
+T176	Disease 608 611	高血压
+T177	Disease 679 685	高胰岛素血症
+T178	Disease 711 714	糖尿病
+T179	Disease 725 729;730 731	代谢综合 征
+T180	Test 738 745	BMI-SDS
+T181	Test 749 753	WHtR
+T182	Test 972 976	WHtR
+T183	Disease 665 668	高血糖
+T184	Disease 1021 1026	心血管疾病
+T185	Disease 1095 1098	高血压
+T186	Disease 1099 1103	血脂异常
+T187	Disease 1114 1116	TS
+T188	Test 1128 1131	胰岛素
+T189	Test 1138 1140	血糖
+T190	Disease 1155 1157	TS
+T191	Disease 1175 1180	中央型肥胖
+T192	Test 1212 1216	WHtR
+T193	Test 1228 1235	BMI-SDS
+T194	Disease 1248 1250	TS
+T195	Disease 1291 1301	Turner 综合征
+T196	Disease 5242 5246;5247 5255	先天性卵 巢发育不全综合征
+T197	Disease 5373 5382	代 谢 综 合 征
+T198	Disease 5413 5415	肥胖
+T199	Disease 5416 5419	高血压
+T200	Disease 5420 5423;5424 5425	高脂血 症
+T201	Disease 5426 5432	高胰岛素血症
+T202	Disease 5433 5436	糖尿病
+T203	Disease 5514 5516	TS
+T204	Disease 5755 5760	心血管畸形
+T205	Test 5940 5942	血压
+T206	Test 6031 6033	血糖
+T207	Test 6034 6037	胰岛素
+T208	Test 6114 6121	BMI-SDS
+T209	Test 6126 6133	BMI-SDS
+T210	Disease 6260 6264;6265 6266	代谢综合 征
+T211	Disease 6274 6279	中央型肥胖
+T212	Disease 6345 6346;6347 6349	高 血糖
+T213	Disease 6380 6385	糖耐量受损
+T214	Disease 6448 6450;6451 6452	高血 压
+T215	Test 6465 6467	血压
+T216	Test 6496 6498	血压
+T217	Test_Value 6513 6528	<1. 03 mmol / L
+T218	Test_Value 6537 6552	≥3. 76 mmol / L
+T219	Test_Value 6561 6576	≥1. 47 mmol / L
+T220	Disease 6608 6610	肥胖
+T221	Disease 6658 6661	高血压
+T222	Test 6663 6665	血压
+T223	Test 6674 6676	血压
+T224	Disease 6686 6690;6691 6692	脂代谢紊 乱
+T225	Test_Value 6730 6731;6732 6746	≥ 3. 76 mmol / L
+T226	Test_Value 6785 6799	≥5. 6 mmol / L
+T227	Disease 6801 6807	高胰岛素血症
+T228	Test 6750 6754	甘油三酯
+T229	Disease 6777 6780	高血糖
+T230	Test_Value 6815 6825	>25 mU / L
+T231	Test_Value 6844 6850	>3. 16
+T232	Disease 7947 7951;7952 7953	代谢综合 征
+T233	Disease 8015 8020	中央型肥胖
+T234	Disease 8032 8035	高血压
+T235	Disease 8091 8094	高血糖
+T236	Disease 8075 8080	高甘油三酯
+T237	Disease 8105 8111	高胰岛素血症
+T238	Disease 8122 8127	胰岛素抵抗
+T239	Disease 8138 8141	糖尿病
+T240	Disease 8572 8577	心血管疾病
+T241	Disease 8591 8594	高血压
+T242	Disease 8599 8605	血脂代谢紊乱
+T243	Disease 8630 8635	中央型肥胖
+T244	Disease 8636 8639	高血压
+T245	Disease 10107 10117	Turner 综合征
+T246	Test 10208 10215	BMI-SDS
+T247	Test 10308 10315	BMI-SDS
+T248	Test 10320 10324	WHtR
+T249	Test 10355 10359	WHtR
+T250	Disease 10466 10469	高血压
+T251	Disease 10488 10499	高非 HDL-C 血症
+T252	Disease 10509 10516	高甘油三酯血症
+T253	Disease 10527 10532	中央型肥胖
+T254	Disease 10542 10545	高血糖
+T255	Disease 10555 10560	胰岛素抵抗
+T256	Disease 10570 10576	高胰岛素血症
+T257	Disease 10585 10588	糖尿病
+T258	Disease 10599 10600;10601 10603	高 血压
+T259	Disease 10633 10636	高血压
+T260	Disease 10640 10646	血管发育畸形
+T261	Disease 10647 10651	肾脏疾病
+T262	Disease 10701 10704	高血压
+T263	Disease 10751 10754	高血压
+T264	Disease 10780 10782	TS
+T265	Disease 10787 10790	高血压
+T266	Disease 10822 10827	心血管畸形
+T267	Disease 10838 10841	高血压
+T268	Test 10849 10851	血压
+T269	Disease 10883 10886	高血压
+T270	Disease 10972 10975	高血压
+T271	Test 10987 10994	非 HDL-C
+T272	Disease 11200 11205	中央型肥胖
+T273	Disease 11226 11229;11230 11232	中央型 肥胖
+T274	Test 11249 11252	雌激素
+T275	Test 11367 11368;11369 11372	体 脂含量
+T276	Disease 11414 11416;11417 11420	糖耐 量受损
+T277	Test 11452 11455	胰岛素
+T278	Test 11466 11468;11469 11470	胰岛 素
+T279	Test 11481 11483	血糖
+T280	Test 11485 11488	胰岛素
+T281	Disease 11517 11520	糖尿病
+T282	Disease 11555 11558	糖尿病
+T283	Disease 11591 11597	高胰岛素血症
+T284	Disease 11611 11616	胰岛素抵抗
+T285	Disease 11619 11624	胰岛素抵抗
+T286	Test 11640 11643	胰岛素
+T287	Disease 11687 11692	胰岛素抵抗
+T288	Disease 11701 11706	中央型肥胖
+T289	Disease 11713 11717	心血管病
+T290	Disease 11741 11746	代射综合征
+T291	Disease 11751 11753;11754 11757	代射 综合征
+T292	Disease 11764 11767	糖尿病
+T293	Disease 11861 11863	肥胖
+T294	Disease 11887 11892	胰岛素抵抗
+T295	Disease 11953 11958	中央型肥胖
+T296	Disease 11994 11999	中央型肥胖
+T297	Disease 12018 12023	中央型肥胖
+T298	Disease 12075 12078;12079 12081	中央型 肥胖
+T299	Disease 12102 12106;12107 12108	中心性肥 胖
+T300	Disease 12115 12120	中央型肥胖
+T301	Disease 12141 12144	高血压
+T302	Disease 12147 12152	胰岛素抵抗
+T303	Disease 12234 12239	胰岛素抵抗
+T304	Disease 12249 12254	胰岛素抵抗
+T305	Disease 12262 12267	中央型肥胖
+T306	Disease 12294 12299	胰岛素抵抗
+T307	Disease 12311 12316	中央型肥胖
+T308	Disease 12342 12346	卵巢早衰
+T309	Test 12361 12370	静脉葡萄糖耐量试验
+T310	Test 12384 12386	血糖
+T311	Disease 12387 12391	卵巢早衰
+T312	Test 12395 12398	胰岛素
+T313	Disease 12403 12407	卵巢早衰
+T314	Test 12427 12430	雌激素
+T315	Disease 12432 12434	肥胖
+T316	Test 12442 12446	WHtR
+T317	Test 12513 12520	BMI-SDS
+T318	Test 12577 12584	BMI-SDS
+T319	Disease 12616 12618	肥胖
+T320	Disease 12620 12622	TS
+T321	Disease 12650 12652	TS
+T322	Test 12662 12669	BMI-SDS
+T323	Disease 12693 12695	肥胖
+T324	Disease 12724 12726	肥胖
+T325	Disease 12727 12729	超重
+T326	Test 12757 12764	BMI-SDS
+T327	Test 12790 12794	WHtR
+T328	Disease 12811 12816	中央型肥胖
+T329	Test 12856 12860	WHtR
+T330	Test 12896 12900	WHtR
+T331	Disease 12961 12963	肥胖
+T332	Disease 13010 13012	肥胖
+T333	Test 13121 13125	WHtR
+T334	Test 13137 13144	BMI-SDS
+T335	Disease 13284 13289;13290 13292	高甘油三酯 血症
+T336	Disease 13300 13303	高血糖
+T337	Disease 13319 13322	糖尿病
+T338	Disease 13341 13346	中央型肥胖
+T339	Disease 13358 13363	胰岛素抵抗
+T340	Disease 13372 13377	中央型肥胖
+T341	Disease 13381 13386	中央型肥胖
+T342	Disease 13410 13412	肥胖
+T343	Disease 13461 13463;13464 13465	高血 压
+T344	Disease 13509 13514	心血管疾病
+T345	Disease 13529 13532	高血压
+T346	Disease 13570 13575	中央型肥胖
+T347	Disease 13576 13579	高血压
+T348	Disease 13603 13606	高血压
+T349	Disease 13635 13638	高血压
+T350	Disease 13737 13740	高血压
+T351	Disease 13741 13744;13745 13746	血脂异 常
+T352	Test 13770 13771;13772 13774	胰 岛素
+T353	Test 13781 13783	血糖
+T354	Disease 13789 13794	胰岛素抵抗
+T355	Disease 13818 13822;13823 13824	中央型肥 胖
+T356	Test 13859 13863	WHtR
+T357	Test 13871 13878	BMI-SDS
+T358	Disease 13913 13915	肥胖
+T359	Test 3101 3110	non-HDL-C
+T360	Test 3379 3388	non-HDL-C
+T361	Test 4208 4217	non-HDL-C
+T362	Disease 7913 7917;7918 7919	代谢综合 征
+T363	Disease 6590 6595	心血管疾病
+T364	Test 2317 2321	WHtR
+T365	Test 3684 3688	WHtR
+T366	Test 3926 3930	WHtR
+T367	Test 4964 4968	WHtR
+T368	Test 6204 6208	WHtR
+T369	Test 13095 13099	WHtR
+T370	Anatomy 5975 5978	肱动脉
+T371	Test 9397 9399	血糖
+T372	Disease 5210 5220	Turner 综合征
+T373	Test 546 548	年龄
+T374	Test 555 557	年龄
+T375	Test_Value 557 562	≥10 岁
+T376	Test 487 489	年龄
+T377	Test_Value 489 495	<10(岁)
+T378	Disease 1056 1058	TS
+T379	Test 1279 1284	胰岛素抵抗
+T380	Disease 1286 1289	肥胖症
+T381	Symptom 5280 5288	继发性征发育障碍
+T382	Symptom 5289 5293	生长迟缓
+T383	Test 5720 5727;5728 5731	外周血染色体核 型分析
+T384	Test_Value 6755 6770	≥1. 47 mmol / L
+T385	Test 10160 10162	年龄
+T386	Test 10217 10219	年龄
+T387	Disease 10620 10626	血管发育异常
+T388	Test 11001 11003	年龄
+T389	Test 11047 11049	年龄
+T390	Test 11408 11411	葡萄糖
+T391	Test 11653 11654;11655 11660	葡 萄糖耐受性
+T392	Test 12318 12320	年龄
+T393	Test 12415 12418	葡萄糖
+T394	Test_Value 12862 12869	大于 0. 5
+T395	Disease 13622 13628	血管发育不良
+T396	Test 13655 13657	年龄
+T397	Disease 1182 1184	TS
+T398	Disease 5238 5240	TS
+T399	Disease 5307 5309	TS
+T400	Disease 5325 5327	TS
+T401	Disease 5360 5362	TS
+T402	Disease 5459 5461	TS
+T403	Disease 5591 5593	TS
+T404	Disease 5620 5622	TS
+T405	Disease 5734 5736	TS
+T406	Test 5900 5902	血压
+T407	Anatomy 5972 5975	右上臂
+T408	Test 5978 5980	血压
+T409	Test 6137 6140	BMI
+T410	Test_Value 6703 6718	<1. 03 mmol / L
+T411	Disease 7405 7407	TS
+T412	Disease 8644 8646	TS
+T413	Disease 10410 10412	TS
+T414	Disease 10612 10614	TS
+T415	Disease 10654 10656	TS
+T416	Disease 10727 10729	TS
+T417	Disease 10831 10833	TS
+T418	Level 10846 10848	轻型
+T419	Disease 10894 10896	TS
+T420	Disease 10929 10931	TS
+T421	Disease 11030 11032	TS
+T422	Disease 11074 11076	TS
+T423	Disease 11087 11089	TS
+T424	Disease 11121 11123	TS
+T425	Disease 11219 11221	TS
+T426	Disease 11240 11242	TS
+T427	Test 11314 11321	BMI-SDS
+T428	Disease 11353 11355	TS
+T429	Disease 11402 11404	TS
+T430	Disease 11435 11437	TS
+T431	Disease 11501 11503	TS
+T432	Disease 11586 11588	TS
+T433	Disease 11635 11637	TS
+T434	Disease 11672 11674	TS
+T435	Disease 11788 11790	TS
+T436	Disease 11821 11823	TS
+T437	Disease 12061 12063	TS
+T438	Disease 12122 12124	TS
+T439	Disease 12244 12246	TS
+T440	Disease 12286 12288	TS
+T441	Disease 12331 12333	TS
+T442	Disease 12374 12376	TS
+T443	Disease 12453 12455	TS
+T444	Test_Value 12471 12473	增高
+T445	Disease 12556 12558	TS
+T446	Disease 12681 12683	TS
+T447	Disease 12712 12714	TS
+T448	Disease 12886 12888	TS
+T449	Disease 12943 12945	TS
+T450	Disease 13150 13152	TS
+T451	Disease 13257 13259	TS
+T452	Disease 13293 13299	脂质代谢异常
+T453	Disease 13353 13355	TS
+T454	Disease 13442 13444	TS
+T455	Disease 13486 13488	TS
+T456	Disease 13586 13588	TS
+T457	Disease 13616 13618	TS
+T458	Disease 13667 13669	TS
+T459	Disease 13699 13701	TS
+T460	Disease 13756 13758	TS
+T461	Disease 13799 13801	TS
+T462	Disease 13826 13828	TS
+T463	Disease 13892 13894	TS
+T464	Disease 13924 13926	TS
+T465	Anatomy 5345 5348	心血管
+T466	Anatomy 11284 11286	内脏
+T467	Anatomy 11258 11260	脂肪
+T468	Disease 11758 11763	心血管事件
+T469	Disease 12134 12140	糖脂代谢异常
+T470	Anatomy 12831 12834	心血管
+T471	Disease 13067 13072	心血管事件
+T472	Disease 13425 13430	心血管事件
+T473	Test 336 343	非 HDL-C
+T474	Test 533 538	HDL-C
+T475	Test 630 637	非 HDL-C
+T476	Test 6722 6729	非 HDL-C
+T477	Test 8055 8062	非 HDL-C
+T478	Test 10944 10951	非 HDL-C
+T479	Test 324 329	腰围身高比
+T480	Test 6197 6199;6200 6203	腰围 身高比
+T481	Test 6386 6402	口服葡萄糖耐量试验 2 h 血糖
+T482	Test 345 357;358 360	稳态模型评估的胰岛素抵抗 指数
+T483	Disease 142 152	Turner 综合征
+T484	Disease 170 172	TS
+T485	Disease 695 700	胰岛素抵抗
+T486	Disease 649 654	高甘油三酯
+T487	Reason 1146 1151	胰岛素抵抗
+T488	Disease 5332 5337	糖耐量降低
+T489	Test 5745 5750	超声心动图
+T490	Test 6091 6093	超重
+T491	Test 6094 6096	肥胖
+T492	Test 6150 6163;6164 6165	稳态模型评估的胰岛素抵抗指 数
+T493	Test_Value 6362 6376	≥5. 6 mmol / L
+T494	Test_Value 6402 6407;6408 6416	≥7. 8 mmol / L
+T495	Test_Value 6418 6433	<11. 1 mmol / L
+T496	Test 6530 6537	非 HDL-C
+T497	Disease 6830 6835	胰岛素抵抗
+T498	Test 10145 10152	非 HDL-C
+T499	Disease 11291 11296	胰岛素抵抗
+T500	Test 11473 11475	血糖
+T501	Reason 11906 11910	内脏肥胖
+T502	Reason 11911 11916	高甘油三酯
+T503	Reason 11918 11924	腰围表型肥胖
+T504	Symptom 12305 12310	雌激素低下
+T505	Disease 12478 12483	成年期肥胖
+T506	Disease 13274 13282	高非 HDL-C
+T507	Disease 13265 13272	低 HDL-C
+R1	Test_Disease Arg1:T67 Arg2:T76
+R2	Test_Disease Arg1:T482 Arg2:T76
+R3	Test_Disease Arg1:T473 Arg2:T76
+R4	Test_Disease Arg1:T174 Arg2:T76
+R5	Test_Disease Arg1:T479 Arg2:T76
+R6	Test_Disease Arg1:T173 Arg2:T76
+R7	Test_Disease Arg1:T137 Arg2:T76
+R8	Test_Disease Arg1:T41 Arg2:T76
+R9	Test_Disease Arg1:T138 Arg2:T179
+R10	Test_Disease Arg1:T180 Arg2:T179
+R11	Test_Disease Arg1:T52 Arg2:T179
+R12	Test_Disease Arg1:T181 Arg2:T179
+R13	Test_Disease Arg1:T129 Arg2:T179
+R14	Test_Disease Arg1:T188 Arg2:T190
+R15	Test_Disease Arg1:T189 Arg2:T190
+R16	Test_Disease Arg1:T192 Arg2:T194
+R17	Test_Disease Arg1:T53 Arg2:T194
+R18	Test_Disease Arg1:T139 Arg2:T194
+R19	Test_Disease Arg1:T193 Arg2:T194
+R20	Test_Disease Arg1:T489 Arg2:T405
+R21	Test_Disease Arg1:T55 Arg2:T211
+R22	Test_Disease Arg1:T56 Arg2:T211
+R23	Test_Disease Arg1:T24 Arg2:T212
+R24	Test_Disease Arg1:T25 Arg2:T212
+R25	Test_Disease Arg1:T481 Arg2:T213
+R26	Test_Disease Arg1:T45 Arg2:T214
+R27	Test_Disease Arg1:T48 Arg2:T214
+R28	Test_Disease Arg1:T131 Arg2:T363
+R29	Test_Disease Arg1:T145 Arg2:T220
+R30	Test_Disease Arg1:T146 Arg2:T220
+R31	Test_Disease Arg1:T57 Arg2:T220
+R32	Test_Disease Arg1:T58 Arg2:T220
+R33	Test_Disease Arg1:T222 Arg2:T221
+R34	Test_Disease Arg1:T223 Arg2:T221
+R35	Test_Disease Arg1:T10 Arg2:T224
+R36	Test_Disease Arg1:T476 Arg2:T224
+R37	Test_Disease Arg1:T228 Arg2:T224
+R38	Test_Disease Arg1:T26 Arg2:T229
+R39	Test_Disease Arg1:T126 Arg2:T227
+R40	Test_Disease Arg1:T71 Arg2:T497
+R41	Test_Disease Arg1:T36 Arg2:T245
+R42	Test_Disease Arg1:T133 Arg2:T245
+R43	Test_Disease Arg1:T149 Arg2:T102
+R44	Test_Disease Arg1:T247 Arg2:T102
+R45	Test_Disease Arg1:T61 Arg2:T102
+R46	Test_Disease Arg1:T248 Arg2:T102
+R47	Test_Disease Arg1:T134 Arg2:T102
+R48	Test_Disease Arg1:T50 Arg2:T262
+R49	Test_Disease Arg1:T47 Arg2:T262
+R50	Test_Disease Arg1:T268 Arg2:T267
+R51	Test_Disease Arg1:T18 Arg2:T420
+R52	Test_Disease Arg1:T38 Arg2:T420
+R53	Test_Disease Arg1:T478 Arg2:T420
+R54	Test_Disease Arg1:T271 Arg2:T420
+R55	Test_Disease Arg1:T135 Arg2:T420
+R56	Test_Disease Arg1:T39 Arg2:T421
+R57	Test_Disease Arg1:T136 Arg2:T424
+R58	Test_Disease Arg1:T27 Arg2:T424
+R59	Test_Disease Arg1:T21 Arg2:T424
+R60	Test_Disease Arg1:T274 Arg2:T426
+R61	Test_Disease Arg1:T427 Arg2:T428
+R62	Test_Disease Arg1:T163 Arg2:T428
+R63	Test_Disease Arg1:T275 Arg2:T428
+R64	Test_Disease Arg1:T277 Arg2:T430
+R65	Test_Disease Arg1:T278 Arg2:T430
+R66	Test_Disease Arg1:T500 Arg2:T430
+R67	Test_Disease Arg1:T279 Arg2:T430
+R68	Test_Disease Arg1:T280 Arg2:T430
+R69	Test_Disease Arg1:T286 Arg2:T433
+R70	Test_Disease Arg1:T44 Arg2:T441
+R71	Test_Disease Arg1:T65 Arg2:T308
+R72	Test_Disease Arg1:T309 Arg2:T441
+R73	Test_Disease Arg1:T310 Arg2:T311
+R74	Test_Disease Arg1:T314 Arg2:T313
+R75	Test_Disease Arg1:T316 Arg2:T443
+R76	Test_Disease Arg1:T151 Arg2:T117
+R77	Test_Disease Arg1:T318 Arg2:T117
+R78	Test_Disease Arg1:T152 Arg2:T117
+R79	Test_Disease Arg1:T153 Arg2:T321
+R80	Test_Disease Arg1:T322 Arg2:T321
+R81	Test_Disease Arg1:T154 Arg2:T447
+R82	Test_Disease Arg1:T164 Arg2:T328
+R83	Test_Disease Arg1:T329 Arg2:T119
+R84	Test_Disease Arg1:T330 Arg2:T448
+R85	Test_Disease Arg1:T155 Arg2:T449
+R86	Test_Disease Arg1:T165 Arg2:T449
+R87	Test_Disease Arg1:T369 Arg2:T120
+R88	Test_Disease Arg1:T334 Arg2:T450
+R89	Test_Disease Arg1:T333 Arg2:T450
+R90	Test_Disease Arg1:T63 Arg2:T450
+R91	Test_Disease Arg1:T156 Arg2:T450
+R92	Test_Disease Arg1:T166 Arg2:T342
+R93	Test_Disease Arg1:T40 Arg2:T458
+R94	Test_Disease Arg1:T20 Arg2:T458
+R95	Test_Disease Arg1:T352 Arg2:T354
+R96	Test_Disease Arg1:T353 Arg2:T354
+R97	Test_Disease Arg1:T64 Arg2:T463
+R98	Test_Disease Arg1:T356 Arg2:T463
+R99	Test_Disease Arg1:T157 Arg2:T463
+R100	Test_Disease Arg1:T357 Arg2:T463
+R101	Test_Disease Arg1:T167 Arg2:T464
+R102	Test_Disease Arg1:T215 Arg2:T214
+R103	Test_Disease Arg1:T216 Arg2:T214
+R104	Anatomy_Disease Arg1:T466 Arg2:T499
+R105	Anatomy_Disease Arg1:T467 Arg2:T426
+R106	Anatomy_Disease Arg1:T470 Arg2:T328
+R107	Test_Disease Arg1:T327 Arg2:T328
+R108	Test_Disease Arg1:T161 Arg2:T76
+R109	Test_Disease Arg1:T158 Arg2:T76
+R110	Test_Disease Arg1:T51 Arg2:T76
+R111	Test_Disease Arg1:T171 Arg2:T76
+R112	Test_Disease Arg1:T22 Arg2:T76
+R113	Test_Disease Arg1:T172 Arg2:T76
+R114	Test_Disease Arg1:T32 Arg2:T76
+R115	Test_Disease Arg1:T28 Arg2:T76
+R116	Test_Disease Arg1:T3 Arg2:T76
+R117	Test_Disease Arg1:T127 Arg2:T76
+R118	Symptom_Disease Arg1:T381 Arg2:T372
+R119	Symptom_Disease Arg1:T382 Arg2:T372
+R120	Symptom_Disease Arg1:T381 Arg2:T196
+R121	Symptom_Disease Arg1:T382 Arg2:T196
+R122	Anatomy_Disease Arg1:T465 Arg2:T400
+R123	Test_Disease Arg1:T383 Arg2:T405
+R124	Test_Disease Arg1:T385 Arg2:T245
+R125	Test_Disease Arg1:T246 Arg2:T245
+R126	Test_Disease Arg1:T386 Arg2:T245
+R127	Test_Disease Arg1:T37 Arg2:T245
+R128	Test_Disease Arg1:T249 Arg2:T102
+R129	Test_Disease Arg1:T16 Arg2:T102
+R130	Test_Disease Arg1:T388 Arg2:T420
+R131	Test_Disease Arg1:T389 Arg2:T421
+R132	Test_Disease Arg1:T390 Arg2:T429
+R133	Test_Disease Arg1:T391 Arg2:T433
+R134	Test_Disease Arg1:T392 Arg2:T441
+R135	Test_Disease Arg1:T309 Arg2:T308
+R136	Test_Disease Arg1:T65 Arg2:T441
+R137	Test_Disease Arg1:T310 Arg2:T442
+R138	Test_Disease Arg1:T312 Arg2:T442
+R139	Test_Disease Arg1:T312 Arg2:T313
+R140	Test_Disease Arg1:T393 Arg2:T313
+R141	Test_Disease Arg1:T393 Arg2:T442
+R142	Test_Disease Arg1:T316 Arg2:T116
+R143	Test_Disease Arg1:T150 Arg2:T505
+R144	Test_Disease Arg1:T326 Arg2:T447
+R145	Test_Disease Arg1:T62 Arg2:T328
+R146	Test_Disease Arg1:T396 Arg2:T458
+R147	Test_Disease Arg1:T4 Arg2:T176
+R148	Test_Disease Arg1:T475 Arg2:T176
+R149	Test_Disease Arg1:T182 Arg2:T79
+R150	Test_Disease Arg1:T188 Arg2:T187
+R151	Test_Disease Arg1:T189 Arg2:T187
+R152	Test_Disease Arg1:T57 Arg2:T221
+R153	Test_Disease Arg1:T58 Arg2:T221
+R154	Test_Disease Arg1:T228 Arg2:T229
+R155	Test_Disease Arg1:T11 Arg2:T236
+R156	Test_Disease Arg1:T477 Arg2:T236
+R157	Test_Disease Arg1:T17 Arg2:T251
+R158	Test_Disease Arg1:T47 Arg2:T416
+R159	Test_Disease Arg1:T38 Arg2:T270
+R160	Test_Disease Arg1:T271 Arg2:T270
+R161	Test_Disease Arg1:T135 Arg2:T421
+R162	Test_Disease Arg1:T279 Arg2:T431
+R163	Test_Disease Arg1:T280 Arg2:T431
+R164	Test_Disease Arg1:T44 Arg2:T307
+R165	Test_Disease Arg1:T309 Arg2:T442
+R166	Test_Disease Arg1:T312 Arg2:T311
+R167	Test_Disease Arg1:T314 Arg2:T315
+R168	Test_Disease Arg1:T154 Arg2:T324
+R169	Test_Disease Arg1:T166 Arg2:T454
+R170	Test_Disease Arg1:T19 Arg2:T345
+R171	Test_Disease Arg1:T352 Arg2:T460
+R172	Anatomy_Disease Arg1:T465 Arg2:T488
+R173	Test_Disease Arg1:T489 Arg2:T204
+R174	Test_Disease Arg1:T392 Arg2:T307
+R175	Test_Disease Arg1:T151 Arg2:T445
+R176	Test_Disease Arg1:T318 Arg2:T445
+R177	Test_Disease Arg1:T152 Arg2:T319
+R178	Test_Disease Arg1:T154 Arg2:T325
+R179	Test_Disease Arg1:T333 Arg2:T121
+R180	Test_Disease Arg1:T63 Arg2:T121
+R181	Test_Disease Arg1:T156 Arg2:T121
+R182	Test_Disease Arg1:T334 Arg2:T121
+R183	Test_Disease Arg1:T166 Arg2:T472
+R184	Test_Disease Arg1:T352 Arg2:T351
+R185	Test_Disease Arg1:T352 Arg2:T350
+R186	Test_Disease Arg1:T167 Arg2:T358

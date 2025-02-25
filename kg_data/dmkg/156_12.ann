@@ -1,0 +1,241 @@
+T1	Disease 5662 5668	2 型糖尿病
+T2	Disease 6287 6293	2 型糖尿病
+T3	Anatomy 5292 5296	脂肪细胞
+T4	Drug 92 96	利拉鲁肽
+T5	Drug 220 224	利拉鲁肽
+T6	Drug 311 315	利拉鲁肽
+T7	Drug 377 381	利拉鲁肽
+T8	Drug 544 548	利拉鲁肽
+T9	Drug 631 635	利拉鲁肽
+T10	Drug 662 666	利拉鲁肽
+T11	Drug 750 754	利拉鲁肽
+T12	Drug 812 816	利拉鲁肽
+T13	Drug 2678 2682	利拉鲁肽
+T14	Drug 2819 2823	利拉鲁肽
+T15	Drug 3193 3197	利拉鲁肽
+T16	Drug 3203 3205;3206 3208	利拉 鲁肽
+T17	Drug 4194 4198	利拉鲁肽
+T18	Drug 4272 4276	利拉鲁肽
+T19	Drug 4296 4300	利拉鲁肽
+T20	Drug 4387 4391	利拉鲁肽
+T21	Drug 4525 4529	利拉鲁肽
+T22	Drug 4647 4651	利拉鲁肽
+T23	Drug 4725 4729	利拉鲁肽
+T24	Drug 4751 4755	利拉鲁肽
+T25	Drug 4870 4874	利拉鲁肽
+T26	Drug 5477 5481	利拉鲁肽
+T27	Drug 5797 5801	利拉鲁肽
+T28	Drug 5857 5861	利拉鲁肽
+T29	Drug 5912 5916	利拉鲁肽
+T30	Drug 5996 6000	利拉鲁肽
+T31	Drug 6079 6083	利拉鲁肽
+T32	Drug 6389 6393	利拉鲁肽
+T33	Drug 6439 6443	利拉鲁肽
+T34	Drug 6965 6969	利拉鲁肽
+T35	Drug 7001 7005	利拉鲁肽
+T36	Drug 7045 7046;7047 7050	利 拉鲁肽
+T37	Drug 7165 7169	利拉鲁肽
+T38	Test 6565 6568	骨钙素
+T39	Test 7119 7122	骨钙素
+T40	Anatomy 359 363	成骨细胞
+T41	Anatomy 430 434	成骨细胞
+T42	Anatomy 637 641	成骨细胞
+T43	Anatomy 818 822	成骨细胞
+T44	Anatomy 2479 2483	成骨细胞
+T45	Anatomy 2706 2710	成骨细胞
+T46	Anatomy 3266 3270	成骨细胞
+T47	Anatomy 4207 4211	成骨细胞
+T48	Anatomy 4278 4282	成骨细胞
+T49	Anatomy 4393 4397	成骨细胞
+T50	Anatomy 4532 4536	成骨细胞
+T51	Anatomy 4660 4664	成骨细胞
+T52	Anatomy 4731 4735	成骨细胞
+T53	Anatomy 5275 5279	成骨细胞
+T54	Anatomy 5484 5488	成骨细胞
+T55	Anatomy 5762 5766	成骨细胞
+T56	Anatomy 5863 5867	成骨细胞
+T57	Anatomy 5934 5935;5936 5939	成 骨细胞
+T58	Anatomy 6003 6004;6005 6008	成 骨细胞
+T59	Anatomy 6022 6026	成骨细胞
+T60	Anatomy 6120 6122;6123 6125	成骨 细胞
+T61	Anatomy 6228 6232	成骨细胞
+T62	Anatomy 6407 6411	成骨细胞
+T63	Anatomy 6428 6432	成骨细胞
+T64	Anatomy 6445 6449	成骨细胞
+T65	Anatomy 6488 6492	成骨细胞
+T66	Anatomy 6811 6815	成骨细胞
+T67	Anatomy 6820 6824	成骨细胞
+T68	Anatomy 6844 6848	成骨细胞
+T69	Anatomy 6869 6873	成骨细胞
+T70	Anatomy 7024 7028	成骨细胞
+T71	Anatomy 7060 7064	成骨细胞
+T72	Anatomy 7096 7098;7099 7101	成骨 细胞
+T73	Anatomy 7173 7177	成骨细胞
+T74	Anatomy 2484 2488	破骨细胞
+T75	Test 469 474	碱性磷酸酶
+T76	Test 440 444	I型胶原
+T77	Test 462 467	COL-I
+T78	Test 497 500	ALP
+T79	Disease 2518 2521;2522 2523	骨质疏 松
+T80	Disease 2525 2528	糖尿病
+T81	Test 2571 2576	GLP-1
+T82	Test 2536 2544	胰升糖素样肽 1
+T83	Test 2584 2586;2587 2589	肠促 胰素
+T84	Test 2596 2598	血糖
+T85	Test 2618 2623	GLP-1
+T86	Test 2629 2632	胰岛素
+T87	Drug 2669 2678	GLP-1 类似物
+T88	Disease 2737 2740	糖尿病
+T89	Disease 2742 2746	骨质疏松
+T90	Test 4759 4764	COL-I
+T91	Test 4765 4768	ALP
+T92	Test 4840 4845	GLP-1
+T93	Anatomy 4849 4856	肠道 L 细胞
+T94	Test 4876 4881	GLP-1
+T95	Test 4910 4912	血糖
+T96	Drug 4926 4937	GLP-1 受体激动剂
+T97	Anatomy 4941 4944	胃肠道
+T98	Anatomy 4945 4950;4951 4952	中枢神经系 统
+T99	Anatomy 4953 4955	脂肪
+T100	Anatomy 4956 4958	肝脏
+T101	Anatomy 4959 4964	心血管系统
+T102	Anatomy 4965 4967	肾脏
+T103	Anatomy 4969 4970	骨
+T104	Test 4988 4993	GLP-1
+T105	Test 5057 5061	骨骼直径
+T106	Test 5062 5066;5067 5068	骨皮质厚 度
+T107	Anatomy 5080 5088	GLP-1 受体
+T108	Test 5095 5098	骨密度
+T109	Test 5112 5117	皮质骨密度
+T110	Disease 5133 5137	骨质疏松
+T111	Test 5124 5129	GLP-1
+T112	Drug 5155 5169	胰升糖素样肽 1 受体激动剂
+T113	Test 5192 5195	骨密度
+T114	Test 5209 5214	GLP-1
+T115	Anatomy 5219 5227	骨髓间充质干细胞
+T116	Anatomy 5256 5261	BMSCs
+T117	Anatomy 5269 5273	BMSC
+T118	Anatomy 5286 5290	BMSC
+T119	Test 5693 5698	骨小梁数量
+T120	Test 5699 5706	骨小梁模式因子
+T121	Test 5707 5713	结构模型指数
+T122	Test 5731 5736	GLP-1
+T123	Test 5755 5760	GLP-1
+T124	Test 6013 6018	GLP-1
+T125	Anatomy 6174 6180	Wnt 蛋白
+T126	Test 6247 6252	GLP-1
+T127	Anatomy 6258 6261	Wnt
+T128	Anatomy 6264 6273	β-catenin
+T129	Anatomy 6295 6298	骨小梁
+T130	Test 6342 6347	GLP-1
+T131	Anatomy 6352 6355	Wnt
+T132	Anatomy 6396 6399	wnt
+T133	Anatomy 6469 6472	Wnt
+T134	Test 6481 6486	GLP-1
+T135	Test 6559 6564	碱性磷酸酶
+T136	Test 6648 6653	COL-I
+T137	Test 6711 6714	ALP
+T138	Anatomy 6756 6761	BMSCs
+T139	Test 6762 6765	ALP
+T140	Anatomy 6773 6778	BMSCs
+T141	Test 6781 6786	GLP-1
+T142	Test 6852 6857	GLP-1
+T143	Anatomy 6863 6867	BMSC
+T144	Test 6930 6935	COL-I
+T145	Test 6973 6978	COL-I
+T146	Test 6979 6982	ALP
+T147	Test 7104 7109	GLP-1
+T148	Test 7123 7126	OPN
+T149	Test 7115 7118	ALP
+T150	Test 7127 7132	COL-I
+T151	Anatomy 6716 6719;6720 6721	成骨细 胞
+T152	Test 680 683	OPN
+T153	Test 1649 1652	OPN
+T154	Test 2025 2028	OPN
+T155	Test 3706 3709	OPN
+T156	Test 5314 5317	OPN
+T157	Test 5489 5492	OPN
+T158	Test 5608 5611	OPN
+T159	Test 2973 2976	PCR
+T160	Test 3054 3057	PCR
+T161	Test 3966 3969	PCR
+T162	Test 3995 3998	PCR
+T163	Test 4020 4023	PCR
+T164	Test 2638 2640	血糖
+T165	Anatomy 241 249	MC3T3-E1
+T166	Anatomy 292 303	MC3T3-E1 细胞
+T167	Anatomy 773 781	MC3T3-E1
+T168	Anatomy 2711 2722	MC3T3-E1 细胞
+T169	Test 4862 4866;4867 4868	肠肽类激 素
+T170	Anatomy 5000 5001	骨
+T171	Anatomy 5302 5303	骨
+T172	Anatomy 5741 5742	骨
+T173	Anatomy 5717 5718	骨
+T174	Anatomy 6304 6305	骨
+T175	Anatomy 7135 7148	Runt 相关转录因子 2
+T176	Test 591 596	细胞增殖率
+T177	Test 670 675	COL-I
+T178	Test 676 679	ALP
+T179	Disease 2506 2512	骨代谢性疾病
+T180	Test 3592 3598	I型胶原蛋白
+T181	Test 3614 3619	COL-I
+T182	Test 3688 3692	骨桥蛋白
+T183	Test 3777 3780;3781 3783	碱性磷 酸酶
+T184	Test_Value 5117 5118;5119 5120	下 降
+T185	Test 6547 6551	胶原蛋白
+T186	Drug 5171 5180	exendin-4
+T187	Anatomy 6133 6136	Wnt
+T188	Anatomy 6139 6148	β-catenin
+T189	Anatomy 111 116	前成骨细胞
+T190	Anatomy 234 239	前成骨细胞
+T191	Anatomy 407 411	成骨细胞
+T192	Anatomy 767 772	前成骨细胞
+T193	Anatomy 2778 2784	前体成骨细胞
+T194	Anatomy 3104 3109	前成骨细胞
+T195	Test 6041 6048	成骨细胞增殖率
+T196	Drug 177 220	胰升糖素样肽 1(glucagon-like peptide-1, GLP-1)类似物
+T197	Test 502 503;504 507	骨 桥蛋白
+T198	Test 520 523	OPN
+T199	Drug 798 810	胰升糖素样肽 1 类似物
+T200	Test 4769 4772	OPN
+T201	Anatomy 5045 5053	GLP-1 基因
+T202	Drug 5680 5685	GLP-1
+T203	Test 5899 5902;5903 5907	成骨细 胞增殖率
+T204	Anatomy 6198 6207	β-catenin
+T205	Anatomy 6657 6660	OPN
+T206	Drug 6885 6893;6894 6897	GLP-1 受体 激动剂
+T207	Drug 6898 6907	exendin-4
+T208	Anatomy 6937 6945	ALP mRNA
+T209	Test 6983 6986	OPN
+R1	Anatomy_Disease Arg1:T74 Arg2:T179
+R2	Anatomy_Disease Arg1:T44 Arg2:T179
+R3	Test_Disease Arg1:T111 Arg2:T110
+R4	Test_Disease Arg1:T109 Arg2:T110
+R5	Test_Disease Arg1:T108 Arg2:T110
+R6	Test_Disease Arg1:T119 Arg2:T1
+R7	Test_Disease Arg1:T120 Arg2:T1
+R8	Test_Disease Arg1:T121 Arg2:T1
+R9	Anatomy_Disease Arg1:T129 Arg2:T2
+R10	Test_Disease Arg1:T126 Arg2:T2
+R11	Anatomy_Disease Arg1:T127 Arg2:T2
+R12	Anatomy_Disease Arg1:T128 Arg2:T2
+R13	Anatomy_Disease Arg1:T45 Arg2:T88
+R14	Drug_Disease Arg1:T87 Arg2:T88
+R15	Drug_Disease Arg1:T13 Arg2:T88
+R16	Test_Disease Arg1:T106 Arg2:T110
+R17	Anatomy_Disease Arg1:T107 Arg2:T110
+R18	Anatomy_Disease Arg1:T201 Arg2:T110
+R19	Test_Disease Arg1:T105 Arg2:T110
+R20	Drug_Disease Arg1:T202 Arg2:T1
+R21	Test_Disease Arg1:T122 Arg2:T1
+R22	Anatomy_Disease Arg1:T172 Arg2:T1
+R23	Anatomy_Disease Arg1:T173 Arg2:T1
+R24	Anatomy_Disease Arg1:T174 Arg2:T2
+R25	Test_Disease Arg1:T130 Arg2:T2
+R26	Anatomy_Disease Arg1:T131 Arg2:T2
+R27	Drug_Disease Arg1:T112 Arg2:T110
+R28	Drug_Disease Arg1:T186 Arg2:T110
+R29	Test_Disease Arg1:T113 Arg2:T110
+R30	Anatomy_Disease Arg1:T168 Arg2:T88
+R31	Anatomy_Disease Arg1:T45 Arg2:T89
+R32	Anatomy_Disease Arg1:T168 Arg2:T89

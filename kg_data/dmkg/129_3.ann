@@ -1,0 +1,539 @@
+T1	Disease 4543 4549	1 型糖尿病
+T2	Disease 231 234;235 238	2 型 糖尿病
+T3	Disease 393 399	2 型糖尿病
+T4	Disease 501 507	2 型糖尿病
+T5	Disease 903 909	2 型糖尿病
+T6	Disease 3771 3777	2 型糖尿病
+T7	Disease 4086 4092	2 型糖尿病
+T8	Disease 4233 4239	2 型糖尿病
+T9	Disease 4292 4298	2 型糖尿病
+T10	Disease 4407 4413	2 型糖尿病
+T11	Disease 5077 5083	2 型糖尿病
+T12	Disease 7227 7233	2 型糖尿病
+T13	Disease 12190 12196	2 型糖尿病
+T14	Disease 12978 12984	2 型糖尿病
+T15	Test 486 491	HBA1C
+T16	Test 680 685	HBA1C
+T17	Test 790 795	HBA1C
+T18	Test 1882 1887	HBA1C
+T19	Test 2329 2334	HBA1C
+T20	Test 2633 2638	HBA1C
+T21	Test 3719 3724	HBA1C
+T22	Test 3986 3991	HBA1C
+T23	Test 4509 4514	HBA1C
+T24	Test 5182 5187	HBA1C
+T25	Test 5895 5900	HBA1C
+T26	Test 5920 5925	HBA1C
+T27	Test 6001 6006	HBA1C
+T28	Test 7383 7388	HBA1C
+T29	Test 7553 7558	HBA1C
+T30	Test 7577 7582	HBA1C
+T31	Test 7740 7745	HBA1C
+T32	Test 7831 7836	HBA1C
+T33	Test 7864 7869	HBA1C
+T34	Test 8160 8165	HBA1C
+T35	Test 9312 9317	HBA1C
+T36	Test 9364 9369	HBA1C
+T37	Test 9468 9473	HBA1C
+T38	Test 9477 9482	HBA1C
+T39	Test 10950 10955	HBA1C
+T40	Test 10975 10980	HBA1C
+T41	Test 11022 11027	HBA1C
+T42	Test 12429 12434	HBA1C
+T43	Test 12505 12510	HBA1C
+T44	Test 12603 12608	HBA1C
+T45	Test 12641 12646	HBA1C
+T46	Test 12965 12970	HBA1C
+T47	Test 13054 13059	HBA1C
+T48	Test 13182 13187	HBA1C
+T49	Test 13243 13248	HBA1C
+T50	Test 13450 13455	HBA1C
+T51	Test 13537 13542	HBA1C
+T52	Test 8500 8505	HDL-C
+T53	Test 9170 9175	HDL-C
+T54	Test 11514 11519	HDL-C
+T55	Test 13636 13641	HDL-C
+T56	Test 8483 8488	LDL-C
+T57	Test 9117 9122	LDL-C
+T58	Test 13620 13625	LDL-C
+T59	Test 13628 13633	LDL-C
+T60	Drug 3973 3977	二甲双胍
+T61	Drug 4041 4045	二甲双胍
+T62	Drug 4064 4068	二甲双胍
+T63	Drug 4272 4274;4275 4277	二甲 双胍
+T64	Drug 12177 12181	二甲双胍
+T65	Drug 12208 12212	二甲双胍
+T66	Drug 12246 12250	二甲双胍
+T67	Drug 12271 12275	二甲双胍
+T68	Drug 12418 12422	二甲双胍
+T69	Drug 12679 12683	二甲双胍
+T70	Drug 13685 13686;13687 13690	二 甲双胍
+T71	Drug 13760 13764	二甲双胍
+T72	Test 3992 3996	空腹血糖
+T73	Test 5193 5197	空腹血糖
+T74	Test 5549 5553	空腹血糖
+T75	Test 5562 5566	空腹血糖
+T76	Test 5618 5622	空腹血糖
+T77	Test 5662 5666	空腹血糖
+T78	Test 5736 5740	空腹血糖
+T79	Test 6026 6030	空腹血糖
+T80	Test 6045 6049	空腹血糖
+T81	Test 8918 8922	空腹血糖
+T82	Test 11093 11097	空腹血糖
+T83	Test 11187 11191	空腹血糖
+T84	Test 12314 12318	空腹血糖
+T85	Test 13060 13064	空腹血糖
+T86	Test 13543 13547	空腹血糖
+T87	Test 8410 8414	2hPG
+T88	Test 8945 8949	2hPG
+T89	Test 12108 12111	尿素氮
+T90	Test 4721 4724	血肌酐
+T91	Test 8455 8457	TC
+T92	Test 9069 9071	TC
+T93	Test 8469 8471	TG
+T94	Test 9095 9097	TG
+T95	Test 9176 9185	高密度脂蛋白胆固醇
+T96	Test 11504 11513	高密度脂蛋白胆固醇
+T97	Test 9123 9132	低密度脂蛋白胆固醇
+T98	Test 13608 13617	低密度脂蛋白胆固醇
+T99	Test 4695 4700	谷丙转氨酶
+T100	Test 12069 12074	谷丙转氨酶
+T101	Test 4689 4694	谷草转氨酶
+T102	Test 12075 12080	谷草转氨酶
+T103	Test 12055 12060	血小板计数
+T104	Test 8426 8430	FINS
+T105	Test 8992 8996	FINS
+T106	Test 9072 9076	总胆固醇
+T107	Test 13603 13607	总胆固醇
+T108	Test 4356 4360	体重指数
+T109	Test 7361 7365	体重指数
+T110	Test 8787 8791	体重指数
+T111	Test 4636 4639	收缩压
+T112	Test 8832 8835	收缩压
+T113	Test 4670 4673	舒张压
+T114	Test 8885 8888	舒张压
+T115	Test 12120 12122	尿酸
+T116	Test 8997 9002	空腹胰岛素
+T117	Test 11224 11229	空腹胰岛素
+T118	Test 9098 9102	甘油三酯
+T119	Test 13597 13601	甘油三酯
+T120	Test 12366 12370	餐后血糖
+T121	Test 8120 8123	BMI
+T122	Test 8783 8786	BMI
+T123	Test 5986 5988	体重
+T124	Test 10632 10634	体重
+T125	Test 11608 11610	体重
+T126	Test 11626 11628	体重
+T127	Test 11668 11670	体重
+T128	Test 11712 11714	体重
+T129	Test 13667 13669	体重
+T130	Test 13693 13695	体重
+T131	Test 13707 13709	体重
+T132	Test 13725 13727	体重
+T133	Test 13752 13754	体重
+T134	Test 13777 13779	体重
+T135	Test 13847 13849	体重
+T136	Test 13874 13876	体重
+T137	Test 5214 5217	心电图
+T138	Drug 215 228	瑞格列奈盐酸二甲双胍复方片
+T139	Drug 374 384;385 388	瑞格列奈盐酸二甲双胍 复方片
+T140	Test_Value 492 493;494 499	> 7. 0%
+T141	Drug 540 549;550 554	瑞格列奈盐酸二甲双 胍复方片
+T142	Amount 555 568	1 mg / 500 mg
+T143	Drug 574 579	瑞格列奈片
+T144	Amount 580 584	1 mg
+T145	Amount 594 600	500 mg
+T146	Duration 609 613	14 周
+T147	Test_Value 795 801	<7. 0%
+T148	Drug 923 928	瑞格列奈片
+T149	Drug 886 899	瑞格列奈盐酸二甲双胍复方片
+T150	Drug 930 937	盐酸二甲双胍片
+T151	Drug 1022 1026	瑞格列奈
+T152	Disease 3355 3358	糖尿病
+T153	Disease 3403 3405;3406 3407	糖尿 病
+T154	Disease 3424 3427	糖尿病
+T155	Disease 3454 3457	糖尿病
+T156	Disease 3543 3546	糖尿病
+T157	Disease 3582 3585	糖尿病
+T158	Disease 3623 3626	糖尿病
+T159	Disease 3644 3647	糖尿病
+T160	Disease 3678 3681	糖尿病
+T161	Disease 3708 3711	糖尿病
+T162	Test 3714 3716	血糖
+T163	Test_Value 3725 3726;3727 3729	< 7%
+T164	Disease 3755 3758	糖尿病
+T165	Disease 3778 3781	糖尿病
+T166	Disease 3899 3902	糖尿病
+T167	Drug 3967 3971	瑞格列奈
+T168	Test 3999 4004	HbA1C
+T169	Drug 4037 4040	磺脲类
+T170	Drug 4059 4063	瑞格列奈
+T171	Test 4079 4081	血糖
+T172	Drug 4125 4127;4128 4130	瑞格 列奈
+T173	Drug 4267 4271	瑞格列奈
+T174	Test 4282 4284	血糖
+T175	Test_Value 4361 4376	19 ~ 45 kg / m2
+T176	Drug 4445 4447;4448 4454	胰岛 素促分泌剂类
+T177	Drug 4455 4458	双胍类
+T178	Test 4481 4483	血糖
+T179	Test_Value 4516 4529	7. 0% ~10. 5%
+T180	Disease 4570 4578	糖尿病酮症酸中毒
+T181	Disease 4579 4582;4583 4591	糖尿病 高渗性非酮症昏迷
+T182	Disease 4598 4600	心衰
+T183	Disease 4601 4607;4608 4609	不稳定性心绞 痛
+T184	Disease 4613 4617	心律失常
+T185	Disease 4629 4633	心肌梗死
+T186	Test_Value 4639 4648	>180 mmHg
+T187	Test_Value 4673 4674;4675 4683	> 100 mmHg
+T188	Drug 4775 4781;4782 4785	CYP2C8 抑制剂
+T189	Drug 4786 4790	吉非罗齐
+T190	Drug 4793 4803	CYP3A4 抑制剂
+T191	Drug 4804 4808	伊曲康唑
+T192	Drug 4809 4810;4811 4813	酮 康唑
+T193	Drug 4816 4832	CYP2C8 / 3A4 诱导剂
+T194	Drug 4833 4836	利福平
+T195	Drug 4852 4855	胰岛素
+T196	Drug 4874 4878	瑞格列奈
+T197	Drug 5054 5063;5064 5068	瑞格列奈盐酸二甲双 胍复方片
+T198	Test 5069 5071	血糖
+T199	Duration 5088 5090;5091 5092	14 周
+T200	Test 5159 5163	体格检查
+T201	Test 5164 5168	生命体征
+T202	Test 5169 5172	血常规
+T203	Test 5173 5176	血生化
+T204	Test 5177 5180	尿常规
+T205	Test 5188 5192	血胰岛素
+T206	Test 5198 5209	餐后 2 h 血糖测定
+T207	Test 5210 5212	血脂
+T208	Amount 5276 5282	500 mg
+T209	Frequency 5283 5286	tid
+T210	Drug 5359 5370	瑞格列奈盐酸二甲双胍片
+T211	Drug 5393 5400	瑞格列奈模拟片
+T212	Drug 5443 5448	瑞格列奈片
+T213	Drug 5489 5494;5495 5503	瑞格列奈盐 酸二甲双胍模拟片
+T214	Frequency 5536 5539	bid
+T215	Duration 5543 5546	2 周
+T216	Frequency 5613 5616	tid
+T217	Test_Value 5625 5636;5637 5645	4. 4 ~ 6. 1 mmol / L
+T218	Test_Value 5667 5687	3. 6 ~ 4. 4 mmol / L
+T219	Test_Value 5746 5766	4. 4 ~ 6. 1 mmol / L
+T220	Duration 5817 5821	12 周
+T221	Test_Value 5925 5931	<6. 5%
+T222	Test 5934 5939	HbA1C
+T223	Test 5982 5983;5984 5985	血 脂
+T224	Test 6067 6076	餐后 2 h 血糖
+T225	SideEff 6122 6125	低血糖
+T226	Test 6166 6168	血糖
+T227	Test 6184 6186	血糖
+T228	Test_Value 6187 6203	低于 2. 8 mmol / L
+T229	SideEff 6216 6218;6219 6222	胃肠 道反应
+T230	Test 7366 7368	血压
+T231	Test 7373 7382	餐后 2 h 血糖
+T232	Test_Value 10981 10987	<7. 0%
+T233	Test_Value 11027 11033	<6. 5%
+T234	Test 11070 11072	血糖
+T235	Test 11073 11076	胰岛素
+T236	Test 11275 11284	餐后 2 h 血糖
+T237	Test 11399 11401;11402 11409	餐后 2 h 胰岛素
+T238	Test 11437 11442	餐后胰岛素
+T239	Test 11545 11547	血脂
+T240	Test 11578 11580	血脂
+T241	SideEff 11896 11899	低血糖
+T242	SideEff 11946 11949	低血糖
+T243	SideEff 11967 11969	便秘
+T244	SideEff 11970 11972	腹泻
+T245	SideEff 11973 11975	恶心
+T246	SideEff 11976 11978	心悸
+T247	SideEff 11985 11988	低血糖
+T248	Test 12043 12048	红细胞计数
+T249	Test 12049 12054	白细胞计数
+T250	Test 12061 12063;12064 12068	血红 蛋白水平
+T251	Test 12081 12086	碱性磷酸酶
+T252	Test 12087 12089;12090 12093	谷酰 转肽酶
+T253	Test 12094 12098	总胆红素
+T254	Test 12099 12104	直接胆红素
+T255	Test 12105 12107	肌酐
+T256	Test 12112 12114	血钠
+T257	Test 12115 12116;12117 12118	血 钾
+T258	Test 12218 12220	血糖
+T259	Drug 12252 12256	瑞格列奈
+T260	Test 12279 12285	胰岛素敏感性
+T261	Drug 12320 12324	瑞格列奈
+T262	Anatomy 12328 12335	胰岛 β 细胞
+T263	Test 12391 12393	血糖
+T264	Drug 12413 12417	瑞格列奈
+T265	Drug 12543 12547	那格列奈
+T266	Drug 12548 12551;12552 12553	二甲双 胍
+T267	Drug 12674 12678	瑞格列奈
+T268	Drug 12710 12713	磺脲类
+T269	Drug 12714 12718	那格列奈
+T270	Drug 12719 12727	葡萄糖苷酶抑制剂
+T271	Test 12817 12819	血糖
+T272	Frequency 13042 13048;13049 13050	每天服用 2 次
+T273	Frequency 13071 13075;13076 13079	每天服用 3 次
+T274	Test 13119 13121	血糖
+T275	Frequency 13127 13133	每天 3 次
+T276	Frequency 13098 13104	每天 2 次
+T277	Test_Value 13248 13254	<7. 0%
+T278	Test 13370 13372	血糖
+T279	Test 13417 13419	血糖
+T280	Disease 13423 13426	糖尿病
+T281	Drug 13432 13439;13440 13446	瑞格列奈 /二 甲双胍复方片
+T282	Drug 13481 13494	瑞格列奈 /二甲双胍复方片
+T283	Test 13567 13569	血脂
+T284	Test 13663 13665	血脂
+T285	Disease 13672 13675	糖尿病
+T286	Drug 13700 13704	瑞格列奈
+T287	Frequency 13769 13776	1 日 2 次
+T288	Frequency 13791 13798	1 日 3 次
+T289	Frequency 13827 13834	1 日 3 次
+T290	Drug 13918 13927;13928 13933	瑞格列奈盐酸二甲双 胍复方制剂
+T291	Test 13959 13961	血糖
+T292	Drug 13983 13997	瑞格列奈盐酸二甲双胍复方制剂
+T293	Test 7308 7311	FAS
+T294	Test 7607 7610	FAS
+T295	Test 7684 7687	FAS
+T296	Test 7776 7779	FAS
+T297	Test 7811 7814	FAS
+T298	Test 7888 7891	FAS
+T299	Test 9544 9547	FAS
+T300	Test 9776 9779	FAS
+T301	Test 8395 8398	FBG
+T302	Test 8914 8917	FBG
+T303	Test 990 992	血糖
+T304	Test 6054 6056	血糖
+T305	Test 8957 8959	血糖
+T306	Test 10023 10025	血糖
+T307	Test 10067 10069	血糖
+T308	Test 10115 10117	血糖
+T309	Test 10160 10162	血糖
+T310	Disease 1004 1007	糖尿病
+T311	Disease 3608 3611	糖尿病
+T312	Duration 5312 5316	14 周
+T313	Method 5952 5954	空腹
+T314	Level 6350 6354	肯定有关
+T315	Level 6355 6360	很可能有关
+T316	Level 6361 6365	可能有关
+T317	Level 6366 6369;6370 6371	可能无 关
+T318	Level 6372 6376	肯定无关
+T319	Level 6380 6384	肯定有关
+T320	Level 6385 6390	很可能有关
+T321	Level 6391 6395	可能有关
+T322	Test 7346 7348	性别
+T323	Test 7349 7351	年龄
+T324	Test 7352 7355	用药史
+T325	Test 7356 7360	合并疾病
+T326	Test 7369 7371	空腹
+T327	Test_Value 12647 12653;12654 12659	8. 3 ~ 8. 4%
+T328	Frequency 13168 13175	1 日 2 次
+T329	Frequency 13196 13203	1 日 3 次
+T330	Frequency 13313 13320	1 日 2 次
+T331	Frequency 13322 13329	1 日 3 次
+T332	Frequency 13348 13355	1 日 2 次
+T333	Test 6910 6913	FAS
+T334	Test 6949 6952	FAS
+T335	Duration 663 667	14 周
+T336	Method 4443 4445	口服
+T337	Level 4610 4612	严重
+T338	Drug 5449 5453	诺和诺德
+T339	Amount 5454 5461	1 mg /片
+T340	Amount 5478 5487	500 mg /片
+T341	Duration 5858 5862	12 周
+T342	Duration 5889 5893	14 周
+T343	Duration 7436 7439	2 周
+T344	Duration 7565 7569	14 周
+T345	Duration 7858 7862	14 周
+T346	Test_Value 7872 7877	6. 5%
+T347	Test_Value 7879 7884	7. 0%
+T348	Duration 10927 10931	14 周
+T349	Duration 11083 11087	14 周
+T350	Test 11465 11467	血脂
+T351	Duration 11473 11477	14 周
+T352	Test 11488 11490	血脂
+T353	Duration 11616 11620	14 周
+T354	Test 12353 12354;12355 12357	胰 岛素
+T355	Duration 13158 13162	14 周
+T356	Test_Value 13264 13270	<6. 5%
+T357	Duration 13858 13862	14 周
+T358	Amount 5377 5391	1 mg+500 mg /片
+T359	Duration 474 478	3 个月
+T360	SideEff 6235 6240	心血管事件
+T361	Amount 13091 13097	每次 1 片
+T362	Drug 4132 4138	盐酸二甲双胍
+T363	Drug 4221 4223;4224 4226	二甲 双胍
+T364	Drug 4879 4885	盐酸二甲双胍
+T365	Drug 5032 5039	盐酸二甲双胍片
+T366	Drug 5269 5275	盐酸二甲双胍
+T367	Drug 5408 5417	盐酸二甲双胍模拟片
+T368	Drug 5466 5470	二甲双胍
+T369	Drug 12747 12751	二甲双胍
+T370	Drug 12780 12784	二甲双胍
+T371	Drug 13008 13012	二甲双胍
+T372	Drug 13035 13039	二甲双胍
+T373	Drug 13525 13529	二甲双胍
+T374	Drug 13744 13748	二甲双胍
+T375	Drug 13940 13947	盐酸二甲双胍片
+T376	Drug 13518 13522	罗格列酮
+T377	Test 5962 5966	静脉血糖
+T378	Drug 353 358	瑞格列奈片
+T379	Drug 359 366	盐酸二甲双胍片
+T380	Drug 586 593	盐酸二甲双胍片
+T381	SideEff 860 863	低血糖
+T382	Drug 1014 1020	盐酸二甲双胍
+T383	SideEff 4027 4030	低血糖
+T384	Amount 4139 4143	1 mg
+T385	Amount 4146 4152	500 mg
+T386	Amount 4155 4159	2 mg
+T387	Amount 4162 4168	500 mg
+T388	Drug 4184 4189	瑞格列奈片
+T389	Drug 4190 4195;4196 4198	盐酸二甲双 胍片
+T390	Drug 4213 4217	瑞格列奈
+T391	Duration 4421 4427	3 个月以上
+T392	Drug 4459 4468	葡萄糖苷酶抑制剂类
+T393	Duration 4499 4505	3 个月以上
+T394	Disease 4559 4567	慢性代谢性酸中毒
+T395	Test_Value 4724 4739	大于 1. 5 mg / dl
+T396	Test_Value 4741 4747;4748 4756	132. 6 μmol / L
+T397	Drug 5041 5046	瑞格列奈片
+T398	Amount 5522 5526	1 mg
+T399	Amount 5529 5535	500 mg
+T400	Test_Value 5566 5580	>6. 1 mmol / L
+T401	Amount 5599 5603	1 mg
+T402	Amount 5606 5612	500 mg
+T403	Test_Value 5940 5946	<7. 0%
+T404	Test 5967 5976	胰岛素自基线的变化
+T405	Method 5955 5957;5958 5961	餐后 2 h
+T406	SideEff 6136 6141	低血糖反应
+T407	SideEff 6150 6156	确证性低血糖
+T408	SideEff 6160 6165	低血糖反应
+T409	SideEff 6178 6181	低血糖
+T410	Level 6176 6178	严重
+T411	SideEff 7075 7078	低血糖
+T412	Drug 12741 12745	瑞格列奈
+T413	Drug 12774 12778	瑞格列奈
+T414	Drug 13002 13006	瑞格列奈
+T415	Drug 13029 13033	瑞格列奈
+T416	Drug 13737 13740;13741 13742	瑞格列 奈
+T417	Drug 13934 13939	瑞格列奈片
+R1	Drug_Disease Arg1:T138 Arg2:T2
+R2	Drug_Disease Arg1:T139 Arg2:T3
+R3	Test_Disease Arg1:T15 Arg2:T4
+R4	Drug_Disease Arg1:T141 Arg2:T4
+R5	Amount_Drug Arg1:T142 Arg2:T141
+R6	Amount_Drug Arg1:T144 Arg2:T143
+R7	Drug_Disease Arg1:T148 Arg2:T5
+R8	Drug_Disease Arg1:T150 Arg2:T5
+R9	Test_Disease Arg1:T162 Arg2:T161
+R10	Test_Disease Arg1:T21 Arg2:T161
+R11	Drug_Disease Arg1:T170 Arg2:T7
+R12	Drug_Disease Arg1:T62 Arg2:T7
+R13	Test_Disease Arg1:T171 Arg2:T7
+R14	Amount_Drug Arg1:T384 Arg2:T362
+R15	Amount_Drug Arg1:T385 Arg2:T362
+R16	Amount_Drug Arg1:T386 Arg2:T362
+R17	Amount_Drug Arg1:T387 Arg2:T362
+R18	Drug_Disease Arg1:T173 Arg2:T9
+R19	Drug_Disease Arg1:T63 Arg2:T9
+R20	Test_Disease Arg1:T174 Arg2:T9
+R21	Test_Disease Arg1:T108 Arg2:T10
+R22	Method_Drug Arg1:T336 Arg2:T176
+R23	Drug_Disease Arg1:T197 Arg2:T11
+R24	Test_Disease Arg1:T198 Arg2:T11
+R25	Duration_Drug Arg1:T199 Arg2:T197
+R26	Amount_Drug Arg1:T208 Arg2:T366
+R27	Frequency_Drug Arg1:T209 Arg2:T366
+R28	Amount_Drug Arg1:T358 Arg2:T210
+R29	Frequency_Drug Arg1:T214 Arg2:T213
+R30	Duration_Drug Arg1:T215 Arg2:T213
+R31	Drug_Disease Arg1:T64 Arg2:T13
+R32	Drug_Disease Arg1:T65 Arg2:T13
+R33	Test_Disease Arg1:T258 Arg2:T13
+R34	Test_Disease Arg1:T46 Arg2:T14
+R35	Test_Disease Arg1:T279 Arg2:T280
+R36	Drug_Disease Arg1:T281 Arg2:T280
+R37	Test_Disease Arg1:T50 Arg2:T280
+R38	Test_Disease Arg1:T129 Arg2:T285
+R39	Test_Disease Arg1:T284 Arg2:T285
+R40	Drug_Disease Arg1:T70 Arg2:T285
+R41	Test_Disease Arg1:T130 Arg2:T285
+R42	Frequency_Drug Arg1:T287 Arg2:T71
+R43	Frequency_Drug Arg1:T288 Arg2:T71
+R44	Drug_Disease Arg1:T379 Arg2:T3
+R45	Drug_Disease Arg1:T378 Arg2:T3
+R46	Drug_Disease Arg1:T143 Arg2:T4
+R47	Drug_Disease Arg1:T380 Arg2:T4
+R48	Duration_Drug Arg1:T146 Arg2:T380
+R49	Duration_Drug Arg1:T146 Arg2:T143
+R50	Duration_Drug Arg1:T146 Arg2:T141
+R51	Drug_Disease Arg1:T149 Arg2:T5
+R52	Test_Disease Arg1:T303 Arg2:T5
+R53	Drug_Disease Arg1:T363 Arg2:T8
+R54	Drug_Disease Arg1:T390 Arg2:T8
+R55	Drug_Disease Arg1:T389 Arg2:T8
+R56	Drug_Disease Arg1:T388 Arg2:T8
+R57	Drug_Disease Arg1:T362 Arg2:T8
+R58	Drug_Disease Arg1:T172 Arg2:T8
+R59	Method_Drug Arg1:T336 Arg2:T177
+R60	Method_Drug Arg1:T336 Arg2:T392
+R61	Drug_Disease Arg1:T176 Arg2:T10
+R62	Drug_Disease Arg1:T177 Arg2:T10
+R63	Drug_Disease Arg1:T392 Arg2:T10
+R64	Test_Disease Arg1:T178 Arg2:T10
+R65	Test_Disease Arg1:T23 Arg2:T10
+R66	Drug_Disease Arg1:T397 Arg2:T11
+R67	Drug_Disease Arg1:T365 Arg2:T11
+R68	Amount_Drug Arg1:T339 Arg2:T338
+R69	Amount_Drug Arg1:T340 Arg2:T368
+R70	Amount_Drug Arg1:T398 Arg2:T213
+R71	Amount_Drug Arg1:T399 Arg2:T213
+R72	Amount_Drug Arg1:T401 Arg2:T213
+R73	Amount_Drug Arg1:T402 Arg2:T213
+R74	Test_Disease Arg1:T293 Arg2:T12
+R75	Test_Disease Arg1:T322 Arg2:T12
+R76	Test_Disease Arg1:T323 Arg2:T12
+R77	Test_Disease Arg1:T324 Arg2:T12
+R78	Test_Disease Arg1:T325 Arg2:T12
+R79	Test_Disease Arg1:T109 Arg2:T12
+R80	Test_Disease Arg1:T230 Arg2:T12
+R81	Test_Disease Arg1:T231 Arg2:T12
+R82	Test_Disease Arg1:T28 Arg2:T12
+R83	Drug_Disease Arg1:T414 Arg2:T14
+R84	Drug_Disease Arg1:T371 Arg2:T14
+R85	Drug_Disease Arg1:T415 Arg2:T14
+R86	Drug_Disease Arg1:T372 Arg2:T14
+R87	Frequency_Drug Arg1:T272 Arg2:T372
+R88	Frequency_Drug Arg1:T272 Arg2:T415
+R89	Test_Disease Arg1:T47 Arg2:T14
+R90	Test_Disease Arg1:T85 Arg2:T14
+R91	Frequency_Drug Arg1:T273 Arg2:T372
+R92	Frequency_Drug Arg1:T273 Arg2:T415
+R93	Drug_Disease Arg1:T282 Arg2:T280
+R94	Drug_Disease Arg1:T376 Arg2:T280
+R95	Drug_Disease Arg1:T373 Arg2:T280
+R96	Drug_Disease Arg1:T286 Arg2:T285
+R97	Test_Disease Arg1:T131 Arg2:T285
+R98	Test_Disease Arg1:T132 Arg2:T285
+R99	Drug_Disease Arg1:T416 Arg2:T285
+R100	Drug_Disease Arg1:T374 Arg2:T285
+R101	Test_Disease Arg1:T133 Arg2:T285
+R102	Amount_Drug Arg1:T145 Arg2:T380
+R103	SideEff-Drug Arg1:T383 Arg2:T169
+R104	SideEff-Drug Arg1:T383 Arg2:T61
+R105	Amount_Drug Arg1:T384 Arg2:T172
+R106	Amount_Drug Arg1:T386 Arg2:T172
+R107	Duration_Drug Arg1:T312 Arg2:T366
+R108	Duration_Drug Arg1:T215 Arg2:T210
+R109	Frequency_Drug Arg1:T214 Arg2:T210
+R110	Amount_Drug Arg1:T398 Arg2:T210
+R111	Duration_Drug Arg1:T215 Arg2:T211
+R112	Amount_Drug Arg1:T399 Arg2:T210
+R113	Frequency_Drug Arg1:T214 Arg2:T211
+R114	Amount_Drug Arg1:T399 Arg2:T211
+R115	Amount_Drug Arg1:T398 Arg2:T211
+R116	Duration_Drug Arg1:T215 Arg2:T367
+R117	Frequency_Drug Arg1:T214 Arg2:T367
+R118	Amount_Drug Arg1:T399 Arg2:T367
+R119	Amount_Drug Arg1:T398 Arg2:T367
+R120	Duration_Drug Arg1:T215 Arg2:T212
+R121	Frequency_Drug Arg1:T214 Arg2:T212
+R122	Test_Disease Arg1:T326 Arg2:T12

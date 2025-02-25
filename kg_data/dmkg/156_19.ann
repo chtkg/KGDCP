@@ -1,0 +1,593 @@
+T1	Disease 871 877	1 型糖尿病
+T2	Disease 889 895	1 型糖尿病
+T3	Disease 958 964	1 型糖尿病
+T4	Disease 998 1004	1 型糖尿病
+T5	Disease 2447 2453	1 型糖尿病
+T6	Disease 2715 2719;2720 2722	1 型糖 尿病
+T7	Disease 3120 3126	1 型糖尿病
+T8	Disease 3274 3280	1 型糖尿病
+T9	Disease 3462 3468	1 型糖尿病
+T10	Disease 3721 3727	1 型糖尿病
+T11	Disease 3792 3798	1 型糖尿病
+T12	Disease 4149 4155	1 型糖尿病
+T13	Disease 4456 4462	1 型糖尿病
+T14	Disease 4710 4716	1 型糖尿病
+T15	Disease 4929 4932;4933 4936	1 型 糖尿病
+T16	Disease 5394 5400	1 型糖尿病
+T17	Disease 5421 5427	1 型糖尿病
+T18	Disease 5691 5697	1 型糖尿病
+T19	Disease 5866 5872	1 型糖尿病
+T20	Disease 6220 6226	1 型糖尿病
+T21	Disease 6532 6538	1 型糖尿病
+T22	Disease 6740 6746	1 型糖尿病
+T23	Disease 6969 6975	1 型糖尿病
+T24	Disease 829 835	2 型糖尿病
+T25	Disease 4755 4761	2 型糖尿病
+T26	Disease 5154 5155;5156 5160	1 型糖尿病
+T27	Test 839 844	HBA1C
+T28	Test 2583 2588	HBA1C
+T29	Test 2887 2892	HBA1C
+T30	Test 4128 4133	HBA1C
+T31	Test 7783 7788	HBA1C
+T32	Test 7512 7516	餐后血糖
+T33	Drug 7449 7453	艾塞那肽
+T34	Test 43 45	血糖
+T35	Disease 51 57	糖尿病并发症
+T36	Treatment 70 74	人工胰岛
+T37	Anatomy 81 83	胰岛
+T38	Test 86 88	血糖
+T39	Test 95 97	血糖
+T40	Disease 108 111	糖尿病
+T41	Treatment 101 105	人工胰岛
+T42	Disease 777 780	糖尿病
+T43	Disease 805 808	糖尿病
+T44	Test 810 812	血糖
+T45	Test_Value 844 850	<6. 5%
+T46	Drug 941 944	胰岛素
+T47	Method 944 947;948 949	皮下输 注
+T48	Test 965 967	血糖
+T49	Level 989 991	严重
+T50	Treatment 1050 1054	人工胰岛
+T51	Test 1112 1118	动态血糖监测
+T52	Test 1131 1133	血糖
+T53	Drug 1141 1144	胰岛素
+T54	Treatment 1184 1188	人工胰岛
+T55	Treatment 1210 1214	人工胰岛
+T56	Treatment 1225 1228;1229 1230	人工胰 岛
+T57	Test 1231 1233	血糖
+T58	Treatment 1252 1256	人工胰岛
+T59	Treatment 1278 1282	人工胰岛
+T60	Treatment 1303 1307	人工胰岛
+T61	Treatment 1311 1315	人工胰岛
+T62	Test 1362 1364;1365 1366	胰岛 素
+T63	Test 1419 1420;1421 1422	血 糖
+T64	Drug 1461 1464	胰岛素
+T65	Test 1474 1476	血糖
+T66	Treatment 1484 1488	人工胰岛
+T67	Treatment 1531 1535	人工胰岛
+T68	Treatment 1539 1543	人工胰岛
+T69	Treatment 1728 1732	人工胰岛
+T70	Test 1746 1748	血糖
+T71	Drug 1756 1759	胰岛素
+T72	Test 1779 1781	血糖
+T73	Drug 1790 1793	胰岛素
+T74	Drug 1807 1810	胰岛素
+T75	Test 1813 1815	血糖
+T76	Drug 1835 1838	胰岛素
+T77	Drug 1848 1851	胰岛素
+T78	Test 1857 1859	血糖
+T79	Test 1910 1911;1912 1913	血 糖
+T80	Drug 1918 1921	胰岛素
+T81	Test 1931 1933	血糖
+T82	Test 1944 1946	血糖
+T83	Test 1957 1959	血糖
+T84	Test 1981 1983	血糖
+T85	Test 1988 1990	血糖
+T86	Drug 1996 1999	胰岛素
+T87	Test 2012 2014	血糖
+T88	Treatment 2045 2049	人工胰岛
+T89	Disease 2097 2100	糖尿病
+T90	Drug 2109 2112	胰岛素
+T91	Disease 2126 2129	糖尿病
+T92	Disease 2149 2152	糖尿病
+T93	Treatment 2178 2182	人工胰岛
+T94	SideEff 2209 2212	低血糖
+T95	SideEff 2215 2218	低血糖
+T96	Drug 2220 2223	胰岛素
+T97	Treatment 2226 2230	人工胰岛
+T98	Drug 2280 2283	胰岛素
+T99	Test_Value 2336 2349	3. 9 mmol / L
+T100	Drug 2362 2365	胰岛素
+T101	Disease 2528 2533	低血糖昏迷
+T102	SideEff 2545 2548	低血糖
+T103	Anatomy 2612 2614	胰岛
+T104	Test 2615 2616;2617 2619	胰 岛素
+T105	Level 2525 2527	严重
+T106	Level 2535 2537	中度
+T107	SideEff 2814 2817	低血糖
+T108	Test 2835 2836;2837 2838	血 糖
+T109	Test_Value 2839 2853	<3. 9 mmol / L
+T110	SideEff 2875 2878	低血糖
+T111	SideEff 2923 2926	低血糖
+T112	Test 2934 2936	血糖
+T113	SideEff 3068 3071	低血糖
+T114	Drug 3078 3081	胰岛素
+T115	Test 3153 3155	血糖
+T116	Test_Value 3156 3170	≤3. 3 mmol / L
+T117	SideEff 3200 3203	低血糖
+T118	SideEff 3231 3234	低血糖
+T119	Test 3245 3248;3249 3252	夜间平 均血糖
+T120	SideEff 3322 3327	夜间低血糖
+T121	Test_Value 3328 3342	≤3. 9 mmol / L
+T122	Level 3393 3395	严重
+T123	Level 3396 3398	中度
+T124	SideEff 3399 3402	低血糖
+T125	Test 3415 3417	血糖
+T126	Treatment 3437 3441	人工胰岛
+T127	Treatment 3483 3487;3488 3493	持续皮下 胰岛素输注
+T128	Treatment 3534 3538	CSII
+T129	Treatment 3545 3549	人工胰岛
+T130	Test 3553 3555	血糖
+T131	Test 3596 3598	血糖
+T132	SideEff 3614 3617	低血糖
+T133	Test 3631 3632;3633 3634	血 糖
+T134	Test_Value 3634 3648	>8. 0 mmol / L
+T135	Treatment 3663 3667	人工胰岛
+T136	Test 3671 3673	血糖
+T137	Test_Value 3673 3674;3675 3688	≤ 3. 0 mmol / L
+T138	SideEff 3690 3693	低血糖
+T139	Treatment 3738 3742	人工胰岛
+T140	Treatment 3744 3748	CSII
+T141	Test 3751 3753	血糖
+T142	Test 3807 3809	血糖
+T143	Treatment 3822 3826	人工胰岛
+T144	Test 3831 3835	夜间血糖
+T145	Test_Value 3835 3850	≥16. 7 mmol / L
+T146	SideEff 3873 3876	低血糖
+T147	Treatment 3900 3902;3903 3905	人工 胰岛
+T148	Treatment 3907 3911	CSII
+T149	Test 3915 3919	夜间血糖
+T150	Test_Value 3920 3940	3. 5 ~ 7. 8 mmol / L
+T151	Test 3959 3963	平均血糖
+T152	SideEff 3988 3991	低血糖
+T153	Test 4012 4014	血糖
+T154	Treatment 4042 4046	人工胰岛
+T155	Test 4047 4049	血糖
+T156	Treatment 4064 4068	人工胰岛
+T157	Treatment 4104 4108	人工胰岛
+T158	Test_Value 4134 4139	7. 9%
+T159	Treatment 4188 4192	CSII
+T160	Test 4194 4196	血糖
+T161	Test 4213 4215	心率
+T162	Test_Value 4218 4229	140 次 / min
+T163	Treatment 4272 4273;4274 4277	人 工胰岛
+T164	Test_Value 4292 4310	3. 9 ~ 10 mmol / L
+T165	Test 4329 4331	血糖
+T166	Treatment 4345 4349	人工胰岛
+T167	SideEff 4351 4354	低血糖
+T168	Treatment 4384 4386;4387 4389	人工 胰岛
+T169	Test 4391 4393	血糖
+T170	Test 4406 4408	血糖
+T171	SideEff 4427 4430	低血糖
+T172	Treatment 4491 4495	人工胰岛
+T173	Test 4500 4502	血糖
+T174	Test_Value 4503 4509;4510 4518	< 3. 9 mmol / L
+T175	SideEff 4520 4523	低血糖
+T176	SideEff 4591 4594	低血糖
+T177	Test 4628 4630	血糖
+T178	Test 4637 4639	血糖
+T179	Test 4643 4645	血糖
+T180	Method 4652 4656	皮下输注
+T181	Drug 4656 4659	胰岛素
+T182	Treatment 4667 4671	人工胰岛
+T183	Test 4672 4673;4674 4675	血 糖
+T184	Treatment 4681 4685	人工胰岛
+T185	Disease 4745 4754	妊娠 1 型糖尿病
+T186	Treatment 4779 4783	人工胰岛
+T187	Test 4785 4787	血糖
+T188	SideEff 4792 4797	夜间低血糖
+T189	Treatment 4842 4843;4844 4847	人 工胰岛
+T190	Disease 4886 4889	糖尿病
+T191	Treatment 4911 4915	人工胰岛
+T192	Disease 4940 4943	糖尿病
+T193	SideEff 4960 4965	夜间低血糖
+T194	Test 4969 4971	血糖
+T195	Test_Value 4971 4985	<3. 5 mmol / L
+T196	Duration 4989 4995	10 min
+T197	Test 5013 5014;5015 5016	血 糖
+T198	Test_Value 5016 5030	<3. 3 mmol / L
+T199	SideEff 5032 5035	低血糖
+T200	Test 5053 5055	血糖
+T201	Test_Value 5055 5058;5059 5067	>10 mmol / L
+T202	Test 5090 5092	血糖
+T203	Test_Value 5093 5104;5105 5113	3. 9 ~ 7. 8 mmol / L
+T204	SideEff 5251 5254	低血糖
+T205	Treatment 5319 5323	人工胰岛
+T206	Duration 5405 5408	3 周
+T207	Duration 5433 5436	4 周
+T208	Test 5450 5456	夜间平均血糖
+T209	Test 5502 5506	夜间血糖
+T210	Test_Value 5506 5511;5512 5520	<3. 9 mmol / L
+T211	SideEff 5522 5525	低血糖
+T212	Test 5546 5548	血糖
+T213	Test_Value 5550 5561;5562 5570	3. 9 ~ 8. 0 mmol / L
+T214	Test 5593 5602	24 h 平均血糖
+T215	Drug 5636 5639	胰岛素
+T216	Duration 5659 5662	6 周
+T217	Test 5699 5701	血糖
+T218	Test_Value 5701 5715	<3. 9 mmol / L
+T219	SideEff 5717 5720	低血糖
+T220	Treatment 5794 5798	人工胰岛
+T221	Test 5802 5806	夜间血糖
+T222	SideEff 5815 5818	低血糖
+T223	Symptom 5832 5835	高血糖
+T224	Test 5836 5840	夜间血糖
+T225	Test 5847 5849	血糖
+T226	Test 5935 5937	血糖
+T227	SideEff 5953 5956	低血糖
+T228	Test 5963 5965	血糖
+T229	Test_Value 5967 5988	3. 9 ~ 10. 0 mmol / L
+T230	Drug 6015 6018	胰岛素
+T231	Treatment 6036 6043	双激素人工胰岛
+T232	SideEff 6049 6052	低血糖
+T233	Drug 6065 6068	胰岛素
+T234	Treatment 6069 6073	人工胰岛
+T235	Drug 6075 6078	胰岛素
+T236	Method 6078 6082	皮下输注
+T237	Test 6109 6111	血糖
+T238	Test 6125 6127	血糖
+T239	Test 6135 6139	胰升糖素
+T240	SideEff 6146 6149	低血糖
+T241	Anatomy 6155 6162	胰岛 α 细胞
+T242	Method 6182 6186	皮下给药
+T243	Test 6228 6232	胰升糖素
+T244	Symptom 6240 6241;6242 6244	低 血糖
+T245	Treatment 6261 6268	双激素人工胰岛
+T246	Anatomy 6285 6287	胰岛
+T247	Test 6291 6293	血糖
+T248	Drug 6318 6323	胰高血糖素
+T249	Treatment 6324 6328;6329 6332	双激素人 工胰岛
+T250	Disease 6357 6362;6363 6364	1 型糖尿 病
+T251	Treatment 6412 6419	双激素人工胰岛
+T252	Test 6423 6425	血糖
+T253	Test_Value 6426 6447	4. 0 ~ 10. 0 mmol / L
+T254	Drug 6515 6518	胰岛素
+T255	Test 6482 6484	血糖
+T256	Test_Value 6484 6498	<4. 0 mmol / L
+T257	Treatment 6562 6566	CSII
+T258	Treatment 6607 6614	双激素人工胰岛
+T259	Test 6637 6639	血糖
+T260	Test_Value 6641 6662	3. 9 ~ 10. 0 mmol / L
+T261	Test_Value 6674 6688	<3. 9 mmol / L
+T262	Treatment 6790 6794	CSII
+T263	Test 6784 6788	平均血糖
+T264	Test 6811 6813	血糖
+T265	Test_Value 6813 6827	<3. 9 mmol / L
+T266	Test 6871 6875	平均血糖
+T267	Test 6890 6892	血糖
+T268	Test_Value 6892 6906	<3. 9 mmol / L
+T269	Treatment 6935 6942	单激素人工胰岛
+T270	Treatment 6943 6946;6947 6951	双激素 人工胰岛
+T271	Treatment 7004 7008	CSII
+T272	Treatment 7015 7020;7021 7023	单激素人工 胰岛
+T273	Test 7028 7030	血糖
+T274	Test_Value 7031 7052	4. 0 ~ 10. 0 mmol / L
+T275	Treatment 7095 7102	双激素人工胰岛
+T276	Treatment 7103 7107;7108 7111	单激素人 工胰岛
+T277	Treatment 7123 7130	单激素人工胰岛
+T278	Treatment 7132 7136	CSII
+T279	Test 7139 7141	血糖
+T280	Test_Value 7141 7146;7147 7155	<4. 0 mmol / L
+T281	Treatment 7179 7186	双激素人工胰岛
+T282	Treatment 7224 7231	单激素人工胰岛
+T283	Treatment 7235 7242	双激素人工胰岛
+T284	Test 7254 7258	夜间血糖
+T285	Test_Value 7258 7259;7260 7273	< 4. 0 mmol / L
+T286	Treatment 7279 7286	单激素人工胰岛
+T287	Test 7289 7293	夜间血糖
+T288	Test_Value 7293 7298;7299 7307	<3. 0 mmol / L
+T289	Test 7332 7334	血糖
+T290	Treatment 7345 7352	单激素人工胰岛
+T291	Treatment 7355 7362	双激素人工胰岛
+T292	Drug 7364 7367	胰岛素
+T293	Treatment 7377 7384	双激素人工胰岛
+T294	Drug 7390 7391;7392 7396	胰 高血糖素
+T295	Drug 7408 7413	胰高血糖素
+T296	Drug 7418 7424	胰淀素类似物
+T297	Drug 7424 7428	普兰林肽
+T298	Drug 7435 7449	胰高血糖素样多肽 1 激动剂
+T299	Treatment 7459 7466	多激素人工胰岛
+T300	Treatment 7485 7489	人工胰岛
+T301	Method 7497 7501	皮下输注
+T302	Drug 7501 7502;7503 7505	胰 岛素
+T303	SideEff 7525 7528	低血糖
+T304	Test 7533 7535	血糖
+T305	Drug 7570 7576	胰岛素类似物
+T306	Test 7583 7585	血糖
+T307	Drug 7624 7629	胰高血糖素
+T308	Treatment 7630 7637	双激素人工胰岛
+T309	Anatomy 7640 7642	胰岛
+T310	Test 7646 7648	血糖
+T311	Drug 7658 7663	胰高血糖素
+T312	Drug 7689 7694	胰高血糖素
+T313	Disease 7736 7739	糖尿病
+T314	Test 7750 7752	血糖
+T315	Disease 7757 7760	糖尿病
+T316	Test 7799 7801	血糖
+T317	Treatment 7827 7831	人工胰岛
+T318	Treatment 7863 7867	人工胰岛
+T319	SideEff 7874 7877	低血糖
+T320	Test 7885 7887	血糖
+T321	Treatment 7896 7900	人工胰岛
+T322	Disease 7910 7913	糖尿病
+T323	Test 1433 1435	血糖
+T324	Disease 135 138	糖尿病
+T325	Treatment 149 153	人工胰岛
+T326	Drug 140 143	胰岛素
+T327	Symptom 1028 1030	疲乏
+T328	Symptom 1031 1037	睡眠质量下降
+T329	Symptom 1038 1039;1040 1048	认 知和记忆能力减退
+T330	Test 1829 1832	葡萄糖
+T331	Treatment 2515 2518	SAP
+T332	Treatment 2554 2557	SAP
+T333	Treatment 2561 2564	SAP
+T334	Treatment 2729 2732	SAP
+T335	Treatment 2742 2745	SAP
+T336	Treatment 2276 2279	LGS
+T337	Treatment 2288 2292	阈值暂停
+T338	Treatment 2505 2508	LGS
+T339	Treatment 2499 2502	SAP
+T340	Treatment 2565 2568	LGS
+T341	Treatment 2733 2736	LGS
+T342	Treatment 2764 2767	SAP
+T343	Treatment 2768 2771	LGS
+T344	Test_Value 2781 2795	<3. 6 mmol / L
+T345	Treatment 2913 2916	LGS
+T346	Treatment 2987 2991	PLGS
+T347	Treatment 2997 3014	预 测 低 血 糖 管 理 系 统
+T348	Treatment 3145 3149	PLGS
+T349	Treatment 3183 3186	SAP
+T350	Treatment 3316 3320	PLGS
+T351	Treatment 3356 3360	PLGS
+T352	Treatment 3382 3386	PLGS
+T353	Test_Value 3598 3612	≤3. 9 mmol / L
+T354	Treatment 4420 4424	人工胰岛
+T355	Duration 4467 4471	23 h
+T356	Treatment 4954 4957	SAP
+T357	Treatment 5214 5217	SAP
+T358	Treatment 5374 5377	SAP
+T359	Treatment 5673 5676	SAP
+T360	Test_Value 5937 5951	<3. 9 mmol / L
+T361	Treatment 6334 6337	SAP
+T362	Duration 6762 6765	5 d
+T363	Treatment 12 16	人工胰岛
+T364	Disease 1091 1094	糖尿病
+T365	Method 1370 1376	持续皮下输注
+T366	Test_Value 4606 4608	升高
+T367	Test_Value 5281 5283	升高
+T368	Duration 5886 5889	1 周
+T369	Test_Value 7516 7518	升高
+T370	Treatment 1508 1510	闭环
+T371	Treatment 1511 1515	仿生胰腺
+T372	Test_Value 5458 5465;5466 5474	降低 0. 8 mmol / L
+T373	Treatment 5354 5355;5356 5359	人 工胰岛
+T374	Disease 4738 4744	1 型糖尿病
+T375	Symptom 790 793	高血糖
+T376	Test 932 938	动态血糖监测
+T377	SideEff 976 980;981 982	夜间低血 糖
+T378	SideEff 991 996	夜间低血糖
+T379	Disease 1018 1021	低血糖
+T380	Treatment 1119 1125	皮下胰岛素泵
+T381	Treatment 1164 1169;1170 1171	人工胰岛装 置
+T382	Treatment 1319 1325	胰岛素输注泵
+T383	Test 1326 1332	持续血糖监测
+T384	Treatment 1341 1347	胰岛素输注泵
+T385	Test 1392 1393;1394 1399	持 续血糖监测
+T386	Test 1408 1417	组织间液葡萄糖浓度
+T387	Treatment 1516 1525	自动胰岛素输注设备
+T388	Treatment 2351 2355	胰岛素泵
+T389	Treatment 2463 2467	胰岛素泵
+T390	SideEff 2708 2713	夜间低血糖
+T391	Treatment 2243 2249	低血糖时暂停
+T392	Test 2328 2333	低血糖阈值
+T393	SideEff 2773 2778	夜间低血糖
+T394	SideEff 2897 2903	暂停后高血糖
+T395	Treatment 2940 2951	预测低血糖时胰岛素暂停
+T396	SideEff 3085 3088	低血糖
+T397	Test 3408 3412	平均血糖
+T398	Treatment 4180 4186	全天人工胰岛
+T399	Test 4280 4287	24 h 血糖
+T400	Test 4548 4551;4552 4553	平均血 糖
+T401	Treatment 4582 4588	全天人工胰岛
+T402	Test 4604 4606	血糖
+T403	Treatment 4824 4833	全天单激素人工胰岛
+T404	Symptom 5069 5072	高血糖
+T405	Treatment 5174 5180	院外人工胰岛
+T406	Test 5220 5225	低血糖指数
+T407	Test 5277 5281	平均血糖
+T408	Treatment 5665 5671	夜间人工胰岛
+T409	Test 5741 5750	24 h 平均血糖
+T410	Test 5821 5827	夜间平均血糖
+T411	Test 5898 5907	24 h 平均血糖
+T412	Drug 6256 6260	胰升糖素
+T413	SideEff 6278 6281	低血糖
+T414	SideEff 6477 6479;6480 6481	低血 糖
+T415	Test 6574 6576	血糖
+T416	Test 6617 6619	血糖
+T417	SideEff 7309 7312	低血糖
+T418	Drug 7317 7322	胰高血糖素
+T419	SideEff 7543 7546	低血糖
+T420	Disease 7743 7746	糖尿病
+T421	Treatment 7837 7839	胰岛
+R1	Test_Disease Arg1:T34 Arg2:T35
+R2	Treatment_Disease Arg1:T41 Arg2:T40
+R3	Test_Disease Arg1:T39 Arg2:T40
+R4	Symptom_Disease Arg1:T375 Arg2:T42
+R5	Test_Disease Arg1:T44 Arg2:T43
+R6	Test_Disease Arg1:T27 Arg2:T24
+R7	Drug_Disease Arg1:T46 Arg2:T3
+R8	Method_Drug Arg1:T47 Arg2:T46
+R9	Test_Disease Arg1:T48 Arg2:T3
+R10	Treatment_Disease Arg1:T50 Arg2:T364
+R11	Test_Disease Arg1:T51 Arg2:T364
+R12	Test_Disease Arg1:T52 Arg2:T364
+R13	Drug_Disease Arg1:T53 Arg2:T364
+R14	Drug_Disease Arg1:T90 Arg2:T89
+R15	Treatment_Disease Arg1:T93 Arg2:T92
+R16	SideEff-Drug Arg1:T95 Arg2:T96
+R17	SideEff-Drug Arg1:T94 Arg2:T96
+R18	SideEff-Drug Arg1:T113 Arg2:T114
+R19	Treatment_Disease Arg1:T139 Arg2:T10
+R20	Test_Disease Arg1:T142 Arg2:T11
+R21	Test_Disease Arg1:T30 Arg2:T12
+R22	Treatment_Disease Arg1:T398 Arg2:T12
+R23	Treatment_Disease Arg1:T159 Arg2:T12
+R24	Treatment_Disease Arg1:T172 Arg2:T13
+R25	Test_Disease Arg1:T173 Arg2:T13
+R26	Method_Drug Arg1:T180 Arg2:T181
+R27	Treatment_Disease Arg1:T184 Arg2:T14
+R28	Treatment_Disease Arg1:T186 Arg2:T25
+R29	Test_Disease Arg1:T187 Arg2:T25
+R30	Treatment_Disease Arg1:T191 Arg2:T15
+R31	Test_Disease Arg1:T194 Arg2:T192
+R32	Test_Disease Arg1:T217 Arg2:T18
+R33	Treatment_Disease Arg1:T408 Arg2:T18
+R34	Test_Disease Arg1:T225 Arg2:T18
+R35	Test_Disease Arg1:T411 Arg2:T19
+R36	Test_Disease Arg1:T243 Arg2:T20
+R37	Symptom_Disease Arg1:T244 Arg2:T20
+R38	Drug_Disease Arg1:T412 Arg2:T20
+R39	Treatment_Disease Arg1:T245 Arg2:T20
+R40	SideEff-Drug Arg1:T413 Arg2:T412
+R41	Treatment_Disease Arg1:T249 Arg2:T250
+R42	Drug_Disease Arg1:T248 Arg2:T250
+R43	Treatment_Disease Arg1:T251 Arg2:T250
+R44	Test_Disease Arg1:T252 Arg2:T250
+R45	SideEff-Drug Arg1:T414 Arg2:T254
+R46	Treatment_Disease Arg1:T257 Arg2:T21
+R47	Treatment_Disease Arg1:T270 Arg2:T23
+R48	Treatment_Disease Arg1:T269 Arg2:T23
+R49	Treatment_Disease Arg1:T321 Arg2:T322
+R50	Test_Disease Arg1:T115 Arg2:T7
+R51	Test_Disease Arg1:T119 Arg2:T7
+R52	Treatment_Disease Arg1:T126 Arg2:T9
+R53	Treatment_Disease Arg1:T127 Arg2:T9
+R54	Treatment_Disease Arg1:T140 Arg2:T10
+R55	Test_Disease Arg1:T141 Arg2:T10
+R56	Treatment_Disease Arg1:T143 Arg2:T11
+R57	Treatment_Disease Arg1:T373 Arg2:T16
+R58	Test_Disease Arg1:T314 Arg2:T315
+R59	Test_Disease Arg1:T31 Arg2:T315
+R60	Test_Disease Arg1:T316 Arg2:T313
+R61	Treatment_Disease Arg1:T36 Arg2:T40
+R62	Anatomy_Disease Arg1:T37 Arg2:T40
+R63	Test_Disease Arg1:T38 Arg2:T40
+R64	Test_Disease Arg1:T376 Arg2:T3
+R65	SideEff-Drug Arg1:T377 Arg2:T46
+R66	Symptom_Disease Arg1:T327 Arg2:T379
+R67	Symptom_Disease Arg1:T328 Arg2:T379
+R68	Symptom_Disease Arg1:T329 Arg2:T379
+R69	Treatment_Disease Arg1:T380 Arg2:T364
+R70	Treatment_Disease Arg1:T389 Arg2:T5
+R71	Treatment_Disease Arg1:T339 Arg2:T5
+R72	Treatment_Disease Arg1:T338 Arg2:T5
+R73	Treatment_Disease Arg1:T331 Arg2:T5
+R74	Treatment_Disease Arg1:T332 Arg2:T5
+R75	Treatment_Disease Arg1:T333 Arg2:T5
+R76	Treatment_Disease Arg1:T340 Arg2:T5
+R77	Test_Disease Arg1:T28 Arg2:T5
+R78	Anatomy_Disease Arg1:T103 Arg2:T6
+R79	Test_Disease Arg1:T104 Arg2:T6
+R80	Treatment_Disease Arg1:T334 Arg2:T6
+R81	Treatment_Disease Arg1:T341 Arg2:T6
+R82	Treatment_Disease Arg1:T335 Arg2:T6
+R83	Treatment_Disease Arg1:T343 Arg2:T6
+R84	Treatment_Disease Arg1:T342 Arg2:T6
+R85	Test_Disease Arg1:T108 Arg2:T6
+R86	SideEff-Drug Arg1:T396 Arg2:T114
+R87	Treatment_Disease Arg1:T348 Arg2:T7
+R88	Treatment_Disease Arg1:T349 Arg2:T7
+R89	Treatment_Disease Arg1:T350 Arg2:T8
+R90	Treatment_Disease Arg1:T351 Arg2:T8
+R91	Treatment_Disease Arg1:T128 Arg2:T9
+R92	Treatment_Disease Arg1:T129 Arg2:T9
+R93	Test_Disease Arg1:T130 Arg2:T9
+R94	Test_Disease Arg1:T131 Arg2:T9
+R95	Test_Disease Arg1:T133 Arg2:T9
+R96	Test_Disease Arg1:T136 Arg2:T9
+R97	Test_Disease Arg1:T144 Arg2:T11
+R98	Test_Disease Arg1:T160 Arg2:T12
+R99	Test_Disease Arg1:T161 Arg2:T12
+R100	Test_Disease Arg1:T400 Arg2:T13
+R101	Treatment_Disease Arg1:T401 Arg2:T13
+R102	Test_Disease Arg1:T402 Arg2:T13
+R103	Treatment_Disease Arg1:T189 Arg2:T190
+R104	Treatment_Disease Arg1:T403 Arg2:T190
+R105	Treatment_Disease Arg1:T356 Arg2:T192
+R106	Test_Disease Arg1:T197 Arg2:T192
+R107	Test_Disease Arg1:T200 Arg2:T192
+R108	Symptom_Disease Arg1:T404 Arg2:T192
+R109	Test_Disease Arg1:T202 Arg2:T192
+R110	Treatment_Disease Arg1:T405 Arg2:T26
+R111	Treatment_Disease Arg1:T357 Arg2:T26
+R112	Test_Disease Arg1:T406 Arg2:T26
+R113	Test_Disease Arg1:T407 Arg2:T26
+R114	Treatment_Disease Arg1:T205 Arg2:T26
+R115	Treatment_Disease Arg1:T358 Arg2:T16
+R116	Test_Disease Arg1:T208 Arg2:T16
+R117	Test_Disease Arg1:T209 Arg2:T16
+R118	Test_Disease Arg1:T212 Arg2:T16
+R119	Test_Disease Arg1:T214 Arg2:T16
+R120	Drug_Disease Arg1:T215 Arg2:T16
+R121	Treatment_Disease Arg1:T359 Arg2:T18
+R122	Test_Disease Arg1:T409 Arg2:T18
+R123	Treatment_Disease Arg1:T220 Arg2:T18
+R124	Test_Disease Arg1:T221 Arg2:T18
+R125	Test_Disease Arg1:T410 Arg2:T18
+R126	Test_Disease Arg1:T224 Arg2:T18
+R127	Test_Disease Arg1:T226 Arg2:T19
+R128	Test_Disease Arg1:T228 Arg2:T19
+R129	Drug_Disease Arg1:T230 Arg2:T19
+R130	Method_Drug Arg1:T236 Arg2:T235
+R131	Anatomy_Disease Arg1:T246 Arg2:T20
+R132	Test_Disease Arg1:T247 Arg2:T20
+R133	Treatment_Disease Arg1:T361 Arg2:T250
+R134	Test_Disease Arg1:T255 Arg2:T250
+R135	Drug_Disease Arg1:T254 Arg2:T250
+R136	Test_Disease Arg1:T415 Arg2:T21
+R137	Treatment_Disease Arg1:T258 Arg2:T21
+R138	Test_Disease Arg1:T416 Arg2:T21
+R139	Test_Disease Arg1:T259 Arg2:T21
+R140	Test_Disease Arg1:T263 Arg2:T22
+R141	Test_Disease Arg1:T264 Arg2:T22
+R142	Treatment_Disease Arg1:T262 Arg2:T22
+R143	Test_Disease Arg1:T266 Arg2:T22
+R144	Test_Disease Arg1:T267 Arg2:T22
+R145	Treatment_Disease Arg1:T271 Arg2:T23
+R146	Treatment_Disease Arg1:T272 Arg2:T23
+R147	Test_Disease Arg1:T273 Arg2:T23
+R148	Treatment_Disease Arg1:T275 Arg2:T23
+R149	Treatment_Disease Arg1:T276 Arg2:T23
+R150	Method_Drug Arg1:T301 Arg2:T302
+R151	SideEff-Drug Arg1:T303 Arg2:T302
+R152	SideEff-Drug Arg1:T419 Arg2:T302
+R153	Drug_Disease Arg1:T46 Arg2:T2
+R154	Treatment_Disease Arg1:T191 Arg2:T190
+R155	Duration_Drug Arg1:T216 Arg2:T215
+R156	Test_Disease Arg1:T225 Arg2:T19
+R157	Test_Disease Arg1:T119 Arg2:T8
+R158	Treatment_Disease Arg1:T36 Arg2:T35
+R159	Test_Disease Arg1:T27 Arg2:T1
+R160	Treatment_Disease Arg1:T184 Arg2:T374
+R161	Treatment_Disease Arg1:T184 Arg2:T185
+R162	Treatment_Disease Arg1:T184 Arg2:T25
+R163	Treatment_Disease Arg1:T186 Arg2:T185
+R164	Treatment_Disease Arg1:T186 Arg2:T374
+R165	Treatment_Disease Arg1:T191 Arg2:T192
+R166	Treatment_Disease Arg1:T356 Arg2:T15
+R167	Symptom_Disease Arg1:T404 Arg2:T15
+R168	Method_Drug Arg1:T236 Arg2:T233
+R169	SideEff-Drug Arg1:T232 Arg2:T233
+R170	SideEff-Drug Arg1:T232 Arg2:T235
+R171	Test_Disease Arg1:T314 Arg2:T420
+R172	Treatment_Disease Arg1:T317 Arg2:T315

@@ -1,0 +1,668 @@
+T1	Disease 3396 3402	2 型糖尿病
+T2	Disease 4767 4771;4772 4774	2 型糖 尿病
+T3	Disease 5031 5037	2 型糖尿病
+T4	Disease 5089 5095	2 型糖尿病
+T5	Test 127 129	尿酸
+T6	Test 264 266	尿酸
+T7	Test 1632 1634	尿酸
+T8	Test 1690 1692	尿酸
+T9	Test 1872 1874	尿酸
+T10	Test 1955 1957	尿酸
+T11	Test 1985 1987	尿酸
+T12	Test 2010 2012	尿酸
+T13	Test 2116 2118	尿酸
+T14	Test 2157 2159	尿酸
+T15	Test 2234 2236	尿酸
+T16	Test 2271 2273	尿酸
+T17	Test 2554 2556	尿酸
+T18	Test 2600 2602	尿酸
+T19	Test 2735 2737	尿酸
+T20	Test 2743 2745	尿酸
+T21	Test 2785 2787	尿酸
+T22	Test 2834 2836	尿酸
+T23	Test 2849 2851	尿酸
+T24	Test 2872 2874	尿酸
+T25	Test 2992 2994	尿酸
+T26	Test 3032 3034	尿酸
+T27	Test 3083 3085	尿酸
+T28	Test 3234 3236	尿酸
+T29	Test 3313 3315	尿酸
+T30	Test 3336 3338	尿酸
+T31	Test 3358 3360	尿酸
+T32	Test 3428 3430	尿酸
+T33	Test 3445 3447	尿酸
+T34	Test 3451 3453	尿酸
+T35	Test 3552 3554	尿酸
+T36	Test 3670 3672	尿酸
+T37	Test 3854 3856	尿酸
+T38	Test 3881 3883	尿酸
+T39	Test 4293 4295	尿酸
+T40	Test 4348 4350	尿酸
+T41	Test 4455 4457	尿酸
+T42	Test 4633 4635	尿酸
+T43	Test 4725 4727	尿酸
+T44	Test 4863 4865	尿酸
+T45	Test 4920 4922	尿酸
+T46	Test 4952 4954	尿酸
+T47	Test 4986 4988	尿酸
+T48	Test 5041 5043	尿酸
+T49	Test 5062 5064	尿酸
+T50	Test 5306 5308	尿酸
+T51	Test 5327 5329	尿酸
+T52	Test 5663 5665	尿酸
+T53	Test 5690 5692	尿酸
+T54	Test 6385 6387	尿酸
+T55	Test 6801 6803	尿酸
+T56	Test 6938 6940	尿酸
+T57	Disease 1808 1813	代谢综合征
+T58	Disease 1824 1829	代谢综合征
+T59	Disease 1926 1931	代谢综合征
+T60	Disease 2191 2196	代谢综合征
+T61	Disease 3410 3415	代谢综合征
+T62	Disease 3786 3791	代谢综合征
+T63	Disease 3833 3838	代谢综合征
+T64	Disease 3871 3872;3873 3877	代 谢综合征
+T65	Disease 4761 4766	代谢综合征
+T66	Disease 4843 4848	代谢综合征
+T67	Disease 5024 5029	代谢综合征
+T68	Disease 5096 5101	代谢综合征
+T69	Disease 4508 4512	结直肠癌
+T70	Disease 5776 5780	结直肠癌
+T71	Disease 1849 1853	前列腺癌
+T72	Disease 2162 2166	前列腺癌
+T73	Disease 2205 2209	前列腺癌
+T74	Disease 2246 2250	前列腺癌
+T75	Disease 2372 2376	前列腺癌
+T76	Disease 1845 1848	乳腺癌
+T77	Disease 3934 3937	乳腺癌
+T78	Disease 3975 3978	乳腺癌
+T79	Disease 4005 4008	乳腺癌
+T80	Disease 4069 4072	乳腺癌
+T81	Disease 4091 4094	乳腺癌
+T82	Disease 4424 4427	乳腺癌
+T83	Disease 4444 4447	乳腺癌
+T84	Disease 5173 5174;5175 5177	乳 腺癌
+T85	Disease 5189 5192	乳腺癌
+T86	Disease 5769 5772	乳腺癌
+T87	Disease 5813 5816	乳腺癌
+T88	Disease 5885 5888	乳腺癌
+T89	Disease 6069 6072	乳腺癌
+T90	Disease 6095 6098	乳腺癌
+T91	Disease 6157 6160	乳腺癌
+T92	Disease 6190 6193	乳腺癌
+T93	Disease 6212 6215	乳腺癌
+T94	Disease 6244 6247	乳腺癌
+T95	Disease 6307 6310	乳腺癌
+T96	Disease 4513 4516	结肠癌
+T97	Test 3720 3723	脂联素
+T98	Test 3750 3753	脂联素
+T99	Test 3754 3757	脂联素
+T100	Test 3847 3850	脂联素
+T101	Test 3889 3892	脂联素
+T102	Test 3907 3910	脂联素
+T103	Test 3920 3923	脂联素
+T104	Test 3951 3954	脂联素
+T105	Test 3999 4002	脂联素
+T106	Test 4023 4024;4025 4027	脂 联素
+T107	Test 4077 4080	脂联素
+T108	Test 4132 4135	脂联素
+T109	Test 4165 4168	脂联素
+T110	Test 4227 4230	脂联素
+T111	Test 4301 4304	脂联素
+T112	Test 4876 4879	脂联素
+T113	Test 5112 5115	脂联素
+T114	Test 6943 6946	脂联素
+T115	Disease 4143 4145	肺癌
+T116	Disease 4594 4596	肺癌
+T117	Disease 5831 5833	肺癌
+T118	Disease 4597 4599	胃癌
+T119	Disease 5773 5775	胃癌
+T120	Disease 5817 5819	胃癌
+T121	Disease 5889 5891	胃癌
+T122	Disease 1918 1923;1924 1925	2 型糖尿 病
+T123	Disease 3772 3777;3778 3779	2 型糖尿 病
+T124	Disease 4829 4834;4835 4836	2 型糖尿 病
+T125	Disease 1801 1802;1803 1807	心 血管疾病
+T126	Test 3600 3604;3605 3606	MCP- 1
+T127	Test 4383 4387	IL-6
+T128	Disease 2292 2295;2296 2297	前列腺 癌
+T129	Anatomy 4180 4183	Akt
+T130	Anatomy 4244 4247	Akt
+T131	Test 5079 5081;5082 5083	脂联 素
+T132	Disease 1719 1721	痛风
+T133	Disease 2322 2324	痛风
+T134	Disease 2329 2331	痛风
+T135	Disease 2521 2523	痛风
+T136	Disease 5268 5270	痛风
+T137	Disease 5454 5456	痛风
+T138	Test 3047 3048;3049 3050	尿 酸
+T139	Test 3153 3154;3155 3156	尿 酸
+T140	Test 3903 3904;3905 3906	尿 酸
+T141	Test 5428 5429;5430 5431	尿 酸
+T142	Test 5639 5640;5641 5642	尿 酸
+T143	Disease 93 98	高尿酸血症
+T144	Disease 117 122	高尿酸血症
+T145	Symptom 143 145	少尿
+T146	Symptom 146 148	无尿
+T147	Disease 171 176	高尿酸血症
+T148	Disease 238 243	高尿酸血症
+T149	Anatomy 251 253;254 260	黄嘌 呤氧化还原酶
+T150	Anatomy 275 282	嘌呤氧化还原酶
+T151	Disease 326 331	高尿酸血症
+T152	Disease 1595 1600	高尿酸血症
+T153	Disease 1683 1688	高尿酸血症
+T154	Disease 1722 1727	急性肾损伤
+T155	Disease 1784 1789	急性肾损伤
+T156	Disease 1790 1796	慢性肾脏疾病
+T157	Disease 1797 1800	高血压
+T158	Disease 1817 1822	高尿酸血症
+T159	Disease 1841 1844	大肠癌
+T160	Disease 1915 1917	肥胖
+T161	Disease 1944 1949	高尿酸血症
+T162	Disease 2039 2044	高尿酸血症
+T163	Disease 2051 2056	高尿酸血症
+T164	Disease 2216 2221	高尿酸血症
+T165	Test 2222 2225	胰岛素
+T166	Test 2237 2240	胰岛素
+T167	Test_Value 2275 2290	大于 358 μmol / L
+T168	Disease 2347 2353	泌尿系统癌症
+T169	Anatomy 2355 2358	前列腺
+T170	Anatomy 2359 2361	膀胱
+T171	Disease 2362 2364	肾癌
+T172	Disease 2377 2380	膀胱癌
+T173	Disease 2381 2383	肾癌
+T174	Anatomy 2527 2529;2530 2531	前列 腺
+T175	Anatomy 2532 2534	膀胱
+T176	Disease 2535 2537	肾癌
+T177	Test_Value 2748 2761	>7. 2 mg / dl
+T178	Disease 2963 2968	高尿酸血症
+T179	Test_Value 3087 3105	低于 279. 6 μmol / L
+T180	Test_Value 3107 3125	大于 279. 6 μmol / L
+T181	Disease 3129 3134	软组织肉瘤
+T182	Disease 3393 3395	肥胖
+T183	Disease 3403 3405;3406 3409	胰岛 素抵抗
+T184	Anatomy 3508 3518	Toll 样受体 4
+T185	Anatomy 3525 3528	白细胞
+T186	Anatomy 3562 3565;3566 3568	MAP 激酶
+T187	Anatomy 3569 3572	p38
+T188	Anatomy 3575 3578	ERK
+T189	Anatomy 3586 3591	NF-κB
+T190	Test 3609 3615	C 反应蛋白
+T191	Anatomy 3631 3640	NADPH 氧化酶
+T192	Disease 3684 3689	慢性肾脏病
+T193	Test 3724 3730	C 反应蛋白
+T194	Test 3731 3733	瘦素
+T195	Disease 3769 3771	肥胖
+T196	Disease 3780 3785	胰岛素抵抗
+T197	Disease 3828 3830	肥胖
+T198	Anatomy 4173 4176	Wnt
+T199	Anatomy 4194 4198	LKB1
+T200	Anatomy 4237 4241	PI3K
+T201	Test 4326 4332	C 反应蛋白
+T202	Test 4389 4397	肿瘤坏死因子 α
+T203	Test 4367 4373	C 反应蛋白
+T204	Test 4374 4381	白细胞介素 6
+T205	Test 4398 4403	TNF-α
+T206	Test 4413 4419	C 反应蛋白
+T207	Test 4496 4505	高敏 C 反应蛋白
+T208	Test 4533 4539	C 反应蛋白
+T209	Test 4582 4588	C 反应蛋白
+T210	Disease 4605 4609	肾细胞癌
+T211	Test 4625 4631	C 反应蛋白
+T212	Test 4654 4660	C 反应蛋白
+T213	Test 4695 4701	C 反应蛋白
+T214	Test 4746 4748	瘦素
+T215	Disease 4752 4757	高尿酸血症
+T216	Test 4743 4745	瘦素
+T217	Disease 4758 4760	肥胖
+T218	Anatomy 4796 4800	肥胖基因
+T219	Disease 4825 4827	肥胖
+T220	Test 4852 4854	瘦素
+T221	Test 4855 4861	C 反应蛋白
+T222	Disease 4914 4919	高尿酸血症
+T223	Test_Value 4923 4925	升高
+T224	Test 4928 4930	瘦素
+T225	Test_Value 4933 4935	升高
+T226	Test 4945 4947	瘦素
+T227	Anatomy 4950 4952	肾脏
+T228	Anatomy 4964 4972	黄嘌呤氧化还原酶
+T229	Anatomy 4961 4963	肝脏
+T230	Test 4978 4980	瘦素
+T231	Anatomy 4993 4995	肾脏
+T232	Disease 5001 5006	高尿酸血症
+T233	Disease 5020 5022	肥胖
+T234	Test 5058 5060	瘦素
+T235	Test 5076 5078	瘦素
+T236	Disease 5086 5088	肥胖
+T237	Test 5108 5110	瘦素
+T238	Test 5136 5138	瘦素
+T239	Test 5168 5170	瘦素
+T240	Disease 5231 5236	高尿酸血症
+T241	Anatomy 5255 5260	ABCG2
+T242	Disease 5262 5267	高尿酸血症
+T243	Anatomy 5290 5295	ABCG2
+T244	Anatomy 5333 5338	ABCG2
+T245	Anatomy 5416 5421	ABCG2
+T246	Disease 5457 5458;5459 5463	高 尿酸血症
+T247	Disease 5509 5517	非乳头状肾细胞癌
+T248	Disease 5532 5544	弥漫性大 B 细胞淋巴瘤
+T249	Disease 5568 5573	高尿酸血症
+T250	Anatomy 5744 5747	XOR
+T251	Anatomy 5755 5758	XOR
+T252	Disease 5781 5784	卵巢癌
+T253	Disease 5795 5799	肝细胞癌
+T254	Disease 5785 5787;5788 5792	非小 细胞肺癌
+T255	Disease 5821 5826	结肠直肠癌
+T256	Disease 5827 5830	卵巢癌
+T257	Anatomy 5836 5839	XOR
+T258	Anatomy 5871 5874	XOR
+T259	Disease 5892 5895	大肠癌
+T260	Anatomy 5970 5973	XOR
+T261	Anatomy 6024 6027	XOR
+T262	Anatomy 6033 6039	环氧化酶 2
+T263	Anatomy 6047 6056	基质金属蛋白酶 1
+T264	Anatomy 6040 6045	COX-2
+T265	Anatomy 6057 6062	MMP-1
+T266	Anatomy 6090 6093	XOR
+T267	Anatomy 6108 6111	XOR
+T268	Anatomy 6119 6127	抑制分化蛋白 1
+T269	Anatomy 6129 6132	Id1
+T270	Anatomy 6143 6146	Id1
+T271	Anatomy 6172 6175	XOR
+T272	Anatomy 6179 6182	Id1
+T273	Anatomy 6218 6221	XOR
+T274	Anatomy 6231 6234	Id1
+T275	Anatomy 6275 6278	XOR
+T276	Anatomy 6282 6287	COX-2
+T277	Anatomy 6296 6299	Id1
+T278	Anatomy 6288 6293	MMP-1
+T279	Anatomy 6334 6337	XOR
+T280	Anatomy 6377 6380	XOR
+T281	Anatomy 6400 6403	XOR
+T282	Anatomy 6442 6445	XOR
+T283	Test 6456 6458	瘦素
+T284	Test_Value 6460 6462	升高
+T285	Disease 6450 6455	高尿酸血症
+T286	Anatomy 6514 6517	XOR
+T287	Anatomy 6533 6536	XOR
+T288	Disease 6613 6619;6620 6622	别嘌醇过敏综 合征
+T289	Anatomy 6682 6685	XOR
+T290	Drug 6706 6707;6708 6711	拉 布立酶
+T291	Drug 6764 6768	拉布立酶
+T292	Disease 6775 6782	肿瘤溶解综合征
+T293	Disease 6870 6875	高尿酸血症
+T294	Disease 6910 6915	高尿酸血症
+T295	Test 6947 6950;6951 6954	C 反 应蛋白
+T296	Test 6955 6957	瘦素
+T297	Anatomy 6973 6976	XOR
+T298	Anatomy 7004 7007	XOR
+T299	Anatomy 7035 7038	XOR
+T300	Disease 6987 6992	高尿酸血症
+T301	Disease 7092 7097	高尿酸血症
+T302	Disease 99 101	癌症
+T303	Disease 177 179	癌症
+T304	Disease 301 303	癌症
+T305	Disease 357 359	癌症
+T306	Anatomy 361 369	黄嘌呤氧化还原酶
+T307	Disease 1897 1899	癌症
+T308	Disease 1934 1936	癌症
+T309	Disease 1963 1965	癌症
+T310	Disease 1939 1943	慢性炎症
+T311	Disease 1990 1992	癌症
+T312	Disease 2000 2002	死亡
+T313	Disease 2014 2016	癌症
+T314	Disease 2028 2030	癌症
+T315	Disease 2045 2047	癌症
+T316	Disease 2108 2110	肿瘤
+T317	Disease 2059 2061	肿瘤
+T318	Disease 2124 2126	癌症
+T319	Disease 2126 2128	死亡
+T320	Test_Value 2227 2229	升高
+T321	Disease 2336 2338	癌症
+T322	Disease 2387 2389	癌症
+T323	Disease 2561 2563	肿瘤
+T324	Disease 2666 2668	癌症
+T325	Disease 2668 2670	死亡
+T326	Disease 2710 2715	终末期癌症
+T327	Disease 2723 2725	癌症
+T328	Disease 2727 2729	死亡
+T329	Disease 2790 2792	癌症
+T330	Disease 2854 2856	癌症
+T331	Disease 2856 2858	死亡
+T332	Disease 2886 2888	癌症
+T333	Disease 2941 2943	癌症
+T334	Disease 2947 2949	癌症
+T335	Disease 2975 2977	癌症
+T336	Disease 2981 2983	癌症
+T337	Disease 3040 3042	癌症
+T338	Disease 3135 3137	癌症
+T339	Disease 3139 3141	死亡
+T340	Test_Value 3158 3160	升高
+T341	Disease 3241 3243	肿瘤
+T342	Disease 3344 3346	癌症
+T343	Disease 3362 3364	肿瘤
+T344	Disease 3714 3716	癌症
+T345	Disease 3809 3811	癌症
+T346	Test_Value 3925 3927	升高
+T347	Disease 4432 4436	癌症死亡
+T348	Test_Value 4588 4590	升高
+T349	Test 4901 4903	瘦素
+T350	Disease 5044 5046	癌症
+T351	Disease 5116 5118	肿瘤
+T352	Disease 5124 5126	癌变
+T353	Disease 5145 5147	癌症
+T354	Anatomy 5377 5382	C421A
+T355	Anatomy 5393 5398	Q141K
+T356	Anatomy 5406 5411	Q141K
+T357	Anatomy 5491 5496	C421A
+T358	Disease 5576 5578	癌症
+T359	Disease 5601 5603	癌症
+T360	Disease 5648 5650	肿瘤
+T361	Disease 5651 5657	高度侵袭性癌
+T362	Disease 5699 5701	肿瘤
+T363	Disease 5715 5722	高度侵略性癌症
+T364	Disease 5749 5751	肿瘤
+T365	Disease 5947 5949	肿瘤
+T366	Disease 5956 5962	高侵略性肿瘤
+T367	Disease 5982 5984	肿瘤
+T368	Anatomy 6270 6274	上皮细胞
+T369	Disease 6341 6343	肿瘤
+T370	Drug 6633 6637	别嘌呤醇
+T371	Disease 6828 6830	死亡
+T372	Disease 6865 6867	癌症
+T373	Disease 6916 6920	恶性肿瘤
+T374	Disease 7045 7048	癌症发
+T375	Test_Value 1640 1658	178 ~ 360 μmol / L
+T376	Test_Value 1764 1782	310 ~ 330 μmol / L
+T377	Test_Value 2606 2610;2611 2618	4. 6 mg / dl
+T378	Test_Value 2633 2647	>6. 71 mg / dl
+T379	Test_Value 2650 2656;2657 2664	>5. 41 mg / dl
+T380	Disease 3323 3327	营养不良
+T381	Reason 3379 3385	慢性炎症反应
+T382	Reason 3386 3392	慢性低度炎症
+T383	Level 4447 4449	早期
+T384	Level 4451 4453	晚期
+T385	Anatomy 4801 4803	ob
+T386	Anatomy 5363 5372	rs2231142
+T387	Level 6138 6141	高水平
+T388	Level 6330 6333	低水平
+T389	SideEff 6577 6582;6583 6584	加重血管损 伤
+T390	Test_Value 6605 6607	阳性
+T391	Level 6772 6775	高风险
+T392	Reason 203 206;207 215	尿酸相 关的慢性炎症反应
+T393	Reason 5221 5225	尿酸转运
+T394	Anatomy 5609 5612;5613 5616	尿酸转 运蛋白
+T395	Disease 149 152	尿毒症
+T396	Reason 216 232	肿瘤细胞黄嘌呤氧化还原酶水平降低
+T397	Disease 350 355	高尿酸血症
+T398	Disease 1615 1624	尿酸代谢异常性疾病
+T399	Test_Value 1699 1711	700 μmol / L
+T400	Symptom 1752 1757	高尿酸水平
+T401	Test 2626 2628	尿酸
+T402	Symptom 2925 2931	高血尿酸水平
+T403	Disease 3161 3168	软组织肉瘤肿瘤
+T404	Anatomy 4203 4209	乳腺肿瘤细胞
+T405	Anatomy 4268 4274	乳腺肿瘤细胞
+T406	Disease 4540 4549;4550 4552	直肠、近端或远端结 肠癌
+T407	Anatomy 4793 4795	瘦素
+T408	Anatomy 5735 5743	黄嘌呤氧化还原酶
+T409	Disease 5731 5733	肿瘤
+T410	Disease 6487 6492	高尿酸血症
+T411	SideEff 6542 6544	腹泻
+T412	SideEff 6545 6550	肾功能减退
+T413	SideEff 6551 6555;6556 6558	白细胞减 少症
+T414	SideEff 6559 6563	过敏反应
+T415	SideEff 6564 6567	血管炎
+T416	Test 6597 6604	HLA-B58
+T417	Drug 6714 6721	重组尿酸氧化酶
+T418	Treatment 6820 6826	肾脏替代治疗
+T419	Disease 7059 7066	单纯高尿酸血症
+T420	Disease 7067 7070;7071 7077	癌症相 关高尿酸血症
+R1	Test_Disease Arg1:T5 Arg2:T144
+R2	Symptom_Disease Arg1:T145 Arg2:T144
+R3	Symptom_Disease Arg1:T146 Arg2:T144
+R4	Anatomy_Disease Arg1:T149 Arg2:T148
+R5	Test_Disease Arg1:T6 Arg2:T148
+R6	Anatomy_Disease Arg1:T150 Arg2:T148
+R7	Test_Disease Arg1:T7 Arg2:T152
+R8	Test_Disease Arg1:T8 Arg2:T153
+R9	Test_Disease Arg1:T10 Arg2:T309
+R10	Test_Disease Arg1:T12 Arg2:T313
+R11	Test_Disease Arg1:T14 Arg2:T72
+R12	Test_Disease Arg1:T165 Arg2:T164
+R13	Test_Disease Arg1:T166 Arg2:T74
+R14	Test_Disease Arg1:T15 Arg2:T74
+R15	Test_Disease Arg1:T16 Arg2:T128
+R16	Anatomy_Disease Arg1:T170 Arg2:T171
+R17	Anatomy_Disease Arg1:T169 Arg2:T171
+R18	Anatomy_Disease Arg1:T174 Arg2:T135
+R19	Anatomy_Disease Arg1:T175 Arg2:T176
+R20	Test_Disease Arg1:T17 Arg2:T323
+R21	Test_Disease Arg1:T25 Arg2:T178
+R22	Test_Disease Arg1:T27 Arg2:T181
+R23	Test_Disease Arg1:T29 Arg2:T380
+R24	Test_Disease Arg1:T30 Arg2:T380
+R25	Test_Disease Arg1:T31 Arg2:T343
+R26	Test_Disease Arg1:T32 Arg2:T61
+R27	Test_Disease Arg1:T36 Arg2:T192
+R28	Test_Disease Arg1:T97 Arg2:T192
+R29	Test_Disease Arg1:T193 Arg2:T192
+R30	Test_Disease Arg1:T194 Arg2:T192
+R31	Test_Disease Arg1:T99 Arg2:T195
+R32	Test_Disease Arg1:T98 Arg2:T195
+R33	Test_Disease Arg1:T100 Arg2:T63
+R34	Test_Disease Arg1:T37 Arg2:T63
+R35	Test_Disease Arg1:T38 Arg2:T64
+R36	Test_Disease Arg1:T101 Arg2:T64
+R37	Test_Disease Arg1:T140 Arg2:T64
+R38	Test_Disease Arg1:T102 Arg2:T64
+R39	Test_Disease Arg1:T103 Arg2:T77
+R40	Test_Disease Arg1:T104 Arg2:T77
+R41	Test_Disease Arg1:T105 Arg2:T79
+R42	Test_Disease Arg1:T106 Arg2:T80
+R43	Test_Disease Arg1:T107 Arg2:T80
+R44	Test_Disease Arg1:T108 Arg2:T115
+R45	Test_Disease Arg1:T41 Arg2:T83
+R46	Test_Disease Arg1:T207 Arg2:T69
+R47	Test_Disease Arg1:T209 Arg2:T116
+R48	Test_Disease Arg1:T214 Arg2:T215
+R49	Test_Disease Arg1:T216 Arg2:T215
+R50	Anatomy_Disease Arg1:T218 Arg2:T219
+R51	Anatomy_Disease Arg1:T385 Arg2:T219
+R52	Test_Disease Arg1:T220 Arg2:T66
+R53	Test_Disease Arg1:T221 Arg2:T66
+R54	Test_Disease Arg1:T44 Arg2:T66
+R55	Test_Disease Arg1:T112 Arg2:T66
+R56	Test_Disease Arg1:T45 Arg2:T222
+R57	Test_Disease Arg1:T224 Arg2:T222
+R58	Anatomy_Disease Arg1:T231 Arg2:T232
+R59	Test_Disease Arg1:T230 Arg2:T232
+R60	Test_Disease Arg1:T47 Arg2:T232
+R61	Test_Disease Arg1:T48 Arg2:T3
+R62	Test_Disease Arg1:T234 Arg2:T3
+R63	Test_Disease Arg1:T49 Arg2:T3
+R64	Test_Disease Arg1:T235 Arg2:T236
+R65	Test_Disease Arg1:T131 Arg2:T236
+R66	Test_Disease Arg1:T237 Arg2:T68
+R67	Test_Disease Arg1:T113 Arg2:T68
+R68	Test_Disease Arg1:T238 Arg2:T68
+R69	Test_Disease Arg1:T239 Arg2:T84
+R70	Anatomy_Disease Arg1:T241 Arg2:T242
+R71	Anatomy_Disease Arg1:T243 Arg2:T136
+R72	Test_Disease Arg1:T50 Arg2:T136
+R73	Test_Disease Arg1:T141 Arg2:T137
+R74	Anatomy_Disease Arg1:T394 Arg2:T249
+R75	Anatomy_Disease Arg1:T250 Arg2:T409
+R76	Anatomy_Disease Arg1:T251 Arg2:T364
+R77	Anatomy_Disease Arg1:T257 Arg2:T117
+R78	Anatomy_Disease Arg1:T258 Arg2:T88
+R79	Anatomy_Disease Arg1:T265 Arg2:T89
+R80	Anatomy_Disease Arg1:T263 Arg2:T89
+R81	Anatomy_Disease Arg1:T264 Arg2:T89
+R82	Anatomy_Disease Arg1:T262 Arg2:T89
+R83	Anatomy_Disease Arg1:T261 Arg2:T89
+R84	Anatomy_Disease Arg1:T266 Arg2:T90
+R85	Anatomy_Disease Arg1:T269 Arg2:T90
+R86	Anatomy_Disease Arg1:T268 Arg2:T90
+R87	Anatomy_Disease Arg1:T267 Arg2:T90
+R88	Anatomy_Disease Arg1:T270 Arg2:T91
+R89	Anatomy_Disease Arg1:T272 Arg2:T92
+R90	Anatomy_Disease Arg1:T271 Arg2:T92
+R91	Anatomy_Disease Arg1:T273 Arg2:T93
+R92	Anatomy_Disease Arg1:T274 Arg2:T93
+R93	Anatomy_Disease Arg1:T277 Arg2:T95
+R94	Anatomy_Disease Arg1:T278 Arg2:T95
+R95	Anatomy_Disease Arg1:T276 Arg2:T95
+R96	Anatomy_Disease Arg1:T275 Arg2:T95
+R97	Anatomy_Disease Arg1:T279 Arg2:T369
+R98	Anatomy_Disease Arg1:T282 Arg2:T285
+R99	Test_Disease Arg1:T283 Arg2:T285
+R100	Test_Disease Arg1:T416 Arg2:T288
+R101	Drug_Disease Arg1:T291 Arg2:T292
+R102	Test_Disease Arg1:T55 Arg2:T292
+R103	Test_Disease Arg1:T56 Arg2:T294
+R104	Test_Disease Arg1:T114 Arg2:T294
+R105	Test_Disease Arg1:T295 Arg2:T294
+R106	Test_Disease Arg1:T296 Arg2:T294
+R107	Anatomy_Disease Arg1:T298 Arg2:T300
+R108	Test_Disease Arg1:T9 Arg2:T307
+R109	Test_Disease Arg1:T11 Arg2:T311
+R110	Test_Disease Arg1:T13 Arg2:T318
+R111	Test_Disease Arg1:T18 Arg2:T324
+R112	Test_Disease Arg1:T401 Arg2:T324
+R113	Test_Disease Arg1:T19 Arg2:T329
+R114	Test_Disease Arg1:T20 Arg2:T329
+R115	Test_Disease Arg1:T21 Arg2:T329
+R116	Test_Disease Arg1:T23 Arg2:T330
+R117	Test_Disease Arg1:T22 Arg2:T330
+R118	Test_Disease Arg1:T24 Arg2:T332
+R119	Test_Disease Arg1:T26 Arg2:T337
+R120	Test_Disease Arg1:T138 Arg2:T337
+R121	Test_Disease Arg1:T139 Arg2:T403
+R122	Test_Disease Arg1:T28 Arg2:T341
+R123	Test_Disease Arg1:T207 Arg2:T96
+R124	Test_Disease Arg1:T208 Arg2:T406
+R125	Test_Disease Arg1:T209 Arg2:T118
+R126	Test_Disease Arg1:T209 Arg2:T210
+R127	Anatomy_Disease Arg1:T407 Arg2:T219
+R128	Test_Disease Arg1:T349 Arg2:T222
+R129	Test_Disease Arg1:T226 Arg2:T232
+R130	Test_Disease Arg1:T46 Arg2:T232
+R131	Anatomy_Disease Arg1:T245 Arg2:T137
+R132	Anatomy_Disease Arg1:T356 Arg2:T137
+R133	Anatomy_Disease Arg1:T357 Arg2:T247
+R134	Test_Disease Arg1:T142 Arg2:T360
+R135	Test_Disease Arg1:T52 Arg2:T360
+R136	Test_Disease Arg1:T53 Arg2:T360
+R137	Anatomy_Disease Arg1:T408 Arg2:T409
+R138	Anatomy_Disease Arg1:T260 Arg2:T366
+R139	Anatomy_Disease Arg1:T368 Arg2:T95
+R140	Treatment_Disease Arg1:T418 Arg2:T292
+R141	Anatomy_Disease Arg1:T297 Arg2:T294
+R142	Anatomy_Disease Arg1:T299 Arg2:T300
+R143	Test_Disease Arg1:T10 Arg2:T161
+R144	Test_Disease Arg1:T43 Arg2:T215
+R145	Anatomy_Disease Arg1:T251 Arg2:T86
+R146	Anatomy_Disease Arg1:T286 Arg2:T410
+R147	Anatomy_Disease Arg1:T287 Arg2:T410
+R148	Symptom_Disease Arg1:T400 Arg2:T155
+R149	Symptom_Disease Arg1:T400 Arg2:T156
+R150	Symptom_Disease Arg1:T400 Arg2:T157
+R151	Symptom_Disease Arg1:T400 Arg2:T125
+R152	Symptom_Disease Arg1:T400 Arg2:T57
+R153	Test_Disease Arg1:T10 Arg2:T160
+R154	Test_Disease Arg1:T11 Arg2:T312
+R155	Test_Disease Arg1:T12 Arg2:T314
+R156	Test_Disease Arg1:T10 Arg2:T59
+R157	Test_Disease Arg1:T10 Arg2:T308
+R158	Test_Disease Arg1:T10 Arg2:T310
+R159	Test_Disease Arg1:T13 Arg2:T316
+R160	Test_Disease Arg1:T13 Arg2:T319
+R161	Test_Disease Arg1:T165 Arg2:T60
+R162	Test_Disease Arg1:T165 Arg2:T73
+R163	Anatomy_Disease Arg1:T170 Arg2:T168
+R164	Anatomy_Disease Arg1:T169 Arg2:T168
+R165	Test_Disease Arg1:T401 Arg2:T325
+R166	Test_Disease Arg1:T19 Arg2:T326
+R167	Test_Disease Arg1:T19 Arg2:T327
+R168	Test_Disease Arg1:T19 Arg2:T328
+R169	Test_Disease Arg1:T20 Arg2:T326
+R170	Test_Disease Arg1:T20 Arg2:T327
+R171	Test_Disease Arg1:T20 Arg2:T328
+R172	Test_Disease Arg1:T22 Arg2:T331
+R173	Test_Disease Arg1:T23 Arg2:T331
+R174	Symptom_Disease Arg1:T402 Arg2:T333
+R175	Symptom_Disease Arg1:T402 Arg2:T334
+R176	Test_Disease Arg1:T25 Arg2:T335
+R177	Test_Disease Arg1:T25 Arg2:T336
+R178	Test_Disease Arg1:T27 Arg2:T338
+R179	Test_Disease Arg1:T27 Arg2:T339
+R180	Test_Disease Arg1:T30 Arg2:T342
+R181	Test_Disease Arg1:T32 Arg2:T183
+R182	Test_Disease Arg1:T32 Arg2:T1
+R183	Test_Disease Arg1:T32 Arg2:T182
+R184	Test_Disease Arg1:T97 Arg2:T344
+R185	Test_Disease Arg1:T193 Arg2:T344
+R186	Test_Disease Arg1:T194 Arg2:T344
+R187	Test_Disease Arg1:T99 Arg2:T123
+R188	Test_Disease Arg1:T99 Arg2:T196
+R189	Test_Disease Arg1:T99 Arg2:T62
+R190	Test_Disease Arg1:T99 Arg2:T345
+R191	Test_Disease Arg1:T100 Arg2:T197
+R192	Test_Disease Arg1:T37 Arg2:T197
+R193	Test_Disease Arg1:T104 Arg2:T78
+R194	Test_Disease Arg1:T107 Arg2:T81
+R195	Test_Disease Arg1:T41 Arg2:T347
+R196	Test_Disease Arg1:T41 Arg2:T82
+R197	Test_Disease Arg1:T214 Arg2:T217
+R198	Test_Disease Arg1:T214 Arg2:T65
+R199	Test_Disease Arg1:T214 Arg2:T2
+R200	Anatomy_Disease Arg1:T407 Arg2:T124
+R201	Anatomy_Disease Arg1:T218 Arg2:T124
+R202	Anatomy_Disease Arg1:T385 Arg2:T124
+R203	Anatomy_Disease Arg1:T227 Arg2:T232
+R204	Anatomy_Disease Arg1:T229 Arg2:T232
+R205	Test_Disease Arg1:T48 Arg2:T67
+R206	Test_Disease Arg1:T48 Arg2:T233
+R207	Test_Disease Arg1:T48 Arg2:T350
+R208	Test_Disease Arg1:T49 Arg2:T350
+R209	Test_Disease Arg1:T234 Arg2:T350
+R210	Test_Disease Arg1:T235 Arg2:T4
+R211	Test_Disease Arg1:T131 Arg2:T4
+R212	Test_Disease Arg1:T238 Arg2:T353
+R213	Test_Disease Arg1:T113 Arg2:T351
+R214	Test_Disease Arg1:T113 Arg2:T352
+R215	Test_Disease Arg1:T237 Arg2:T351
+R216	Test_Disease Arg1:T237 Arg2:T352
+R217	Test_Disease Arg1:T239 Arg2:T85
+R218	Anatomy_Disease Arg1:T241 Arg2:T136
+R219	Anatomy_Disease Arg1:T241 Arg2:T240
+R220	Test_Disease Arg1:T141 Arg2:T246
+R221	Anatomy_Disease Arg1:T357 Arg2:T248
+R222	Anatomy_Disease Arg1:T394 Arg2:T359
+R223	Anatomy_Disease Arg1:T394 Arg2:T358
+R224	Test_Disease Arg1:T142 Arg2:T361
+R225	Test_Disease Arg1:T52 Arg2:T362
+R226	Test_Disease Arg1:T53 Arg2:T362
+R227	Test_Disease Arg1:T52 Arg2:T363
+R228	Test_Disease Arg1:T53 Arg2:T363
+R229	Anatomy_Disease Arg1:T251 Arg2:T119
+R230	Anatomy_Disease Arg1:T251 Arg2:T70
+R231	Anatomy_Disease Arg1:T251 Arg2:T252
+R232	Anatomy_Disease Arg1:T251 Arg2:T254
+R233	Anatomy_Disease Arg1:T251 Arg2:T253
+R234	Anatomy_Disease Arg1:T257 Arg2:T256
+R235	Anatomy_Disease Arg1:T257 Arg2:T255
+R236	Anatomy_Disease Arg1:T257 Arg2:T120
+R237	Anatomy_Disease Arg1:T257 Arg2:T87
+R238	Anatomy_Disease Arg1:T258 Arg2:T121
+R239	Anatomy_Disease Arg1:T258 Arg2:T259
+R240	Anatomy_Disease Arg1:T260 Arg2:T365
+R241	Anatomy_Disease Arg1:T260 Arg2:T367
+R242	Anatomy_Disease Arg1:T267 Arg2:T91
+R243	Anatomy_Disease Arg1:T268 Arg2:T91
+R244	Anatomy_Disease Arg1:T269 Arg2:T91
+R245	Anatomy_Disease Arg1:T273 Arg2:T94
+R246	Anatomy_Disease Arg1:T274 Arg2:T94
+R247	Drug_Disease Arg1:T370 Arg2:T288
+R248	Anatomy_Disease Arg1:T299 Arg2:T374

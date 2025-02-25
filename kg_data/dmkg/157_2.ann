@@ -1,0 +1,428 @@
+T1	Disease 4285 4291	2 型糖尿病
+T2	Disease 4259 4263	PCOS
+T3	Disease 4272 4276	PCOS
+T4	Disease 4350 4354	PCOS
+T5	Disease 4427 4431	PCOS
+T6	Disease 4447 4451	PCOS
+T7	Disease 4494 4498	PCOS
+T8	Disease 4557 4561	PCOS
+T9	Disease 4583 4587	PCOS
+T10	Disease 4607 4611	PCOS
+T11	Disease 4636 4640	PCOS
+T12	Disease 4756 4760	PCOS
+T13	Disease 4817 4821	PCOS
+T14	Disease 4975 4979	PCOS
+T15	Disease 6001 6005	PCOS
+T16	Test 2171 2173	腰围
+T17	Test 2376 2378	腰围
+T18	Disease 5004 5009	代谢综合征
+T19	Disease 5063 5068	代谢综合征
+T20	Disease 5162 5167	代谢综合征
+T21	Disease 5213 5218	代谢综合征
+T22	Test 2205 2208	心电图
+T23	Disease 5150 5156;5157 5160	Turner 综合征
+T24	Disease 6006 6012;6013 6016	Turner 综合征
+T25	Disease 306 313	多囊卵巢综合征
+T26	Disease 4251 4258	多囊卵巢综合征
+T27	Disease 5181 5185	血脂异常
+T28	Test 5290 5294	WHtR
+T29	Drug 3935 3938	FSH
+T30	Disease 274 282;283 285	Turner 综 合征
+T31	Disease 3152 3162	Turner 综合征
+T32	Disease 3223 3233	Turner 综合征
+T33	Disease 3278 3288	Turner 综合征
+T34	Disease 3377 3386;3387 3388	Turner 综合 征
+T35	Disease 3468 3477;3478 3479	Turner 综合 征
+T36	Disease 4992 5002	Turner 综合征
+T37	Disease 5018 5028	Turner 综合征
+T38	Disease 5307 5317	Turner 综合征
+T39	Disease 116 120	性腺疾病
+T40	Disease 143 147	性腺疾病
+T41	Disease 5 9	性腺疾病
+T42	Disease 1382 1386	性腺疾病
+T43	Disease 1417 1421	性腺疾病
+T44	Disease 1492 1496	性腺疾病
+T45	Disease 1505 1516	46,XY 性发育异常
+T46	Disease 1517 1526	46,XY-DSD
+T47	Disease 1605 1610	性发育异常
+T48	Disease 1642 1645	DSD
+T49	Disease 1652 1662	46, XY-DSD
+T50	Disease 1695 1701	性腺发育障碍
+T51	Disease 1762 1771	46,XY-DSD
+T52	Disease 1775 1779	性腺肿瘤
+T53	Anatomy 1818 1821	DHH
+T54	Anatomy 1833 1838	R124Q
+T55	Anatomy 1793 1795;1796 1800	沙漠 刺猬基因
+T56	Anatomy 1842 1845	DHH
+T57	Disease 1854 1863	46,XY-DSD
+T58	Disease 1867 1872	精原细胞瘤
+T59	Anatomy 1884 1893	Leydig 细胞
+T60	Anatomy 1895 1905	Sertoli 细胞
+T61	Anatomy 1916 1918	性腺
+T62	Disease 1925 1940	Klinefelter 综合征
+T63	Disease 1941 1943	KS
+T64	Disease 1945 1947	KS
+T65	Disease 2038 2040	KS
+T66	Disease 2085 2087	KS
+T67	Disease 2115 2117	KS
+T68	Disease 2165 2167	KS
+T69	Test 2195 2199	炎症因子
+T70	Test_Value 2210 2217	QT 间期缩短
+T71	Disease 2226 2230	心室颤动
+T72	Disease 2232 2237	心源性猝死
+T73	Anatomy 2352 2358	CSF2RA
+T74	Test 2379 2383	炎症因子
+T75	Disease 2463 2465	KS
+T76	Disease 2506 2515	21-羟化酶缺陷症
+T77	Disease 2516 2521	21OHD
+T78	Disease 2523 2528	21OHD
+T79	Anatomy 2536 2542	21-羟化酶
+T80	Test 2552 2555	皮质醇
+T81	Test 2561 2564	雄激素
+T82	Anatomy 2631 2636;2637 2638	21-羟化 酶
+T83	Test 2723 2729	17-羟孕酮
+T84	Test 2730 2736	17-OHP
+T85	Test_Value 2737 2739	升高
+T86	Test 2834 2841	21-碳类固醇
+T87	Test 2850 2852	孕酮
+T88	Test 2861 2867	16-羟孕酮
+T89	Test 2868 2876	21-去氧皮质醇
+T90	Test 2877 2883	11-羟孕酮
+T91	Test 2884 2889;2890 2893	11-去氧 皮质酮
+T92	Test 2894 2902	11-去氧皮质醇
+T93	Test 2903 2906	皮质酮
+T94	Test 2907 2910	皮质醇
+T95	Test 2979 2986	21-碳类固醇
+T96	Test 3022 3028	17-羟孕酮
+T97	Test 3030 3038	21-去氧皮质醇
+T98	Test 3039 3045	16-羟孕酮
+T99	Test 3046 3052	11-羟孕酮
+T100	Anatomy 3060 3063	肾上腺
+T101	Test 3066 3069	皮质醇
+T102	Test 3071 3079	11-去氧皮质醇
+T103	Test 3102 3108	17-羟孕酮
+T104	Test 3115 3121	11-羟孕酮
+T105	Test 3123 3129	16-羟孕酮
+T106	Disease 3134 3139	21OHD
+T107	Test 3174 3176;3177 3181	抗苗 勒管激素
+T108	Test 3182 3185	AMH
+T109	Anatomy 3194 3198	始基卵泡
+T110	Anatomy 3244 3248	始基卵泡
+T111	Test 3267 3270	AMH
+T112	Disease 3330 3334	卵巢早衰
+T113	Disease 3335 3338	POI
+T114	Test 3319 3323	卵巢功能
+T115	Test 3288 3291;3292 3293	卵巢功 能
+T116	Test 3399 3402	AMH
+T117	Test_Value 3402 3413	<4 pmol / L
+T118	Disease 3453 3457	卵巢早衰
+T119	Test 3462 3465	AMH
+T120	Disease 3479 3485	卵巢功能早衰
+T121	Disease 3521 3525	卵巢早衰
+T122	Disease 3556 3560	卵巢早衰
+T123	Disease 3593 3610	特发性低促性腺激素性性腺功能减退症
+T124	Disease 3612 3615	IHH
+T125	Disease 3617 3620	IHH
+T126	Drug 3724 3728	GnRH
+T127	Drug 3735 3738	HCG
+T128	Drug 3741 3744	HMG
+T129	Disease 3754 3757	IHH
+T130	Drug 3776 3780	GnRH
+T131	Drug 3805 3808	HCG
+T132	Drug 3811 3814	HMG
+T133	Disease 3876 3879	IHH
+T134	Drug 3904 3907	HCG
+T135	Drug 3941 3944	HCG
+T136	Disease 3964 3967	IHH
+T137	Anatomy 3981 3984	下丘脑
+T138	Anatomy 3985 3987	垂体
+T139	Anatomy 3989 3991	性腺
+T140	Test 4021 4030	促性腺激素释放激素
+T141	Disease 4074 4077	IHH
+T142	Test 4119 4121	LH
+T143	Reason 4265 4270	胰岛素抵抗
+T144	Disease 4292 4294	肥胖
+T145	Reason 4297 4301;4302 4303	胰岛素抵 抗
+T146	Test 4308 4311	鸢尾素
+T147	Test 4339 4345	irisin
+T148	Test 4313 4319	irisin
+T149	Test 4389 4391;4392 4394	肌肉 因子
+T150	Test 4403 4417	葡萄糖依赖性促胰岛素分泌多肽
+T151	Test 4418 4421	GIP
+T152	Test 4456 4462	irisin
+T153	Test 4472 4478	Irisin
+T154	Test 4538 4544	irisin
+T155	Disease 4548 4549;4550 4551	超 重
+T156	Disease 4553 4555	肥胖
+T157	Test 4570 4576	irisin
+T158	Test 4596 4602	irisin
+T159	Disease 4645 4647	肥胖
+T160	Disease 4649 4651	超重
+T161	Drug 4849 4853	GnRH
+T162	Duration 4879 4882	16d
+T163	Duration 4890 4894	8 个月
+T164	Anatomy 4926 4929	下丘脑
+T165	Drug 4902 4906	GnRH
+T166	Test 4930 4934	GnRH
+T167	Drug 4957 4961	GnRH
+T168	Disease 5029 5041	先天性卵巢发育不全综合征
+T169	Symptom 5051 5056	性发育障碍
+T170	Symptom 5057 5061	生长迟缓
+T171	Disease 5072 5074	肥胖
+T172	Disease 5075 5080	糖代谢异常
+T173	Disease 5176 5179	高血压
+T174	Disease 5207 5212	中央型肥胖
+T175	Reason 5248 5253;5254 5258	胰岛素分泌 反应延迟
+T176	Test 5284 5289	腰围身高比
+T177	Disease 5331 5353	17α 羟化酶 / 17,20 裂解酶缺陷症
+T178	Disease 5360 5382	17α 羟化酶 / 17,20 裂解酶缺陷症
+T179	Disease 5383 5390;5391 5395	先天性肾上腺皮 质增生症
+T180	Disease 5532 5535	高血压
+T181	Disease 5536 5539	低血钾
+T182	Disease 5541 5544	高血压
+T183	Test 5546 5550	ACTH
+T184	Test 5573 5575	孕酮
+T185	Disease 5593 5596	高血压
+T186	Disease 5512 5515	高血压
+T187	Disease 5516 5519	低血钾
+T188	Test 5613 5615	血压
+T189	Test_Value 5615 5617	升高
+T190	Test 5644 5648	ACTH
+T191	Disease 5669 5673	性腺疾病
+T192	Disease 5690 5694	性腺疾病
+T193	Disease 5749 5753	性腺疾病
+T194	Disease 5849 5853	性腺疾病
+T195	Disease 5989 5993	性腺疾病
+T196	Disease 224 228	性腺疾病
+T197	Disease 244 259	Klinefelter 综合征
+T198	Disease 261 272	先天性肾上腺皮质增生症
+T199	Disease 287 304	特发性低促性腺激素性性腺功能减退症
+T200	Disease 1255 1259	性腺疾病
+T201	Disease 230 242	46, XY 性发育异常
+T202	Reason 1682 1686;1687 1688	先天性疾 病
+T203	Reason 1689 1693	基因缺陷
+T204	Disease 2043 2046	代谢病
+T205	Test_Value 2173 2175	更大
+T206	Test_Value 2201 2202;2203 2204	增 高
+T207	Test_Value 3323 3325	正常
+T208	Method 3729 3733	脉冲输注
+T209	Method 3745 3749	联合肌注
+T210	Test 3787 3791	精子数量
+T211	Test 3793 3799	精子初现时间
+T212	Method 3781 3785	脉冲输注
+T213	Method 3815 3819	联合肌注
+T214	Duration 3885 3890	18 个月
+T215	Method 3908 3912	连续治疗
+T216	Method 3913 3917	序贯治疗
+T217	Method 3945 3949	序贯治疗
+T218	Anatomy 3992 3995	HPA
+T219	Test_Value 4124 4125	高
+T220	Anatomy 4137 4139	性腺
+T221	Test_Value 4133 4134	大
+T222	Disease 4180 4197	特发性低促性腺激素性性腺功能减退症
+T223	Test_Value 4580 4582	升高
+T224	Reason 4653 4661	食欲调节机制异常
+T225	Method 4854 4858	脉冲输注
+T226	Method 4907 4911	脉冲输注
+T227	Method 4962 4966	脉冲输注
+T228	Disease 5234 5238	代谢异常
+T229	Test_Value 5586 5590	明显升高
+T230	Test_Value 2415 2420;2421 2423	QT 间期 缩短
+T231	Disease 1955 1956;1957 1964	染 色体异常性疾病
+T232	Level 5528 5529	轻
+T233	Level 5530 5531	重
+T234	Disease 5906 5908;5909 5911	性腺 疾病
+T235	Disease 1544 1548	两性畸形
+T236	Disease 2428 2435	心血管危险事件
+T237	Disease 3580 3584	性腺疾病
+T238	Anatomy 4669 4670;4671 4678	胰 升糖素样肽 1
+T239	Anatomy 4681 4686	GLP-1
+T240	Anatomy 4773 4778	GLP-1
+T241	Anatomy 2359 2366	CD99 基因
+T242	Drug 3898 3901	FSH
+T243	Drug 1356 1365	促性腺激素释放激素
+T244	Drug 1366 1370	GnRH
+T245	Reason 1702 1712;1713 1714	雄激素合成 /作用障 碍
+T246	Disease 1718 1725	生殖器发育不良
+T247	Reason 2176 2178;2179 2182	胰岛 素抵抗
+T248	Reason 2183 2188	糖代谢紊乱
+T249	Reason 2218 2225	QT 间期缩短
+T250	Anatomy 2322 2330	KDM6A 基因
+T251	Reason 2338 2344	先天发育异常
+T252	Reason 2345 2349	智力缺陷
+T253	Reason 2386 2391	胰岛素抵抗
+T254	Disease 2740 2749	经典型 21OHD
+T255	Test 2853 2857;2858 2859	17-羟 孕
+T256	Anatomy 2966 2968	睾丸
+T257	Anatomy 2968 2971	肾上腺
+T258	Anatomy 3009 3011	睾丸
+T259	Anatomy 3011 3014	肾上腺
+T260	Drug 3649 3652	性激素
+T261	Drug 3657 3661	GnRH
+T262	Drug 3668 3677	人绒毛膜促性腺激素
+T263	Drug 3678 3681	HCG
+T264	Drug 3684 3690;3691 3694	人绝经期促性 腺激素
+T265	Drug 3695 3698	HMG
+T266	Disease 4046 4049	IHH
+T267	Test 4126 4130;4131 4133	基础睾丸 体积
+T268	Disease 4357 4362	胰岛素抵抗
+T269	Anatomy 4395 4401	irisin
+T270	Reason 4614 4616;4617 4620	胰岛 素抵抗
+T271	Anatomy 4691 4695	YY 肽
+T272	Anatomy 4725 4728	PYY
+T273	Anatomy 4781 4784	PYY
+T274	Disease 4864 4868	PCOS
+T275	Disease 4861 4863	肥胖
+T276	Disease 4869 4872	不孕症
+T277	Disease 4919 4923	PCOS
+T278	Disease 4916 4918	肥胖
+T279	Disease 5201 5204;5205 5206	代谢异 常
+T280	Disease 5267 5272	胰岛素抵抗
+T281	Reason 5259 5264	血糖不耐受
+T282	Reason 5319 5323	代谢异常
+T283	Symptom 5635 5638	低血钾
+T284	Symptom 5639 5642	高孕酮
+R1	Anatomy_Disease Arg1:T56 Arg2:T57
+R2	Anatomy_Disease Arg1:T53 Arg2:T57
+R3	Anatomy_Disease Arg1:T55 Arg2:T57
+R4	Anatomy_Disease Arg1:T54 Arg2:T57
+R5	Anatomy_Disease Arg1:T59 Arg2:T58
+R6	Anatomy_Disease Arg1:T60 Arg2:T58
+R7	Test_Disease Arg1:T16 Arg2:T68
+R8	Test_Disease Arg1:T69 Arg2:T68
+R9	Test_Disease Arg1:T22 Arg2:T68
+R10	Anatomy_Disease Arg1:T79 Arg2:T78
+R11	Test_Disease Arg1:T80 Arg2:T78
+R12	Test_Disease Arg1:T105 Arg2:T106
+R13	Test_Disease Arg1:T103 Arg2:T106
+R14	Test_Disease Arg1:T104 Arg2:T106
+R15	Test_Disease Arg1:T107 Arg2:T31
+R16	Test_Disease Arg1:T108 Arg2:T31
+R17	Anatomy_Disease Arg1:T109 Arg2:T31
+R18	Anatomy_Disease Arg1:T110 Arg2:T32
+R19	Test_Disease Arg1:T111 Arg2:T33
+R20	Test_Disease Arg1:T115 Arg2:T33
+R21	Test_Disease Arg1:T114 Arg2:T112
+R22	Test_Disease Arg1:T116 Arg2:T34
+R23	Test_Disease Arg1:T119 Arg2:T35
+R24	Drug_Disease Arg1:T260 Arg2:T125
+R25	Drug_Disease Arg1:T261 Arg2:T125
+R26	Drug_Disease Arg1:T262 Arg2:T125
+R27	Drug_Disease Arg1:T263 Arg2:T125
+R28	Drug_Disease Arg1:T264 Arg2:T125
+R29	Drug_Disease Arg1:T265 Arg2:T125
+R30	Drug_Disease Arg1:T126 Arg2:T129
+R31	Drug_Disease Arg1:T127 Arg2:T129
+R32	Drug_Disease Arg1:T128 Arg2:T129
+R33	Drug_Disease Arg1:T130 Arg2:T129
+R34	Drug_Disease Arg1:T131 Arg2:T129
+R35	Drug_Disease Arg1:T132 Arg2:T129
+R36	Drug_Disease Arg1:T242 Arg2:T133
+R37	Drug_Disease Arg1:T134 Arg2:T133
+R38	Drug_Disease Arg1:T29 Arg2:T133
+R39	Drug_Disease Arg1:T135 Arg2:T133
+R40	Anatomy_Disease Arg1:T137 Arg2:T136
+R41	Anatomy_Disease Arg1:T138 Arg2:T136
+R42	Anatomy_Disease Arg1:T139 Arg2:T136
+R43	Test_Disease Arg1:T140 Arg2:T266
+R44	Test_Disease Arg1:T142 Arg2:T141
+R45	Test_Disease Arg1:T146 Arg2:T144
+R46	Test_Disease Arg1:T148 Arg2:T144
+R47	Test_Disease Arg1:T147 Arg2:T4
+R48	Test_Disease Arg1:T149 Arg2:T5
+R49	Test_Disease Arg1:T150 Arg2:T5
+R50	Test_Disease Arg1:T151 Arg2:T5
+R51	Test_Disease Arg1:T152 Arg2:T6
+R52	Test_Disease Arg1:T153 Arg2:T6
+R53	Test_Disease Arg1:T154 Arg2:T155
+R54	Test_Disease Arg1:T157 Arg2:T8
+R55	Test_Disease Arg1:T158 Arg2:T10
+R56	Drug_Disease Arg1:T161 Arg2:T274
+R57	Duration_Drug Arg1:T162 Arg2:T161
+R58	Duration_Drug Arg1:T163 Arg2:T161
+R59	Drug_Disease Arg1:T165 Arg2:T277
+R60	Anatomy_Disease Arg1:T164 Arg2:T277
+R61	Test_Disease Arg1:T166 Arg2:T277
+R62	Drug_Disease Arg1:T167 Arg2:T14
+R63	Symptom_Disease Arg1:T170 Arg2:T19
+R64	Symptom_Disease Arg1:T169 Arg2:T19
+R65	Test_Disease Arg1:T176 Arg2:T38
+R66	Test_Disease Arg1:T28 Arg2:T38
+R67	Test_Disease Arg1:T183 Arg2:T182
+R68	Drug_Disease Arg1:T243 Arg2:T42
+R69	Drug_Disease Arg1:T244 Arg2:T42
+R70	Anatomy_Disease Arg1:T61 Arg2:T58
+R71	Test_Disease Arg1:T81 Arg2:T78
+R72	Anatomy_Disease Arg1:T82 Arg2:T78
+R73	Test_Disease Arg1:T84 Arg2:T254
+R74	Test_Disease Arg1:T83 Arg2:T254
+R75	Test_Disease Arg1:T102 Arg2:T106
+R76	Test_Disease Arg1:T101 Arg2:T106
+R77	Anatomy_Disease Arg1:T100 Arg2:T106
+R78	Test_Disease Arg1:T99 Arg2:T106
+R79	Test_Disease Arg1:T98 Arg2:T106
+R80	Test_Disease Arg1:T97 Arg2:T106
+R81	Test_Disease Arg1:T96 Arg2:T106
+R82	Anatomy_Disease Arg1:T259 Arg2:T106
+R83	Anatomy_Disease Arg1:T258 Arg2:T106
+R84	Test_Disease Arg1:T95 Arg2:T106
+R85	Method_Drug Arg1:T208 Arg2:T126
+R86	Method_Drug Arg1:T209 Arg2:T128
+R87	Method_Drug Arg1:T213 Arg2:T132
+R88	Method_Drug Arg1:T212 Arg2:T130
+R89	Method_Drug Arg1:T215 Arg2:T134
+R90	Method_Drug Arg1:T216 Arg2:T134
+R91	Method_Drug Arg1:T217 Arg2:T135
+R92	Method_Drug Arg1:T217 Arg2:T29
+R93	Anatomy_Disease Arg1:T218 Arg2:T136
+R94	Test_Disease Arg1:T267 Arg2:T141
+R95	Anatomy_Disease Arg1:T220 Arg2:T141
+R96	Anatomy_Disease Arg1:T238 Arg2:T11
+R97	Anatomy_Disease Arg1:T239 Arg2:T11
+R98	Anatomy_Disease Arg1:T271 Arg2:T11
+R99	Anatomy_Disease Arg1:T272 Arg2:T11
+R100	Anatomy_Disease Arg1:T240 Arg2:T12
+R101	Anatomy_Disease Arg1:T273 Arg2:T12
+R102	Method_Drug Arg1:T225 Arg2:T161
+R103	Method_Drug Arg1:T226 Arg2:T165
+R104	Test_Disease Arg1:T184 Arg2:T185
+R105	Test_Disease Arg1:T188 Arg2:T185
+R106	Drug_Disease Arg1:T29 Arg2:T136
+R107	Drug_Disease Arg1:T135 Arg2:T136
+R108	Drug_Disease Arg1:T161 Arg2:T275
+R109	Drug_Disease Arg1:T165 Arg2:T278
+R110	Test_Disease Arg1:T80 Arg2:T77
+R111	Anatomy_Disease Arg1:T79 Arg2:T77
+R112	Test_Disease Arg1:T80 Arg2:T76
+R113	Anatomy_Disease Arg1:T79 Arg2:T76
+R114	Test_Disease Arg1:T81 Arg2:T76
+R115	Test_Disease Arg1:T81 Arg2:T77
+R116	Test_Disease Arg1:T114 Arg2:T113
+R117	Test_Disease Arg1:T116 Arg2:T118
+R118	Test_Disease Arg1:T119 Arg2:T120
+R119	Method_Drug Arg1:T209 Arg2:T127
+R120	Test_Disease Arg1:T210 Arg2:T129
+R121	Test_Disease Arg1:T211 Arg2:T129
+R122	Method_Drug Arg1:T213 Arg2:T131
+R123	Test_Disease Arg1:T148 Arg2:T1
+R124	Test_Disease Arg1:T146 Arg2:T1
+R125	Test_Disease Arg1:T147 Arg2:T268
+R126	Test_Disease Arg1:T152 Arg2:T7
+R127	Test_Disease Arg1:T153 Arg2:T7
+R128	Test_Disease Arg1:T154 Arg2:T156
+R129	Test_Disease Arg1:T154 Arg2:T8
+R130	Anatomy_Disease Arg1:T238 Arg2:T160
+R131	Anatomy_Disease Arg1:T239 Arg2:T160
+R132	Anatomy_Disease Arg1:T271 Arg2:T160
+R133	Anatomy_Disease Arg1:T272 Arg2:T160
+R134	Anatomy_Disease Arg1:T238 Arg2:T159
+R135	Anatomy_Disease Arg1:T239 Arg2:T159
+R136	Anatomy_Disease Arg1:T271 Arg2:T159
+R137	Anatomy_Disease Arg1:T272 Arg2:T159
+R138	Method_Drug Arg1:T227 Arg2:T167
+R139	Symptom_Disease Arg1:T169 Arg2:T37
+R140	Symptom_Disease Arg1:T170 Arg2:T37
+R141	Symptom_Disease Arg1:T169 Arg2:T168
+R142	Symptom_Disease Arg1:T170 Arg2:T168
+R143	Symptom_Disease Arg1:T169 Arg2:T18
+R144	Symptom_Disease Arg1:T170 Arg2:T18

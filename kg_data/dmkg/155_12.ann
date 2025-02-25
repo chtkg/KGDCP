@@ -1,0 +1,389 @@
+T1	Disease 7574 7580	1 型糖尿病
+T2	Disease 7614 7620	1 型糖尿病
+T3	Disease 7641 7647	1 型糖尿病
+T4	Disease 7771 7777	1 型糖尿病
+T5	Disease 7840 7846	1 型糖尿病
+T6	Disease 8190 8196	1 型糖尿病
+T7	Disease 8524 8530	1 型糖尿病
+T8	Disease 7582 7588	2 型糖尿病
+T9	Disease 8582 8587	糖尿病肾病
+T10	Test 4152 4156	空腹血糖
+T11	Test 4168 4172	空腹血糖
+T12	Test 5425 5429	空腹血糖
+T13	Test 5453 5457	空腹血糖
+T14	Test 5483 5487	空腹血糖
+T15	Disease 3136 3140	椎体骨折
+T16	Test 716 718	体重
+T17	Test 3665 3667	体重
+T18	Test 5187 5189	体重
+T19	Test 5228 5230	体重
+T20	Test 5443 5445	体重
+T21	Test 5472 5474	体重
+T22	Test 5503 5505	体重
+T23	Drug 5928 5933	维生素 D
+T24	Drug 8615 8620	维生素 D
+T25	Drug 8644 8649	维生素 D
+T26	Drug 8706 8711	维生素 D
+T27	Drug 8738 8743	维生素 D
+T28	Anatomy 8280 8284	成骨细胞
+T29	Anatomy 8678 8682	成骨细胞
+T30	Test 835 837	血磷
+T31	Drug 370 374	骨化三醇
+T32	Disease 375 378	糖尿病
+T33	Anatomy 380 382	股骨
+T34	Drug 451 455	骨化三醇
+T35	Disease 457 460	糖尿病
+T36	Disease 490 493	糖尿病
+T37	Drug 501 505	骨化三醇
+T38	Test 575 586	活性维生素 D3 含量
+T39	Anatomy 592 594	股骨
+T40	Anatomy 635 637	股骨
+T41	Disease 710 713	糖尿病
+T42	Disease 898 901	糖尿病
+T43	Drug 1154 1158	骨化三醇
+T44	Disease 1173 1176	糖尿病
+T45	Symptom 1186 1191	骨代谢紊乱
+T46	Symptom 1192 1197	骨强度降低
+T47	Drug 1198 1202	骨化三醇
+T48	Disease 1211 1214	糖尿病
+T49	Anatomy 1215 1217	股骨
+T50	Disease 1249 1253	骨质疏松
+T51	Drug 1243 1247	骨化三醇
+T52	Disease 3067 3072	骨质疏松症
+T53	Disease 3101 3103	骨折
+T54	Anatomy 3107 3109	骨骼
+T55	Disease 3113 3118	骨质疏松症
+T56	Disease 3128 3135	骨质疏松性骨折
+T57	Disease 3145 3149	髋部骨折
+T58	Disease 3158 3162	髋部骨折
+T59	Disease 3190 3192	骨折
+T60	Disease 3230 3233	糖尿病
+T61	Disease 3253 3256	糖尿病
+T62	Disease 3266 3269	糖尿病
+T63	Disease 3272 3274;3275 3277	骨质 疏松
+T64	Disease 3289 3292	糖尿病
+T65	Anatomy 3385 3393	维生素 D 受体
+T66	Anatomy 3414 3416	肾脏
+T67	Anatomy 3417 3419	肠道
+T68	Disease 3475 3478	糖尿病
+T69	Anatomy 3482 3484	股骨
+T70	Disease 3534 3537	糖尿病
+T71	Disease 3566 3569	糖尿病
+T72	Disease 3948 3951	糖尿病
+T73	Disease 3980 3983	糖尿病
+T74	Disease 4047 4050	糖尿病
+T75	Test 4088 4090	血糖
+T76	Test 4476 4489	1,25-二羟维生素 D3
+T77	Test 4517 4532;4533 4537	1,25-(OH) 2 -维生 素 D3
+T78	Test 4758 4761;4762 4763	股骨横 径
+T79	Test 4764 4768	股骨直径
+T80	Test 4798 4803	骨皮质厚度
+T81	Disease 5078 5081	糖尿病
+T82	Test 5190 5192	血糖
+T83	Disease 5211 5214	糖尿病
+T84	Test 5217 5219	血糖
+T85	Test 5267 5286	1,25-(OH) 2 -维生素 D3
+T86	Disease 5303 5306	糖尿病
+T87	Test 5332 5340	活性维生素 D3
+T88	Disease 5395 5398	糖尿病
+T89	Disease 7271 7274	糖尿病
+T90	Disease 7294 7297	糖尿病
+T91	Disease 7341 7344	糖尿病
+T92	Disease 7394 7397	糖尿病
+T93	Disease 7456 7459	糖尿病
+T94	Disease 7512 7515	糖尿病
+T95	Test 7589 7592	骨密度
+T96	Disease 7666 7671;7672 7673	2 型糖尿 病
+T97	Disease 7688 7691	糖尿病
+T98	Disease 7720 7723	糖尿病
+T99	Disease 7897 7904	骨质疏松性骨折
+T100	Test 7925 7928	骨密度
+T101	Test 7929 7932	骨质量
+T102	Test 7947 7950	骨密度
+T103	Anatomy 8001 8003	股骨
+T104	Test 8042 8047	骨皮质厚度
+T105	Test 8080 8083	骨质量
+T106	Disease 8130 8133	糖尿病
+T107	Anatomy 8136 8138	股骨
+T108	Disease 8198 8200	骨折
+T109	Disease 8260 8263	糖尿病
+T110	Disease 8444 8447	糖尿病
+T111	Anatomy 8491 8493	股骨
+T112	Test 8531 8534	骨密度
+T113	Test 8561 8563	血糖
+T114	Disease 8570 8571;8572 8579	糖 尿病血管并发症
+T115	Anatomy 8627 8629	骨骼
+T116	Disease 8713 8716	糖尿病
+T117	Disease 8766 8769	糖尿病
+T118	Disease 8804 8807	糖尿病
+T119	Anatomy 8838 8841	骨小梁
+T120	Anatomy 8864 8866	股骨
+T121	Disease 8961 8964	糖尿病
+T122	Disease 8999 9002	糖尿病
+T123	Anatomy 9003 9005	股骨
+T124	Drug 3856 3860	骨化三醇
+T125	Drug 3941 3943;3944 3946	骨化 三醇
+T126	Drug 3973 3977	骨化三醇
+T127	Drug 5072 5076	骨化三醇
+T128	Drug 5205 5209	骨化三醇
+T129	Drug 5297 5301	骨化三醇
+T130	Drug 5389 5393	骨化三醇
+T131	Drug 5611 5615	骨化三醇
+T132	Drug 5852 5856	骨化三醇
+T133	Drug 6096 6100	骨化三醇
+T134	Drug 6490 6494	骨化三醇
+T135	Drug 6879 6883	骨化三醇
+T136	Drug 7130 7134	骨化三醇
+T137	Drug 7264 7265;7266 7269	骨 化三醇
+T138	Drug 7299 7303	骨化三醇
+T139	Drug 7336 7340	骨化三醇
+T140	Drug 7401 7405	骨化三醇
+T141	Drug 7450 7454	骨化三醇
+T142	Drug 7519 7523	骨化三醇
+T143	Drug 8460 8464	骨化三醇
+T144	Drug 8672 8676	骨化三醇
+T145	Drug 8813 8817	骨化三醇
+T146	Drug 8986 8988;8989 8991	骨化 三醇
+T147	Test 4449 4453	BALP
+T148	Test 5257 5261	BALP
+T149	Test 5310 5314	BALP
+T150	Test 5903 5907	BALP
+T151	Test 4496 4500	TRAP
+T152	Test 5262 5266	TRAP
+T153	Test 5315 5319	TRAP
+T154	Test 5945 5949	TRAP
+T155	Test 4082 4084	血糖
+T156	Test 4091 4093	血糖
+T157	Test 4158 4159;4160 4161	体 重
+T158	Anatomy 616 618	股骨
+T159	Disease 1233 1236	糖尿病
+T160	Disease 3183 3185	死亡
+T161	Disease 5861 5864	糖尿病
+T162	Test 7953 7957	骨矿含量
+T163	Test 7972 7976	骨矿含量
+T164	Test 8031 8033	骨量
+T165	Anatomy 8854 8857	松质骨
+T166	Test 9005 9008	骨强度
+T167	Drug 479 484	链脲佐菌素
+T168	Drug 485 488	STZ
+T169	Duration 508 512	24 周
+T170	Test_Value 832 834	降低
+T171	Test_Value 888 890	升高
+T172	Reason 3076 3080	骨量减少
+T173	Reason 3081 3087	骨微结构破坏
+T174	Reason 3090 3092;3093 3096	骨脆 性增加
+T175	Reason 3293 3297	骨量减少
+T176	Anatomy 3571 3573	股骨
+T177	Drug 3887 3892	链脲佐菌素
+T178	Drug 3893 3896	STZ
+T179	Drug 3988 3995	10%水合氯醛
+T180	Amount 3997 4006	3 ml / kg
+T181	Drug 4023 4028	链脲佐菌素
+T182	Anatomy 4010 4012	腹腔
+T183	Method 4019 4023	腹腔注射
+T184	Drug 4029 4032	STZ
+T185	Test_Value 4093 4108	≥33. 3 mmol / L
+T186	Test_Value 4173 4190	大于 16. 7 mmol / L
+T187	Drug 4236 4243	10%水合氯醛
+T188	Amount 4245 4254	3 ml / kg
+T189	Anatomy 4258 4260	腹腔
+T190	Anatomy 4266 4268	心脏
+T191	Anatomy 4279 4281	股骨
+T192	Anatomy 4290 4292	心脏
+T193	Anatomy 4320 4322	股骨
+T194	Anatomy 4329 4331	股骨
+T195	Anatomy 4586 4588	股骨
+T196	Anatomy 4737 4739	股骨
+T197	Test 4914 4920	单位面积骨量
+T198	Test 4926 4933	平均骨小梁宽度
+T199	Test 4939 4946	平均骨小梁间距
+T200	Test 4951 4959	平均骨小梁节点数
+T201	Test 7147 7153	单位面积骨量
+T202	Test 7158 7165	平均骨小梁宽度
+T203	Test 7170 7177;7178 7179	平均骨小梁节点 数
+T204	Test 7193 7200	平均骨小梁间距
+T205	Test 7238 7244	平均皮质厚度
+T206	Anatomy 7251 7253	股骨
+T207	Test 7253 7259	平均皮质厚度
+T208	Test 7304 7310	平均皮质厚度
+T209	Anatomy 7408 7410	股骨
+T210	Test_Value 7654 7656	降低
+T211	Reason 8326 8340	蛋白质和 I 型胶原合成减少
+T212	Test 8857 8860	骨质量
+T213	Symptom 8974 8979	骨代谢紊乱
+T214	Test 7918 7920;7921 7922	骨强 度
+T215	Test 7962 7965	骨强度
+T216	Anatomy 7987 7988	骨
+T217	Anatomy 8013 8014	骨
+T218	Anatomy 8535 8537	骨骼
+T219	Anatomy 8651 8652	骨
+T220	Drug 3310 3315	维生素 D
+T221	Drug 3444 3449	维生素 D
+T222	Drug 3519 3524	维生素 D
+T223	Test 3557 3564	活性维生素 D
+T224	Reason 8392 8401;8402 8405	活性维生素 D 含 量降低
+T225	Anatomy 8745 8753	维生素 D 受体
+T226	Reason 8341 8343;8344 8353	成骨 细胞数目和作用减少
+T227	Reason 8372 8389	糖基化终末产物对成骨细胞增殖的抑制
+T228	Test 531 540	骨特异性碱性磷酸酶
+T229	Test 541 545	BALP
+T230	Test 559 568	抗酒石酸酸性磷酸酶
+T231	Test 569 573	TRAP
+T232	Test 776 777;778 781	血 钙浓度
+T233	Drug 3356 3375	1,25-(OH) 2 -维生素 D3
+T234	Test 4412 4421	骨特异性碱性磷酸酶
+T235	Test 4422 4426	BALP
+T236	Test 4460 4469	抗酒石酸酸性磷酸酶
+T237	Test 4470 4474	TRAP
+T238	Anatomy 7275 7277	股骨
+T239	Test 7277 7283	平均皮质厚度
+T240	Test 7624 7628	桡骨骨量
+T241	Anatomy 7649 7651	股骨
+T242	Test 7651 7654	骨密度
+T243	Anatomy 7675 7677	股骨
+T244	Test 7677 7680	骨密度
+T245	Anatomy 7740 7742	股骨
+T246	Disease 7742 7743;7744 7745	骨 折
+T247	Anatomy 7780 7782	股骨
+T248	Disease 7782 7784	骨折
+T249	Disease 7852 7854	骨折
+T250	Disease 7871 7875	股骨骨折
+T251	Reason 7907 7912	骨强度下降
+T252	Reason 8265 8270	骨脆性增加
+T253	Reason 8317 8324	胰岛素作用不足
+T254	Reason 8354 8366	胰岛素样生长因子合成减少
+T255	Reason 8367 8370	高血糖
+T256	Reason 8406 8414	糖尿病微血管病变
+T257	Reason 8416 8427	骨的血管血液供给的减少
+T258	Test 8473 8477	骨骼脆性
+T259	Anatomy 8823 8827	骨小梁板
+T260	Anatomy 8830 8833	骨小梁
+T261	Disease 8887 8894	原发性骨质疏松
+T262	Symptom 8980 8985	骨强度降低
+R1	Anatomy_Disease Arg1:T123 Arg2:T122
+R2	Anatomy_Disease Arg1:T33 Arg2:T32
+R3	Drug_Disease Arg1:T31 Arg2:T32
+R4	Drug_Disease Arg1:T34 Arg2:T35
+R5	Drug_Disease Arg1:T168 Arg2:T36
+R6	Drug_Disease Arg1:T167 Arg2:T36
+R7	Drug_Disease Arg1:T37 Arg2:T36
+R8	Duration_Drug Arg1:T169 Arg2:T37
+R9	Test_Disease Arg1:T16 Arg2:T41
+R10	Test_Disease Arg1:T232 Arg2:T41
+R11	Test_Disease Arg1:T30 Arg2:T41
+R12	Drug_Disease Arg1:T43 Arg2:T42
+R13	Symptom_Disease Arg1:T45 Arg2:T44
+R14	Symptom_Disease Arg1:T46 Arg2:T44
+R15	Drug_Disease Arg1:T47 Arg2:T44
+R16	Anatomy_Disease Arg1:T49 Arg2:T48
+R17	Anatomy_Disease Arg1:T69 Arg2:T68
+R18	Test_Disease Arg1:T223 Arg2:T71
+R19	Anatomy_Disease Arg1:T176 Arg2:T71
+R20	Drug_Disease Arg1:T125 Arg2:T72
+R21	Drug_Disease Arg1:T126 Arg2:T73
+R22	Drug_Disease Arg1:T179 Arg2:T73
+R23	Amount_Drug Arg1:T180 Arg2:T179
+R24	Anatomy_Disease Arg1:T182 Arg2:T73
+R25	Method_Drug Arg1:T183 Arg2:T181
+R26	Drug_Disease Arg1:T181 Arg2:T74
+R27	Drug_Disease Arg1:T184 Arg2:T74
+R28	Amount_Drug Arg1:T188 Arg2:T187
+R29	Drug_Disease Arg1:T127 Arg2:T81
+R30	Test_Disease Arg1:T18 Arg2:T83
+R31	Test_Disease Arg1:T82 Arg2:T83
+R32	Drug_Disease Arg1:T128 Arg2:T83
+R33	Test_Disease Arg1:T84 Arg2:T83
+R34	Test_Disease Arg1:T148 Arg2:T86
+R35	Test_Disease Arg1:T152 Arg2:T86
+R36	Test_Disease Arg1:T85 Arg2:T86
+R37	Drug_Disease Arg1:T129 Arg2:T86
+R38	Test_Disease Arg1:T149 Arg2:T86
+R39	Test_Disease Arg1:T153 Arg2:T86
+R40	Test_Disease Arg1:T87 Arg2:T86
+R41	Drug_Disease Arg1:T130 Arg2:T88
+R42	Drug_Disease Arg1:T137 Arg2:T89
+R43	Anatomy_Disease Arg1:T238 Arg2:T89
+R44	Test_Disease Arg1:T239 Arg2:T89
+R45	Test_Disease Arg1:T207 Arg2:T89
+R46	Anatomy_Disease Arg1:T206 Arg2:T89
+R47	Test_Disease Arg1:T205 Arg2:T89
+R48	Drug_Disease Arg1:T138 Arg2:T90
+R49	Test_Disease Arg1:T208 Arg2:T90
+R50	Drug_Disease Arg1:T139 Arg2:T91
+R51	Drug_Disease Arg1:T140 Arg2:T92
+R52	Anatomy_Disease Arg1:T209 Arg2:T92
+R53	Drug_Disease Arg1:T141 Arg2:T93
+R54	Drug_Disease Arg1:T142 Arg2:T94
+R55	Test_Disease Arg1:T95 Arg2:T8
+R56	Anatomy_Disease Arg1:T241 Arg2:T3
+R57	Test_Disease Arg1:T242 Arg2:T3
+R58	Anatomy_Disease Arg1:T245 Arg2:T246
+R59	Anatomy_Disease Arg1:T247 Arg2:T248
+R60	Test_Disease Arg1:T100 Arg2:T99
+R61	Test_Disease Arg1:T101 Arg2:T99
+R62	Anatomy_Disease Arg1:T107 Arg2:T106
+R63	Anatomy_Disease Arg1:T28 Arg2:T109
+R64	Anatomy_Disease Arg1:T111 Arg2:T110
+R65	Test_Disease Arg1:T112 Arg2:T7
+R66	Drug_Disease Arg1:T26 Arg2:T116
+R67	Drug_Disease Arg1:T27 Arg2:T117
+R68	Anatomy_Disease Arg1:T225 Arg2:T117
+R69	Drug_Disease Arg1:T145 Arg2:T118
+R70	Anatomy_Disease Arg1:T119 Arg2:T118
+R71	Test_Disease Arg1:T212 Arg2:T118
+R72	Anatomy_Disease Arg1:T120 Arg2:T118
+R73	Symptom_Disease Arg1:T213 Arg2:T121
+R74	Symptom_Disease Arg1:T262 Arg2:T121
+R75	Drug_Disease Arg1:T146 Arg2:T122
+R76	Test_Disease Arg1:T214 Arg2:T99
+R77	Anatomy_Disease Arg1:T218 Arg2:T7
+R78	Test_Disease Arg1:T113 Arg2:T7
+R79	Test_Disease Arg1:T228 Arg2:T36
+R80	Test_Disease Arg1:T229 Arg2:T36
+R81	Test_Disease Arg1:T230 Arg2:T36
+R82	Test_Disease Arg1:T231 Arg2:T36
+R83	Test_Disease Arg1:T38 Arg2:T36
+R84	Anatomy_Disease Arg1:T39 Arg2:T36
+R85	Anatomy_Disease Arg1:T158 Arg2:T36
+R86	Anatomy_Disease Arg1:T40 Arg2:T36
+R87	Anatomy_Disease Arg1:T54 Arg2:T53
+R88	Drug_Disease Arg1:T222 Arg2:T70
+R89	Test_Disease Arg1:T19 Arg2:T83
+R90	Test_Disease Arg1:T95 Arg2:T1
+R91	Test_Disease Arg1:T240 Arg2:T2
+R92	Test_Disease Arg1:T244 Arg2:T96
+R93	Anatomy_Disease Arg1:T243 Arg2:T96
+R94	Anatomy_Disease Arg1:T243 Arg2:T97
+R95	Test_Disease Arg1:T244 Arg2:T97
+R96	Test_Disease Arg1:T102 Arg2:T99
+R97	Test_Disease Arg1:T162 Arg2:T99
+R98	Test_Disease Arg1:T215 Arg2:T99
+R99	Test_Disease Arg1:T163 Arg2:T99
+R100	Anatomy_Disease Arg1:T216 Arg2:T99
+R101	Anatomy_Disease Arg1:T103 Arg2:T99
+R102	Anatomy_Disease Arg1:T217 Arg2:T99
+R103	Test_Disease Arg1:T164 Arg2:T99
+R104	Test_Disease Arg1:T104 Arg2:T99
+R105	Drug_Disease Arg1:T143 Arg2:T110
+R106	Test_Disease Arg1:T258 Arg2:T110
+R107	Anatomy_Disease Arg1:T259 Arg2:T118
+R108	Anatomy_Disease Arg1:T260 Arg2:T118
+R109	Anatomy_Disease Arg1:T165 Arg2:T118
+R110	Test_Disease Arg1:T30 Arg2:T42
+R111	Drug_Disease Arg1:T43 Arg2:T44
+R112	Anatomy_Disease Arg1:T245 Arg2:T98
+R113	Anatomy_Disease Arg1:T111 Arg2:T7
+R114	Drug_Disease Arg1:T24 Arg2:T9
+R115	Drug_Disease Arg1:T27 Arg2:T116
+R116	Anatomy_Disease Arg1:T225 Arg2:T116
+R117	Test_Disease Arg1:T212 Arg2:T261
+R118	Anatomy_Disease Arg1:T120 Arg2:T261
+R119	Test_Disease Arg1:T113 Arg2:T114
+R120	Anatomy_Disease Arg1:T115 Arg2:T9
+R121	Anatomy_Disease Arg1:T247 Arg2:T4
+R122	Drug_Disease Arg1:T144 Arg2:T116
+R123	Anatomy_Disease Arg1:T29 Arg2:T116
+R124	Anatomy_Disease Arg1:T219 Arg2:T116
+R125	Drug_Disease Arg1:T25 Arg2:T116
+R126	Anatomy_Disease Arg1:T165 Arg2:T261
+R127	Test_Disease Arg1:T166 Arg2:T122

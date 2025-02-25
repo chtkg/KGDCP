@@ -1,0 +1,387 @@
+T1	Disease 73 79	2 型糖尿病
+T2	Disease 156 162	2 型糖尿病
+T3	Disease 194 200	2 型糖尿病
+T4	Disease 324 330	2 型糖尿病
+T5	Disease 1619 1625	2 型糖尿病
+T6	Disease 1701 1707	2 型糖尿病
+T7	Disease 2361 2367	2 型糖尿病
+T8	Disease 4862 4868	2 型糖尿病
+T9	Disease 4951 4957	2 型糖尿病
+T10	Disease 5536 5542	2 型糖尿病
+T11	Disease 5775 5781	2 型糖尿病
+T12	Disease 5967 5973	2 型糖尿病
+T13	Disease 1557 1562	糖尿病肾病
+T14	Test 184 189	HBA1C
+T15	Test 1035 1040	HBA1C
+T16	Test 2121 2126	HBA1C
+T17	Test 2273 2278	HBA1C
+T18	Test 2809 2814	HBA1C
+T19	Test 3241 3246	HBA1C
+T20	Test 3796 3801	HBA1C
+T21	Test 3944 3949	HBA1C
+T22	Test 4127 4132	HBA1C
+T23	Test 4181 4186	HBA1C
+T24	Test 4290 4295	HBA1C
+T25	Test 4343 4348	HBA1C
+T26	Test 4535 4540	HBA1C
+T27	Test 5001 5006	HBA1C
+T28	Test 5291 5296	HBA1C
+T29	Test 5857 5862	HBA1C
+T30	Test 2280 2285	LDL-C
+T31	Test 3849 3854	LDL-C
+T32	Test 3987 3992	LDL-C
+T33	Test 4009 4014	LDL-C
+T34	Test 4607 4612	LDL-C
+T35	Test 5469 5474	LDL-C
+T36	Test 2010 2013	ACR
+T37	Test 2033 2036	ACR
+T38	Test 2133 2136	ACR
+T39	Test 2301 2304	ACR
+T40	Test 2469 2472	ACR
+T41	Test 2717 2720	ACR
+T42	Test 2745 2748	ACR
+T43	Test 3695 3698	ACR
+T44	Test 3833 3836	ACR
+T45	Test 3907 3910	ACR
+T46	Test 3931 3934	ACR
+T47	Test 3973 3976	ACR
+T48	Test 4035 4038	ACR
+T49	Test 4055 4058	ACR
+T50	Test 4418 4421	ACR
+T51	Test 4460 4463	ACR
+T52	Test 4487 4490	ACR
+T53	Test 4508 4511	ACR
+T54	Test 4552 4555	ACR
+T55	Test 4578 4581	ACR
+T56	Test 4652 4655	ACR
+T57	Test 4881 4884	ACR
+T58	Test 4896 4899	ACR
+T59	Test 4960 4963	ACR
+T60	Test 5251 5254	ACR
+T61	Test 5269 5272	ACR
+T62	Test 5335 5338	ACR
+T63	Test 5356 5359	ACR
+T64	Test 5497 5500	ACR
+T65	Test 5835 5838	ACR
+T66	Test 5886 5889	ACR
+T67	Test 3802 3811	低密度脂蛋白胆固醇
+T68	Test 3855 3864	低密度脂蛋白胆固醇
+T69	Test 2265 2269	体重指数
+T70	Test 2459 2463	体重指数
+T71	Test 3779 3783	体重指数
+T72	Test 3868 3872	体重指数
+T73	Test 3884 3888	体重指数
+T74	Test 4435 4439	体重指数
+T75	Test 5274 5278	体重指数
+T76	Test 5840 5844	体重指数
+T77	Test 2465 2468	腰臀比
+T78	Test 2084 2086	腰围
+T79	Test 2087 2089	臀围
+T80	Test 2090 2092	体重
+T81	Test 5317 5319	体重
+T82	Test 4596 4604;4605 4606	低密度脂蛋白胆固 醇
+T83	Test 3956 3961	HbA1C
+T84	Test 4561 4566	HbA1C
+T85	Test 2484 2488	三酰甘油
+T86	Test 3812 3816	三酰甘油
+T87	Test 347 349	血糖
+T88	Test 4071 4073	血糖
+T89	Test 4229 4231	血糖
+T90	Test 5043 5045	血糖
+T91	Test 5094 5096	血糖
+T92	Test 5101 5103	血糖
+T93	Test 5321 5323	血糖
+T94	Test 5816 5818	血糖
+T95	Test 2080 2081;2082 2083	身 高
+T96	Disease 56 71	阻塞性睡眠呼吸暂停低通气综合征
+T97	Disease 132 147	阻塞性睡眠呼吸暂停低通气综合征
+T98	Disease 148 153	OSAHS
+T99	Test_Value 189 192	<7%
+T100	Level 204 206	重度
+T102	Disease 207 212	OSAHS
+T103	Disease 79 84	早期肾损害
+T104	Disease 164 169	早期肾损害
+T105	Test 267 276	呼吸暂停低通气指数
+T106	Test 227 231;232 235	最低血氧 饱和度
+T107	Disease 314 319	OSAHS
+T108	Disease 334 339	早期肾损害
+T109	Disease 1490 1495	OSAHS
+T110	Disease 1534 1539	OSAHS
+T111	Disease 1541 1544	糖尿病
+T112	Disease 1563 1566	糖尿病
+T113	Disease 1607 1612	OSAHS
+T114	Disease 1721 1726	OSAHS
+T115	Test 1774 1783	呼吸暂停低通气指数
+T116	Test 1784 1787	AHI
+T117	Test 1789 1795;1796 1797	最低血氧饱和 度
+T118	Test 1798 1803	LSaO2
+T119	Disease 1818 1821	糖尿病
+T120	Disease 1846 1851	OSAHS
+T121	Level 1890 1892	轻度
+T122	Level 1923 1925	中度
+T123	Level 1953 1955	重度
+T124	Test 1895 1898	AHI
+T125	Test 1910 1915	LSaO2
+T126	Test 1929 1932	AHI
+T127	Test 1942 1947	LSaO2
+T128	Test 1956 1959	AHI
+T129	Test 1965 1970	LSaO2
+T130	Test_Value 2014 2025	<300 mg / g
+T131	Test_Value 2036 2047	>300 mg / g
+T132	Test_Value 1899 1902	<15
+T133	Test_Value 1916 1917;1918 1921	< 90%
+T134	Test_Value 1932 1935	<30
+T135	Test_Value 1947 1951	<85%
+T136	Test_Value 1959 1962	≥30
+T137	Test_Value 1970 1974	<80%
+T138	Test 2097 2102	糖尿病病程
+T139	Test 2118 2120	血脂
+T140	Test 2127 2132	尿微量蛋白
+T141	Test 2137 2147	24 h 尿蛋白定量
+T142	Test 2113 2117	肝肾功能
+T143	Test 2289 2294;2295 2299	呼吸暂停低 通气指数
+T144	Disease 2375 2380	OSAHS
+T145	Disease 2388 2393	OSAHS
+T146	Disease 2450 2455	OSAHS
+T147	Test 2473 2483	24 h 尿蛋白定量
+T148	Disease 4077 4082	OSAHS
+T149	Test 4111 4114	AHI
+T150	Test_Value 4114 4116	<5
+T151	Test_Value 4132 4133;4134 4136	< 7%
+T152	Level 4150 4152	重度
+T153	Disease 4153 4158	OSAHS
+T154	Test_Value 4186 4189	≥7%
+T155	Disease 4235 4240	OSAHS
+T156	Test 4272 4277	LSaO2
+T157	Test_Value 4277 4281	≥85%
+T158	Test_Value 4295 4298	<7%
+T159	Disease 4319 4323	低氧血症
+T160	Level 4317 4319	重度
+T161	Test_Value 4348 4351	≥7%
+T162	Disease 4391 4395	低氧血症
+T163	Level 4388 4390	重度
+T164	Test 4412 4415	AHI
+T165	Test_Value 4439 4450	≥25 kg / m2
+T166	Test 4454 4457	AHI
+T167	Test 4481 4484	AHI
+T168	Test 4502 4505	AHI
+T169	Test 4546 4549	AHI
+T170	Test_Value 4540 4543	<7%
+T171	Test_Value 4566 4567;4568 4570	≥ 7%
+T172	Test 4572 4575	AHI
+T173	Test_Value 4613 4627	≥2. 6 mmol / L
+T174	Test_Value 4629 4643	<2. 6 mmol / L
+T175	Test 4646 4649	AHI
+T176	Disease 4679 4684	OSAHS
+T177	Disease 4686 4690	慢性肾病
+T178	Disease 4765 4769	慢性肾病
+T179	Disease 4809 4813	慢性肾病
+T180	Disease 4833 4836	糖尿病
+T181	Disease 4841 4844	肾损害
+T182	Test_Value 4899 4910	>300 mg / g
+T183	Disease 4943 4948	OSAHS
+T184	Disease 4972 4977	OSAHS
+T185	Test_Value 5007 5011	< 7%
+T186	Level 5013 5015	重度
+T187	Disease 5016 5021	OSAHS
+T188	Disease 5052 5057	OSAHS
+T189	Reason 5069 5072	高血糖
+T190	Disease 5085 5088	肾损害
+T191	Anatomy 5110 5112	肾脏
+T192	Disease 5120 5125	OSAHS
+T193	Disease 5129 5132	肾损害
+T194	Disease 5198 5203	OSAHS
+T195	Test 5191 5194	PSG
+T196	Disease 5216 5221	OSAHS
+T197	Test 5245 5248	AHI
+T198	Test 5263 5266	AHI
+T199	Test_Value 5278 5281;5282 5289	≥25 kg / m2
+T200	Test_Value 5297 5300	<7%
+T201	Disease 5302 5305	糖尿病
+T202	Test 5329 5332	AHI
+T203	Test 5350 5353	AHI
+T204	Disease 5406 5411	OSAHS
+T205	Disease 5449 5453	动脉硬化
+T206	Reason 5436 5444	LDL-C 升高
+T207	Test_Value 5474 5486;5487 5488	≥2. 6 mmol / L
+T208	Test 5491 5494	AHI
+T209	Disease 5526 5531	OSAHS
+T210	Disease 5570 5575	OSAHS
+T211	Disease 5632 5637	OSAHS
+T212	Disease 5642 5644	肥胖
+T213	Disease 5645 5648	高血压
+T214	Disease 5649 5653;5654 5656	糖脂代谢 紊乱
+T215	Disease 5665 5668	肾损伤
+T216	Disease 5680 5685	OSAHS
+T217	Disease 5738 5741	肾损害
+T218	Disease 5765 5770	OSAHS
+T219	Disease 5783 5788	早期肾损害
+T220	Disease 5798 5803	OSAHS
+T221	Test 5829 5832	AHI
+T222	Test_Value 5862 5865	<7%
+T223	Test 5880 5883	AHI
+T224	Disease 5921 5924	肾损害
+T225	Disease 5944 5949	OSAHS
+T226	Test 3699 3705	尿微量白蛋白
+T227	Test 3837 3843	尿微量白蛋白
+T228	Test 3708 3710	肌酐
+T229	Test 3846 3848	肌酐
+T230	Disease 367 370	糖尿病
+T231	Disease 377 392	阻塞性睡眠呼吸暂停低通气综合征
+T232	Disease 394 399	早期肾损害
+T233	Symptom 401 407	微量白蛋白尿
+T234	Disease 1503 1509	睡眠呼吸疾病
+T235	Disease 1571 1577	微血管并发症
+T236	Test 1740 1746	睡眠呼吸监测
+T237	Test 1755 1761	多导睡眠监测
+T238	Test 1763 1766	PSG
+T239	Test 2074 2076	性别
+T240	Test 2077 2079	年龄
+T241	Test 2093 2096	吸烟史
+T242	Test 2270 2272	性别
+T243	Test 4243 4249	夜间低氧程度
+T244	Reason 5075 5077;5078 5082	代谢 指标紊乱
+T245	Symptom 5689 5697	夜间睡眠质量欠佳
+T246	Symptom 5698 5705	总睡眠时间缩短
+T247	Symptom 5706 5710	日间嗜睡
+T248	Test 5912 5915	PSG
+T249	Reason 5597 5603	炎症因子增加
+T250	Reason 5604 5610	氧化应激加重
+T251	Reason 5611 5615	交感兴奋
+T252	Reason 5616 5617;5618 5623	血 管内皮损伤
+T253	Disease 1474 1489	阻塞性睡眠呼吸暂停低通气综合征
+T254	Level 1627 1629	早期
+T255	Disease 1629 1631;1632 1633	肾损 害
+T256	Symptom 1981 1987	微量白蛋白尿
+T257	Test 1998 2006;2007 2009	微量尿白蛋白 / 肌酐
+T258	Test_Value 1988 1998	30 mg / g<
+T259	Test_Value 1893 1895	5<
+T260	Test_Value 1905 1910	85% <
+T261	Test_Value 1926 1929	15<
+T262	Test_Value 1938 1942	80%<
+T263	Symptom 4089 4095	微量白蛋白尿
+T264	Symptom 4164 4170	微量白蛋白尿
+T265	Symptom 4208 4214	微量白蛋白尿
+T266	Symptom 4250 4253;4254 4257	微量白 蛋白尿
+T267	Level 4312 4316	轻-中度
+T268	Symptom 4327 4333	微量白蛋白尿
+T269	Symptom 4368 4374	微量白蛋白尿
+T270	Symptom 4398 4404	微量白蛋白尿
+T271	Reason 4758 4763	OSAHS
+T272	Symptom 4799 4805	睡眠呼吸暂停
+T273	Disease 4926 4929	肾损害
+T274	Level 4924 4926	早期
+T275	Test_Value 4964 4968	显著升高
+T276	Disease 4984 4987	肾损害
+T277	Level 4982 4984	早期
+T278	Disease 5027 5030	肾损害
+T279	Level 5025 5027	早期
+T280	Anatomy 5059 5061	肾脏
+T281	Test_Value 5045 5046;5047 5050	显 著升高
+T282	Disease 5223 5228	微量蛋白尿
+T283	Reason 5400 5402	年龄
+T284	Disease 5413 5416;5417 5420	微量白 蛋白尿
+T285	Disease 5546 5549	肾损害
+T286	Level 5544 5546	早期
+T287	Symptom 5578 5587	间断性夜间低氧血症
+T288	Disease 5589 5594	高碳酸血症
+T289	Test_Value 5844 5855	≥25 kg / m2
+T290	Disease 5951 5954	糖尿病
+T291	Disease 5954 5957	肾损害
+T101	Disease 218 221	肾损害
+R1	Test_Disease Arg1:T14 Arg2:T3
+R2	Test_Disease Arg1:T106 Arg2:T102
+R3	Test_Disease Arg1:T105 Arg2:T102
+R4	Test_Disease Arg1:T87 Arg2:T4
+R5	Test_Disease Arg1:T124 Arg2:T120
+R6	Test_Disease Arg1:T125 Arg2:T120
+R7	Test_Disease Arg1:T70 Arg2:T146
+R8	Test_Disease Arg1:T77 Arg2:T146
+R9	Test_Disease Arg1:T40 Arg2:T146
+R10	Test_Disease Arg1:T147 Arg2:T146
+R11	Test_Disease Arg1:T85 Arg2:T146
+R12	Test_Disease Arg1:T88 Arg2:T148
+R13	Symptom_Disease Arg1:T272 Arg2:T179
+R14	Test_Disease Arg1:T57 Arg2:T8
+R15	Test_Disease Arg1:T58 Arg2:T8
+R16	Test_Disease Arg1:T59 Arg2:T9
+R17	Test_Disease Arg1:T27 Arg2:T276
+R18	Test_Disease Arg1:T90 Arg2:T278
+R19	Anatomy_Disease Arg1:T280 Arg2:T188
+R20	Test_Disease Arg1:T91 Arg2:T190
+R21	Test_Disease Arg1:T92 Arg2:T190
+R22	Anatomy_Disease Arg1:T191 Arg2:T192
+R23	Test_Disease Arg1:T195 Arg2:T194
+R24	Test_Disease Arg1:T197 Arg2:T282
+R25	Test_Disease Arg1:T60 Arg2:T282
+R26	Test_Disease Arg1:T61 Arg2:T282
+R27	Test_Disease Arg1:T198 Arg2:T282
+R28	Test_Disease Arg1:T75 Arg2:T282
+R29	Test_Disease Arg1:T28 Arg2:T201
+R30	Test_Disease Arg1:T81 Arg2:T201
+R31	Test_Disease Arg1:T93 Arg2:T201
+R32	Test_Disease Arg1:T202 Arg2:T201
+R33	Test_Disease Arg1:T62 Arg2:T201
+R34	Test_Disease Arg1:T35 Arg2:T205
+R35	Test_Disease Arg1:T208 Arg2:T205
+R36	Test_Disease Arg1:T64 Arg2:T205
+R37	Symptom_Disease Arg1:T287 Arg2:T210
+R38	Test_Disease Arg1:T94 Arg2:T220
+R39	Test_Disease Arg1:T221 Arg2:T220
+R40	Test_Disease Arg1:T65 Arg2:T220
+R41	Test_Disease Arg1:T76 Arg2:T220
+R42	Test_Disease Arg1:T29 Arg2:T220
+R43	Test_Disease Arg1:T223 Arg2:T220
+R44	Test_Disease Arg1:T66 Arg2:T220
+R45	Test_Disease Arg1:T126 Arg2:T120
+R46	Test_Disease Arg1:T127 Arg2:T120
+R47	Test_Disease Arg1:T128 Arg2:T120
+R48	Test_Disease Arg1:T129 Arg2:T120
+R49	Test_Disease Arg1:T149 Arg2:T153
+R50	Test_Disease Arg1:T22 Arg2:T153
+R51	Symptom_Disease Arg1:T264 Arg2:T153
+R52	Symptom_Disease Arg1:T263 Arg2:T148
+R53	Test_Disease Arg1:T23 Arg2:T153
+R54	Symptom_Disease Arg1:T265 Arg2:T153
+R55	Test_Disease Arg1:T89 Arg2:T155
+R56	Test_Disease Arg1:T243 Arg2:T155
+R57	Symptom_Disease Arg1:T266 Arg2:T155
+R58	Test_Disease Arg1:T156 Arg2:T155
+R59	Test_Disease Arg1:T24 Arg2:T155
+R60	Symptom_Disease Arg1:T268 Arg2:T159
+R61	Symptom_Disease Arg1:T269 Arg2:T159
+R62	Symptom_Disease Arg1:T270 Arg2:T159
+R63	Test_Disease Arg1:T203 Arg2:T201
+R64	Symptom_Disease Arg1:T245 Arg2:T216
+R65	Symptom_Disease Arg1:T246 Arg2:T216
+R66	Symptom_Disease Arg1:T247 Arg2:T216
+R67	Test_Disease Arg1:T248 Arg2:T224
+R68	Test_Disease Arg1:T87 Arg2:T108
+R69	Test_Disease Arg1:T118 Arg2:T119
+R70	Test_Disease Arg1:T117 Arg2:T119
+R71	Test_Disease Arg1:T117 Arg2:T119
+R72	Test_Disease Arg1:T116 Arg2:T119
+R73	Test_Disease Arg1:T115 Arg2:T119
+R74	Test_Disease Arg1:T24 Arg2:T159
+R75	Test_Disease Arg1:T223 Arg2:T224
+R76	Test_Disease Arg1:T66 Arg2:T224
+R77	Test_Disease Arg1:T106 Arg2:T101
+R78	Test_Disease Arg1:T105 Arg2:T101
+R79	Test_Disease Arg1:T87 Arg2:T107
+R80	Test_Disease Arg1:T25 Arg2:T159
+R81	Symptom_Disease Arg1:T270 Arg2:T162
+R82	Symptom_Disease Arg1:T269 Arg2:T162
+R83	Test_Disease Arg1:T59 Arg2:T183
+R84	Test_Disease Arg1:T59 Arg2:T184
+R85	Test_Disease Arg1:T90 Arg2:T187
+R86	Anatomy_Disease Arg1:T191 Arg2:T193
+R87	Test_Disease Arg1:T197 Arg2:T196
+R88	Test_Disease Arg1:T60 Arg2:T196
+R89	Test_Disease Arg1:T198 Arg2:T201
+R90	Test_Disease Arg1:T61 Arg2:T201
+R91	Test_Disease Arg1:T75 Arg2:T201
+R92	Test_Disease Arg1:T203 Arg2:T204
+R93	Test_Disease Arg1:T63 Arg2:T204
+R94	Test_Disease Arg1:T203 Arg2:T284
+R95	Test_Disease Arg1:T63 Arg2:T284
+R96	Test_Disease Arg1:T248 Arg2:T225

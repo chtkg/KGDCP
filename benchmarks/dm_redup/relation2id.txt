@@ -1,0 +1,17 @@
+16
+Test_Disease	0
+Symptom_Disease	1
+Treatment_Disease	2
+Drug_Disease	3
+Anatomy_Disease	4
+Reason_Disease	5
+Pathogenesis_Disease	6
+Operation_Disease	7
+Class_Disease	8
+Test_items_Disease	9
+ADE_Disease	10
+Frequency_Drug	11
+Duration_Drug	12
+Amount_Drug	13
+Method_Drug	14
+ADE_Drug	15

@@ -1,0 +1,515 @@
+T1	Disease 2611 2614;2615 2618	2 型 糖尿病
+T2	Test 1441 1443	体重
+T3	Disease 5 11	甲状旁腺腺瘤
+T4	Disease 13 21	无症状嗜铬细胞瘤
+T5	Symptom 66 72	甲状旁腺危象
+T6	Disease 78 84	甲状旁腺腺瘤
+T7	Disease 90 97;98 99	无症状嗜铬细胞 瘤
+T8	Duration 879 883	1 个月
+T9	Symptom 884 886	恶心
+T10	Symptom 887 889	呕吐
+T11	Duration 890 894	20 d
+T12	Anatomy 926 929	左下肢
+T13	Test 955 957	血钙
+T14	Test_Value 957 965;966 974	升高 2. 98 mmol / L
+T15	Symptom 1029 1033	神志淡漠
+T16	Symptom 1045 1047	无力
+T17	Test 1049 1051	血钙
+T18	Test_Value 1052 1066	4. 03 mmol / L
+T19	Test 1067 1069	血磷
+T20	Test_Value 1070 1084	0. 73 mmol / L
+T21	Test_Value 1111 1126	150. 1 pmol / L
+T22	Drug 1141 1142;1143 1147	帕 米膦酸钠
+T23	Method 1161 1165	静脉滴注
+T24	Test 1168 1170	血钙
+T25	Test_Value 1171 1175;1176 1184	3. 8 mmol / L
+T26	Test 1185 1187	血磷
+T27	Test_Value 1188 1201	0. 3 mmol / L
+T28	Test_Value 1213 1222	135 U / L
+T29	Test 1233 1235	尿钙
+T30	Test_Value 1236 1249	240 mg / 24 h
+T31	Test 1257 1264	泌尿系 B 超
+T32	Test 1311 1312;1313 1314	体 重
+T33	Test_Value 1314 1321	下降 6 kg
+T34	Disease 1354 1357	糖尿病
+T35	Duration 1360 1363	5 年
+T36	Test 1379 1381	血糖
+T37	Test 1404 1406	血压
+T38	Test_Value 1407 1420	120 / 70 mmHg
+T39	Test_Value 1444 1449	53 kg
+T40	Anatomy 1542 1546	左膝关节
+T41	Symptom 1548 1553	局部皮肤黑
+T42	Symptom 1564 1566	皮疹
+T43	Test 1573 1575	血钙
+T44	Test_Value 1576 1598	3. 45 ~ 4. 35 mmol / L
+T45	Test 1599 1601	血磷
+T46	Test 1625 1628	ALP
+T47	Test_Value 1629 1644	111 ~ 129 U / L
+T48	Test 1645 1648	PTH
+T49	Test_Value 1649 1667	114 ~ 227 pmol / L
+T50	Test 1669 1671	尿钙
+T51	Test_Value 1672 1691	335 ~ 662 mg / 24 h
+T52	Test 1692 1694	尿磷
+T53	Test_Value 1695 1714	360 ~ 410 mg / 24 h
+T54	Test 1721 1722;1723 1726	肝 肾功能
+T55	Duration 1779 1783	1 个月
+T56	Symptom 1784 1786	恶心
+T57	Symptom 1787 1789	呕吐
+T58	Symptom 1790 1792;1793 1795	神志 淡漠
+T59	Symptom 1796 1804	行走时双膝关节痛
+T60	Duration 1805 1809	20 天
+T61	Disease 1841 1853	原发性甲状旁腺功能亢进症
+T62	Symptom 1817 1820	高血钙
+T63	Symptom 1821 1823;1824 1825	低血 磷
+T64	Symptom 1826 1829	高尿钙
+T65	Symptom 1830 1835	高 PTH
+T66	Disease 1888 1896	甲状旁腺功能亢进
+T67	Test_Value 1917 1930	甲状腺下极异常示踪剂浓集区
+T68	Disease 1933 1942	甲状旁腺高功能病变
+T69	Test 1961 1974	甲状旁腺 CT 平扫及强化
+T70	Test_Value 1975 1976;1977 1984	颈 部混杂密度肿块
+T71	Disease 2018 2028	原发性甲状旁腺亢进症
+T72	Disease 2029 2035	甲状旁腺腺瘤
+T73	Test 2042 2050	甲状旁腺 ECT
+T74	Disease 2053 2062	甲状旁腺高功能病变
+T75	Test 2068 2075	甲状腺 B 超
+T76	Test_Value 2076 2087	甲状腺右叶低回声小结节
+T77	Symptom 2093 2098	右腹部肿物
+T78	Test 2099 2102	B 超
+T79	Anatomy 2104 2107	肾上腺
+T80	Anatomy 2118 2121;2122 2123	甲状旁 腺
+T81	Anatomy 2124 2127	肾上腺
+T82	Symptom 1462 1463;1464 1470	甲 状腺I°肿大
+T83	Operation 2137 2146	甲状旁腺腺瘤摘除术
+T84	Test 2283 2287	血降钙素
+T85	Test 2288 2292	胰升糖素
+T86	Test 2293 2296	胃泌素
+T87	Test 2297 2301	垂体功能
+T88	Disease 2309 2314	肾上腺肿瘤
+T89	Disease 2315 2321	甲状腺髓样癌
+T90	Disease 2322 2328	肠胰内分泌瘤
+T91	Disease 2329 2331;2332 2333	垂体 瘤
+T92	Disease 2334 2338	胃泌素瘤
+T93	Test 2350 2355	尿 VMA
+T94	Test 2404 2416	肾上腺 CT 平扫和强化
+T95	Disease 2438 2446	肾上腺嗜铬细胞瘤
+T96	Test 2454 2463	甲状腺 CT 强化
+T97	Test_Value 2464 2472	颈部混杂密度肿块
+T98	Disease 2479 2485	甲状旁腺病变
+T99	Test 2491 2502	肾上腺增强 CT 扫描
+T100	Disease 2521 2522;2523 2530	肾 上腺嗜铬细胞瘤
+T101	Test_Value 2503 2514	右侧肾上腺区囊实性肿块
+T102	Disease 2541 2547	甲状旁腺腺瘤
+T103	Disease 2576 2579;2580 2583	甲状旁 腺腺瘤
+T104	Disease 2587 2593	甲状旁腺危象
+T105	Disease 2628 2634	甲状旁腺危象
+T106	Operation 2659 2668	甲状旁腺腺瘤切除术
+T107	Disease 2678 2686	不典型嗜铬细胞瘤
+T108	Amount 2694 2698	5 mg
+T109	Frequency 2699 2702	bid
+T110	Duration 2703 2706	2 周
+T111	Operation 2709 2718	甲状旁腺腺瘤切除术
+T112	Disease 2764 2769;2770 2771	甲状旁腺腺 瘤
+T113	Test 2778 2783	血 PTH
+T114	Anatomy 2794 2797	甲状腺
+T115	Anatomy 2826 2830	甲状旁腺
+T116	Disease 2845 2851	甲状旁腺腺瘤
+T117	Disease 2870 2879	右肾上腺嗜铬细胞瘤
+T118	Disease 2893 2898	嗜铬细胞瘤
+T119	Operation 2935 2945;2946 2948	右肾上腺嗜铬细胞瘤切 除术
+T120	Drug 2952 2959	多沙唑嗪缓释片
+T121	Amount 2960 2964	4 mg
+T122	Frequency 2965 2967	qN
+T123	Duration 2968 2971	2 周
+T124	Disease 3027 3037	嗜铬细胞瘤囊变伴出血
+T125	Disease 3094 3097	MEN
+T126	Disease 3180 3185	肢端肥大症
+T127	Disease 3192 3197	腺垂体腺瘤
+T128	Anatomy 3206 3210	甲状旁腺
+T129	Disease 3244 3247	MEN
+T130	Disease 3251 3255	MEN1
+T131	Disease 3258 3263	MEN 2
+T132	Disease 3264 3268	MEN2
+T133	Disease 3274 3279	MEN2A
+T134	Disease 3282 3287	MEN2B
+T135	Disease 3289 3293	MEN1
+T136	Disease 3296 3305	甲状旁腺功能亢进症
+T137	Disease 3307 3311	MEN1
+T138	Disease 3323 3329	肠胰内分泌瘤
+T139	Disease 3330 3334	胃泌素瘤
+T140	Disease 3335 3337;3338 3340	胰岛 素瘤
+T141	Disease 3341 3346	胰升糖素瘤
+T142	Disease 3349 3352	垂体瘤
+T143	Disease 3353 3358	肾上腺腺瘤
+T144	Test 3366 3367;3368 3370	皮 质醇
+T145	Disease 3377 3382	MEN2A
+T146	Disease 3390 3396	甲状腺髓样癌
+T147	Disease 3397 3399;3400 3403	嗜铬 细胞瘤
+T148	Disease 3404 3413	甲状旁腺功能亢进症
+T149	Disease 3414 3419	MEN2B
+T150	Disease 3423 3429	甲状腺髓样癌
+T151	Disease 3431 3436	嗜铬细胞瘤
+T152	Disease 3447 3456	甲状旁腺功能亢进症
+T153	Anatomy 3488 3492	甲状旁腺
+T154	Anatomy 3493 3498	肾上腺髓质
+T155	Disease 3522 3525	MEN
+T156	Disease 3510 3513	MEN
+T157	Disease 3532 3537	MEN2A
+T158	Disease 3540 3545	MEN2A
+T159	Disease 3554 3560	甲状腺髓样癌
+T160	Test 3566 3567;3568 3570	降 钙素
+T161	Disease 3585 3591	甲状腺髓样癌
+T162	Disease 3604 3609	MEN2A
+T163	Disease 3684 3689	MEN2A
+T164	Disease 3703 3706	MEN
+T165	Disease 3724 3732	不典型嗜铬细胞瘤
+T166	Test 3736 3742	腹部 B 超
+T167	Symptom 3764 3768	腹部肿物
+T168	Test 3772 3774	血压
+T169	Test 3779 3789	24 h 尿 VMA
+T170	Test_Value 3790 3792	升高
+T171	Test 3818 3823	腹部 CT
+T172	Disease 3826 3835	右肾上腺嗜铬细胞瘤
+T173	Disease 3840 3843;3844 3846	嗜铬细 胞瘤
+T174	Symptom 3867 3870	高血压
+T175	Symptom 3885 3888	高血压
+T176	Disease 3904 3912	不典型嗜铬细胞瘤
+T177	Disease 3928 3934	肾上腺偶发瘤
+T178	Disease 3937 3942	嗜铬细胞瘤
+T179	Disease 3956 3961	嗜铬细胞瘤
+T180	Disease 3977 3985	不典型嗜铬细胞瘤
+T181	Disease 3988 3996	隐匿型嗜铬细胞瘤
+T182	Disease 4025 4028;4029 4034	无症状 嗜铬细胞瘤
+T183	Disease 4129 4137	不典型嗜铬细胞瘤
+T184	Test 4158 4160	CT
+T185	Test 4284 4292	强化 CT 检查
+T186	Disease 4345 4352	典型嗜铬细胞瘤
+T187	Disease 4390 4398	不典型嗜铬细胞瘤
+T188	Anatomy 4430 4436	右侧肾上腺区
+T189	Disease 4514 4523	右肾上腺嗜铬细胞瘤
+T190	Test 4529 4534	尿 VMA
+T191	Test 4540 4542	血压
+T192	Disease 4549 4557	不典型嗜铬细胞瘤
+T193	Disease 4559 4567	不典型嗜铬细胞瘤
+T194	Test 4567 4569	血压
+T195	Test 4595 4599	儿茶酚胺
+T196	Test 4606 4609	VMA
+T197	Test 4616 4620	儿茶酚胺
+T198	Test 4625 4627	血压
+T199	Test 4640 4644	儿茶酚胺
+T200	Test 4660 4663	VMA
+T201	Test 4667 4669	血压
+T202	Disease 4684 4690	甲状旁腺腺瘤
+T203	Disease 4691 4696	嗜铬细胞瘤
+T204	Disease 4796 4802	甲状旁腺腺瘤
+T205	Disease 4825 4830	嗜铬细胞瘤
+T206	Disease 4856 4864	无症状嗜铬细胞瘤
+T207	Operation 4879 4888	甲状旁腺腺瘤切除术
+T208	Operation 4906 4915	甲状旁腺腺瘤切除术
+T209	Operation 4917 4925	嗜铬细胞瘤切除术
+T210	Drug 4934 4941	α 受体阻滞剂
+T211	Duration 4942 4945	2 周
+T212	Disease 4981 4987	甲状旁腺腺瘤
+T213	Disease 5065 5068	MEN
+T214	Test 5113 5116	PTH
+T215	Test 5140 5141	磷
+T216	Test_Value 5117 5119	正常
+T217	Test 5165 5167	血压
+T218	Test 5189 5190	磷
+T219	Test 5191 5193;5194 5195	降钙 素
+T220	Anatomy 5196 5199	甲状腺
+T221	Disease 135 141	甲状旁腺腺瘤
+T222	Disease 143 151	无症状嗜铬细胞瘤
+T223	Disease 153 162	多发性内分泌腺瘤病
+T224	Amount 1148 1151	1 支
+T225	Symptom 1304 1310	精神、食欲差
+T226	Symptom 1505 1521	约 6 cm×6 cm 大小肿物
+T227	Test 1716 1720	三大常规
+T228	Test 2836 2844	甲状旁腺病理切片
+T229	Test 2885 2892	肾上腺病理切片
+T230	Symptom 2977 2981;2982 2994	肿物 8 cm×8 cm×8 cm
+T231	Test 3575 3581	术中冰冻切片
+T232	Test 3571 3574	影像学
+T233	Anatomy 3614 3622	RET 原癌基因
+T234	Anatomy 3645 3653	RET 原癌基因
+T235	Test 4005 4011	手术探查肿瘤
+T236	Test 4041 4047	术中探查肿瘤
+T237	Disease 4067 4070	隐匿型
+T238	Test_Value 4192 4212	偶为双侧性直径多>5 cm 或<2 cm
+T239	Treatment 5128 5130	补钙
+T240	Drug 5131 5132;5133 5135	罗 盖全
+T241	Test_Value 5141 5143	正常
+T242	Test_Value 982 995	2. 15 ~ 2. 55
+T243	Test_Value 1085 1091;1092 1097	0. 8 ~ 1. 45
+T244	Test_Value 1127 1138	1. 1 ~ 7. 3
+T245	Test_Value 1223 1227;1228 1231	40 ~ 150
+T246	Test 1535 1537	血压
+T247	Symptom 1554 1557;1558 1559	皮温正 常
+T248	Test_Value 2379 2393	24. 98 ~ 70. 2
+T249	Test 2800 2801;2802 2807	冰 冻切片病理
+T250	Disease 3473 3476	MEN
+T251	Test_Value 4254 4257	无回声
+T252	Test_Value 4258 4261	低密度
+T253	Test_Value 4271 4275	中等回声
+T254	Test_Value 4276 4280;4281 4282	软组织密 度
+T255	Test_Value 4318 4322	信号不均
+T256	Test_Value 4323 4334	内有水样或出血性信号灶
+T257	Test_Value 4337 4341;4342 4343	不均一强 化
+T258	Test_Value 4459 4464	囊实性肿物
+T259	Test_Value 4488 4498	中心多发片状无强化区
+T260	Test_Value 4506 4510	可见分隔
+T261	Test_Value 4542 4543;4544 4545	正 常
+T262	Test_Value 4569 4571	正常
+T263	Test_Value 4627 4629	正常
+T264	Test_Value 4664 4666	升高
+T265	Test_Value 4669 4671	正常
+T266	Disease 3101 3118	遗传性多种内分泌组织发生肿瘤综合征
+T267	Symptom 1457 1461	体型匀称
+T268	Symptom 1451 1456	精神营养差
+T269	Symptom 1471 1473	质软
+T270	Symptom 1474 1477	无压痛
+T271	Symptom 1478 1483	未扪及肿物
+T272	Test_Value 4293 4303	周围实体部分明显强化
+T273	Test_Value 4304 4312;4313 4317	较大的类圆形或分 叶状肿块
+T274	Test_Value 4476 4480;4481 4487	边缘呈明 显不均匀强化
+T275	Disease 5047 5054	内分泌腺体腺瘤
+T276	Anatomy 5076 5078	腺体
+T277	Symptom 874 878	血钙升高
+T278	Symptom 929 933	皮肤破溃
+T279	Symptom 1024 1026	恶心
+T280	Symptom 1026 1028	呕吐
+T281	Test 1099 1106	血甲状旁腺激素
+T282	Test 1107 1110	PTH
+T283	Test 1202 1207	碱性磷酸酶
+T284	Test 1208 1211	ALP
+T285	Test_Value 1265 1269;1270 1272	右肾上腺 占位
+T286	Test 1322 1324	尿量
+T287	Test_Value 1327 1338	每天 4 000 ml
+T288	Drug 1364 1369	门冬胰岛素
+T289	Drug 1370 1376	诺和锐 30
+T290	Symptom 1485 1491	心肺未见异常
+T291	Anatomy 1493 1494;1495 1498	右 侧腹部
+T292	Symptom 1560 1563	无溃疡
+T293	Test_Value 1602 1624	0. 53 ~ 0. 67 mmol / L
+T294	Anatomy 1731 1733	头颅
+T295	Anatomy 1734 1736	双手
+T296	Test 1737 1742	X 线摄片
+T297	Test_Value 1743 1747	骨质疏松
+T298	Symptom 1774 1778	高钙血症
+T299	Symptom 1034 1041;1042 1044	行走时双膝关节 疼痛
+T300	Test 1901 1913	甲状旁腺 MIBI 扫描
+T301	Disease 1987 1993	甲状旁腺病变
+T302	Anatomy 2128 2131	甲状腺
+T303	Symptom 2131 2133	肿物
+T304	Symptom 2134 2136	结节
+T305	Disease 2161 2170	多发性内分泌腺瘤病
+T306	Disease 2201 2204	MEN
+T307	Test 2222 2229	尿香草基扁桃酸
+T308	Test 2254 2257	VMA
+T309	Test 2259 2266	肾上腺皮质功能
+T310	Test 2267 2273;2274 2281	肾素-血管紧 张素2-醛固酮
+T311	Test_Value 2356 2377	128 ~ 185 μmol / 24 h
+T312	Test_Value 2423 2434	右侧肾上腺区囊实性肿块
+T313	Disease 2597 2607	嗜铬细胞瘤(无症状)
+T314	Drug 2690 2693	酚苄明
+T315	Symptom 2723 2734	甲状腺下缘一囊实性肿物
+T316	Test_Value 2784 2788	明显下降
+T317	Test 3063 3075	RET 原癌基因突变检测
+T318	Disease 3744 3749;3750 3751	肾上腺意外 瘤
+T319	Disease 3758 3761	高血压
+T320	Test 3793 3807	血肾素-血管紧张素2-醛固酮
+T321	Test 3808 3812	血皮质醇
+T322	Symptom 3850 3857	高儿茶酚胺血症
+T323	Symptom 3894 3899;3900 3901	无高血压发 作
+T324	Disease 3998 4000;4001 4002	高血 压
+T325	Test_Value 4014 4020	血压迅速增高
+T326	Test_Value 4048 4053	血压均正常
+T327	Disease 4073 4077	高血压病
+T328	Symptom 4094 4099	高血压危象
+T329	Test 4142 4147	CT 扫描
+T330	Test_Value 4177 4188;4189 4191	单侧肾上腺圆形或椭圆形 肿块
+T331	Anatomy 4419 4422	肾上腺
+T332	Test 4423 4428	CT 强化
+T333	Test_Value 4535 4539	明显升高
+T334	Symptom 4711 4716	高血压危象
+T335	Symptom 4717 4719	休克
+T336	Operation 4722 4728;4729 4730	嗜铬细胞瘤手 术
+T337	Operation 4741 4749	甲状旁腺腺瘤手术
+T338	Symptom 4756 4760;4761 4763	甲状旁腺 危象
+T339	Anatomy 4813 4816	肾上腺
+T340	Symptom 4835 4838	高血压
+T341	Test 4839 4844;4845 4846	腹部触诊肿 物
+T342	Test_Value 4847 4852	血压无波动
+T343	Disease 5104 5110	甲状旁腺腺瘤
+T344	Symptom 5122 5126	低钙血症
+T345	Test 5138 5140	血钙
+T346	Test 5187 5189	血钙
+T347	Test 5200 5206	腹部 B 超
+R1	Amount_Drug Arg1:T224 Arg2:T22
+R2	Test_Disease Arg1:T69 Arg2:T301
+R3	Test_Disease Arg1:T73 Arg2:T74
+R4	Amount_Drug Arg1:T108 Arg2:T314
+R5	Frequency_Drug Arg1:T109 Arg2:T314
+R6	Drug_Disease Arg1:T314 Arg2:T107
+R7	Duration_Drug Arg1:T110 Arg2:T314
+R8	Test_Disease Arg1:T228 Arg2:T116
+R9	Test_Disease Arg1:T229 Arg2:T118
+R10	Anatomy_Disease Arg1:T153 Arg2:T155
+R11	Anatomy_Disease Arg1:T154 Arg2:T155
+R12	Test_Disease Arg1:T160 Arg2:T161
+R13	Test_Disease Arg1:T232 Arg2:T161
+R14	Test_Disease Arg1:T231 Arg2:T161
+R15	Anatomy_Disease Arg1:T233 Arg2:T162
+R16	Symptom_Disease Arg1:T322 Arg2:T173
+R17	Symptom_Disease Arg1:T323 Arg2:T176
+R18	Symptom_Disease Arg1:T328 Arg2:T237
+R19	Symptom_Disease Arg1:T334 Arg2:T203
+R20	Symptom_Disease Arg1:T335 Arg2:T203
+R21	Symptom_Disease Arg1:T340 Arg2:T205
+R22	Test_Disease Arg1:T235 Arg2:T181
+R23	Test_Disease Arg1:T236 Arg2:T182
+R24	Test_Disease Arg1:T341 Arg2:T206
+R25	Test_Disease Arg1:T300 Arg2:T66
+R26	Symptom_Disease Arg1:T5 Arg2:T6
+R27	Method_Drug Arg1:T23 Arg2:T22
+R28	Duration_Drug Arg1:T35 Arg2:T288
+R29	Drug_Disease Arg1:T288 Arg2:T34
+R30	Drug_Disease Arg1:T289 Arg2:T34
+R31	Test_Disease Arg1:T36 Arg2:T34
+R32	Test_Disease Arg1:T73 Arg2:T72
+R33	Symptom_Disease Arg1:T303 Arg2:T305
+R34	Symptom_Disease Arg1:T304 Arg2:T305
+R35	Anatomy_Disease Arg1:T302 Arg2:T305
+R36	Anatomy_Disease Arg1:T81 Arg2:T305
+R37	Anatomy_Disease Arg1:T80 Arg2:T305
+R38	Test_Disease Arg1:T307 Arg2:T88
+R39	Test_Disease Arg1:T308 Arg2:T88
+R40	Test_Disease Arg1:T309 Arg2:T88
+R41	Test_Disease Arg1:T310 Arg2:T306
+R42	Test_Disease Arg1:T84 Arg2:T88
+R43	Test_Disease Arg1:T85 Arg2:T88
+R44	Test_Disease Arg1:T86 Arg2:T88
+R45	Test_Disease Arg1:T87 Arg2:T88
+R46	Test_Disease Arg1:T93 Arg2:T95
+R47	Test_Disease Arg1:T94 Arg2:T95
+R48	Test_Disease Arg1:T96 Arg2:T98
+R49	Test_Disease Arg1:T99 Arg2:T100
+R50	Test_Disease Arg1:T113 Arg2:T112
+R51	Anatomy_Disease Arg1:T114 Arg2:T112
+R52	Test_Disease Arg1:T249 Arg2:T112
+R53	Anatomy_Disease Arg1:T115 Arg2:T116
+R54	Amount_Drug Arg1:T121 Arg2:T120
+R55	Frequency_Drug Arg1:T122 Arg2:T120
+R56	Duration_Drug Arg1:T123 Arg2:T120
+R57	Test_Disease Arg1:T317 Arg2:T124
+R58	Anatomy_Disease Arg1:T128 Arg2:T127
+R59	Test_Disease Arg1:T144 Arg2:T143
+R60	Anatomy_Disease Arg1:T153 Arg2:T250
+R61	Anatomy_Disease Arg1:T154 Arg2:T250
+R62	Test_Disease Arg1:T166 Arg2:T318
+R63	Symptom_Disease Arg1:T167 Arg2:T319
+R64	Test_Disease Arg1:T168 Arg2:T319
+R65	Test_Disease Arg1:T169 Arg2:T172
+R66	Test_Disease Arg1:T320 Arg2:T172
+R67	Test_Disease Arg1:T171 Arg2:T172
+R68	Test_Disease Arg1:T321 Arg2:T172
+R69	Test_Disease Arg1:T184 Arg2:T183
+R70	Test_Disease Arg1:T332 Arg2:T187
+R71	Anatomy_Disease Arg1:T331 Arg2:T187
+R72	Anatomy_Disease Arg1:T188 Arg2:T187
+R73	Test_Disease Arg1:T190 Arg2:T189
+R74	Test_Disease Arg1:T191 Arg2:T189
+R75	Test_Disease Arg1:T194 Arg2:T193
+R76	Anatomy_Disease Arg1:T339 Arg2:T204
+R77	Duration_Drug Arg1:T211 Arg2:T210
+R78	Test_Disease Arg1:T214 Arg2:T343
+R79	Symptom_Disease Arg1:T65 Arg2:T61
+R80	Symptom_Disease Arg1:T64 Arg2:T61
+R81	Symptom_Disease Arg1:T63 Arg2:T61
+R82	Symptom_Disease Arg1:T62 Arg2:T61
+R83	Anatomy_Disease Arg1:T276 Arg2:T213
+R84	Symptom_Disease Arg1:T315 Arg2:T107
+R85	Anatomy_Disease Arg1:T234 Arg2:T162
+R86	Symptom_Disease Arg1:T174 Arg2:T173
+R87	Symptom_Disease Arg1:T175 Arg2:T176
+R88	Test_Disease Arg1:T329 Arg2:T183
+R89	Symptom_Disease Arg1:T344 Arg2:T343
+R90	Treatment_Disease Arg1:T239 Arg2:T343
+R91	Drug_Disease Arg1:T240 Arg2:T343
+R92	Test_Disease Arg1:T345 Arg2:T343
+R93	Test_Disease Arg1:T215 Arg2:T343
+R94	Test_Disease Arg1:T217 Arg2:T343
+R95	Test_Disease Arg1:T346 Arg2:T343
+R96	Test_Disease Arg1:T218 Arg2:T343
+R97	Test_Disease Arg1:T219 Arg2:T343
+R98	Test_Disease Arg1:T347 Arg2:T343
+R99	Test_Disease Arg1:T166 Arg2:T165
+R100	Test_Disease Arg1:T341 Arg2:T205
+R101	Test_Disease Arg1:T160 Arg2:T159
+R102	Test_Disease Arg1:T169 Arg2:T319
+R103	Test_Disease Arg1:T320 Arg2:T319
+R104	Drug_Disease Arg1:T210 Arg2:T212
+R105	Test_Disease Arg1:T75 Arg2:T74
+R106	Symptom_Disease Arg1:T5 Arg2:T7
+R107	Symptom_Disease Arg1:T298 Arg2:T61
+R108	Symptom_Disease Arg1:T56 Arg2:T61
+R109	Symptom_Disease Arg1:T57 Arg2:T61
+R110	Symptom_Disease Arg1:T58 Arg2:T61
+R111	Symptom_Disease Arg1:T59 Arg2:T61
+R112	Test_Disease Arg1:T300 Arg2:T68
+R113	Test_Disease Arg1:T69 Arg2:T71
+R114	Test_Disease Arg1:T69 Arg2:T72
+R115	Test_Disease Arg1:T307 Arg2:T89
+R116	Test_Disease Arg1:T307 Arg2:T90
+R117	Test_Disease Arg1:T307 Arg2:T91
+R118	Test_Disease Arg1:T307 Arg2:T92
+R119	Test_Disease Arg1:T308 Arg2:T89
+R120	Test_Disease Arg1:T308 Arg2:T90
+R121	Test_Disease Arg1:T308 Arg2:T91
+R122	Test_Disease Arg1:T308 Arg2:T92
+R123	Test_Disease Arg1:T309 Arg2:T89
+R124	Test_Disease Arg1:T309 Arg2:T90
+R125	Test_Disease Arg1:T309 Arg2:T91
+R126	Test_Disease Arg1:T309 Arg2:T92
+R127	Test_Disease Arg1:T310 Arg2:T88
+R128	Test_Disease Arg1:T310 Arg2:T89
+R129	Test_Disease Arg1:T310 Arg2:T90
+R130	Test_Disease Arg1:T310 Arg2:T91
+R131	Test_Disease Arg1:T310 Arg2:T92
+R132	Test_Disease Arg1:T84 Arg2:T89
+R133	Test_Disease Arg1:T84 Arg2:T90
+R134	Test_Disease Arg1:T84 Arg2:T91
+R135	Test_Disease Arg1:T84 Arg2:T92
+R136	Test_Disease Arg1:T85 Arg2:T89
+R137	Test_Disease Arg1:T85 Arg2:T90
+R138	Test_Disease Arg1:T85 Arg2:T91
+R139	Test_Disease Arg1:T85 Arg2:T92
+R140	Test_Disease Arg1:T86 Arg2:T89
+R141	Test_Disease Arg1:T86 Arg2:T90
+R142	Test_Disease Arg1:T86 Arg2:T91
+R143	Test_Disease Arg1:T87 Arg2:T89
+R144	Test_Disease Arg1:T87 Arg2:T90
+R145	Test_Disease Arg1:T87 Arg2:T91
+R146	Test_Disease Arg1:T86 Arg2:T92
+R147	Test_Disease Arg1:T87 Arg2:T92
+R148	Symptom_Disease Arg1:T230 Arg2:T124
+R149	Anatomy_Disease Arg1:T128 Arg2:T126
+R150	Test_Disease Arg1:T232 Arg2:T159
+R151	Test_Disease Arg1:T231 Arg2:T159
+R152	Anatomy_Disease Arg1:T234 Arg2:T163
+R153	Anatomy_Disease Arg1:T234 Arg2:T164
+R154	Symptom_Disease Arg1:T175 Arg2:T173
+R155	Symptom_Disease Arg1:T323 Arg2:T173
+R156	Test_Disease Arg1:T235 Arg2:T324
+R157	Test_Disease Arg1:T235 Arg2:T180
+R158	Symptom_Disease Arg1:T328 Arg2:T327
+R159	Test_Disease Arg1:T332 Arg2:T186
+R160	Anatomy_Disease Arg1:T331 Arg2:T186
+R161	Anatomy_Disease Arg1:T188 Arg2:T186
+R162	Test_Disease Arg1:T190 Arg2:T192
+R163	Test_Disease Arg1:T191 Arg2:T192
+R164	Symptom_Disease Arg1:T334 Arg2:T202
+R165	Symptom_Disease Arg1:T335 Arg2:T202
+R166	Symptom_Disease Arg1:T338 Arg2:T204
+R167	Symptom_Disease Arg1:T340 Arg2:T206
+R168	Anatomy_Disease Arg1:T276 Arg2:T275

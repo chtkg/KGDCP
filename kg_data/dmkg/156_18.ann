@@ -1,0 +1,479 @@
+T1	Disease 112 118	2 型糖尿病
+T2	Disease 1990 1994;1995 1997	2 型糖 尿病
+T3	Disease 3156 3162	2 型糖尿病
+T4	Disease 4138 4144	2 型糖尿病
+T5	Disease 5192 5198	2 型糖尿病
+T6	Disease 6935 6941	2 型糖尿病
+T7	Drug 3464 3469	磺脲类药物
+T8	Drug 4642 4647	磺脲类药物
+T9	Drug 4670 4675	磺脲类药物
+T10	Drug 4728 4733	磺脲类药物
+T11	Drug 4886 4891	磺脲类药物
+T12	Drug 4900 4905	磺脲类药物
+T13	Drug 6613 6618	磺脲类药物
+T14	Drug 7248 7253	磺脲类药物
+T15	Drug 211 215	二甲双胍
+T16	Drug 1837 1841	二甲双胍
+T17	Drug 3792 3796	二甲双胍
+T18	Drug 3889 3893	二甲双胍
+T19	Drug 3985 3989	二甲双胍
+T20	Drug 4059 4063	二甲双胍
+T21	Drug 4130 4134	二甲双胍
+T22	Drug 4228 4232	二甲双胍
+T23	Drug 4359 4361;4362 4364	二甲 双胍
+T24	Drug 4455 4459	二甲双胍
+T25	Drug 4521 4525	二甲双胍
+T26	Drug 5480 5484	二甲双胍
+T27	Drug 7003 7007	二甲双胍
+T28	Drug 7138 7142	二甲双胍
+T29	Drug 7175 7179	二甲双胍
+T30	Drug 7192 7196	二甲双胍
+T31	Drug 7254 7258	二甲双胍
+T32	Drug 192 198	噻唑烷二酮类
+T33	Drug 1842 1846;1847 1849	噻唑烷二 酮类
+T34	Disease 5036 5040	结直肠癌
+T35	Disease 5550 5554	结直肠癌
+T36	Disease 5581 5585	结直肠癌
+T37	Disease 5634 5638	结直肠癌
+T38	Disease 5667 5671	结直肠癌
+T39	Disease 4112 4116	前列腺癌
+T40	Disease 4157 4161	前列腺癌
+T41	Disease 4279 4283	前列腺癌
+T42	Disease 4300 4304	前列腺癌
+T43	Disease 4323 4327	前列腺癌
+T44	Drug 2484 2488	罗格列酮
+T45	Drug 2961 2965	罗格列酮
+T46	Drug 3099 3103	罗格列酮
+T47	Drug 6531 6535	西格列汀
+T48	Drug 2489 2493	吡格列酮
+T49	Drug 2893 2897	吡格列酮
+T50	Drug 3237 3241	吡格列酮
+T51	Drug 3295 3299	吡格列酮
+T52	Drug 3380 3384	吡格列酮
+T53	Drug 3429 3433	吡格列酮
+T54	Drug 3588 3592	吡格列酮
+T55	Anatomy 4814 4817	ROS
+T56	Disease 205 208	乳腺癌
+T57	Disease 2111 2114	乳腺癌
+T58	Disease 2790 2793	乳腺癌
+T59	Disease 2900 2903	乳腺癌
+T60	Disease 3113 3116	乳腺癌
+T61	Disease 3164 3167	乳腺癌
+T62	Disease 3246 3249	乳腺癌
+T63	Disease 3734 3737	乳腺癌
+T64	Disease 3901 3904	乳腺癌
+T65	Disease 3995 3998	乳腺癌
+T66	Disease 4064 4067	乳腺癌
+T67	Disease 5678 5681	乳腺癌
+T68	Disease 5709 5712	乳腺癌
+T69	Disease 5760 5763	乳腺癌
+T70	Disease 5830 5833	乳腺癌
+T71	Disease 7033 7036	乳腺癌
+T72	Disease 7158 7161	乳腺癌
+T73	Disease 5029 5031	肺癌
+T74	Anatomy 6424 6428	mTOR
+T75	Drug 6536 6540	艾塞那肽
+T76	Disease 4794 4796	胃癌
+T77	Disease 4835 4837	胃癌
+T78	Disease 5041 5043	胃癌
+T79	Disease 5946 5948	胃癌
+T80	Disease 6009 6011	胃癌
+T81	Disease 130 133	糖尿病
+T82	Disease 202 204	肝癌
+T83	Drug 232 233;234 239	磺 脲类促泌剂
+T84	Drug 240 243	胰岛素
+T85	Drug 244 250	胰岛素类似物
+T86	Disease 1654 1657	糖尿病
+T87	Disease 1699 1702	糖尿病
+T88	Disease 1744 1749;1750 1751	2 型糖尿 病
+T89	Drug 1850 1854	TZDs
+T90	Disease 1928 1931	糖尿病
+T91	Disease 1954 1957	糖尿病
+T92	Disease 2048 2051	糖尿病
+T93	Disease 2053 2054;2055 2056	胃 癌
+T94	Disease 2099 2100;2101 2103	糖 尿病
+T95	Disease 2115 2120	子宫内膜癌
+T96	Disease 2232 2235	糖尿病
+T97	Test 2396 2399	胰岛素
+T98	Anatomy 2411 2415	肠道细胞
+T99	Drug 2433 2439	胰岛素增敏剂
+T100	Drug 2448 2452	TZDs
+T101	Disease 2456 2458	肝癌
+T102	Disease 2496 2498	肝癌
+T103	Disease 2629 2632	糖尿病
+T104	Drug 2640 2644	TZDs
+T105	Disease 2649 2652	糖尿病
+T106	Disease 2655 2657	肝癌
+T107	Drug 2710 2714	TZDs
+T108	Disease 2720 2724	乙型肝炎
+T109	Disease 2729 2731	肝癌
+T110	Disease 2771 2773	肝癌
+T111	Disease 2966 2969	糖尿病
+T112	Drug 3189 3193	TZDs
+T113	Disease 3264 3267	膀胱癌
+T114	Disease 3312 3315	膀胱癌
+T115	Disease 3373 3376	糖尿病
+T116	Disease 3385 3388	膀胱癌
+T117	Drug 3505 3509	TZDs
+T118	Disease 3519 3522	膀胱癌
+T119	Disease 3594 3597	膀胱癌
+T120	Disease 3664 3667	膀胱癌
+T121	Disease 3709 3712	膀胱癌
+T122	Disease 3806 3809	糖尿病
+T123	Drug 3990 3994	苯乙双胍
+T124	Anatomy 4237 4246	核受体协同调节因子
+T125	Anatomy 4307 4312	雄激素受体
+T126	Disease 4341 4344	胰腺癌
+T127	Disease 4368 4371	胰腺癌
+T128	Test 4417 4420	胰岛素
+T129	Disease 4468 4469;4470 4472	胰 腺癌
+T130	Disease 4570 4573	胰腺癌
+T131	Disease 4607 4610	胰腺癌
+T132	Drug 4627 4633	胰岛素促泌剂
+T133	Disease 4679 4682	糖尿病
+T134	Test 4752 4755	胰岛素
+T135	Drug 4785 4789	格列苯脲
+T136	Disease 4975 4976;4977 4979	糖 尿病
+T137	Disease 5026 5028	肝癌
+T138	Disease 5032 5035	胰腺癌
+T139	Drug 5058 5061	胰岛素
+T140	Drug 5062 5068	胰岛素类似物
+T141	Drug 5179 5182	胰岛素
+T142	Drug 5205 5210	甘精胰岛素
+T143	Drug 5263 5265;5266 5269	甘精 胰岛素
+T144	Disease 5282 5285	胰腺癌
+T145	Disease 5343 5346	胰腺癌
+T146	Test 5395 5397	血糖
+T147	Drug 5412 5413;5414 5416	胰 岛素
+T148	Disease 5428 5431	胰腺癌
+T149	Drug 5487 5490	胰岛素
+T150	Disease 5494 5497	胰腺癌
+T151	Drug 5525 5528	胰岛素
+T152	Disease 5529 5532	胰腺癌
+T153	Drug 5574 5577	胰岛素
+T154	Drug 5599 5602	NPH
+T155	Drug 5617 5622	甘精胰岛素
+T156	Drug 5652 5657	甘精胰岛素
+T157	Drug 5700 5705	甘精胰岛素
+T158	Drug 5747 5751;5752 5753	甘精胰岛 素
+T159	Drug 5777 5780	NPH
+T160	Drug 5819 5822	胰岛素
+T161	Disease 5825 5828	糖尿病
+T162	Drug 5840 5843	胰岛素
+T163	Drug 5851 5854	胰岛素
+T164	Drug 5931 5934	胰岛素
+T165	Disease 5943 5946	糖尿病
+T166	Test 5951 5955;5956 5959	胰岛素抵 抗程度
+T167	Anatomy 5966 5970	单核细胞
+T168	Anatomy 5971 5977	HLA-DR
+T169	Drug 5998 6001	胰岛素
+T170	Drug 6051 6052;6053 6055	胰 岛素
+T171	Disease 6058 6061	胆管癌
+T172	Disease 6062 6066	肝细胞癌
+T173	Drug 6148 6151	胰岛素
+T174	Disease 6154 6157	糖尿病
+T175	Test 6235 6238	胰岛素
+T176	Drug 6249 6252	胰岛素
+T177	Test 6260 6263	胰岛素
+T178	Disease 6289 6292	糖尿病
+T179	Disease 6297 6302;6303 6304	高胰岛素血 症
+T180	Anatomy 6309 6314	胰岛素受体
+T181	Anatomy 6315 6327	胰岛素样生长因子受体 1
+T182	Anatomy 6384 6389	胰岛素受体
+T183	Anatomy 6390 6394;6395 6397	IGF- 1R
+T184	Anatomy 6398 6404	IGF-2R
+T185	Anatomy 6411 6416	胰岛素受体
+T186	Test 6463 6468	肠促胰岛素
+T187	Disease 6544 6547	胰腺炎
+T188	Disease 6565 6568	胰腺癌
+T189	Drug 6620 6624	TZDs
+T190	Drug 6677 6686	DPP-4 抑制剂
+T191	Disease 6650 6653	胰腺癌
+T192	Disease 6692 6695	胰腺癌
+T193	Anatomy 6751 6760	磷酸肌醇 3 激酶
+T194	Anatomy 6762 6766	PI3K
+T195	Anatomy 6770 6773	Akt
+T196	Disease 6794 6795;6796 6798	胰 腺癌
+T197	Anatomy 6836 6844	甲状腺 C 细胞
+T198	Disease 6852 6858	甲状腺髓样癌
+T199	Anatomy 6868 6876	甲状腺 C 细胞
+T200	Anatomy 6886 6894	GLP-1 受体
+T201	Disease 6898 6904	甲状腺髓样癌
+T202	Drug 7021 7025	TZDs
+T203	Disease 7030 7032	肝癌
+T204	Drug 7040 7043	胰岛素
+T205	Test 7057 7062	肠促胰岛素
+T206	Drug 7144 7148	TZDs
+T207	Drug 7186 7189	胰岛素
+T208	Disease 119 123	恶性肿瘤
+T209	Reason 144 148	代谢异常
+T210	Disease 176 180	恶性肿瘤
+T211	Disease 219 223	恶性肿瘤
+T212	Disease 254 258	恶性肿瘤
+T213	Disease 273 275	肿瘤
+T214	Disease 330 334	恶性肿瘤
+T215	Disease 314 317	糖尿病
+T216	Disease 1752 1756	恶性肿瘤
+T217	Reason 1773 1777	代谢异常
+T218	Reason 1780 1786	降糖药物治疗
+T219	Disease 1861 1865	恶性肿瘤
+T220	Disease 1905 1907;1908 1910	恶性 肿瘤
+T221	Disease 1932 1934	肿瘤
+T222	Disease 1959 1961	肿瘤
+T223	Disease 1999 2003	恶性肿瘤
+T224	Disease 2108 2110	肿瘤
+T225	Disease 2237 2241	恶性肿瘤
+T226	Disease 2422 2424	肿瘤
+T227	Disease 2440 2444	恶性肿瘤
+T228	Disease 3216 3218	死亡
+T229	Duration 3299 3305	超过 2 年
+T230	Duration 3510 3511;3512 3517	大 于 5 年
+T231	Anatomy 4247 4265;4266 4267	小异二聚体亮氨酸拉链(SMILE)蛋 白
+T232	Anatomy 4547 4552	Panc1
+T233	Anatomy 4580 4585	Sp 基因
+T234	Disease 4634 4638	恶性肿瘤
+T235	Disease 4685 4689	恶性肿瘤
+T236	Disease 4906 4910	恶性肿瘤
+T237	Disease 4982 4986	恶性肿瘤
+T238	Disease 5069 5073	恶性肿瘤
+T239	Disease 5132 5135;5136 5137	恶性肿 瘤
+T240	Disease 5229 5233	恶性肿瘤
+T241	Disease 5271 5275	恶性肿瘤
+T242	Duration 5623 5629	1. 2 年
+T243	Duration 5603 5609	1. 4 年
+T244	Duration 5657 5663	大于 2 年
+T245	Duration 5753 5759	大于 2 年
+T246	Disease 5905 5909	恶性肿瘤
+T247	Disease 6180 6184	恶性肿瘤
+T248	Disease 6214 6215;6216 6219	恶 性肿瘤
+T249	Disease 6345 6349	恶性肿瘤
+T250	Disease 6473 6477	恶性肿瘤
+T251	Disease 6954 6956;6957 6959	恶性 肿瘤
+T252	Disease 6986 6990	恶性肿瘤
+T253	Disease 7050 7054	恶性肿瘤
+T254	Disease 7088 7092	恶性肿瘤
+T255	Disease 7205 7209	恶性肿瘤
+T256	Disease 7265 7269	恶性肿瘤
+T257	Disease 7286 7290	恶性肿瘤
+T258	Disease 7346 7350	恶性肿瘤
+T259	Disease 7444 7448	恶性肿瘤
+T260	Disease 1593 1595;1596 1597	糖尿 病
+T261	Anatomy 2738 2741	肝细胞
+T262	Drug 3228 3232	TZDs
+T263	Drug 3477 3481	TZDs
+T264	Test 4199 4202	PSA
+T265	Test 4273 4276	雄激素
+T266	Anatomy 4808 4813	氧化酶系统
+T267	Anatomy 4843 4855	ATP 依赖的钾离子通道
+T268	Duration 5187 5190	6 年
+T269	Drug 6664 6667	SUs
+T270	Disease 3811 3817	侵袭性乳腺癌
+T271	Symptom 2276 2279	高血糖
+T272	Reason 2300 2303	高血糖
+T273	Reason 2387 2392	胰岛素抵抗
+T274	Drug 3725 3728	双胍类
+T275	Drug 4022 4025	双胍类
+T276	Anatomy 4532 4543	Sp 基因相关转录因子
+T277	Drug 4952 4956	格列奈类
+T278	Drug 4963 4967	格列奈类
+T279	Drug 5097 5102	甘精胰岛素
+T280	Drug 5110 5120	人中性鱼精蛋白胰岛素
+T281	Drug 5121 5124	NPH
+T282	Drug 5324 5327	胰岛素
+T283	Test 5389 5394	糖尿病病程
+T284	Test 6205 6208	胰岛素
+T285	Test 6354 6360;6361 6363	胰岛素样生长 因子
+T286	Test 6363 6367	(IGF
+T287	Drug 6628 6629;6630 6646	二 肽基肽酶 4(DPP-4)抑制剂
+T288	Drug 6725 6727;6728 6745	胰升 糖素样肽(GLP)-1 受体激动剂
+T289	Drug 6821 6831	GLP-1 相关药物
+R1	Drug_Disease Arg1:T32 Arg2:T1
+R2	Drug_Disease Arg1:T15 Arg2:T1
+R3	Drug_Disease Arg1:T83 Arg2:T1
+R4	Drug_Disease Arg1:T84 Arg2:T1
+R5	Drug_Disease Arg1:T85 Arg2:T1
+R6	Drug_Disease Arg1:T104 Arg2:T105
+R7	Drug_Disease Arg1:T107 Arg2:T108
+R8	Anatomy_Disease Arg1:T261 Arg2:T109
+R9	Drug_Disease Arg1:T49 Arg2:T111
+R10	Drug_Disease Arg1:T45 Arg2:T111
+R11	Drug_Disease Arg1:T46 Arg2:T3
+R12	Drug_Disease Arg1:T112 Arg2:T3
+R13	Drug_Disease Arg1:T52 Arg2:T115
+R14	Drug_Disease Arg1:T17 Arg2:T122
+R15	Drug_Disease Arg1:T18 Arg2:T122
+R16	Drug_Disease Arg1:T275 Arg2:T65
+R17	Drug_Disease Arg1:T21 Arg2:T4
+R18	Test_Disease Arg1:T264 Arg2:T40
+R19	Test_Disease Arg1:T265 Arg2:T41
+R20	Anatomy_Disease Arg1:T125 Arg2:T42
+R21	Drug_Disease Arg1:T9 Arg2:T133
+R22	Anatomy_Disease Arg1:T267 Arg2:T77
+R23	Drug_Disease Arg1:T278 Arg2:T136
+R24	Drug_Disease Arg1:T277 Arg2:T136
+R25	Drug_Disease Arg1:T141 Arg2:T5
+R26	Duration_Drug Arg1:T268 Arg2:T141
+R27	Drug_Disease Arg1:T155 Arg2:T37
+R28	Drug_Disease Arg1:T156 Arg2:T38
+R29	Drug_Disease Arg1:T160 Arg2:T161
+R30	Drug_Disease Arg1:T162 Arg2:T161
+R31	Drug_Disease Arg1:T163 Arg2:T161
+R32	Drug_Disease Arg1:T164 Arg2:T165
+R33	Test_Disease Arg1:T166 Arg2:T165
+R34	Anatomy_Disease Arg1:T167 Arg2:T79
+R35	Anatomy_Disease Arg1:T168 Arg2:T79
+R36	Drug_Disease Arg1:T169 Arg2:T165
+R37	Drug_Disease Arg1:T170 Arg2:T165
+R38	Drug_Disease Arg1:T173 Arg2:T174
+R39	Test_Disease Arg1:T177 Arg2:T178
+R40	Drug_Disease Arg1:T176 Arg2:T178
+R41	Anatomy_Disease Arg1:T180 Arg2:T249
+R42	Anatomy_Disease Arg1:T181 Arg2:T249
+R43	Anatomy_Disease Arg1:T195 Arg2:T196
+R44	Anatomy_Disease Arg1:T194 Arg2:T196
+R45	Anatomy_Disease Arg1:T193 Arg2:T196
+R46	Anatomy_Disease Arg1:T197 Arg2:T198
+R47	Anatomy_Disease Arg1:T199 Arg2:T198
+R48	Anatomy_Disease Arg1:T200 Arg2:T201
+R49	Anatomy_Disease Arg1:T55 Arg2:T77
+R50	Drug_Disease Arg1:T16 Arg2:T88
+R51	Drug_Disease Arg1:T33 Arg2:T88
+R52	Drug_Disease Arg1:T89 Arg2:T88
+R53	Duration_Drug Arg1:T229 Arg2:T51
+R54	Duration_Drug Arg1:T230 Arg2:T117
+R55	Drug_Disease Arg1:T274 Arg2:T122
+R56	Anatomy_Disease Arg1:T124 Arg2:T41
+R57	Anatomy_Disease Arg1:T231 Arg2:T41
+R58	Drug_Disease Arg1:T8 Arg2:T133
+R59	Drug_Disease Arg1:T10 Arg2:T133
+R60	Test_Disease Arg1:T134 Arg2:T133
+R61	Anatomy_Disease Arg1:T266 Arg2:T77
+R62	Drug_Disease Arg1:T142 Arg2:T5
+R63	Duration_Drug Arg1:T242 Arg2:T155
+R64	Duration_Drug Arg1:T244 Arg2:T156
+R65	Duration_Drug Arg1:T245 Arg2:T158
+R66	Test_Disease Arg1:T284 Arg2:T174
+R67	Test_Disease Arg1:T175 Arg2:T178
+R68	Test_Disease Arg1:T285 Arg2:T249
+R69	Anatomy_Disease Arg1:T182 Arg2:T249
+R70	Anatomy_Disease Arg1:T183 Arg2:T249
+R71	Anatomy_Disease Arg1:T184 Arg2:T249
+R72	Anatomy_Disease Arg1:T185 Arg2:T249
+R73	Anatomy_Disease Arg1:T74 Arg2:T249
+R74	Drug_Disease Arg1:T288 Arg2:T196
+R75	Drug_Disease Arg1:T289 Arg2:T198
+R76	Drug_Disease Arg1:T32 Arg2:T82
+R77	Drug_Disease Arg1:T15 Arg2:T56
+R78	Drug_Disease Arg1:T100 Arg2:T101
+R79	Drug_Disease Arg1:T48 Arg2:T102
+R80	Drug_Disease Arg1:T44 Arg2:T102
+R81	Drug_Disease Arg1:T49 Arg2:T59
+R82	Drug_Disease Arg1:T46 Arg2:T60
+R83	Drug_Disease Arg1:T262 Arg2:T62
+R84	Drug_Disease Arg1:T50 Arg2:T62
+R85	Drug_Disease Arg1:T51 Arg2:T113
+R86	Drug_Disease Arg1:T52 Arg2:T116
+R87	Drug_Disease Arg1:T117 Arg2:T118
+R88	Drug_Disease Arg1:T54 Arg2:T119
+R89	Drug_Disease Arg1:T274 Arg2:T63
+R90	Drug_Disease Arg1:T18 Arg2:T64
+R91	Drug_Disease Arg1:T123 Arg2:T65
+R92	Drug_Disease Arg1:T19 Arg2:T65
+R93	Drug_Disease Arg1:T20 Arg2:T66
+R94	Drug_Disease Arg1:T23 Arg2:T126
+R95	Drug_Disease Arg1:T24 Arg2:T129
+R96	Drug_Disease Arg1:T135 Arg2:T76
+R97	Drug_Disease Arg1:T282 Arg2:T145
+R98	Test_Disease Arg1:T283 Arg2:T145
+R99	Test_Disease Arg1:T146 Arg2:T145
+R100	Drug_Disease Arg1:T147 Arg2:T148
+R101	Drug_Disease Arg1:T149 Arg2:T150
+R102	Drug_Disease Arg1:T26 Arg2:T150
+R103	Drug_Disease Arg1:T151 Arg2:T152
+R104	Drug_Disease Arg1:T153 Arg2:T35
+R105	Drug_Disease Arg1:T154 Arg2:T36
+R106	Drug_Disease Arg1:T157 Arg2:T67
+R107	Drug_Disease Arg1:T158 Arg2:T68
+R108	Drug_Disease Arg1:T159 Arg2:T69
+R109	Drug_Disease Arg1:T162 Arg2:T70
+R110	Drug_Disease Arg1:T163 Arg2:T70
+R111	Test_Disease Arg1:T166 Arg2:T79
+R112	Drug_Disease Arg1:T169 Arg2:T80
+R113	Drug_Disease Arg1:T170 Arg2:T171
+R114	Anatomy_Disease Arg1:T180 Arg2:T179
+R115	Anatomy_Disease Arg1:T181 Arg2:T179
+R116	Drug_Disease Arg1:T47 Arg2:T187
+R117	Drug_Disease Arg1:T75 Arg2:T187
+R118	Drug_Disease Arg1:T190 Arg2:T192
+R119	Drug_Disease Arg1:T269 Arg2:T192
+R120	Drug_Disease Arg1:T202 Arg2:T203
+R121	Drug_Disease Arg1:T27 Arg2:T203
+R122	Drug_Disease Arg1:T204 Arg2:T71
+R123	Test_Disease Arg1:T205 Arg2:T71
+R124	Drug_Disease Arg1:T28 Arg2:T72
+R125	Drug_Disease Arg1:T206 Arg2:T72
+R126	Drug_Disease Arg1:T29 Arg2:T72
+R127	Drug_Disease Arg1:T207 Arg2:T72
+R128	Drug_Disease Arg1:T30 Arg2:T72
+R129	Drug_Disease Arg1:T15 Arg2:T211
+R130	Drug_Disease Arg1:T83 Arg2:T212
+R131	Drug_Disease Arg1:T84 Arg2:T212
+R132	Drug_Disease Arg1:T85 Arg2:T212
+R133	Drug_Disease Arg1:T16 Arg2:T219
+R134	Drug_Disease Arg1:T33 Arg2:T219
+R135	Drug_Disease Arg1:T89 Arg2:T219
+R136	Anatomy_Disease Arg1:T98 Arg2:T226
+R137	Test_Disease Arg1:T97 Arg2:T226
+R138	Drug_Disease Arg1:T99 Arg2:T227
+R139	Drug_Disease Arg1:T104 Arg2:T106
+R140	Drug_Disease Arg1:T104 Arg2:T103
+R141	Drug_Disease Arg1:T112 Arg2:T228
+R142	Drug_Disease Arg1:T51 Arg2:T114
+R143	Drug_Disease Arg1:T263 Arg2:T118
+R144	Drug_Disease Arg1:T17 Arg2:T270
+R145	Drug_Disease Arg1:T21 Arg2:T40
+R146	Drug_Disease Arg1:T22 Arg2:T41
+R147	Drug_Disease Arg1:T23 Arg2:T127
+R148	Test_Disease Arg1:T128 Arg2:T127
+R149	Anatomy_Disease Arg1:T233 Arg2:T130
+R150	Anatomy_Disease Arg1:T233 Arg2:T131
+R151	Drug_Disease Arg1:T132 Arg2:T234
+R152	Drug_Disease Arg1:T9 Arg2:T235
+R153	Drug_Disease Arg1:T8 Arg2:T235
+R154	Drug_Disease Arg1:T12 Arg2:T236
+R155	Drug_Disease Arg1:T11 Arg2:T236
+R156	Drug_Disease Arg1:T278 Arg2:T237
+R157	Drug_Disease Arg1:T277 Arg2:T237
+R158	Drug_Disease Arg1:T140 Arg2:T238
+R159	Drug_Disease Arg1:T139 Arg2:T238
+R160	Drug_Disease Arg1:T278 Arg2:T137
+R161	Drug_Disease Arg1:T278 Arg2:T73
+R162	Drug_Disease Arg1:T278 Arg2:T138
+R163	Drug_Disease Arg1:T278 Arg2:T34
+R164	Drug_Disease Arg1:T278 Arg2:T78
+R165	Drug_Disease Arg1:T279 Arg2:T239
+R166	Drug_Disease Arg1:T281 Arg2:T239
+R167	Drug_Disease Arg1:T280 Arg2:T239
+R168	Drug_Disease Arg1:T142 Arg2:T240
+R169	Drug_Disease Arg1:T143 Arg2:T241
+R170	Drug_Disease Arg1:T164 Arg2:T79
+R171	Anatomy_Disease Arg1:T167 Arg2:T165
+R172	Anatomy_Disease Arg1:T168 Arg2:T165
+R173	Drug_Disease Arg1:T170 Arg2:T172
+R174	Drug_Disease Arg1:T173 Arg2:T247
+R175	Test_Disease Arg1:T284 Arg2:T248
+R176	Drug_Disease Arg1:T176 Arg2:T179
+R177	Test_Disease Arg1:T177 Arg2:T179
+R178	Test_Disease Arg1:T286 Arg2:T249
+R179	Test_Disease Arg1:T186 Arg2:T250
+R180	Drug_Disease Arg1:T47 Arg2:T188
+R181	Drug_Disease Arg1:T75 Arg2:T188
+R182	Drug_Disease Arg1:T287 Arg2:T191
+R183	Drug_Disease Arg1:T189 Arg2:T191
+R184	Drug_Disease Arg1:T13 Arg2:T191
+R185	Drug_Disease Arg1:T204 Arg2:T203
+R186	Drug_Disease Arg1:T204 Arg2:T253
+R187	Test_Disease Arg1:T205 Arg2:T254
+R188	Drug_Disease Arg1:T30 Arg2:T255
+R189	Drug_Disease Arg1:T14 Arg2:T255
+R190	Drug_Disease Arg1:T31 Arg2:T255

@@ -1,0 +1,587 @@
+T1	Disease 223 229	1 型糖尿病
+T2	Disease 322 328	1 型糖尿病
+T3	Disease 370 373	糖尿病
+T4	Disease 623 629	1 型糖尿病
+T5	Disease 698 704	1 型糖尿病
+T6	Disease 3179 3185	1 型糖尿病
+T7	Disease 3511 3517	1 型糖尿病
+T8	Disease 11499 11505	1 型糖尿病
+T9	Disease 11959 11965	1 型糖尿病
+T10	Disease 12354 12360	1 型糖尿病
+T11	Disease 12539 12545	1 型糖尿病
+T12	Test 3200 3202	体重
+T13	Test 3255 3257	体重
+T14	Test 3780 3782	体重
+T15	Test 5673 5675	体重
+T16	Anatomy 2749 2755	血管内皮细胞
+T17	Anatomy 10643 10649	血管内皮细胞
+T18	Anatomy 11419 11425	血管内皮细胞
+T19	Anatomy 12641 12647	血管内皮细胞
+T20	Test 9240 9246	低密度脂蛋白
+T21	Anatomy 9917 9920	Akt
+T22	Anatomy 12234 12237	Akt
+T23	Test 3435 3437	血糖
+T24	Test 3442 3444	血糖
+T25	Test 3469 3471	血糖
+T26	Test 5795 5797	血糖
+T27	Test 5811 5813	血糖
+T28	Anatomy 208 211	Wnt
+T29	Anatomy 308 311	Wnt
+T30	Disease 347 353	1 型糖尿病
+T31	Drug 375 378	氯化锂
+T32	Drug 382 384;385 389	表皮 生长因子
+T33	Drug 390 393	EGF
+T34	Test 413 428	β-catenin 阳性细胞率
+T35	Anatomy 190 199	β-catenin
+T36	Anatomy 290 299	β-catenin
+T37	Disease 490 493	糖尿病
+T38	Disease 2399 2401;2402 2403	糖尿 病
+T39	Disease 2443 2446	糖尿病
+T40	Disease 2472 2475	糖尿病
+T41	Disease 2478 2482	足部溃疡
+T42	Disease 2492 2495	糖尿病
+T43	Disease 2578 2581	糖尿病
+T44	Anatomy 2692 2699	皮肤角质化细胞
+T45	Anatomy 2700 2703	Wnt
+T46	Anatomy 2787 2790	Wnt
+T47	Disease 2819 2822	糖尿病
+T48	Anatomy 2833 2836	Wnt
+T49	Disease 2849 2852	糖尿病
+T50	Drug 2864 2867	氯化锂
+T51	Test_Value 3490 3506	>16. 65 mmol / L
+T52	Disease 3539 3542	糖尿病
+T53	Disease 3714 3717	糖尿病
+T54	Disease 3736 3739	糖尿病
+T55	Disease 3727 3730	糖尿病
+T56	Drug 3741 3744	氯化锂
+T57	Drug 3746 3752	表皮生长因子
+T58	Drug 3753 3756	EGF
+T59	Drug 3786 3789	氯化锂
+T60	Disease 3791 3794	糖尿病
+T61	Disease 5425 5428	糖尿病
+T62	Symptom 5485 5487	多饮
+T63	Symptom 5488 5489;5490 5491	多 食
+T64	Symptom 5495 5497	消瘦
+T65	Symptom 5492 5494	多尿
+T66	Disease 5585 5588	糖尿病
+T67	Disease 5612 5615	糖尿病
+T68	Drug 5617 5620	氯化锂
+T69	Drug 5622 5625	EGF
+T70	Disease 5667 5670	糖尿病
+T71	Disease 5790 5793	糖尿病
+T72	Drug 6015 6018	氯化锂
+T73	Drug 6021 6024	EGF
+T74	Disease 6055 6058	糖尿病
+T75	Drug 6117 6120	氯化锂
+T76	Drug 6122 6125	EGF
+T77	Disease 6142 6145	糖尿病
+T78	Disease 6231 6234	糖尿病
+T79	Drug 6274 6277	氯化锂
+T80	Drug 6279 6282	EGF
+T81	Disease 6300 6303	糖尿病
+T82	Drug 7276 7279	氯化锂
+T83	Drug 7281 7284	EGF
+T84	Test 7334 7348;7349 7350	β-catenin 阳性细胞 率
+T85	Disease 7363 7366	糖尿病
+T86	Disease 7401 7404	糖尿病
+T87	Test 7846 7861	β-catenin 阳性细胞率
+T88	Test 7880 7895	β-catenin 阳性细胞率
+T89	Disease 7996 7999	糖尿病
+T90	Disease 8074 8077	糖尿病
+T91	Disease 8126 8129	糖尿病
+T92	Disease 8909 8912	糖尿病
+T93	Disease 8929 8932	糖尿病
+T94	Disease 8945 8948	糖尿病
+T95	Disease 8957 8962	心血管病变
+T96	Anatomy 9055 9060;9061 9062	EGF 受 体
+T97	Anatomy 9069 9073	表皮细胞
+T98	Anatomy 9044 9051	基质金属蛋白酶
+T99	Anatomy 9122 9125	Wnt
+T100	Anatomy 9196 9199	Wnt
+T101	Anatomy 9223 9226	Wnt
+T102	Anatomy 9321 9330	β-catenin
+T103	Anatomy 9360 9369	β-catenin
+T104	Anatomy 9421 9424	Wnt
+T105	Anatomy 9470 9479	β-catenin
+T106	Anatomy 12779 12788	β-catenin
+T107	Anatomy 12805 12808	Wnt
+T108	Disease 12829 12832	糖尿病
+T109	Anatomy 12818 12821	GSK
+T110	Anatomy 12680 12683	Wnt
+T111	Anatomy 12686 12695	β-catenin
+T112	Drug 12705 12708	氯化锂
+T113	SideEff 12725 12727	无力
+T114	SideEff 12728 12730	眩晕
+T115	SideEff 12731 12733	恶心
+T116	SideEff 12734 12736	呕吐
+T117	SideEff 12737 12739	腹泻
+T118	SideEff 12740 12742	抽搐
+T119	SideEff 12743 12745	昏迷
+T120	Anatomy 12558 12561	Wnt
+T121	Anatomy 12564 12573	β-catenin
+T122	Disease 12598 12601	糖尿病
+T123	Anatomy 12448 12451	Wnt
+T124	Anatomy 12454 12463	β-catenin
+T125	Anatomy 12487 12490	Wnt
+T126	Anatomy 12493 12502	β-catenin
+T127	Disease 12509 12512	糖尿病
+T128	Anatomy 12371 12374	Wnt
+T129	Anatomy 12377 12386	β-catenin
+T130	Anatomy 12339 12343	VEGF
+T131	Anatomy 9501 9510	β-catenin
+T132	Anatomy 9611 9620	β-catenin
+T133	Anatomy 9734 9737	Wnt
+T134	Anatomy 9780 9783	Wnt
+T135	Anatomy 9839 9842	Wnt
+T136	Anatomy 9884 9888	EGFR
+T137	Anatomy 9890 9900	磷脂酰肌醇 3 激酶
+T138	Anatomy 9901 9906	PI-3K
+T139	Anatomy 9909 9912;9913 9916	蛋白激 酶 B
+T140	Anatomy 9863 9866	EP2
+T141	Anatomy 9974 9977	Wnt
+T142	Anatomy 9980 9989	β-catenin
+T143	Anatomy 10059 10062	Wnt
+T144	Anatomy 10065 10074	β-catenin
+T145	Test 10102 10111;10112 10117	β-catenin 阳性细胞率
+T146	Disease 10168 10171	糖尿病
+T147	Test 10201 10216	β-catenin 阳性细胞率
+T148	Anatomy 10315 10318	Wnt
+T149	Anatomy 10321 10330	β-catenin
+T150	Anatomy 10349 10358	β-catenin
+T151	Disease 10385 10388	糖尿病
+T152	Disease 10426 10429	糖尿病
+T153	Anatomy 10436 10439	Wnt
+T154	Anatomy 10442 10451	β-catenin
+T155	Anatomy 10468 10472	Wnt1
+T156	Anatomy 10532 10535	Wnt
+T157	Anatomy 10538 10540;10541 10548	β- catenin
+T158	Anatomy 10557 10561	Wnt1
+T159	Anatomy 10572 10575	Wnt
+T160	Anatomy 10578 10587	β-catenin
+T161	Anatomy 10603 10607;10608 10610	GSK- 3β
+T162	Anatomy 10678 10681	Wnt
+T163	Anatomy 10684 10693	β-catenin
+T164	Anatomy 10708 10713	肾系膜细胞
+T165	Anatomy 10720 10723	Wnt
+T166	Anatomy 10726 10735	β-catenin
+T167	Anatomy 10769 10778	β-catenin
+T168	Anatomy 10811 10814	APC
+T169	Anatomy 10817 10823	GSK-3β
+T170	Anatomy 10826 10835	β-catenin
+T171	Anatomy 10863 10873	E-cadherin
+T172	Anatomy 10876 10885	β-catenin
+T173	Disease 10906 10909	糖尿病
+T174	Drug 10940 10944	氯化 锂
+T175	Anatomy 10949 10952	Wnt
+T176	Anatomy 10955 10964	β-catenin
+T177	Anatomy 10991 10997	GSK-3β
+T178	Anatomy 11005 11014	β-catenin
+T179	Anatomy 11024 11033	β-catenin
+T180	Disease 11069 11070;11071 11073	糖 尿病
+T181	Drug 11075 11078	氯化锂
+T182	Test 11089 11101;11102 11105	β-catenin 阳性 细胞率
+T183	Disease 11106 11109	糖尿病
+T184	Disease 11172 11175	糖尿病
+T185	Anatomy 11163 11167	VEGF
+T186	Disease 11222 11225	糖尿病
+T187	Anatomy 11282 11285	Wnt
+T188	Anatomy 11288 11297	β-catenin
+T189	Anatomy 11336 11345	β-catenin
+T190	Anatomy 11375 11378	TCF
+T191	Anatomy 11381 11384	LEF
+T192	Anatomy 11402 11406	VEGF
+T193	Disease 11448 11451	糖尿病
+T194	Anatomy 11473 11476	Wnt
+T195	Anatomy 11479 11488	β-catenin
+T196	Anatomy 11521 11524	Wnt
+T197	Anatomy 11527 11536	β-catenin
+T198	Anatomy 11582 11587	成纤维细胞
+T199	Anatomy 11589 11598	β-catenin
+T200	Anatomy 11660 11663	Wnt
+T201	Anatomy 11721 11724	Wnt
+T202	Anatomy 11735 11741	脐带血干细胞
+T203	Disease 11745 11748	糖尿病
+T204	Anatomy 11780 11785	毛囊干细胞
+T205	Anatomy 11812 11817	毛囊干细胞
+T206	Anatomy 11821 11824	Wnt
+T207	Anatomy 11827 11836	β-catenin
+T208	Anatomy 12773 12776	Wnt
+T209	Test 404 412	背部创面愈合情况
+T210	Disease 721 724	糖尿病
+T211	Anatomy 730 733	Wnt
+T212	Anatomy 735 741	β-连环蛋白
+T213	Anatomy 2731 2734	Wnt
+T214	Reason 2744 2746	高糖
+T215	Test_Value 5391 5393	阳性
+T216	Symptom 5498 5502	生长迟缓
+T217	Symptom 5511 5515	精神萎糜
+T218	Symptom 5503 5510	毛发竖立无光泽
+T219	Symptom 5517 5521	反应迟钝
+T220	Symptom 5527 5531	蜷卧拱背
+T221	Symptom 5522 5526	活动减少
+T222	Test_Value 5681 5683;5684 5686	明显 减轻
+T223	Test 5950 5951;5952 5957	创 面细菌种类
+T224	Test 5958 5960	菌量
+T225	Test 6251 6256	创面愈合率
+T226	Test 6285 6289;6290 6291	创面愈合 率
+T227	Test_Value 6304 6305	高
+T228	Test 6103 6112	50%创面愈合时间
+T229	Test 6131 6140	50%创面愈合时间
+T230	Test_Value 6146 6150	明显缩短
+T231	Drug 7084 7087	氯化锂
+T232	Drug 7089 7092	EGF
+T233	Disease 7158 7161	糖尿病
+T234	Test_Value 7250 7252	阳性
+T235	Test 7370 7375	阳性细胞率
+T236	Test_Value 7376 7377	高
+T237	Test 7439 7444	阳性细胞数
+T238	Test_Value 7444 7448	明显较少
+T239	Test 7862 7867	创面愈合率
+T240	Test 7896 7899;7900 7902	创面愈 合率
+T241	Anatomy 7973 7976	Wnt
+T242	Test_Value 8070 8072	降低
+T243	Test_Value 8028 8032	明显降低
+T244	Test_Value 8099 8103	明显降低
+T245	Test_Value 8167 8169	降低
+T246	Disease 8954 8956	肿瘤
+T247	Disease 9013 9018	糖代谢紊乱
+T248	Anatomy 9019 9028	晚期糖基化终末产物
+T249	Anatomy 9235 9238	Frz
+T250	Anatomy 9251 9259	LRP5 / 6
+T251	Anatomy 9270 9273	Dsh
+T252	Anatomy 9276 9279	Frz
+T253	Anatomy 9296 9306	糖原合成酶激酶 3β
+T254	Anatomy 9307 9313	GSK-3β
+T255	Anatomy 9340 9342	泛素
+T256	Anatomy 9343 9346	蛋白酶
+T257	Anatomy 9393 9396	TCF
+T258	Anatomy 9399 9402	LEF
+T259	Anatomy 9459 9462	CKI
+T260	Anatomy 9432 9436;9437 9440	酪蛋白激 酶 I
+T261	Anatomy 9482 9487	Ser45
+T262	Symptom 12635 12637	高糖
+T263	Anatomy 12469 12471	皮肤
+T264	Anatomy 9516 9520	Axin
+T265	Disease 9529 9537	结肠腺瘤性息肉病
+T266	Anatomy 9542 9545	APC
+T267	Anatomy 9522 9528	GSK-3β
+T268	Anatomy 9564 9570	GSK-3β
+T269	Anatomy 9587 9592	Ser41
+T270	Anatomy 9593 9598	Thr33
+T271	Anatomy 9599 9604	Thr37
+T272	Anatomy 9623 9626;9627 9635	泛素连 接酶复合体 E3
+T273	Anatomy 9641 9647	β-TrCP
+T274	Anatomy 9767 9775	LRP5 / 6
+T275	Anatomy 9924 9928	钙粘蛋白
+T276	Anatomy 9929 9939	E-cadherin
+T277	Anatomy 10010 10013	糖蛋白
+T278	Disease 10044 10047	糖尿病
+T279	Test 10095 10100	创面愈合率
+T280	Test_Value 10216 10220	明显降低
+T281	Test_Value 10256 10258	降低
+T282	Test_Value 10312 10314	降低
+T283	Test_Value 10479 10481	降低
+T284	Symptom 10526 10528	高糖
+T285	Symptom 10622 10624	高糖
+T286	Test_Value 11112 11116	明显提高
+T287	Test_Value 11177 11179	增高
+T288	Test 11248 11253	创面愈合率
+T289	Test_Value 11253 11254	高
+T290	Test 11264 11268	愈合时间
+T291	Test_Value 11268 11270	缩短
+T292	Anatomy 11775 11779	上皮细胞
+T293	Reason 11766 11770	皮肤创伤
+T294	Test_Value 10408 10410	降低
+T295	Anatomy 12620 12624	表皮细胞
+T296	Drug 503 504;505 507	氯 化锂
+T297	Drug 512 515	EGF
+T298	Test 543 558	β-catenin 阳性细胞率
+T299	Anatomy 562 576	去磷酸化 β-catenin
+T300	Anatomy 579 586	VEGF 蛋白
+T301	Anatomy 648 662	去磷酸化 β-catenin
+T302	Drug 677 680	EGF
+T303	Disease 2775 2778	糖尿病
+T304	Drug 2952 2957	链脲佐菌素
+T305	Drug 2990 2993	氯化锂
+T306	Drug 2994 2998	LiCl
+T307	Drug 3014 3023	重组人表皮生长因子
+T308	Drug 3025 3030	rhEGF
+T309	Anatomy 3047 3053	β-连环蛋白
+T310	Anatomy 3054 3063	β-catenin
+T311	Anatomy 3065 3071;3072 3079	磷酸化 β- catenin
+T312	Anatomy 3081 3092	p-β-catenin
+T313	Drug 3239 3242	STZ
+T314	Amount 3244 3254	50 mg / kg
+T315	Method 3261 3265	腹腔注射
+T316	Drug 3272 3275	STZ
+T317	Drug 3344 3347	STZ
+T318	Drug 3553 3560	3%戊巴比妥钠
+T319	Amount 3561 3571	25 mg / kg
+T320	Drug 3827 3830	氯化锂
+T321	Drug 3859 3862	EGF
+T322	Drug 3873 3878	rhEGF
+T323	Amount 3879 3884	10 μg
+T324	Anatomy 4915 4924	β-catenin
+T325	Anatomy 5004 5013	β-catenin
+T326	Anatomy 5034 5043	β-catenin
+T327	Method 5461 5462;5463 5466	腹 腔注射
+T328	Drug 5467 5470	STZ
+T329	Disease 5568 5570;5571 5572	糖尿 病
+T330	Disease 5931 5933	感染
+T331	Drug 11887 11890	氯化锂
+T332	Drug 11914 11917	EGF
+T333	Drug 11981 11984	EGF
+T334	Anatomy 12002 12006	表皮细胞
+T335	Anatomy 12007 12012	成纤维细胞
+T336	Anatomy 12013 12017	内皮细胞
+T337	Anatomy 12073 12076	EGF
+T338	Anatomy 12092 12095	EGF
+T339	Anatomy 12211 12214	EGF
+T340	Anatomy 12220 12223	EGF
+T341	Disease 12259 12262	糖尿病
+T342	Test 12271 12286	β-catenin 阳性细胞率
+T343	Anatomy 12307 12316	β-catenin
+T344	Anatomy 635 638	Wnt
+T345	Anatomy 686 689	Wnt
+T346	Method 3572 3576	腹腔推注
+T347	Anatomy 11047 11053	转录活化因子
+T348	Anatomy 11368 11374	转录活化因子
+T349	Drug 11696 11702	Serpin
+T350	Anatomy 11936 11939	Wnt
+T351	Anatomy 11942 11951	β-catenin
+T352	Anatomy 12226 12231	PI-3K
+T353	Anatomy 12245 12251	GSK-3β
+T354	Test 3486 3490	血糖浓度
+T355	Test 429 435	β-连环蛋白
+T356	Test 436 445	β-catenin
+T357	Test 463 471	血管内皮生长因子
+T358	Test 448 461	磷酸化 β-catenin
+T359	Test 472 476	VEGF
+T360	Disease 2517 2518;2519 2523	糖 尿病溃疡
+T361	Test 4557 4566	β-catenin
+T362	Test 5381 5390	β-catenin
+T363	Test_Value 5797 5801	明显升高
+T364	Test 7240 7249	β-catenin
+T365	Test 7287 7289;7290 7297	β- catenin
+T366	Test 7411 7420	β-catenin
+T367	Test 8005 8014	β-catenin
+T368	Test 8056 8070	β-catenin 蛋白含量
+T369	Test 8084 8088	VEGF
+T370	Test 8135 8144	β-catenin
+T371	Test 8147 8151	VEGF
+T372	Disease 8990 8993	糖尿病
+T373	Disease 9093 9096	糖尿病
+T374	Disease 9096 9098	溃疡
+T375	Anatomy 12395 12398	EGF
+T376	Anatomy 9575 9584	β-catenin
+T377	Test 9712 9721	β-catenin
+T378	Anatomy 9742 9751	Wnt 受体复合物
+T379	Anatomy 9822 9831	β-catenin
+T380	Anatomy 9870 9874;9875 9881	表皮生长 因子 EGF
+T381	Anatomy 9851 9860	前列腺素 PGE2
+T382	Test 10242 10254	β-catenin 蛋白
+T383	Test 10259 10261;10262 10269	β- catenin
+T384	Test 10298 10310	β-catenin 蛋白
+T385	Test 10399 10403	VEGF
+T386	Test 10485 10491	GSK-3β
+T387	Anatomy 10748 10749;10750 10762	磷 酸化 β-catenin
+T388	Anatomy 11140 11149	β-catenin
+T389	Anatomy 11318 11327	β-catenin
+T390	Anatomy 11357 11366	β-catenin
+T391	Disease 11646 11649	糖尿病
+T392	Disease 11654 11656	溃疡
+T393	Drug 11685 11687;11688 11695	丝氨 酸蛋白酶抑制剂
+R1	Anatomy_Disease Arg1:T35 Arg2:T1
+R2	Anatomy_Disease Arg1:T28 Arg2:T1
+R3	Anatomy_Disease Arg1:T29 Arg2:T2
+R4	Anatomy_Disease Arg1:T36 Arg2:T2
+R5	Drug_Disease Arg1:T32 Arg2:T30
+R6	Drug_Disease Arg1:T33 Arg2:T30
+R7	Test_Disease Arg1:T34 Arg2:T30
+R8	Drug_Disease Arg1:T296 Arg2:T37
+R9	Drug_Disease Arg1:T297 Arg2:T37
+R10	Anatomy_Disease Arg1:T344 Arg2:T4
+R11	Anatomy_Disease Arg1:T301 Arg2:T4
+R12	Drug_Disease Arg1:T302 Arg2:T5
+R13	Anatomy_Disease Arg1:T345 Arg2:T5
+R14	Anatomy_Disease Arg1:T16 Arg2:T303
+R15	Anatomy_Disease Arg1:T46 Arg2:T303
+R16	Anatomy_Disease Arg1:T48 Arg2:T47
+R17	Drug_Disease Arg1:T50 Arg2:T49
+R18	Test_Disease Arg1:T12 Arg2:T6
+R19	Amount_Drug Arg1:T314 Arg2:T313
+R20	Drug_Disease Arg1:T313 Arg2:T6
+R21	Method_Drug Arg1:T315 Arg2:T313
+R22	Test_Disease Arg1:T13 Arg2:T6
+R23	Test_Disease Arg1:T354 Arg2:T7
+R24	Amount_Drug Arg1:T319 Arg2:T318
+R25	Drug_Disease Arg1:T318 Arg2:T52
+R26	Method_Drug Arg1:T346 Arg2:T318
+R27	Drug_Disease Arg1:T56 Arg2:T55
+R28	Drug_Disease Arg1:T57 Arg2:T55
+R29	Drug_Disease Arg1:T58 Arg2:T55
+R30	Drug_Disease Arg1:T59 Arg2:T60
+R31	Test_Disease Arg1:T14 Arg2:T60
+R32	Drug_Disease Arg1:T320 Arg2:T60
+R33	Method_Drug Arg1:T327 Arg2:T328
+R34	Drug_Disease Arg1:T68 Arg2:T66
+R35	Drug_Disease Arg1:T69 Arg2:T66
+R36	Test_Disease Arg1:T15 Arg2:T70
+R37	Test_Disease Arg1:T26 Arg2:T71
+R38	Test_Disease Arg1:T27 Arg2:T71
+R39	Drug_Disease Arg1:T75 Arg2:T77
+R40	Drug_Disease Arg1:T76 Arg2:T77
+R41	Drug_Disease Arg1:T79 Arg2:T81
+R42	Drug_Disease Arg1:T80 Arg2:T81
+R43	Test_Disease Arg1:T84 Arg2:T85
+R44	Anatomy_Disease Arg1:T96 Arg2:T373
+R45	Anatomy_Disease Arg1:T98 Arg2:T373
+R46	Test_Disease Arg1:T147 Arg2:T146
+R47	Anatomy_Disease Arg1:T150 Arg2:T146
+R48	Anatomy_Disease Arg1:T172 Arg2:T173
+R49	Anatomy_Disease Arg1:T171 Arg2:T173
+R50	Drug_Disease Arg1:T181 Arg2:T180
+R51	Test_Disease Arg1:T182 Arg2:T183
+R52	Anatomy_Disease Arg1:T185 Arg2:T184
+R53	Anatomy_Disease Arg1:T200 Arg2:T392
+R54	Anatomy_Disease Arg1:T18 Arg2:T193
+R55	Anatomy_Disease Arg1:T194 Arg2:T8
+R56	Anatomy_Disease Arg1:T195 Arg2:T8
+R57	Anatomy_Disease Arg1:T196 Arg2:T8
+R58	Anatomy_Disease Arg1:T197 Arg2:T8
+R59	Anatomy_Disease Arg1:T201 Arg2:T203
+R60	Anatomy_Disease Arg1:T202 Arg2:T203
+R61	Anatomy_Disease Arg1:T351 Arg2:T9
+R62	Anatomy_Disease Arg1:T350 Arg2:T9
+R63	Drug_Disease Arg1:T332 Arg2:T9
+R64	Anatomy_Disease Arg1:T353 Arg2:T341
+R65	Anatomy_Disease Arg1:T130 Arg2:T10
+R66	Anatomy_Disease Arg1:T343 Arg2:T10
+R67	Anatomy_Disease Arg1:T129 Arg2:T10
+R68	Anatomy_Disease Arg1:T128 Arg2:T10
+R69	Anatomy_Disease Arg1:T375 Arg2:T10
+R70	Anatomy_Disease Arg1:T125 Arg2:T127
+R71	Anatomy_Disease Arg1:T126 Arg2:T127
+R72	Anatomy_Disease Arg1:T120 Arg2:T11
+R73	Anatomy_Disease Arg1:T121 Arg2:T11
+R74	SideEff-Drug Arg1:T113 Arg2:T112
+R75	SideEff-Drug Arg1:T114 Arg2:T112
+R76	SideEff-Drug Arg1:T115 Arg2:T112
+R77	SideEff-Drug Arg1:T116 Arg2:T112
+R78	SideEff-Drug Arg1:T117 Arg2:T112
+R79	SideEff-Drug Arg1:T118 Arg2:T112
+R80	SideEff-Drug Arg1:T119 Arg2:T112
+R81	Anatomy_Disease Arg1:T109 Arg2:T108
+R82	Anatomy_Disease Arg1:T107 Arg2:T108
+R83	Anatomy_Disease Arg1:T106 Arg2:T108
+R84	Anatomy_Disease Arg1:T208 Arg2:T108
+R85	Anatomy_Disease Arg1:T97 Arg2:T373
+R86	Anatomy_Disease Arg1:T153 Arg2:T152
+R87	Anatomy_Disease Arg1:T154 Arg2:T152
+R88	Anatomy_Disease Arg1:T155 Arg2:T152
+R89	Drug_Disease Arg1:T31 Arg2:T30
+R90	Test_Disease Arg1:T209 Arg2:T30
+R91	Test_Disease Arg1:T355 Arg2:T30
+R92	Test_Disease Arg1:T356 Arg2:T30
+R93	Test_Disease Arg1:T358 Arg2:T30
+R94	Test_Disease Arg1:T357 Arg2:T30
+R95	Test_Disease Arg1:T359 Arg2:T30
+R96	Test_Disease Arg1:T298 Arg2:T37
+R97	Anatomy_Disease Arg1:T299 Arg2:T37
+R98	Anatomy_Disease Arg1:T300 Arg2:T37
+R99	Test_Disease Arg1:T25 Arg2:T7
+R100	Test_Disease Arg1:T24 Arg2:T7
+R101	Test_Disease Arg1:T23 Arg2:T7
+R102	Drug_Disease Arg1:T321 Arg2:T60
+R103	Drug_Disease Arg1:T322 Arg2:T60
+R104	Amount_Drug Arg1:T323 Arg2:T322
+R105	Test_Disease Arg1:T223 Arg2:T330
+R106	Test_Disease Arg1:T224 Arg2:T330
+R107	Test_Disease Arg1:T228 Arg2:T77
+R108	Test_Disease Arg1:T229 Arg2:T77
+R109	Test_Disease Arg1:T225 Arg2:T81
+R110	Test_Disease Arg1:T226 Arg2:T81
+R111	Test_Disease Arg1:T235 Arg2:T85
+R112	Test_Disease Arg1:T366 Arg2:T86
+R113	Test_Disease Arg1:T237 Arg2:T86
+R114	Test_Disease Arg1:T365 Arg2:T85
+R115	Drug_Disease Arg1:T83 Arg2:T85
+R116	Drug_Disease Arg1:T82 Arg2:T85
+R117	Test_Disease Arg1:T367 Arg2:T89
+R118	Test_Disease Arg1:T368 Arg2:T89
+R119	Test_Disease Arg1:T369 Arg2:T90
+R120	Test_Disease Arg1:T370 Arg2:T91
+R121	Test_Disease Arg1:T371 Arg2:T91
+R122	Anatomy_Disease Arg1:T248 Arg2:T373
+R123	Anatomy_Disease Arg1:T143 Arg2:T278
+R124	Anatomy_Disease Arg1:T144 Arg2:T278
+R125	Test_Disease Arg1:T382 Arg2:T146
+R126	Test_Disease Arg1:T383 Arg2:T146
+R127	Test_Disease Arg1:T384 Arg2:T146
+R128	Anatomy_Disease Arg1:T148 Arg2:T146
+R129	Anatomy_Disease Arg1:T149 Arg2:T146
+R130	Test_Disease Arg1:T385 Arg2:T151
+R131	Test_Disease Arg1:T386 Arg2:T152
+R132	Anatomy_Disease Arg1:T170 Arg2:T173
+R133	Anatomy_Disease Arg1:T169 Arg2:T173
+R134	Anatomy_Disease Arg1:T168 Arg2:T173
+R135	Anatomy_Disease Arg1:T167 Arg2:T173
+R136	Anatomy_Disease Arg1:T387 Arg2:T173
+R137	Anatomy_Disease Arg1:T166 Arg2:T173
+R138	Anatomy_Disease Arg1:T165 Arg2:T173
+R139	Anatomy_Disease Arg1:T388 Arg2:T184
+R140	Test_Disease Arg1:T288 Arg2:T186
+R141	Test_Disease Arg1:T290 Arg2:T186
+R142	Anatomy_Disease Arg1:T292 Arg2:T203
+R143	Anatomy_Disease Arg1:T204 Arg2:T203
+R144	Anatomy_Disease Arg1:T205 Arg2:T203
+R145	Anatomy_Disease Arg1:T206 Arg2:T203
+R146	Anatomy_Disease Arg1:T207 Arg2:T203
+R147	Anatomy_Disease Arg1:T339 Arg2:T341
+R148	Anatomy_Disease Arg1:T340 Arg2:T341
+R149	Anatomy_Disease Arg1:T352 Arg2:T341
+R150	Anatomy_Disease Arg1:T22 Arg2:T341
+R151	Test_Disease Arg1:T342 Arg2:T341
+R152	Anatomy_Disease Arg1:T295 Arg2:T122
+R153	Symptom_Disease Arg1:T262 Arg2:T122
+R154	Anatomy_Disease Arg1:T19 Arg2:T122
+R155	Drug_Disease Arg1:T68 Arg2:T67
+R156	Drug_Disease Arg1:T69 Arg2:T67
+R157	Anatomy_Disease Arg1:T99 Arg2:T374
+R158	Anatomy_Disease Arg1:T150 Arg2:T151
+R159	Drug_Disease Arg1:T349 Arg2:T392
+R160	Drug_Disease Arg1:T333 Arg2:T9
+R161	Drug_Disease Arg1:T31 Arg2:T3
+R162	Drug_Disease Arg1:T32 Arg2:T3
+R163	Drug_Disease Arg1:T33 Arg2:T3
+R164	Test_Disease Arg1:T209 Arg2:T3
+R165	Test_Disease Arg1:T34 Arg2:T3
+R166	Test_Disease Arg1:T355 Arg2:T3
+R167	Test_Disease Arg1:T356 Arg2:T3
+R168	Test_Disease Arg1:T358 Arg2:T3
+R169	Test_Disease Arg1:T357 Arg2:T3
+R170	Test_Disease Arg1:T359 Arg2:T3
+R171	Anatomy_Disease Arg1:T213 Arg2:T303
+R172	Anatomy_Disease Arg1:T45 Arg2:T303
+R173	Anatomy_Disease Arg1:T44 Arg2:T303
+R174	Drug_Disease Arg1:T56 Arg2:T53
+R175	Drug_Disease Arg1:T57 Arg2:T53
+R176	Drug_Disease Arg1:T58 Arg2:T53
+R177	Drug_Disease Arg1:T232 Arg2:T233
+R178	Drug_Disease Arg1:T231 Arg2:T233
+R179	Test_Disease Arg1:T368 Arg2:T90
+R180	Anatomy_Disease Arg1:T248 Arg2:T247
+R181	Anatomy_Disease Arg1:T266 Arg2:T265
+R182	Test_Disease Arg1:T384 Arg2:T151
+R183	Anatomy_Disease Arg1:T148 Arg2:T151
+R184	Anatomy_Disease Arg1:T149 Arg2:T151
+R185	Test_Disease Arg1:T385 Arg2:T152
+R186	Anatomy_Disease Arg1:T185 Arg2:T186
+R187	Anatomy_Disease Arg1:T388 Arg2:T186
+R188	Anatomy_Disease Arg1:T192 Arg2:T193
+R189	Anatomy_Disease Arg1:T191 Arg2:T193
+R190	Anatomy_Disease Arg1:T190 Arg2:T193
+R191	Anatomy_Disease Arg1:T200 Arg2:T391
+R192	Drug_Disease Arg1:T393 Arg2:T392
+R193	Anatomy_Disease Arg1:T120 Arg2:T122
+R194	Anatomy_Disease Arg1:T121 Arg2:T122

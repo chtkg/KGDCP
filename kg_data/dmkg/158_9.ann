@@ -1,0 +1,475 @@
+T1	Test 3908 3913	HDL-C
+T2	Test 3938 3943	LDL-C
+T3	Test 3986 3988	TC
+T4	Test 3965 3967	TG
+T5	Test 3897 3903;3904 3907	高密度脂蛋白 胆固醇
+T6	Test 3927 3930;3931 3937	低密度 脂蛋白胆固醇
+T7	Test 463 467	体重指数
+T8	Test 3592 3596	体重指数
+T9	Test 4563 4565;4566 4568	体重 指数
+T10	Test 5073 5077	体重指数
+T11	Test 5356 5360	体重指数
+T12	Test 6752 6756	体重指数
+T13	Disease 7695 7701	动脉粥样硬化
+T14	Disease 7758 7764	动脉粥样硬化
+T15	Disease 8254 8260	动脉粥样硬化
+T16	Disease 83 86	脑卒中
+T17	Disease 197 200	脑卒中
+T18	Disease 322 325	脑卒中
+T19	Disease 327 330	脑卒中
+T20	Disease 339 342	脑卒中
+T21	Disease 394 397	脑卒中
+T22	Disease 400 403	脑卒中
+T23	Disease 502 505	脑卒中
+T24	Disease 593 596	脑卒中
+T25	Disease 666 669	脑卒中
+T26	Disease 683 686	脑卒中
+T27	Disease 2628 2631	脑卒中
+T28	Disease 2674 2677	脑卒中
+T29	Disease 2719 2722	脑卒中
+T30	Disease 2786 2789	脑卒中
+T31	Disease 2813 2816	脑卒中
+T32	Disease 2850 2851;2852 2854	脑 卒中
+T33	Disease 2872 2875	脑卒中
+T34	Disease 2995 2998	脑卒中
+T35	Disease 3245 3248	脑卒中
+T36	Disease 3385 3388	脑卒中
+T37	Disease 3446 3449	脑卒中
+T38	Disease 3451 3454	脑卒中
+T39	Disease 3473 3476	脑卒中
+T40	Disease 3516 3519	脑卒中
+T41	Disease 4193 4196	脑卒中
+T42	Disease 4243 4246	脑卒中
+T43	Disease 4321 4324	脑卒中
+T44	Disease 4502 4505	脑卒中
+T45	Disease 4512 4515	脑卒中
+T46	Disease 4524 4527	脑卒中
+T47	Disease 4542 4545	脑卒中
+T48	Disease 4551 4554	脑卒中
+T49	Disease 4693 4696	脑卒中
+T50	Disease 4702 4705	脑卒中
+T51	Disease 4738 4741	脑卒中
+T52	Disease 4787 4790	脑卒中
+T53	Disease 4847 4850	脑卒中
+T54	Disease 4959 4962	脑卒中
+T55	Disease 5022 5025	脑卒中
+T56	Disease 5057 5060	脑卒中
+T57	Disease 5108 5111	脑卒中
+T58	Disease 5172 5175	脑卒中
+T59	Disease 5182 5185	脑卒中
+T60	Disease 5207 5210	脑卒中
+T61	Disease 5214 5217	脑卒中
+T62	Disease 5535 5538	脑卒中
+T63	Disease 5669 5672	脑卒中
+T64	Disease 5982 5985	脑卒中
+T65	Disease 6119 6122	脑卒中
+T66	Disease 6398 6401	脑卒中
+T67	Disease 6436 6439	脑卒中
+T68	Disease 6455 6458	脑卒中
+T69	Disease 6571 6574	脑卒中
+T70	Disease 6840 6843	脑卒中
+T71	Disease 6942 6945	脑卒中
+T72	Disease 7061 7064	脑卒中
+T73	Disease 7144 7147	脑卒中
+T74	Disease 7180 7183	脑卒中
+T75	Disease 7220 7223	脑卒中
+T76	Disease 7284 7287	脑卒中
+T77	Disease 7339 7342	脑卒中
+T78	Disease 7380 7383	脑卒中
+T79	Disease 7717 7718;7719 7721	脑 卒中
+T80	Disease 7888 7891	脑卒中
+T81	Disease 8196 8199	脑卒中
+T82	Disease 8401 8404	脑卒中
+T83	Disease 8492 8495	脑卒中
+T84	Disease 8656 8659	脑卒中
+T85	Disease 8681 8684	脑卒中
+T86	Disease 8714 8717	脑卒中
+T87	Test 468 471	BMI
+T88	Test 3597 3600	BMI
+T89	Test 4213 4216	BMI
+T90	Test 4267 4270	BMI
+T91	Test 4813 4816	BMI
+T92	Test 4910 4913	BMI
+T93	Test 6967 6970	BMI
+T94	Test 3587 3589	体重
+T95	Drug 7902 7907	维生素 D
+T96	Drug 7913 7918	维生素 D
+T97	Drug 7994 7999	维生素 D
+T98	Drug 8051 8056	维生素 D
+T99	Disease 7939 7944	心血管疾病
+T100	Disease 2696 2700	骨质疏松
+T101	Reason 7020 7024	骨质疏松
+T102	Disease 7299 7303	骨质疏松
+T103	Reason 7355 7359	骨质疏松
+T104	Disease 7471 7475	骨质疏松
+T105	Disease 7567 7571	骨质疏松
+T106	Reason 3537 3541	血脂异常
+T107	Test 3980 3983;3984 3985	总胆固 醇
+T108	Test 3960 3964	三酰甘油
+T109	Disease 378 380;381 382	脑卒 中
+T110	Disease 2691 2693;2694 2695	脑卒 中
+T111	Test 718 721	骨密度
+T112	Test 2806 2809	骨密度
+T113	Test 2844 2847	骨密度
+T114	Test 2866 2869	骨密度
+T115	Test 3638 3641	骨密度
+T116	Test 6497 6500	骨密度
+T117	Test 6689 6692	骨密度
+T118	Test 7197 7200	骨密度
+T119	Test 7208 7211	骨密度
+T120	Test 7236 7239	骨密度
+T121	Test 7293 7296	骨密度
+T122	Test 7690 7693	骨密度
+T123	Test 7754 7757	骨密度
+T124	Test 7853 7856	骨密度
+T125	Test 7884 7887	骨密度
+T126	Test 8296 8299	骨密度
+T127	Test 8677 8680	骨密度
+T128	Test 3708 3710	血糖
+T129	Test 3583 3584;3585 3586	身 高
+T130	Test 62 66	跟骨超声
+T131	Test 146 152	跟骨定量超声
+T132	Test 177 180	QUS
+T133	Test 279 281	血脂
+T134	Test 290 293	QUS
+T135	Test 356 359	QUS
+T136	Test 407 410	QUS
+T137	Test 477 480	QUS
+T138	Disease 2622 2627	骨代谢异常
+T139	Disease 2667 2668;2669 2673	骨 代谢异常
+T140	Disease 2701 2703	骨折
+T141	Disease 2780 2785	骨代谢异常
+T142	Test_Value 2809 2811	下降
+T143	Test_Value 2847 2849	下降
+T144	Test_Value 2869 2871	下降
+T145	Test 2963 2966	QUS
+T146	Test 3108 3111	QUS
+T147	Anatomy 3159 3162	甲状腺
+T148	Anatomy 3163 3167	甲状旁腺
+T149	Disease 3197 3202	骨代谢疾病
+T150	Disease 3214 3220	肝肾功能不全
+T151	Level 3212 3214	严重
+T152	Disease 3221 3228	胃肠道慢性疾病
+T153	Test 3398 3403	头颅 CT
+T154	Test 3406 3409	MRI
+T155	Reason 3525 3527	吸烟
+T156	Reason 3528 3531	高血压
+T157	Reason 3532 3533;3534 3536	糖 尿病
+T158	Reason 3542 3546	文化程度
+T159	Reason 3547 3552	身体活动量
+T160	Test 3619 3623	IPAQ
+T161	Disease 3740 3743	糖尿病
+T162	Disease 3761 3763;3764 3765	糖尿 病
+T163	Test 3827 3829	血脂
+T164	Test 3999 4001	血压
+T165	Test 4221 4224	QUS
+T166	Disease 4281 4284	糖尿病
+T167	Test 4298 4301	QUS
+T168	Test 4598 4601	QUS
+T169	Disease 4647 4650	高血压
+T170	Disease 4651 4654	糖尿病
+T171	Test 4716 4719	QUS
+T172	Test 4765 4768	QUS
+T173	Disease 4922 4925	高血压
+T174	Disease 4926 4929	糖尿病
+T175	Test 5029 5032	QUS
+T176	Test 5084 5087	QUS
+T177	Test 6375 6378	QUS
+T178	Reason 6412 6433	QUS 跟骨骨密度 T 值-2. 5 以下
+T179	Disease 6459 6464	骨代谢异常
+T180	Disease 6513 6515;6516 6519	骨代 谢异常
+T181	Disease 6564 6569	骨代谢异常
+T182	Disease 6588 6593	骨代谢异常
+T183	Disease 6606 6608	中风
+T184	Disease 6609 6611	死亡
+T185	Disease 6736 6738	中风
+T186	Disease 6857 6860	高血压
+T187	Disease 6861 6865	高脂血症
+T188	Disease 6866 6868;6869 6870	糖尿 病
+T189	Reason 6977 6984	低股骨颈骨密度
+T190	Disease 7148 7150	死亡
+T191	Anatomy 7231 7232;7233 7234	股 骨
+T192	Disease 7270 7278	急性缺血性脑卒中
+T193	Reason 7350 7354	低骨密度
+T194	Test 7519 7522	QUS
+T195	Test 7541 7544	QUS
+T196	Test 7558 7561	QUS
+T197	Test 7595 7598	QUS
+T198	Test 7602 7605	QUS
+T199	Test 7644 7647	QUS
+T200	Disease 7711 7716	骨代谢异常
+T201	Test 7824 7827	胰岛素
+T202	Disease 7862 7870	冠状动脉粥样硬化
+T203	Anatomy 7920 7921	骨
+T204	Anatomy 7971 7975	心肌细胞
+T205	Anatomy 7976 7977;7978 7984	血 管平滑肌细胞
+T206	Anatomy 7985 7989	内皮细胞
+T207	Anatomy 8081 8085	骨保护素
+T208	Anatomy 8086 8089	OPG
+T209	Anatomy 8095 8103	肿瘤坏死因子受体
+T210	Anatomy 8212 8215	OPG
+T211	Anatomy 8220 8222	卵巢
+T212	Disease 8327 8328;8329 8335	脑 血管动脉硬化
+T213	Test 8471 8476	头颅 CT
+T214	Test 8478 8480	MR
+T215	Symptom 8501 8503	头昏
+T216	Symptom 8504 8506	头痛
+T217	Symptom 8507 8512;8513 8514	肢体活动障 碍
+T218	Disease 8708 8713	骨代谢异常
+T219	Test 3691 3692;3693 3695	骨 密度
+T220	Test 457 459	年龄
+T221	Test 460 462	性别
+T222	Disease 704 706	卒中
+T223	Test 708 712	超声检查
+T224	Anatomy 714 716	跟骨
+T225	Test 2751 2757	骨矿物质含量
+T226	Test_Value 2759 2761	下降
+T227	Drug 3192 3194	激素
+T228	Disease 3235 3239	恶性肿瘤
+T229	Test 4207 4209	年龄
+T230	Test 4210 4212	性别
+T231	Test 4261 4263	年龄
+T232	Test 4264 4266	性别
+T233	Duration 4471 4476	38 个月
+T234	Test 4443 4447	平均年龄
+T235	Test_Value 4449 4451;4452 4464	58 岁(40 ~ 80 岁)
+T236	Test 4560 4562	性别
+T237	Test 4644 4646	年龄
+T238	Test 4806 4808	性别
+T239	Test 4809 4811	年龄
+T240	Test 4903 4905	年龄
+T241	Test 4907 4909	性别
+T242	Test 4914 4916	吸烟
+T243	Test 5066 5067;5068 5069	年 龄
+T244	Test 5070 5072	性别
+T245	Disease 6468 6470	死亡
+T246	Test 6746 6748	年龄
+T247	Test 6749 6751	性别
+T248	Disease 6954 6956	死亡
+T249	Disease 7076 7078	死亡
+T250	Test 7364 7366	性别
+T251	Test 7367 7369	年龄
+T252	Anatomy 7784 7789	G395A
+T253	Anatomy 7804 7810	C1818T
+T254	Anatomy 8164 8165	骨
+T255	Anatomy 8115 8116	骨
+T256	Test 8243 8245	骨量
+T257	Anatomy 8228 8229	骨
+T258	Disease 556 559	糖尿病
+T259	Disease 566 569	高血压
+T260	Disease 2739 2741	瘫痪
+T261	Test_Value 491 498	2. 5 以下
+T262	Test 571 574	QUS
+T263	Test_Value 585 592	2. 5 以下
+T264	Test 644 647	QUS
+T265	Test_Value 658 665	2. 5 以下
+T266	Test 3609 3611;3612 3618	国际 体力活动量表
+T267	Anatomy 3659 3661	跟骨
+T268	Test 4170 4173	QUS
+T269	Test_Value 4184 4191	2. 5 以下
+T270	Test_Value 4612 4619	2. 5 以下
+T271	Reason 5165 5167	吸烟
+T272	Duration 7288 7291	7 天
+T273	Anatomy 2729 2731	肌肉
+T274	Anatomy 8065 8068	心血管
+T275	Disease 8173 8181	冠状动脉粥样硬化
+T276	Anatomy 7962 7970	维生素 D 受体
+T277	Reason 6804 6808	骨质疏松
+T278	Reason 7137 7141	骨质疏松
+T279	Reason 7333 7336;7337 7338	骨质疏 松
+T280	Test 66 73	骨密度 T 值
+T281	Test 181 188	骨密度 T 值
+T282	Test 294 299	跟骨骨密度
+T283	Test 360 369	跟骨骨密度 T 值
+T284	Test 411 420	跟骨骨密度 T 值
+T285	Test 481 490	跟骨骨密度 T 值
+T286	Test 575 584	跟骨骨密度 T 值
+T287	Test 648 657	跟骨骨密度 T 值
+T288	Test 2967 2969;2970 2971	骨密 度
+T289	Test 3118 3121	骨密度
+T290	Test 3700 3703	骨密度
+T291	Test 4174 4183	跟骨骨密度 T 值
+T292	Test 4225 4234	跟骨骨密度 T 值
+T293	Test 4302 4305;4306 4312	跟骨骨 密度 T 值
+T294	Test 4602 4611	跟骨骨密度 T 值
+T295	Test 4720 4729	跟骨骨密度 T 值
+T296	Test 4771 4776;4777 4778	骨密度 T 值
+T297	Test 5033 5038;5039 5042	跟骨骨密度 T 值
+T298	Test 5088 5093;5094 5097	跟骨骨密度 T 值
+T299	Test 6379 6380;6381 6389	跟 骨骨密度 T 值
+T300	Reason 6761 6768	低股骨颈骨密度
+T301	Reason 7132 7136	低骨密度
+T302	Reason 7328 7332	低骨密度
+T303	Test 7455 7460;7461 7462	骨密度 T 值
+T304	Test 7609 7612	骨密度
+T305	Test_Value 74 81	2. 5 以下
+T306	Test_Value 189 196	2. 5 以下
+T307	Test_Value 370 377	2. 5 以下
+T308	Test_Value 421 428	2. 5 以下
+T309	Test 2932 2938	跟骨定量超声
+T310	Test_Value 2976 2983	2. 5 以下
+T311	Anatomy 3114 3118	左足跟骨
+T312	Anatomy 3177 3179	卵巢
+T313	Operation 3180 3183;3184 3186	子宫切 除术
+T314	Anatomy 3698 3700	跟骨
+T315	Test 3786 3789;3790 3792	2 h 血糖
+T316	Test 3814 3817;3818 3822	血浆葡 萄糖浓度
+T317	Test_Value 4235 4242	2. 5 以下
+T318	Disease 4276 4278;4279 4280	高血 压
+T319	Test_Value 4313 4320	2. 5 以下
+T320	Test_Value 4730 4737	2. 5 以下
+T321	Anatomy 4769 4771	跟骨
+T322	Test_Value 4779 4786	2. 5 以下
+T323	Test_Value 4837 4836;4837 4844	2. 5 以下
+T324	Reason 4822 4836;4837 4844	QUS 跟骨骨密度 T 值- 2. 5 以下
+T325	Reason 4934 4955	QUS 跟骨骨密度 T 值-2. 5 以下
+T326	Test_Value 5043 5050	2. 5 以下
+T327	Test_Value 5098 5105	2. 5 以下
+T328	Reason 5157 5160	高血压
+T329	Reason 5161 5164	糖尿病
+T330	Test_Value 6390 6397	2. 5 以下
+T331	Test_Value 7462 7469	低于-2. 5
+T332	Anatomy 7831 7845;7846 7847	胰岛素样细胞内信号的生长因子 1
+T333	Anatomy 8135 8142;8143 8144	NF-κB 配 体
+T334	Anatomy 8342 8345	OPG
+T335	Disease 8549 8555	无症状脑卒中
+T336	Reason 8631 8651;8652 8653	QUS 跟骨骨密度 T 值-2. 5 以 下
+R1	Test_Disease Arg1:T280 Arg2:T16
+R2	Test_Disease Arg1:T130 Arg2:T16
+R3	Test_Disease Arg1:T281 Arg2:T17
+R4	Test_Disease Arg1:T132 Arg2:T17
+R5	Test_Disease Arg1:T131 Arg2:T17
+R6	Test_Disease Arg1:T133 Arg2:T18
+R7	Test_Disease Arg1:T134 Arg2:T18
+R8	Test_Disease Arg1:T282 Arg2:T18
+R9	Test_Disease Arg1:T135 Arg2:T20
+R10	Test_Disease Arg1:T283 Arg2:T20
+R11	Test_Disease Arg1:T136 Arg2:T22
+R12	Test_Disease Arg1:T284 Arg2:T22
+R13	Test_Disease Arg1:T7 Arg2:T23
+R14	Test_Disease Arg1:T87 Arg2:T23
+R15	Test_Disease Arg1:T137 Arg2:T23
+R16	Test_Disease Arg1:T285 Arg2:T23
+R17	Test_Disease Arg1:T262 Arg2:T259
+R18	Test_Disease Arg1:T286 Arg2:T259
+R19	Test_Disease Arg1:T287 Arg2:T25
+R20	Test_Disease Arg1:T264 Arg2:T25
+R21	Test_Disease Arg1:T112 Arg2:T31
+R22	Test_Disease Arg1:T113 Arg2:T32
+R23	Test_Disease Arg1:T114 Arg2:T33
+R24	Test_Disease Arg1:T309 Arg2:T34
+R25	Test_Disease Arg1:T145 Arg2:T34
+R26	Anatomy_Disease Arg1:T148 Arg2:T149
+R27	Anatomy_Disease Arg1:T147 Arg2:T149
+R28	Anatomy_Disease Arg1:T312 Arg2:T149
+R29	Test_Disease Arg1:T153 Arg2:T36
+R30	Test_Disease Arg1:T154 Arg2:T36
+R31	Test_Disease Arg1:T128 Arg2:T161
+R32	Test_Disease Arg1:T268 Arg2:T41
+R33	Test_Disease Arg1:T291 Arg2:T41
+R34	Test_Disease Arg1:T292 Arg2:T42
+R35	Test_Disease Arg1:T165 Arg2:T42
+R36	Test_Disease Arg1:T89 Arg2:T42
+R37	Test_Disease Arg1:T90 Arg2:T43
+R38	Test_Disease Arg1:T167 Arg2:T43
+R39	Test_Disease Arg1:T293 Arg2:T43
+R40	Test_Disease Arg1:T9 Arg2:T48
+R41	Test_Disease Arg1:T171 Arg2:T51
+R42	Test_Disease Arg1:T295 Arg2:T51
+R43	Test_Disease Arg1:T172 Arg2:T52
+R44	Test_Disease Arg1:T91 Arg2:T53
+R45	Test_Disease Arg1:T92 Arg2:T53
+R46	Test_Disease Arg1:T175 Arg2:T55
+R47	Test_Disease Arg1:T297 Arg2:T56
+R48	Test_Disease Arg1:T10 Arg2:T56
+R49	Test_Disease Arg1:T176 Arg2:T56
+R50	Test_Disease Arg1:T298 Arg2:T57
+R51	Test_Disease Arg1:T177 Arg2:T66
+R52	Test_Disease Arg1:T299 Arg2:T66
+R53	Test_Disease Arg1:T116 Arg2:T180
+R54	Test_Disease Arg1:T12 Arg2:T185
+R55	Test_Disease Arg1:T93 Arg2:T71
+R56	Test_Disease Arg1:T118 Arg2:T74
+R57	Test_Disease Arg1:T119 Arg2:T75
+R58	Anatomy_Disease Arg1:T191 Arg2:T75
+R59	Test_Disease Arg1:T120 Arg2:T75
+R60	Test_Disease Arg1:T121 Arg2:T102
+R61	Test_Disease Arg1:T303 Arg2:T104
+R62	Test_Disease Arg1:T195 Arg2:T105
+R63	Test_Disease Arg1:T196 Arg2:T105
+R64	Test_Disease Arg1:T122 Arg2:T13
+R65	Test_Disease Arg1:T123 Arg2:T14
+R66	Test_Disease Arg1:T124 Arg2:T202
+R67	Test_Disease Arg1:T201 Arg2:T202
+R68	Test_Disease Arg1:T125 Arg2:T80
+R69	Drug_Disease Arg1:T95 Arg2:T80
+R70	Drug_Disease Arg1:T96 Arg2:T99
+R71	Anatomy_Disease Arg1:T203 Arg2:T99
+R72	Anatomy_Disease Arg1:T210 Arg2:T15
+R73	Anatomy_Disease Arg1:T211 Arg2:T15
+R74	Test_Disease Arg1:T126 Arg2:T15
+R75	Anatomy_Disease Arg1:T334 Arg2:T212
+R76	Test_Disease Arg1:T213 Arg2:T83
+R77	Test_Disease Arg1:T214 Arg2:T83
+R78	Symptom_Disease Arg1:T215 Arg2:T83
+R79	Symptom_Disease Arg1:T216 Arg2:T83
+R80	Symptom_Disease Arg1:T217 Arg2:T83
+R81	Test_Disease Arg1:T127 Arg2:T85
+R82	Anatomy_Disease Arg1:T273 Arg2:T260
+R83	Test_Disease Arg1:T225 Arg2:T29
+R84	Test_Disease Arg1:T288 Arg2:T34
+R85	Drug_Disease Arg1:T227 Arg2:T149
+R86	Test_Disease Arg1:T315 Arg2:T162
+R87	Test_Disease Arg1:T316 Arg2:T162
+R88	Test_Disease Arg1:T230 Arg2:T42
+R89	Test_Disease Arg1:T229 Arg2:T42
+R90	Test_Disease Arg1:T232 Arg2:T43
+R91	Test_Disease Arg1:T231 Arg2:T43
+R92	Test_Disease Arg1:T236 Arg2:T48
+R93	Test_Disease Arg1:T168 Arg2:T48
+R94	Test_Disease Arg1:T294 Arg2:T48
+R95	Test_Disease Arg1:T237 Arg2:T48
+R96	Test_Disease Arg1:T296 Arg2:T52
+R97	Test_Disease Arg1:T239 Arg2:T53
+R98	Test_Disease Arg1:T238 Arg2:T53
+R99	Test_Disease Arg1:T242 Arg2:T53
+R100	Test_Disease Arg1:T240 Arg2:T53
+R101	Test_Disease Arg1:T244 Arg2:T56
+R102	Test_Disease Arg1:T243 Arg2:T56
+R103	Test_Disease Arg1:T117 Arg2:T182
+R104	Test_Disease Arg1:T246 Arg2:T185
+R105	Test_Disease Arg1:T247 Arg2:T185
+R106	Test_Disease Arg1:T251 Arg2:T78
+R107	Test_Disease Arg1:T250 Arg2:T78
+R108	Test_Disease Arg1:T194 Arg2:T105
+R109	Test_Disease Arg1:T197 Arg2:T105
+R110	Test_Disease Arg1:T198 Arg2:T105
+R111	Test_Disease Arg1:T304 Arg2:T105
+R112	Test_Disease Arg1:T199 Arg2:T105
+R113	Anatomy_Disease Arg1:T332 Arg2:T202
+R114	Anatomy_Disease Arg1:T253 Arg2:T202
+R115	Anatomy_Disease Arg1:T252 Arg2:T202
+R116	Test_Disease Arg1:T90 Arg2:T318
+R117	Test_Disease Arg1:T167 Arg2:T166
+R118	Test_Disease Arg1:T293 Arg2:T166
+R119	Anatomy_Disease Arg1:T210 Arg2:T81
+R120	Anatomy_Disease Arg1:T211 Arg2:T81
+R121	Test_Disease Arg1:T136 Arg2:T21
+R122	Test_Disease Arg1:T284 Arg2:T21
+R123	Test_Disease Arg1:T221 Arg2:T23
+R124	Test_Disease Arg1:T220 Arg2:T23
+R125	Test_Disease Arg1:T297 Arg2:T55
+R126	Test_Disease Arg1:T121 Arg2:T76
+R127	Test_Disease Arg1:T121 Arg2:T192
+R128	Test_Disease Arg1:T122 Arg2:T200
+R129	Test_Disease Arg1:T122 Arg2:T79
+R130	Anatomy_Disease Arg1:T254 Arg2:T275
+R131	Anatomy_Disease Arg1:T333 Arg2:T275
+R132	Anatomy_Disease Arg1:T255 Arg2:T275
+R133	Anatomy_Disease Arg1:T209 Arg2:T275
+R134	Anatomy_Disease Arg1:T207 Arg2:T275
+R135	Anatomy_Disease Arg1:T208 Arg2:T275
+R136	Anatomy_Disease Arg1:T257 Arg2:T81
+R137	Test_Disease Arg1:T256 Arg2:T81
+R138	Test_Disease Arg1:T127 Arg2:T218
+R139	Test_Disease Arg1:T127 Arg2:T86

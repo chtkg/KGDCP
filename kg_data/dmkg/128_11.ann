@@ -1,0 +1,425 @@
+T1	Disease 2861 2867	2 型糖尿病
+T2	Disease 4414 4420	2 型糖尿病
+T3	Disease 5082 5088	2 型糖尿病
+T4	Test 4461 4466	HBA1C
+T5	Test 4620 4625	HBA1C
+T6	Test 4654 4659	HBA1C
+T7	Test 4401 4405	空腹血糖
+T8	Test 4456 4460	空腹血糖
+T9	Test 4544 4551;4552 4554	高密度脂蛋白胆 固醇
+T10	Test 2190 2195	谷丙转氨酶
+T11	Test 2196 2197;2198 2202	谷 草转氨酶
+T12	Test 4467 4471	体重指数
+T13	Anatomy 1231 1234;1235 1236	脂肪组 织
+T14	Test 1263 1265	瘦素
+T15	Test 1239 1241	瘦素
+T16	Anatomy 1250 1254	成骨细胞
+T17	Anatomy 1268 1276	脑干中缝核神经元
+T18	Anatomy 1278 1282	瘦素受体
+T19	Test 1287 1290;1291 1294	脑源性 血清素
+T20	Anatomy 1324 1328	成骨细胞
+T21	Anatomy 1331 1340	肾上腺 β2 受体
+T22	Test 1365 1367	瘦素
+T23	Anatomy 1368 1376	下丘脑弓形核受体
+T24	Anatomy 1416 1420	成骨细胞
+T25	Anatomy 1469 1473	成骨细胞
+T26	Test 31 34	骨钙素
+T27	Anatomy 91 95	成骨细胞
+T28	Test 98 101	骨钙素
+T29	Anatomy 104 108	成骨细胞
+T30	Test 130 131;132 134	骨 钙素
+T31	Test 153 156	骨钙素
+T32	Anatomy 160 167	胰岛 β 细胞
+T33	Test 170 173	胰岛素
+T34	Test 178 180	血糖
+T35	Test 182 184	血脂
+T36	Test 189 192	骨钙素
+T37	Disease 217 220	糖尿病
+T38	Test 246 249	骨钙素
+T39	Anatomy 251 255	成骨细胞
+T40	Anatomy 1521 1525	成骨细胞
+T41	Test 1590 1593	骨钙素
+T42	Test 1599 1602	骨钙素
+T43	Anatomy 1605 1609	成骨细胞
+T44	Anatomy 1637 1641	成骨细胞
+T45	Test 1644 1647	骨钙素
+T46	Anatomy 1657 1658;1659 1662	破 骨细胞
+T47	Test 1731 1736	维生素 K
+T48	Test 1884 1887	骨钙素
+T49	Test 2015 2018	骨钙素
+T50	Anatomy 2033 2037	成骨细胞
+T51	Anatomy 2038 2042	胰岛细胞
+T52	Test 2058 2061	胰岛素
+T53	Test 2062 2065	脂联素
+T54	Anatomy 2077 2081	成骨细胞
+T55	Anatomy 2101 2105	成骨细胞
+T56	Test 2108 2111	骨钙素
+T57	Test 2145 2148	骨钙素
+T58	Test 2155 2158	胰岛素
+T59	Test 2179 2182	骨钙素
+T60	Disease 2186 2189	脂肪肝
+T61	Test 2214 2217	骨钙素
+T62	Reason 2218 2223	胰岛素抵抗
+T63	Disease 2226 2231	脂肪性肝病
+T64	Test 2320 2323	骨钙素
+T65	Anatomy 2249 2256	OST-PTP
+T66	Test 2331 2334	骨钙素
+T67	Test 2348 2351	骨钙素
+T68	Test 2402 2405	胰岛素
+T69	Anatomy 2416 2422;2423 2424	胰岛 β 细 胞
+T70	Test 2548 2550	血糖
+T71	Test_Value 2584 2586	升高
+T72	Disease 2587 2593	高胰岛素血症
+T73	Test 2598 2604	胰岛素敏感性
+T74	Anatomy 2647 2649	胰岛
+T75	Anatomy 2655 2659	β 细胞
+T76	Anatomy 2661 2662;2663 2664	胰 腺
+T77	Test 2664 2667	胰岛素
+T78	Test_Value 2669 2671	升高
+T79	Test 2681 2683	体重
+T80	Test 2696 2700	甘油三酯
+T81	Test 2706 2712	胰岛素敏感性
+T82	Anatomy 2805 2807;2808 2810	成骨 细胞
+T83	Anatomy 2812 2815	Esp
+T84	Test 2834 2837	胰岛素
+T85	Disease 2905 2907	肥胖
+T86	Disease 2908 2909;2910 2914	糖 耐量受损
+T87	Test 2956 2958	血糖
+T88	Test 2961 2964	胰岛素
+T89	Anatomy 3015 3018	骨骼肌
+T90	Disease 3040 3042	肥胖
+T91	Amount 2940 2948	3 ng / h
+T92	Test 3121 3124	脂联素
+T93	Anatomy 3125 3129	脂肪细胞
+T94	Test 3144 3147	脂联素
+T95	Anatomy 3149 3153	脂肪细胞
+T96	Test 3196 3199	胰岛素
+T97	Anatomy 3222 3226	脂肪组织
+T98	Test 3228 3231	骨钙素
+T99	Test 3247 3250	脂联素
+T100	Test 3261 3264	胰岛素
+T101	Test 3280 3283	骨钙素
+T102	Anatomy 3311 3315	脂肪细胞
+T103	Test 3318 3321	骨钙素
+T104	Anatomy 3355 3359	脂肪组织
+T105	Anatomy 3371 3375	脂肪组织
+T106	Test 3376 3379	骨钙素
+T107	Test 3385 3388	骨钙素
+T108	Test 3395 3398	骨钙素
+T109	Anatomy 3415 3419	脂肪组织
+T110	Test 3422 3425	骨钙素
+T111	Disease 3441 3443	肥胖
+T112	Test 3446 3449	雄激素
+T113	Test 3470 3473	雄激素
+T114	Test 3485 3488	骨钙素
+T115	Anatomy 3506 3508	胰岛
+T116	Test 3509 3512	骨钙素
+T117	Test 3536 3539	骨钙素
+T118	Anatomy 3544 3548	胰岛细胞
+T119	Anatomy 3549 3551	胰岛
+T120	Anatomy 3565 3569	成骨细胞
+T121	Test 3572 3575	骨钙素
+T122	Anatomy 3583 3587	成骨细胞
+T123	Test 3675 3678	胰岛素
+T124	Anatomy 3686 3693	OST-PTP
+T125	Anatomy 3860 3863	骨骼肌
+T126	Anatomy 3865 3869	脂肪组织
+T127	Anatomy 3870 3874;3875 3876	胰岛素受 体
+T128	Anatomy 3893 3897	成骨细胞
+T129	Anatomy 3899 3902;3903 3905	胰岛素 受体
+T130	Test 3953 3956	胰岛素
+T131	Anatomy 3957 3961	成骨细胞
+T132	Anatomy 3961 3966	胰岛素受体
+T133	Anatomy 3999 4003	破骨细胞
+T134	Anatomy 4026 4030	破骨细胞
+T135	Test 4058 4061	骨钙素
+T136	Anatomy 4111 4118	胰岛 β 细胞
+T137	Test 4119 4122	胰岛素
+T138	Anatomy 4148 4152	破骨细胞
+T139	Anatomy 4165 4169	破骨细胞
+T140	Anatomy 4209 4213	成骨细胞
+T141	Test 4214 4217	胰岛素
+T142	Test 4257 4260	骨钙素
+T143	Disease 4278 4281	糖尿病
+T144	Test 4287 4290	骨钙素
+T145	Test 4293 4297;4298 4300	胰岛素敏 感性
+T146	Test 4306 4308	血糖
+T147	Test 4309 4311	血脂
+T148	Disease 4342 4349	骨质疏松性骨折
+T149	Disease 4395 4398	糖尿病
+T150	Test 4427 4430	骨钙素
+T151	Test 4472 4475	脂含量
+T152	Test 4451 4453;4454 4455	骨钙 素
+T153	Test 4481 4485;4486 4490	胰岛 β 细胞功能
+T154	Test 4491 4497	胰岛素敏感性
+T155	Test 4514 4517	骨钙素
+T156	Test 4560 4563	脂联素
+T157	Disease 4587 4590	糖尿病
+T158	Test 4594 4597	骨钙素
+T159	Test 4604 4607	骨钙素
+T160	Test 4610 4612	血糖
+T161	Test 4626 4631	胰岛素抵抗
+T162	Test 4650 4652	血糖
+T163	Disease 4677 4679	肥胖
+T164	Test 4686 4689	骨钙素
+T165	Test 4694 4696	瘦素
+T166	Test 4697 4702	胰岛素抵抗
+T167	Disease 4715 4717	肥胖
+T168	Test 4729 4732	骨钙素
+T169	Test 4767 4770	骨钙素
+T170	Test 4821 4824	骨钙素
+T171	Test 4829 4831	瘦素
+T172	Test 4844 4846	瘦素
+T173	Test 4863 4866	脂联素
+T174	Test 4867 4870	骨钙素
+T175	Test 4909 4911	瘦素
+T176	Test 4934 4937	骨钙素
+T177	Test 4965 4968	骨钙素
+T178	Test 5134 5137	脂联素
+T179	Test 5155 5158	脂联素
+T180	Test 5207 5210	胰岛素
+T181	Test 5328 5331	骨钙素
+T182	Disease 5431 5435	骨质疏松
+T183	Anatomy 5503 5507	成骨细胞
+T184	Test 5553 5556	胰岛素
+T185	Test 5564 5569;5570 5571	胰岛素敏感 性
+T186	Test_Value 5571 5573	下降
+T187	Anatomy 5574 5576	性腺
+T188	Anatomy 5600 5604	成骨细胞
+T189	Test 5610 5613	骨钙素
+T190	Test 5628 5631	骨钙素
+T191	Anatomy 5648 5652	成骨细胞
+T192	Test 5669 5672	骨钙素
+T193	Disease 5727 5730	肥胖症
+T194	Disease 5731 5734	糖尿病
+T195	Disease 5735 5741	脂肪代谢紊乱
+T196	Test 3008 3011	骨钙素
+T197	Test 3090 3093	骨钙素
+T198	Test 3116 3119	骨钙素
+T199	Test 3911 3914	骨钙素
+T200	Test 3987 3992	RANKL
+T201	Anatomy 1158 1160	骨骼
+T202	Anatomy 1195 1197	骨骼
+T203	Test 1355 1358	血清素
+T204	Anatomy 135 137	骨骼
+T205	Disease 257 260	肥胖症
+T206	Anatomy 1572 1573;1574 1575	骨 骼
+T207	Anatomy 1949 1951	骨骼
+T208	Anatomy 2043 2046	脂细胞
+T209	Test_Value 2606 2608	增加
+T210	Test_Value 2787 2789	下降
+T211	Test 2825 2828	葡萄糖
+T212	Anatomy 4374 4376	骨骼
+T213	Test 4433 4436	糖耐量
+T214	Test 4815 4818	葡萄糖
+T215	Test 5103 5106	葡萄糖
+T216	Level 5133 5134	高
+T217	Test 5211 5214	葡萄糖
+T218	Test 5258 5261	葡萄糖
+T219	Symptom 5460 5467	葡萄糖代谢障碍
+T220	Symptom 5536 5541;5542 5544	葡萄糖耐受 不良
+T221	Test 5549 5552	葡萄糖
+T222	Anatomy 5698 5700	骨骼
+T223	Disease 5745 5747;5748 5753	代谢 紊乱性疾病
+T224	Anatomy 1302 1309	对交感神经系统
+T225	Anatomy 1310 1313	SNS
+T226	Anatomy 2153 2154	肝
+T227	Test_Value 2702 2704	降低
+T228	Duration 2924 2927	8 周
+T229	Test 3663 3666	胰岛素
+T230	Anatomy 3698 3703	胰岛素受体
+T231	Test_Value 4601 4603	降低
+T232	Test_Value 4691 4693	增加
+T233	Anatomy 4740 4744	内脏脂肪
+T234	Test_Value 3450 3452	降低
+T235	Test_Value 3490 3492	降低
+T236	Test_Value 4705 4707	降低
+T237	Anatomy 1385 1389	CART
+T238	Anatomy 1390 1404	可卡因-安非他命明调节转录肽
+T239	Anatomy 1439 1444	RANKL
+T240	Anatomy 1424 1438	NF-κB 受体活化因子配体
+T241	Test 1476 1479	骨钙素
+T242	Test 1494 1496	OC
+T243	Test 1510 1515	血清骨钙素
+T244	Disease 213 216	肥胖症
+T245	Anatomy 1764 1777	受体样跨膜蛋白酪氨酸磷酸酶
+T246	Anatomy 1819 1826	OST-PTP
+T247	Test 1828 1833	维生素 K
+T248	Anatomy 1838 1846	γ-谷氨酸羧化酶
+T249	Anatomy 1872 1876	GGCX
+T250	Test 1900 1908	完全羧化的骨钙素
+T251	Test 1955 1963	不全羧化的骨钙素
+T252	Reason 2170 2175	胰岛素抵抗
+T253	Anatomy 2258 2266	胚胎干细胞磷酸酶
+T254	Anatomy 2301 2304	Esp
+T255	Disease 2378 2380	肥胖
+T256	Anatomy 2463 2469	Esp 基因
+T257	Test 2494 2496;2497 2498	骨钙 素
+T258	Symptom 2539 2542	低血糖
+T259	Level 2536 2538	严重
+T260	Test 2576 2584	血清 C 肽水平
+T261	Symptom 2614 2620	高胰岛素水平
+T262	Test 2627 2633	胰升糖素水平
+T263	Anatomy 2684 2686	性腺
+T264	Anatomy 2687 2689	肝脏
+T265	Test 2717 2719;2720 2721	脂联 素
+T266	Test 2755 2762	骨 保 护 素
+T267	Test 2781 2784	OPG
+T268	Reason 2847 2852	胰岛素抵抗
+T269	Reason 2969 2973;2974 2975	胰岛素抵 抗
+T270	Test 2978 2984	血浆甘油三酯
+T271	Test 3097 3103;3104 3105	胰岛素的敏感 性
+T272	Test 3164 3167	脂联素
+T273	Anatomy 3170 3176	ADIPOQ
+T274	Reason 3206 3211	胰岛素抵抗
+T275	Anatomy 3235 3244	ADIPOQ 基因
+T276	Anatomy 3287 3293	成熟成骨细胞
+T277	Anatomy 3361 3362;3363 3370	骨 钙素 mRNA
+T278	Drug 3409 3412	雄激素
+T279	Anatomy 3589 3594	胰岛素受体
+T280	Anatomy 3614 3618	InsR
+T281	Anatomy 3621 3627	Esp 基因
+T282	Anatomy 3634 3641	OST-PTP
+T283	Anatomy 3647 3650	Esp
+T284	Anatomy 3655 3657;3658 3661	胰岛 素受体
+T285	Symptom 3762 3768;3769 3770	葡萄糖耐量受 损
+T286	Symptom 3771 3779	胰岛素敏感性下降
+T287	Test 3782 3790	不全羧化的骨钙素
+T288	Test_Value 3792 3795;3796 3797	明显减 少
+T289	Test 3921 3929	不全羧化的骨钙素
+T290	Anatomy 3973 3976	OPG
+T291	Test 4091 4099	不全羧化的骨钙素
+T292	Anatomy 4173 4182	Tcirg1 基因
+T293	Test 4389 4391;4392 4393	骨钙 素
+T294	Anatomy 4521 4535	脂肪细胞特异性脂肪酸结合蛋白
+T295	Anatomy 4536 4542	A-FABP
+T296	Test 4613 4615;4616 4617	胰岛 素
+T297	Reason 4644 4646;4647 4648	骨钙 素
+T298	Test 4771 4774	胰岛素
+T299	Test 4847 4852	胰岛素抵抗
+T300	Test 4871 4876	胰岛素抵抗
+T301	Test 4900 4908	不全羧化的骨钙素
+T302	Test 4938 4945;4946 4947	不全羧化的骨钙 素
+T303	Test 5012 5020	不全羧化的骨钙素
+T304	Test 5022 5030	完全羧化的骨钙素
+T305	Symptom 5038 5043	胰岛素抵抗
+T306	Test 5052 5060	不全羧化的骨钙素
+T307	Test 5068 5076	不全羧化的骨钙素
+T308	Test 5089 5094;5095 5096	β 细胞功 能
+T309	Test 5121 5129	不全羧化的骨钙素
+T310	Test 5170 5178	不全羧化的骨钙素
+T311	Test 5189 5193;5194 5198	胰岛素生 长因子I
+T312	Test 5220 5221;5222 5229	不 全羧化的骨钙素
+T313	Test 5264 5272	不全羧化的骨钙素
+T314	Test 5378 5384;5385 5387	不全羧化的骨 钙素
+T315	Treatment 5424 5430	双磷酸盐治疗
+T316	Test 5443 5451	不全羧化的骨钙素
+T317	Test 5523 5531	不全羧化的骨钙素
+T318	Drug 2933 2936	骨钙素
+T319	Drug 3056 3062;3063 3065	不全羧化的骨 钙素
+R1	Treatment_Disease Arg1:T315 Arg2:T182
+R2	Test_Disease Arg1:T192 Arg2:T193
+R3	Test_Disease Arg1:T192 Arg2:T194
+R4	Test_Disease Arg1:T192 Arg2:T195
+R5	Test_Disease Arg1:T192 Arg2:T223
+R6	Test_Disease Arg1:T59 Arg2:T60
+R7	Test_Disease Arg1:T10 Arg2:T60
+R8	Test_Disease Arg1:T11 Arg2:T60
+R9	Test_Disease Arg1:T61 Arg2:T63
+R10	Test_Disease Arg1:T67 Arg2:T255
+R11	Test_Disease Arg1:T73 Arg2:T72
+R12	Test_Disease Arg1:T84 Arg2:T1
+R13	Test_Disease Arg1:T196 Arg2:T90
+R14	Anatomy_Disease Arg1:T89 Arg2:T90
+R15	Test_Disease Arg1:T112 Arg2:T111
+R16	Test_Disease Arg1:T113 Arg2:T111
+R17	Test_Disease Arg1:T114 Arg2:T111
+R18	Test_Disease Arg1:T144 Arg2:T143
+R19	Test_Disease Arg1:T145 Arg2:T143
+R20	Test_Disease Arg1:T146 Arg2:T143
+R21	Test_Disease Arg1:T147 Arg2:T143
+R22	Test_Disease Arg1:T293 Arg2:T149
+R23	Test_Disease Arg1:T7 Arg2:T149
+R24	Test_Disease Arg1:T150 Arg2:T2
+R25	Test_Disease Arg1:T158 Arg2:T157
+R26	Test_Disease Arg1:T159 Arg2:T157
+R27	Test_Disease Arg1:T160 Arg2:T157
+R28	Test_Disease Arg1:T5 Arg2:T157
+R29	Test_Disease Arg1:T161 Arg2:T157
+R30	Test_Disease Arg1:T164 Arg2:T163
+R31	Test_Disease Arg1:T6 Arg2:T157
+R32	Test_Disease Arg1:T162 Arg2:T157
+R33	Test_Disease Arg1:T165 Arg2:T163
+R34	Test_Disease Arg1:T166 Arg2:T163
+R35	Test_Disease Arg1:T168 Arg2:T167
+R36	Anatomy_Disease Arg1:T233 Arg2:T167
+R37	Test_Disease Arg1:T307 Arg2:T3
+R38	Test_Disease Arg1:T308 Arg2:T3
+R39	Test_Disease Arg1:T306 Arg2:T3
+R40	Test_Disease Arg1:T316 Arg2:T182
+R41	Test_Disease Arg1:T36 Arg2:T244
+R42	Test_Disease Arg1:T36 Arg2:T37
+R43	Test_Disease Arg1:T68 Arg2:T255
+R44	Anatomy_Disease Arg1:T69 Arg2:T255
+R45	Test_Disease Arg1:T211 Arg2:T1
+R46	Drug_Disease Arg1:T319 Arg2:T90
+R47	Test_Disease Arg1:T197 Arg2:T90
+R48	Test_Disease Arg1:T271 Arg2:T90
+R49	Test_Disease Arg1:T198 Arg2:T90
+R50	Test_Disease Arg1:T92 Arg2:T90
+R51	Anatomy_Disease Arg1:T93 Arg2:T90
+R52	Test_Disease Arg1:T213 Arg2:T2
+R53	Test_Disease Arg1:T152 Arg2:T2
+R54	Test_Disease Arg1:T8 Arg2:T2
+R55	Test_Disease Arg1:T4 Arg2:T2
+R56	Test_Disease Arg1:T12 Arg2:T2
+R57	Test_Disease Arg1:T151 Arg2:T2
+R58	Test_Disease Arg1:T153 Arg2:T2
+R59	Test_Disease Arg1:T154 Arg2:T2
+R60	Test_Disease Arg1:T296 Arg2:T157
+R61	Test_Disease Arg1:T169 Arg2:T167
+R62	Test_Disease Arg1:T298 Arg2:T167
+R63	Test_Disease Arg1:T215 Arg2:T3
+R64	Test_Disease Arg1:T309 Arg2:T3
+R65	Test_Disease Arg1:T178 Arg2:T3
+R66	Test_Disease Arg1:T179 Arg2:T3
+R67	Symptom_Disease Arg1:T219 Arg2:T182
+R68	Anatomy_Disease Arg1:T65 Arg2:T63
+R69	Anatomy_Disease Arg1:T253 Arg2:T63
+R70	Anatomy_Disease Arg1:T254 Arg2:T63
+R71	Test_Disease Arg1:T142 Arg2:T143
+R72	Test_Disease Arg1:T35 Arg2:T244
+R73	Test_Disease Arg1:T35 Arg2:T37
+R74	Test_Disease Arg1:T34 Arg2:T244
+R75	Test_Disease Arg1:T34 Arg2:T37
+R76	Test_Disease Arg1:T33 Arg2:T244
+R77	Test_Disease Arg1:T33 Arg2:T37
+R78	Anatomy_Disease Arg1:T32 Arg2:T244
+R79	Anatomy_Disease Arg1:T32 Arg2:T37
+R80	Test_Disease Arg1:T31 Arg2:T244
+R81	Test_Disease Arg1:T31 Arg2:T37
+R82	Test_Disease Arg1:T57 Arg2:T60
+R83	Anatomy_Disease Arg1:T226 Arg2:T60
+R84	Test_Disease Arg1:T58 Arg2:T60
+R85	Test_Disease Arg1:T64 Arg2:T63
+R86	Test_Disease Arg1:T66 Arg2:T63
+R87	Test_Disease Arg1:T260 Arg2:T72
+R88	Symptom_Disease Arg1:T261 Arg2:T72
+R89	Test_Disease Arg1:T262 Arg2:T72
+R90	Anatomy_Disease Arg1:T82 Arg2:T1
+R91	Anatomy_Disease Arg1:T83 Arg2:T1
+R92	Drug_Disease Arg1:T318 Arg2:T85
+R93	Drug_Disease Arg1:T318 Arg2:T86
+R94	Test_Disease Arg1:T87 Arg2:T85
+R95	Test_Disease Arg1:T87 Arg2:T86
+R96	Test_Disease Arg1:T88 Arg2:T85
+R97	Test_Disease Arg1:T88 Arg2:T86
+R98	Test_Disease Arg1:T270 Arg2:T85
+R99	Test_Disease Arg1:T270 Arg2:T86
+R100	Amount_Drug Arg1:T91 Arg2:T318
+R101	Anatomy_Disease Arg1:T212 Arg2:T148
+R102	Test_Disease Arg1:T293 Arg2:T148
+R103	Anatomy_Disease Arg1:T222 Arg2:T193
+R104	Anatomy_Disease Arg1:T222 Arg2:T194
+R105	Anatomy_Disease Arg1:T222 Arg2:T195
+R106	Anatomy_Disease Arg1:T222 Arg2:T223
