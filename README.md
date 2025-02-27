@@ -15,12 +15,12 @@
 
 ## Dataset
 
--The dataset used for training and evaluation consists of **diabetes patients** aged between **27 to 90 years**. Both **male** and **female** patients are included in the dataset. The dataset provides comprehensive physical examination data, diagnostic information, and the complications each patient faces, specifically focusing on cerebral infarction and peripheral neuropathy.
+The dataset used for training and evaluation consists of **diabetes patients** aged between **27 to 90 years**. Both **male** and **female** patients are included in the dataset. The dataset provides comprehensive physical examination data, diagnostic information, and the complications each patient faces, specifically focusing on cerebral infarction and peripheral neuropathy.
 
 ### Data Details
 - **Patient Age Range**: 27–90 years
 - **Gender**: Both male and female patients
-  The dataset used in our experiments comprises 1312 records, each corresponding to a unique patient, collected over a 5-year period (2018–2022). Each record includes 18 features, covering physical examination data, diagnostic information, complications, and demographic attributes. The dataset is divided into a 4:1 ratio for training and testing, ensuring a robust evaluation of our model. The age distribution of patients ranges from 27 to 90 years, with both male and female patients represented, providing a diverse and clinically relevant sample for diabetes complications prediction. To ensure data quality, we include only patients with complete records and excluded those with missing or inconsistent data. Outliers are identified and corrected based on clinical guidelines. Due to privacy concerns, only sample data from the provided dataset is shared here, which includes physical examination data, diagnostic information, and the complications associated with each patient.
+-The dataset used in our experiments comprises 1312 records, each corresponding to a unique patient, collected over a 5-year period (2018–2022). Each record includes 18 features, covering physical examination data, diagnostic information, complications, and demographic attributes. The dataset is divided into a 4:1 ratio for training and testing, ensuring a robust evaluation of our model. The age distribution of patients ranges from 27 to 90 years, with both male and female patients represented, providing a diverse and clinically relevant sample for diabetes complications prediction. To ensure data quality, we include only patients with complete records and excluded those with missing or inconsistent data. Outliers are identified and corrected based on clinical guidelines. Due to privacy concerns, only sample data from the provided dataset is shared here, which includes physical examination data, diagnostic information, and the complications associated with each patient.
 
 Note: Due to privacy concerns, only sample data is provided in this repository.
 
