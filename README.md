@@ -4,7 +4,7 @@
 
 **KGDCP** is a deep learning model designed to predict diabetes complications by leveraging knowledge graphs and advanced neural networks. The model integrates a physical examination knowledge graph with an improved Diabetes Knowledge Graph (DiaKG) using self-attention-based Convolutional Neural Networks. This approach helps in early prediction of diabetes complications, such as cerebral infarction and peripheral neuropathy, offering a more accurate and comprehensive understanding of the disease and its progression.
 
-Due to privacy concerns, only sample data from the provided dataset is shared here, which includes physical examination data, diagnostic information, and the complications associated with each patient.
+The dataset used in our experiments comprises 1312 records, each corresponding to a unique patient, collected over a 5-year period (2018–2022). Each record includes 18 features, covering physical examination data, diagnostic information, complications, and demographic attributes. The dataset is divided into a 4:1 ratio for training and testing, ensuring a robust evaluation of our model. The age distribution of patients ranges from 27 to 90 years, with both male and female patients represented, providing a diverse and clinically relevant sample for diabetes complications prediction. To ensure data quality, we include only patients with complete records and excluded those with missing or inconsistent data. Outliers are identified and corrected based on clinical guidelines. Due to privacy concerns, only sample data from the provided dataset is shared here, which includes physical examination data, diagnostic information, and the complications associated with each patient.
 
 ## Features
 
