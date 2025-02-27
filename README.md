@@ -15,7 +15,7 @@
 
 ## Dataset
 
-The dataset used for training and evaluation consists of **diabetes patients** aged between **27 to 90 years**. Both **male** and **female** patients are included in the dataset. The dataset provides comprehensive physical examination data, diagnostic information, and the complications each patient faces, specifically focusing on cerebral infarction and peripheral neuropathy.
+-The dataset used for training and evaluation consists of **diabetes patients** aged between **27 to 90 years**. Both **male** and **female** patients are included in the dataset. The dataset provides comprehensive physical examination data, diagnostic information, and the complications each patient faces, specifically focusing on cerebral infarction and peripheral neuropathy.
 
 ### Data Details
 - **Patient Age Range**: 27–90 years
