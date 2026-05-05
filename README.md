@@ -46,3 +46,20 @@ To run the KGDCP model locally, clone the repository and install the required de
 git clone https://github.com/your-username/KGDCP.git
 cd KGDCP
 pip install -r requirements.txt
+```
+
+## 🤝 Citation
+
+Please condiser citing this paper if you use the code from our work. Thanks a lot :)
+
+```bibtex
+@article{Cheng2025Enhancing,
+  author  = {Haitao Cheng and Qunli Zheng and Peng Li and He Xu},
+  title   = {Enhancing diabetes complications prediction through knowledge graphs and convolutional networks},
+  journal = {Engineering Applications of Artificial Intelligence},
+  volume  = {153},
+  pages   = {110863},
+  year    = {2025},
+  doi     = {10.1016/j.engappai.2025.110863}
+}
+```
